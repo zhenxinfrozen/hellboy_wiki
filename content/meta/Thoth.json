@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Hyperboreans\">Hyperborean</a>"
+  },
+  {
+   "label": "职业",
+   "value": "King of the Hyperborean Empire"
+  },
+  {
+   "label": "亲属",
+   "value": "Seven Unknown Sons"
+  }
+ ],
+ "image": "Thoth 002.PNG",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Royalty"
+ ],
+ "img_source": "keep"
+}

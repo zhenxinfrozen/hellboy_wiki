@@ -1,0 +1,24 @@
+{
+ "cats": [
+  "Out-of-continuity_story",
+  "Crossovers"
+ ],
+ "type": "Story",
+ "image": "Fearless Dawn Meets Hellboy Mignola.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola<br>Steve Mannion"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola<br>Steve Mannion"
+  },
+  {
+   "label": "出版日期",
+   "value": "September 2020"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Species",
+  "Magical_Beings",
+  "Norse_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Mythical_Creatures"
+ ],
+ "type": "Species",
+ "image": "Nidavellim.png",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

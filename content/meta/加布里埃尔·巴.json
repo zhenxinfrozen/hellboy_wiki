@@ -1,0 +1,13 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "DHP200.jpg",
+ "cats": [
+  "画师",
+  "Writer",
+  "Interior Artist",
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

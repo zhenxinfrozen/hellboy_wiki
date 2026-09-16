@@ -1,0 +1,29 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Dragon, the Beast, the Serpent, the Seven Gods of Chaos, Ogdru Eb Jurhad, the Seven Who Are One"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: <a href=\"/entry/Seed%20of%20Destruction\">Seed of Destruction</a> #1"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Ogdru Jahad The Island.png",
+ "cats": [
+  "The Ogdru Jahad and their Agents",
+  "Species",
+  "Mythical Creature",
+  "Deities",
+  "Monsters",
+  "Hellboy Animated Characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

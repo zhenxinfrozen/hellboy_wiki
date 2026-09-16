@@ -1,0 +1,46 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Claw<br>Lobster Johnson"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "\"<a href=\"/entry/The%20Killer%20in%20My%20Skull\">The Killer in My Skull</a>\" in <a href=\"/entry/Box%20Full%20of%20Evil\">Hellboy: Box Full of Evil</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Ghost; former human"
+  },
+  {
+   "label": "职业",
+   "value": "Vigilante, US Government agent"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "Unknown <br> <a href=\"/entry/El%20Bogavante\">El Bogavante</a> (presumed ancestor) <br> <a href=\"/entry/Obahdas%20Dascher\">Obahdas Dascher</a> (presumed ancestor)"
+  }
+ ],
+ "image": "Lobster.jpg",
+ "cats": [
+  "Lobster Johnson Characters",
+  "Undead",
+  "Lobster's crew",
+  "Male Characters",
+  "Deceased Characters",
+  "Spirits",
+  "Vigilantes",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

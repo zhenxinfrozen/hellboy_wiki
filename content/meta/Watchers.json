@@ -1,0 +1,25 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The First Angels, The Greater Spirits, The Creators of the Ogdru Jahad"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Island\">The Island</a>"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "The First Angels 001.jpg",
+ "cats": [
+  "Species",
+  "Watchers",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

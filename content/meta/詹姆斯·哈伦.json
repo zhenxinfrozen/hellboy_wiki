@@ -1,0 +1,13 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "The_Abyss_of_Time_1.jpeg",
+ "cats": [
+  "Interior Artist",
+  "Cover Artist",
+  "画师",
+  "创作者"
+ ],
+ "img_source": "body"
+}

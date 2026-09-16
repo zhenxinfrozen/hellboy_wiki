@@ -1,0 +1,27 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human (Formerly)<br>Wendigo"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola, John Arcudi"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Universal Machine #4"
+  }
+ ],
+ "image": "Daryl.jpg",
+ "cats": [
+  "Characters"
+ ],
+ "img_source": "fandom"
+}

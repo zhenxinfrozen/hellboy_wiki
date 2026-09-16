@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Locations",
+  "Greco-Roman_Myth",
+  "Hell"
+ ],
+ "type": "Location",
+ "image": "Tartarus.jpg",
+ "type_zh": "地点",
+ "img_source": "keep",
+ "rows": []
+}

@@ -1,0 +1,70 @@
+{
+ "type": "Movie",
+ "type_zh": "电影",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "<a href=\"/entry/Guillermo%20del%20Toro\">Guillermo del Toro</a>"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> (comic book, story)<br>Guillermo del Toro (story, screenplay)"
+  },
+  {
+   "label": "上映日期",
+   "value": "July 11, 2008"
+  },
+  {
+   "label": "片长",
+   "value": "2 hr"
+  },
+  {
+   "label": "配乐",
+   "value": "Danny Elfman"
+  },
+  {
+   "label": "制作预算",
+   "value": "$82.5–85 million"
+  },
+  {
+   "label": "票房",
+   "value": "$168.3 million"
+  }
+ ],
+ "image": "HellboyIIMoviePoster.jpg",
+ "cats": [
+  "Hellboy II: The Golden Army",
+  "Films"
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "<a href=\"/entry/Guillermo%20del%20Toro\">Guillermo del Toro</a>"
+  },
+  {
+   "label": "Writer",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> (comic book, story)<br>Guillermo del Toro (story, screenplay)"
+  },
+  {
+   "label": "Release date",
+   "value": "July 11, 2008"
+  },
+  {
+   "label": "Running time",
+   "value": "2 hr"
+  },
+  {
+   "label": "Music by",
+   "value": "Danny Elfman"
+  },
+  {
+   "label": "Budget",
+   "value": "$82.5–85 million"
+  },
+  {
+   "label": "Box office",
+   "value": "$168.3 million"
+  }
+ ],
+ "img_source": "keep"
+}

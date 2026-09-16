@@ -1,0 +1,41 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20%282004%20film%29\">Hellboy (2004)</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "Ladislav Beran (film)<br>Adam Fulton (Zinco Epilogue)"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Nazi scientist"
+  }
+ ],
+ "image": "Kroenen.gif",
+ "cats": [
+  "Nazi",
+  "Villains",
+  "Male Characters",
+  "Germans",
+  "Humans",
+  "Scientists",
+  "Zinco Corporation",
+  "Hellboy (2004 film) characters",
+  "Hellboy characters",
+  "人物",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

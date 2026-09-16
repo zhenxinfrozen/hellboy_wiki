@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Monsters",
+  "Demons",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Goetia"
+ ],
+ "type": "Character",
+ "image": "Andras.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The demon"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Marquis of Hell"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D. Hell on Earth: Exorcism"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

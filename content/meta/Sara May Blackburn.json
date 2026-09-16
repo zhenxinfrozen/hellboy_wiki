@@ -1,0 +1,40 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Female_Characters",
+  "Characters",
+  "Psychics",
+  "Humans",
+  "Hellboy_and_the_B.P.R.D._Characters"
+ ],
+ "type": "Character",
+ "image": "Sara May Backburn.jpg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Sara May Blackbird"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Unnamed parents"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola and Zach Howard"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy and the B.P.R.D.: The Return of Effie Kolb"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

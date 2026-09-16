@@ -1,0 +1,11 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Humans"
+ ],
+ "img_source": "placeholder"
+}

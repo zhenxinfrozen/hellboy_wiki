@@ -1,0 +1,28 @@
+{
+ "cats": [
+  "Video_games",
+  "Injustice"
+ ],
+ "type": "Game",
+ "image": "-Injustice-2-PS4- .jpg",
+ "rows": [
+  {
+   "label": "开发商",
+   "value": "NetherRealm Studios"
+  },
+  {
+   "label": "出版社",
+   "value": "Warner Bros. Interactive Entertainment"
+  },
+  {
+   "label": "平台",
+   "value": "PlayStation 4<br>Xbox One<br>Windows"
+  },
+  {
+   "label": "上映日期",
+   "value": "May 9, 2017"
+  }
+ ],
+ "type_zh": "游戏",
+ "img_source": "keep"
+}

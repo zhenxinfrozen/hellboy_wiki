@@ -1,0 +1,39 @@
+{
+ "cats": [
+  "Characters",
+  "Deities",
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Deceased_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Dragons",
+  "Mesoamerican_Myth",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Cipactlhem.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Divine the Crocodile<br>Teocipactli<br>Cipactonal"
+  },
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad"
+  },
+  {
+   "label": "职业",
+   "value": "Aztec myth deity<br>Spirit of the Ogdru Hem<br>Worshipper of the Aztec"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Shape of Things to Come"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

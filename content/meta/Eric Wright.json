@@ -1,0 +1,16 @@
+{
+ "cats": [
+  "Interior_Artist",
+  "Real_people"
+ ],
+ "type": "RealPerson",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "真实人物",
+ "image": null,
+ "img_source": "placeholder"
+}

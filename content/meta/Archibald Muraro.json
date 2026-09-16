@@ -1,0 +1,46 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Humans",
+  "Americans",
+  "B.P.R.D._agent",
+  "Veteran",
+  "Characters",
+  "Male_Characters",
+  "Hellboy_and_the_B.P.R.D._Characters"
+ ],
+ "type": "Character",
+ "image": "Archie Muraro.jpg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Archie"
+  },
+  {
+   "label": "国籍",
+   "value": "American"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Field Agent<br>USAF Pilot<br>Photographer"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy and the B.P.R.D.: 1952 #1"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

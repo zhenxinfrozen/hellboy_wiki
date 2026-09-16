@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Demons",
+  "Characters",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Sybacco .jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Andras's servant"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D. Hell on Earth: Exorcism"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

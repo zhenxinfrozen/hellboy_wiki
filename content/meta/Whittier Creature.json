@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Monsters",
+  "Spirits",
+  "Villains",
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents"
+ ],
+ "type": "Character",
+ "image": "WhittierCreature.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Whittier Legacy"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

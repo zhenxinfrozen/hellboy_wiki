@@ -1,0 +1,5729 @@
+{
+    "_meta": {
+        "note": "中文翻译版本状态。status: none=pages内仍英文待机翻; partial=人工零星; machine=有机翻稿(pages_mt); reviewed=人工校对固化的标准中文版",
+        "variants": {
+            "std": "pages/ 标准中文版（人工/已固化）",
+            "mt": "pages_mt/ 机翻中文版（默认显示，若存在）",
+            "en": "pages_en/ 原始英文，不改动"
+        }
+    },
+    "entries": {
+        "伊甸园（I）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Steve Lieber": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Eduardo Ferreyra": {
+            "status": "none"
+        },
+        "Osiris Club": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Brian McDonald": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ilsa Haupstein": {
+            "status": "machine",
+            "zh_title": "伊尔莎·豪普斯坦"
+        },
+        "Fábio Moon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gary Fields": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: An Assortment of Horrors": {
+            "status": "machine",
+            "zh_title": "地狱男爵：恐怖集锦",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Victor Frankenstein": {
+            "status": "none",
+            "zh_title": "维克多·弗兰肯斯坦"
+        },
+        "黑暗恐怖之处（故事）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Shonchin": {
+            "status": "machine",
+            "zh_title": "雄钦"
+        },
+        "黑焰使徒（故事）": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列收尾，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "The Last Elemental": {
+            "status": "machine",
+            "zh_title": "最后的元素精灵"
+        },
+        "弥赛亚": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "地狱男爵2016深冬特别篇": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "直至最后一人": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "沉睡的死灵": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mick McMahon": {
+            "status": "none"
+        },
+        "Pancakes": {
+            "status": "machine",
+            "zh_title": "煎饼",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ilona Kakosy": {
+            "status": "machine",
+            "zh_title": "伊洛娜·卡科希"
+        },
+        "伊甸园（III）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Erinyes": {
+            "status": "machine",
+            "zh_title": "厄里倪厄斯（复仇三女神）"
+        },
+        "The Iron Shoes": {
+            "status": "machine",
+            "zh_title": "铁鞋",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "卡普博士的历险": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Water Spirit": {
+            "status": "machine",
+            "zh_title": "水灵"
+        },
+        "Kev Walker": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "约翰·克劳斯": {
+            "status": "machine",
+            "zh_title": "约翰·克劳斯"
+        },
+        "大螯虾强生（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Andrew Devon": {
+            "status": "machine",
+            "zh_title": "安德鲁·德文"
+        },
+        "Urgo-Hem": {
+            "status": "machine",
+            "zh_title": "乌尔戈-赫姆"
+        },
+        "Butcher Guards": {
+            "status": "machine",
+            "zh_title": "屠夫卫队"
+        },
+        "Mike Mignola's Hellboy Artist's Edition": {
+            "status": "machine",
+            "zh_title": "迈克·米格诺拉《地狱男爵》艺术家典藏版",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jim Starlin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Miles Gunter": {
+            "status": "none"
+        },
+        "天使之令": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Massimo": {
+            "status": "machine",
+            "zh_title": "马西莫"
+        },
+        "地狱男爵（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "墨西哥大冒险": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "迈克·米格诺拉": {
+            "status": "reviewed"
+        },
+        "Heads": {
+            "status": "machine",
+            "zh_title": "头颅",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑暗恐怖之渊": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Morgan Kaler": {
+            "status": "machine",
+            "zh_title": "摩根·凯勒"
+        },
+        "万华镜": {
+            "status": "machine"
+        },
+        "Thor": {
+            "status": "machine",
+            "zh_title": "托尔"
+        },
+        "Dark Horse Presents": {
+            "status": "machine",
+            "zh_title": "黑马呈现",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "British Paranormal Society": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wandering Souls": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "游荡之魂"
+        },
+        "Astaroth": {
+            "status": "machine",
+            "zh_title": "阿斯塔罗斯"
+        },
+        "Vladimir Giurescu": {
+            "status": "machine",
+            "zh_title": "弗拉基米尔·朱雷斯库"
+        },
+        "Children of the Black Mound": {
+            "status": "machine",
+            "zh_title": "黑冢之子",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "爱德华·格雷": {
+            "status": "machine",
+            "zh_title": "爱德华·格雷"
+        },
+        "《地狱男爵》漫画出版时间线": {
+            "status": "reviewed"
+        },
+        "次世代新人类": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Pamela Rambo": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ratatosk": {
+            "status": "machine",
+            "zh_title": "拉塔托斯克"
+        },
+        "Sarah Hughes": {
+            "status": "machine",
+            "zh_title": "莎拉·休斯"
+        },
+        "Matt Hollingsworth": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "B.P.R.D.": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Crown of Bethmora": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "沃斯克的驱魔人": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "巫术球": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Excalibur": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hunping": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "逝去的人生": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "谋杀企图": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Free Comic Book Day 2008": {
+            "status": "machine",
+            "zh_title": "地狱男爵：2008免费漫画日",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gall Dennar": {
+            "status": "machine",
+            "zh_title": "加尔·丹纳尔"
+        },
+        "恶魔之翼": {
+            "status": "reviewed",
+            "note": "2026-09-13 人间炼狱系列，纯中文标准层（用户个人笔记保留文首；英文走 EN 回退视图）",
+            "variant": "std"
+        },
+        "Love is Scarier than Death": {
+            "status": "machine",
+            "zh_title": "爱比死亡更可怕",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Scott Clark": {
+            "status": "machine",
+            "zh_title": "斯科特·克拉克"
+        },
+        "苏珊·项": {
+            "status": "machine",
+            "zh_title": "苏珊·项"
+        },
+        "Bjarne Hansen": {
+            "status": "none"
+        },
+        "Patric Reynolds": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "BPRD:人间地狱": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ox-Head and Horse-Face": {
+            "status": "machine",
+            "zh_title": "牛头马面"
+        },
+        "Sarah Jewell": {
+            "status": "machine",
+            "zh_title": "莎拉·朱厄尔"
+        },
+        "烈焰之湖": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Hellboy in Hell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bog Roosh": {
+            "status": "machine",
+            "zh_title": "博格鲁什"
+        },
+        "Daimio": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "伍德罗·法瑞尔": {
+            "status": "machine",
+            "zh_title": "伍德罗·法瑞尔"
+        },
+        "Scott Kolins": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Kyriakos Gallaragas": {
+            "status": "machine",
+            "zh_title": "基里亚科斯·加拉加斯"
+        },
+        "Tim Clark": {
+            "status": "machine",
+            "zh_title": "蒂姆·克拉克"
+        },
+        "Iosif Nichayko": {
+            "status": "machine",
+            "zh_title": "约瑟夫·尼恰伊科"
+        },
+        "George Whitman": {
+            "status": "machine",
+            "zh_title": "乔治·惠特曼"
+        },
+        "Lazar": {
+            "status": "machine",
+            "zh_title": "拉扎尔"
+        },
+        "Box Full of Evil": {
+            "status": "machine",
+            "zh_title": "邪恶之盒",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rasputin: The Voice of the Dragon": {
+            "status": "machine",
+            "zh_title": "拉斯普廷：龙之声",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "诸神": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Craig Thompson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Order of the Knights of Saint Hagan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "永远消逝": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Magic horse's bit": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mike Huddleston": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "三个愿望": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "泰德·霍华德": {
+            "status": "machine",
+            "zh_title": "泰德·霍华德"
+        },
+        "Igor Bromhead": {
+            "status": "machine",
+            "zh_title": "伊戈尔·布罗姆黑德"
+        },
+        "妖兽与血骨": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Hellmail": {
+            "status": "machine",
+            "zh_title": "地狱邮筒",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "吸血鬼（故事）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Marchosias": {
+            "status": "machine",
+            "zh_title": "玛科西亚斯"
+        },
+        "Mr. Wink": {
+            "status": "machine",
+            "zh_title": "温克先生"
+        },
+        "Hellboy Gets Married": {
+            "status": "machine",
+            "zh_title": "地狱男爵成婚记",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Atum": {
+            "status": "machine",
+            "zh_title": "阿图姆"
+        },
+        "Koshchei the Deathless (story)": {
+            "status": "machine",
+            "zh_title": "不死者柯希伊",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Enos": {
+            "status": "machine",
+            "zh_title": "伊诺斯"
+        },
+        "神圣领域": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "TyRuben Ellingson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "山雨欲来": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "闪电战": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dr. N.K. Sandhu": {
+            "status": "machine",
+            "zh_title": "N·K·桑杜博士"
+        },
+        "Kevin Nowlan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rafael Albuquerque": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Boudicca's Hag": {
+            "status": "machine",
+            "zh_title": "布狄卡的妖婆"
+        },
+        "Hellboy: Sword of Storms": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组核对：人工高质量翻译固化标准层 pages/，重建配音表，移除 mt 黄条 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵：风暴之剑（2006 动画电影）"
+        },
+        "莲花香": {
+            "status": "machine"
+        },
+        "The Good Samaritan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "众兽": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Julián Totino Tedesco": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Golden Army": {
+            "status": "machine",
+            "zh_title": "黄金军团"
+        },
+        "Scott Morse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Unreasoning Beast": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "无理性之兽"
+        },
+        "Reverend Watts": {
+            "status": "machine",
+            "zh_title": "沃茨牧师"
+        },
+        "The Coffin Man 2: The Rematch": {
+            "status": "machine",
+            "zh_title": "棺材人2：再战",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Long Distance Caller": {
+            "status": "machine",
+            "zh_title": "长途来电",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mona": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "D’Israeli": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Christopher Mitten": {
+            "status": "partial"
+        },
+        "Amdusias": {
+            "status": "machine",
+            "zh_title": "安杜西亚斯"
+        },
+        "雅佳婆婆": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Obahdas Dascher": {
+            "status": "machine",
+            "zh_title": "奥巴达斯·达舍"
+        },
+        "灵魂花园": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "妖兽与血骨（人物）": {
+            "status": "machine",
+            "zh_title": "妖兽与血骨"
+        },
+        "Vasilisa": {
+            "status": "machine",
+            "zh_title": "瓦西丽萨"
+        },
+        "Landis Pope": {
+            "status": "machine",
+            "zh_title": "兰迪斯·波普"
+        },
+        "Angus Weir": {
+            "status": "machine",
+            "zh_title": "安格斯·威尔"
+        },
+        "俄罗斯": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Blackbeard's skull chalice": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "伊甸园（II）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Hellboy: The Lost Army": {
+            "status": "machine",
+            "zh_title": "地狱男爵：迷失军团",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Being Human": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "生而为人"
+        },
+        "Ogopogo": {
+            "status": "machine",
+            "zh_title": "奥古普古"
+        },
+        "Garrett Omatta": {
+            "status": "machine",
+            "zh_title": "加勒特·奥马塔"
+        },
+        "外勤探员的日常": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Vampire (story cycle)": {
+            "status": "machine",
+            "zh_title": "吸血鬼",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "惠蒂尔的遗产": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "加布里埃尔·巴": {
+            "status": "partial"
+        },
+        "摩洛克神殿": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "生命锁链": {
+            "status": "machine"
+        },
+        "Hellboy Animated": {
+            "status": "machine",
+            "zh_title": "地狱男爵动画版",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Matt Smith": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "地狱男爵": {
+            "status": "machine",
+            "zh_title": "地狱男爵"
+        },
+        "格里高利·拉斯普廷": {
+            "status": "machine",
+            "zh_title": "格里高利·拉斯普廷"
+        },
+        "Party Pooper": {
+            "status": "machine",
+            "zh_title": "扫兴鬼",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ron Marz": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "终结时刻": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "末日降临": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "War": {
+            "status": "machine",
+            "zh_title": "战争"
+        },
+        "雅加婆婆（人物）": {
+            "status": "machine",
+            "zh_title": "雅加婆婆"
+        },
+        "特雷佛·布鲁姆": {
+            "status": "machine",
+            "zh_title": "特雷佛·布鲁姆"
+        },
+        "奥古·桀哈": {
+            "status": "machine",
+            "zh_title": "奥古·桀哈"
+        },
+        "Frankenstein's Monster": {
+            "status": "machine",
+            "zh_title": "弗兰肯斯坦的怪物"
+        },
+        "Dave Johnson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "西蒙·安德斯": {
+            "status": "machine",
+            "zh_title": "西蒙·安德斯"
+        },
+        "Pluto": {
+            "status": "machine",
+            "zh_title": "普鲁托"
+        },
+        "The Visitor: How & Why He Stayed": {
+            "status": "machine",
+            "zh_title": "访客：他为何而留",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Haunted": {
+            "status": "machine",
+            "zh_title": "幽魂缠身",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Unnatural Selection": {
+            "status": "machine",
+            "zh_title": "地狱男爵：非自然选择",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "恐惧之王": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Brian Churilla": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sebastián Fiumara": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "撒旦": {
+            "status": "machine",
+            "zh_title": "撒旦"
+        },
+        "The Corpse": {
+            "status": "machine",
+            "zh_title": "尸体",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "David Self": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "通灵师": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "亚瑟王": {
+            "status": "machine",
+            "zh_title": "亚瑟王"
+        },
+        "Simon Bruttenholm": {
+            "status": "machine",
+            "zh_title": "西蒙·布鲁顿霍姆"
+        },
+        "Walter Edmond Heap": {
+            "status": "machine",
+            "zh_title": "沃尔特·埃德蒙·希普"
+        },
+        "B.P.R.D.（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "爱丽丝·莫娜汉": {
+            "status": "machine",
+            "zh_title": "爱丽丝·莫娜汉"
+        },
+        "Mohlomi": {
+            "status": "machine",
+            "zh_title": "莫赫洛米"
+        },
+        "Koshchei the Deathless": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "P. Craig Russell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Universe novels": {
+            "status": "machine",
+            "zh_title": "地狱男爵宇宙小说",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Friday": {
+            "status": "machine",
+            "zh_title": "星期五",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bill": {
+            "status": "machine",
+            "zh_title": "比尔"
+        },
+        "碎骨锤44（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Iblifika": {
+            "status": "machine",
+            "zh_title": "伊布利菲卡"
+        },
+        "Year of Monsters": {
+            "status": "machine",
+            "zh_title": "怪物之年",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Don Cameron": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Guillermo del Toro": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Harold McTell": {
+            "status": "machine",
+            "zh_title": "哈罗德·麦克泰尔"
+        },
+        "奥格伯格": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Doug Jones": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Will Pfeifer": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "空心地球": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "丽兹·舍曼": {
+            "status": "machine",
+            "zh_title": "丽兹·舍曼"
+        },
+        "Lee Loughridge": {
+            "status": "none"
+        },
+        "Hellboy Christmas Special": {
+            "status": "machine",
+            "zh_title": "地狱男爵圣诞特刊",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lobster Johnson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）",
+            "zh_title": "大螯虾强生"
+        },
+        "Return of the Lambton Worm": {
+            "status": "machine",
+            "zh_title": "兰姆顿巨虫归来",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "研磨人生": {
+            "status": "reviewed",
+            "note": "2026-09-13 人间炼狱系列，纯中文标准层（用户个人笔记保留文首；英文走 EN 回退视图）",
+            "variant": "std"
+        },
+        "Berith": {
+            "status": "machine",
+            "zh_title": "贝里斯"
+        },
+        "Isog": {
+            "status": "machine",
+            "zh_title": "艾索格"
+        },
+        "征服之虫": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Viktor Kalvachev": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "邪典双专场": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Watchers": {
+            "status": "machine",
+            "zh_title": "守望者"
+        },
+        "Shax": {
+            "status": "machine",
+            "zh_title": "沙克斯"
+        },
+        "恶魔引擎": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "无名者墓": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "黑水之域": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "庞南加兰": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "World's Greatest Paranormal Investigator (SDCC)": {
+            "status": "machine",
+            "zh_title": "世界最强超自然调查员 (SDCC)",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "来者之形": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Hellboy: Emerald Hell": {
+            "status": "machine",
+            "zh_title": "地狱男爵：翡翠地狱",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jason Shawn Alexander": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "神秘海域": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Command Performance": {
+            "status": "machine",
+            "zh_title": "特别献演",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rick Cortes": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Foundry": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ota Benga": {
+            "status": "machine",
+            "zh_title": "奥塔·本加"
+        },
+        "Beyond the Fences": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "栅栏之外"
+        },
+        "厄运之兆": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Beware the Ape": {
+            "status": "machine",
+            "zh_title": "当心猿魔",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Romulus Diovanni": {
+            "status": "machine",
+            "zh_title": "罗穆卢斯·迪乔瓦尼"
+        },
+        "Alex Maleev": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gustav Strobl": {
+            "status": "machine",
+            "zh_title": "古斯塔夫·施特罗布尔"
+        },
+        "鬼上身": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Almost Colossus": {
+            "status": "machine",
+            "zh_title": "近乎巨像",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Crimson Lotus (story)": {
+            "status": "machine",
+            "zh_title": "绯红莲花",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "House of the Living Dead": {
+            "status": "machine",
+            "zh_title": "活死人之屋",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "地狱篇（前四章故事）": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "1947": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "1947"
+        },
+        "Bud Waller": {
+            "status": "machine",
+            "zh_title": "巴德·沃勒"
+        },
+        "炽热虾螯": {
+            "status": "machine"
+        },
+        "Sammael": {
+            "status": "machine",
+            "zh_title": "萨麦尔"
+        },
+        "Klaus Werner von Krupt": {
+            "status": "machine",
+            "zh_title": "克劳斯·维尔纳·冯·克虏伯"
+        },
+        "Still Born": {
+            "status": "machine",
+            "zh_title": "胎死腹中",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "钢铁普罗米修斯": {
+            "status": "machine"
+        },
+        "Steve Parkhouse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Catlett": {
+            "status": "machine",
+            "zh_title": "卡特利特"
+        },
+        "蛙族瘟疫": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Oddest Jobs": {
+            "status": "machine",
+            "zh_title": "地狱男爵：最怪杂务",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Healer": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "治疗者"
+        },
+        "地狱新娘": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jason Latour": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Witchcraft & Demonology": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "巫术与恶魔学"
+        },
+        "Erzsebet Ondrushko": {
+            "status": "machine",
+            "zh_title": "厄尔热贝特·翁德鲁什科"
+        },
+        "人骨花园": {
+            "status": "machine"
+        },
+        "Michelle Madsen": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "被遗忘者": {
+            "status": "machine"
+        },
+        "Demers": {
+            "status": "machine",
+            "zh_title": "德默斯"
+        },
+        "Stefano Raffaele": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "亡者之地": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Stephen Green": {
+            "status": "none"
+        },
+        "Burning Season": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "燃烧季节"
+        },
+        "Special Sciences Service": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Koku": {
+            "status": "machine",
+            "zh_title": "科库"
+        },
+        "午夜马戏团": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "亚伯·塞皮恩": {
+            "status": "machine",
+            "zh_title": "亚伯·塞皮恩"
+        },
+        "Thoth": {
+            "status": "machine",
+            "zh_title": "透特"
+        },
+        "The Dread Within": {
+            "status": "machine",
+            "zh_title": "内心恐惧",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "瓦尔瓦拉": {
+            "status": "machine",
+            "zh_title": "瓦尔瓦拉"
+        },
+        "Mark Chiarello": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "溺亡": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Bishop Olek's Devil": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "奥莱克主教的恶魔"
+        },
+        "Joseph Vaughn": {
+            "status": "machine",
+            "zh_title": "约瑟夫·沃恩"
+        },
+        "Joe Harris": {
+            "status": "none"
+        },
+        "Simeon Wilkins": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "杀戮地带": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Sonnenrad Society": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Malcolm Frost": {
+            "status": "machine",
+            "zh_title": "马尔科姆·弗罗斯特"
+        },
+        "Ualac": {
+            "status": "machine",
+            "zh_title": "乌拉刻"
+        },
+        "无土之地之谜": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "William Bright": {
+            "status": "machine",
+            "zh_title": "威廉·布莱特"
+        },
+        "Seung Kim": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "卡尔比": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "毁灭之芽": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Clay": {
+            "status": "machine",
+            "zh_title": "克莱"
+        },
+        "Becky Cloonan": {
+            "status": "none"
+        },
+        "Wake the Devil": {
+            "status": "machine",
+            "zh_title": "唤醒恶魔",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "尼斐鲁的祷告": {
+            "status": "machine"
+        },
+        "无所归宿，一无是处": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Zinco Corporation": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "皮肯斯郡恐怖故事": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "John Arcudi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "蛙族瘟疫（故事）": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列收尾，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Eric Powell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "John Byrne": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "King Vold": {
+            "status": "machine",
+            "zh_title": "沃尔德王",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Inger von Klempt": {
+            "status": "machine",
+            "zh_title": "英格·冯·卡朗普特"
+        },
+        "Yishan Li": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Goodbye Mister Tod": {
+            "status": "machine",
+            "zh_title": "再见，托德先生",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "他们随船沉入海": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Stanley Corn": {
+            "status": "machine",
+            "zh_title": "斯坦利·科恩"
+        },
+        "Bruno Karhu": {
+            "status": "machine",
+            "zh_title": "布鲁诺·卡尔胡"
+        },
+        "Regressions": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "退化"
+        },
+        "Katha-Hem": {
+            "status": "machine",
+            "zh_title": "卡塔-赫姆"
+        },
+        "黑暗恐怖之处（故事集）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Conqueror Worm (Ogdru Hem)": {
+            "status": "machine",
+            "zh_title": "征服之虫"
+        },
+        "Iron Shoes (film)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS） | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "铁鞋（动画短片）"
+        },
+        "Frank Russell": {
+            "status": "machine",
+            "zh_title": "弗兰克·拉塞尔"
+        },
+        "搞掂鳌虾": {
+            "status": "machine"
+        },
+        "Black Sun": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "黑日"
+        },
+        "The Torch of Liberty": {
+            "status": "machine",
+            "zh_title": "自由火炬"
+        },
+        "破裂的方程": {
+            "status": "reviewed",
+            "note": "2026-09-13 人间炼狱系列，纯中文标准层（用户个人笔记保留文首；英文走 EN 回退视图）",
+            "variant": "std"
+        },
+        "Gabriel Ruiz": {
+            "status": "machine",
+            "zh_title": "加布里埃尔·鲁伊斯"
+        },
+        "Pestilence": {
+            "status": "machine",
+            "zh_title": "瘟疫"
+        },
+        "Peter Snejbjerg": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "诸神的黄昏": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Santiago Caruso": {
+            "status": "none"
+        },
+        "B.P.R.D. (teaser)": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）",
+            "zh_title": "B.P.R.D.（预告短篇）"
+        },
+        "Paolo Rivera": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Chained Coffin": {
+            "status": "machine",
+            "zh_title": "锁链棺材",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "《地狱男爵》宇宙全系列漫画": {
+            "status": "partial"
+        },
+        "人员伤亡": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Daryl Tynon": {
+            "status": "machine",
+            "zh_title": "达里尔·泰南"
+        },
+        "Michael W. Kaluta": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Memnan Saa": {
+            "status": "machine",
+            "zh_title": "姆姆南·萨"
+        },
+        "Hellboy in Mexico": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Chris Roberson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Derek Thompson": {
+            "status": "none"
+        },
+        "Hellboy: On Earth as it is in Hell": {
+            "status": "machine",
+            "zh_title": "地狱男爵：人间如狱",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "A Love Story": {
+            "status": "machine",
+            "zh_title": "一则爱情故事",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gene Colan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Coffin Man": {
+            "status": "machine",
+            "zh_title": "棺材人",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Witchfinder": {
+            "status": "machine",
+            "zh_title": "猎巫人",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Henry Hood": {
+            "status": "machine",
+            "zh_title": "亨利·胡德"
+        },
+        "邓肯·费格瑞铎": {
+            "status": "partial"
+        },
+        "J.H. Williams III": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "恐惧之王（人物）": {
+            "status": "machine",
+            "zh_title": "恐惧之王"
+        },
+        "辛西雅·泰南": {
+            "status": "machine",
+            "zh_title": "辛西雅·泰南"
+        },
+        "Shawn Martinbrough": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "God": {
+            "status": "machine",
+            "zh_title": "上帝"
+        },
+        "World's Greatest Paranormal Investigator (CBG)": {
+            "status": "machine",
+            "zh_title": "世界最强超自然调查员 (CBG)",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "幽灵手": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Nuala": {
+            "status": "machine",
+            "zh_title": "弩阿拉公主"
+        },
+        "Midnight Cowboy": {
+            "status": "machine",
+            "zh_title": "午夜牛郎",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Special Intelligence Directorate": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "本·达米奥": {
+            "status": "machine",
+            "zh_title": "本·达米奥"
+        },
+        "1946": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "1946"
+        },
+        "Edel Mischrasse": {
+            "status": "machine",
+            "zh_title": "埃德尔·米施拉塞"
+        },
+        "赫尔曼·冯·卡朗普特": {
+            "status": "machine",
+            "zh_title": "赫尔曼·冯·卡朗普特"
+        },
+        "Tom Sniegoski": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jo Chen": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "盖·戴维斯": {
+            "status": "partial"
+        },
+        "地狱男爵深冬特别篇": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑焰使徒": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Galen Showman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pandemonium": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "亚伯·塞皮恩（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "漫长的死亡": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Death Riding an Elephant": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Vârcolac": {
+            "status": "machine",
+            "zh_title": "沃尔科拉克",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dagda": {
+            "status": "machine",
+            "zh_title": "达格达"
+        },
+        "Metal Monsters of Midtown": {
+            "status": "machine",
+            "zh_title": "中城金属怪兽"
+        },
+        "My Vacation in Hell": {
+            "status": "machine",
+            "zh_title": "我的地狱假期",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Nature of the Beast": {
+            "status": "machine",
+            "zh_title": "野兽本性",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "血皇后": {
+            "status": "machine",
+            "zh_title": "血皇后"
+        },
+        "重生": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Hans Ubler": {
+            "status": "machine",
+            "zh_title": "汉斯·乌布勒"
+        },
+        "Baba Yaga's Feast": {
+            "status": "machine",
+            "zh_title": "芭芭雅嘎的盛宴",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Izar Hoffman": {
+            "status": "machine",
+            "zh_title": "伊扎尔·霍夫曼"
+        },
+        "The Visitor (character)": {
+            "status": "machine",
+            "zh_title": "造访者"
+        },
+        "Niels Waxman": {
+            "status": "machine",
+            "zh_title": "尼尔斯·韦克斯曼"
+        },
+        "Flight Risk": {
+            "status": "machine",
+            "zh_title": "潜逃风险",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Amazing Screw-On Head": {
+            "status": "machine",
+            "zh_title": "神奇螺丝头",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "威尼斯之魂": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Goblin (Bethmoran)": {
+            "status": "machine",
+            "zh_title": "哥布林铁匠（贝丝莫拉）"
+        },
+        "Troll Witch": {
+            "status": "machine",
+            "zh_title": "巨魔女巫"
+        },
+        "Bradley": {
+            "status": "machine",
+            "zh_title": "布拉德利"
+        },
+        "Troy Nixey": {
+            "status": "none"
+        },
+        "Pauline Raskin": {
+            "status": "machine",
+            "zh_title": "宝琳·拉斯金"
+        },
+        "J·H·奥唐纳教授": {
+            "status": "machine",
+            "zh_title": "J·H·奥唐纳教授"
+        },
+        "R. Sikoryak": {
+            "status": "none"
+        },
+        "Adam Pollina": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Michael Walsh": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Krampus": {
+            "status": "machine",
+            "zh_title": "坎卜斯"
+        },
+        "Ernst Oeming": {
+            "status": "machine",
+            "zh_title": "恩斯特·厄明"
+        },
+        "\"Hi, My Name's Hellboy\"": {
+            "status": "machine",
+            "zh_title": "你好，我叫地狱男爵",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jason Rodriguez": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Famine": {
+            "status": "machine",
+            "zh_title": "饥荒"
+        },
+        "Mark Ricketts": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Elena Sanjust": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "血肉磐石": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "魔鬼旧相识（系列短篇）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "女巫树": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Unmensch": {
+            "status": "machine",
+            "zh_title": "非人"
+        },
+        "Effie Kolb": {
+            "status": "machine",
+            "zh_title": "埃菲·科尔布"
+        },
+        "Hellboy (2004 film)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS） | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵（2004 真人电影）"
+        },
+        "合订本：馆藏版 《地狱男爵》": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tommy Lee Edwards": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "汤姆·曼宁": {
+            "status": "machine",
+            "zh_title": "汤姆·曼宁"
+        },
+        "Gamon": {
+            "status": "machine",
+            "zh_title": "加蒙"
+        },
+        "黑焰王朝": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Christopher Golden": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joshua Dysart": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "How Koshchei Became Deathless": {
+            "status": "machine",
+            "zh_title": "柯希伊如何获得不死之身",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Descent": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tyler Crook": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "苏瓦尼上空的阴影": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "凯瑟琳·巴克的葬礼": {
+            "status": "machine",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Richard Corben": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tom Ferrell": {
+            "status": "machine",
+            "zh_title": "汤姆·费雷尔"
+        },
+        "棕精灵": {
+            "status": "machine",
+            "zh_title": "棕精灵"
+        },
+        "赫卡特": {
+            "status": "machine",
+            "zh_title": "赫卡特"
+        },
+        "Guillermo Zubiaga": {
+            "status": "none"
+        },
+        "Dave Stokes": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lester": {
+            "status": "machine",
+            "zh_title": "莱斯特"
+        },
+        "Karl Moline": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bureau for Paranormal Research and Defense": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Winter Special (2018)": {
+            "status": "machine",
+            "zh_title": "地狱男爵冬季特刊（2018）",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Doug Petrie": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vampire": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "魔主再临": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Mike Norton": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Laurence Campbell": {
+            "status": "partial"
+        },
+        "Occult Intelligence": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "神秘学情报"
+        },
+        "Adolf Hitler": {
+            "status": "machine",
+            "zh_title": "阿道夫·希特勒"
+        },
+        "Itty Bitty Hellboy": {
+            "status": "machine",
+            "zh_title": "小小地狱男爵",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Robert Amsel": {
+            "status": "machine",
+            "zh_title": "罗伯特·阿姆泽尔"
+        },
+        "Leinil Francis Yu": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Visions, Dreams, and Fishin'": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "异象、幻梦与垂钓"
+        },
+        "Michael Glaren": {
+            "status": "machine",
+            "zh_title": "迈克尔·格拉伦"
+        },
+        "死无全尸": {
+            "status": "machine"
+        },
+        "The Secret Fire": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "午夜列车": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Lady Cynthia Eden-Jones": {
+            "status": "machine",
+            "zh_title": "辛西娅·伊登-琼斯夫人"
+        },
+        "地狱寒冬": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Revival": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）",
+            "zh_title": "复生"
+        },
+        "Francesco Francavilla": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Magician and the Snake": {
+            "status": "machine",
+            "zh_title": "魔术师与蛇",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "阿什利·斯托德": {
+            "status": "machine",
+            "zh_title": "阿什利·斯托德"
+        },
+        "深海平原": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Phil Noto": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sara Ryan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Andy Owens": {
+            "status": "none"
+        },
+        "Crimson Lotus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joe Rivera": {
+            "status": "none"
+        },
+        "Jim Sacks": {
+            "status": "machine",
+            "zh_title": "吉姆·萨克斯"
+        },
+        "Fabian Nicieza": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "床下有鬼": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Tim Sale": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Blood and Iron": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 电影组：补侧栏中译名；通用名从全站'不高兴汉化'《铁血惊魂》（非血与铁），含媒介消歧",
+            "zh_title": "地狱男爵：铁血惊魂（2007 动画电影）"
+        },
+        "Morgan Le Fey": {
+            "status": "machine",
+            "zh_title": "摩根勒菲"
+        },
+        "Hellboy and the B.P.R.D.": {
+            "status": "machine",
+            "zh_title": "地狱男爵与B.P.R.D.",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Roger's brother": {
+            "status": "machine",
+            "zh_title": "罗杰的兄长"
+        },
+        "詹姆斯·哈伦": {
+            "status": "partial"
+        },
+        "驱魔人": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Eris": {
+            "status": "machine",
+            "zh_title": "厄里斯"
+        },
+        "Gary Gianni": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑焰崛起": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "1952": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "地狱男爵与 B.P.R.D.：1952"
+        },
+        "毁灭的右手": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑暗女神": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "菲尼克斯·埃斯佩霍": {
+            "status": "machine",
+            "zh_title": "菲尼克斯·埃斯佩霍"
+        },
+        "Satan Smells a Rat": {
+            "status": "machine",
+            "zh_title": "撒旦嗅到老鼠"
+        },
+        "Hellboy: The Bones of Giants": {
+            "status": "machine",
+            "zh_title": "地狱男爵：巨人之骨",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Scott Hampton": {
+            "status": "none"
+        },
+        "Jason Pearson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "万魔殿 (story arc)": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "God Rest Ye Merry": {
+            "status": "machine",
+            "zh_title": "愿主赐你们喜乐",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joe Casey": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "1948": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "1948"
+        },
+        "Azzael": {
+            "status": "machine",
+            "zh_title": "阿撒艾尔"
+        },
+        "The Black School": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "黑色学派"
+        },
+        "Lusk": {
+            "status": "machine",
+            "zh_title": "卢斯克"
+        },
+        "Project Ragna Rok": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Leviathan": {
+            "status": "machine",
+            "zh_title": "利维坦"
+        },
+        "A Christmas Underground": {
+            "status": "machine",
+            "zh_title": "地下圣诞节",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bill Crabtree": {
+            "status": "none"
+        },
+        "黑暗无边": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Curtis Arnold": {
+            "status": "none"
+        },
+        "Ovi Nedelcu": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "克焰人": {
+            "status": "machine",
+            "zh_title": "克焰人"
+        },
+        "Hellboy: Odder Jobs": {
+            "status": "machine",
+            "zh_title": "地狱男爵：更多杂务",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Katie Mignola": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Harry Middleton": {
+            "status": "machine",
+            "zh_title": "哈里·米德尔顿"
+        },
+        "John Myers": {
+            "status": "machine",
+            "zh_title": "约翰·迈尔斯"
+        },
+        "Edmond Aickman": {
+            "status": "machine",
+            "zh_title": "埃德蒙·艾克曼"
+        },
+        "鏖战西雅图": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "The Calm Before the Storm": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "风暴前的宁静"
+        },
+        "Spiked Cylinder": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Odd Jobs": {
+            "status": "machine",
+            "zh_title": "地狱男爵：杂务",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "驼背老汉": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "地狱男爵：地狱篇（系列）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "大捕猎": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "合订本：精装": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Alise Gluškova": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cora Fisher": {
+            "status": "machine",
+            "zh_title": "科拉·费希尔"
+        },
+        "Rupert Evans": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wilfredo Torres": {
+            "status": "none"
+        },
+        "Jan-Olaf Kjell": {
+            "status": "machine",
+            "zh_title": "扬-奥拉夫·谢尔"
+        },
+        "Hellboy versus the Aztec Mummy": {
+            "status": "machine",
+            "zh_title": "地狱男爵大战阿兹特克木乃伊",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "驱魔记": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "人鱼族": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Kriegaffe": {
+            "status": "machine",
+            "zh_title": "战猿"
+        },
+        "City of the Dead": {
+            "status": "machine",
+            "zh_title": "死者之城",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cloacina": {
+            "status": "machine",
+            "zh_title": "克洛阿喀娜"
+        },
+        "Curse of the Haunted Doily": {
+            "status": "machine",
+            "zh_title": "闹鬼桌巾的诅咒",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "丧钟为谁而鸣": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Tefnut Trionus": {
+            "status": "machine",
+            "zh_title": "泰芙努特·特里奥努斯"
+        },
+        "Roger Langridge": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vril Energy Suit": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy 20th Anniversary Sampler": {
+            "status": "machine",
+            "zh_title": "地狱男爵二十周年试读特刊",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Leshii": {
+            "status": "machine",
+            "zh_title": "列希（林妖）"
+        },
+        "Koshchei": {
+            "status": "machine",
+            "zh_title": "柯歇伊（不死者）"
+        },
+        "荒凉海岸": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "遥不可及": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Paul Grist": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "西班牙新娘": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Heliopic Brotherhood of Ra": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "现代普罗米修斯": {
+            "status": "reviewed",
+            "note": "2026-09-13 人间炼狱系列，纯中文标准层（用户个人笔记保留文首；英文走 EN 回退视图）",
+            "variant": "std"
+        },
+        "1956": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "地狱男爵与 B.P.R.D.：1956"
+        },
+        "The Wolves of Saint August": {
+            "status": "machine",
+            "zh_title": "圣奥古斯特之狼",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dan Jackson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "合订本：平装": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "蛙人之战": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列收尾，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Maura McHugh": {
+            "status": "none"
+        },
+        "食尸鬼": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frankenstein": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Randy Stradley": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Luke Goss": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Herb Trimpe": {
+            "status": "none"
+        },
+        "潜意识": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "亡灵的鼓声": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "巴斯特·奥克莱得偿所愿": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ako Quantum Systems": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Perun": {
+            "status": "machine",
+            "zh_title": "佩伦"
+        },
+        "Theater of the Dead": {
+            "status": "machine",
+            "zh_title": "死者剧院",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Big-Top-Hell-Boy": {
+            "status": "machine",
+            "zh_title": "大马戏地狱男爵",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "通奇·佐尼奇": {
+            "status": "partial"
+        },
+        "塔罗死神": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Noh monkey": {
+            "status": "machine",
+            "zh_title": "能面猿"
+        },
+        "逝者不忘": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Balor": {
+            "status": "machine",
+            "zh_title": "巴洛尔"
+        },
+        "Adoet de Fabre": {
+            "status": "machine",
+            "zh_title": "阿杜埃·德·法布尔"
+        },
+        "Adam Hughes": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yumiko Daimio": {
+            "status": "machine",
+            "zh_title": "由美子·达米奥"
+        },
+        "潘雅": {
+            "status": "machine",
+            "zh_title": "潘雅"
+        },
+        "Sledgehammer 44": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "戴夫·斯图尔特": {
+            "status": "none"
+        },
+        "Norvell Cooper": {
+            "status": "machine",
+            "zh_title": "诺维尔·库珀"
+        },
+        "Hampton Taylor": {
+            "status": "machine",
+            "zh_title": "汉普顿·泰勒"
+        },
+        "Hellboy II: The Golden Army": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS） | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵2：黄金军团（2008 真人电影）"
+        },
+        "Masks and Monsters": {
+            "status": "machine",
+            "zh_title": "面具与怪物",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Andi Watson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑焰": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Balam": {
+            "status": "machine",
+            "zh_title": "巴拉姆"
+        },
+        "黑暗召唤": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jim Pascoe": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Death": {
+            "status": "machine",
+            "zh_title": "死神"
+        },
+        "凯特·考瑞根": {
+            "status": "machine",
+            "zh_title": "凯特·考瑞根"
+        },
+        "玻璃螳螂": {
+            "status": "machine"
+        },
+        "John Severin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sledgehammer 44 (story)": {
+            "status": "machine",
+            "zh_title": "Sledgehammer 44（故事）",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Gates of Heaven": {
+            "status": "machine",
+            "zh_title": "天堂之门",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Carla Giarocco": {
+            "status": "machine",
+            "zh_title": "卡拉·贾罗科"
+        },
+        "Paul Azaceta": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Dragon Pool": {
+            "status": "machine",
+            "zh_title": "地狱男爵：龙潭",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Scott Benefiel": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "马科玛": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Broken Vessels": {
+            "status": "machine",
+            "zh_title": "破碎之器",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Athane": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Melchiorre's burgonet": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frank Cho": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Steve Purcell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "斯人已逝": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Geoff Johns": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Garden": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "King Vold (character)": {
+            "status": "machine",
+            "zh_title": "沃尔德王"
+        },
+        "罗杰": {
+            "status": "machine",
+            "zh_title": "罗杰"
+        },
+        "James Sinclair": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ghost Moon": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "鬼月"
+        },
+        "Hellboy: The All-Seeing Eye": {
+            "status": "machine",
+            "zh_title": "地狱男爵：全视之眼",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Baba Yaga": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dave Stevens": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lovern Kindzierski": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Anum": {
+            "status": "machine",
+            "zh_title": "阿努姆"
+        },
+        "恐惧之王（故事）": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Nichols": {
+            "status": "machine",
+            "zh_title": "尼科尔斯"
+        },
+        "Scott Allie": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gamori": {
+            "status": "machine",
+            "zh_title": "加莫利"
+        },
+        "Angel of Death": {
+            "status": "machine",
+            "zh_title": "死亡天使"
+        },
+        "Sidney Leach": {
+            "status": "machine",
+            "zh_title": "西德尼·利奇"
+        },
+        "Golden Crane Society": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nuada": {
+            "status": "machine",
+            "zh_title": "弩阿达"
+        },
+        "Kamala": {
+            "status": "machine",
+            "zh_title": "卡玛拉"
+        },
+        "黑素瘤": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Secret Nature": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "隐秘天性"
+        },
+        "The Great Blizzard": {
+            "status": "machine",
+            "zh_title": "伦敦大暴雪",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "James Robinson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Max Fiumara": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "蛙族瘟疫（故事集）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "时间的深渊": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Abe Sapien: Star of the B.P.R.D.": {
+            "status": "machine",
+            "zh_title": "亚伯·萨皮恩：B.P.R.D.之星",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Michael Avon Oeming": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "J·H·奥唐纳教授的转变": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Into the Silent Sea": {
+            "status": "machine",
+            "zh_title": "驶入寂静之海",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "A.N. Sandhu": {
+            "status": "machine",
+            "zh_title": "A·N·桑杜"
+        },
+        "Kim Newman": {
+            "status": "none"
+        },
+        "Juan Ferreyra": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "冥王之犬": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Jeremiah Witkins": {
+            "status": "machine",
+            "zh_title": "杰里迈亚·威特金斯"
+        },
+        "Doc Hollow's Grand Vibro-Destructo Machine": {
+            "status": "machine",
+            "zh_title": "霍洛博士的超级振动毁灭机",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hagan Douglas": {
+            "status": "machine",
+            "zh_title": "黑根·道格拉斯"
+        },
+        "焦土三部曲": {
+            "status": "reviewed"
+        },
+        "Sadu-Hem": {
+            "status": "machine",
+            "zh_title": "萨杜-赫姆"
+        },
+        "Cayetano de Povedilla Otero Antormarchi": {
+            "status": "machine",
+            "zh_title": "卡耶塔诺·德·波韦迪利亚·奥特罗·安托尔马奇"
+        },
+        "Gunter Eiss": {
+            "status": "machine",
+            "zh_title": "京特·艾斯"
+        },
+        "万能机械": {
+            "status": "reviewed",
+            "note": "2026-09-13 蛙灾瘟疫系列，纯中文标准层固化（英文走 EN 回退视图）"
+        },
+        "Frederich Manstein": {
+            "status": "machine",
+            "zh_title": "弗雷德里希·曼施泰因"
+        },
+        "Raimund Diestel": {
+            "status": "machine",
+            "zh_title": "拉伊蒙德·迪斯特尔"
+        },
+        "Jason Armstrong": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Krampusnacht": {
+            "status": "machine",
+            "zh_title": "坎卜斯之夜",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tony Masso's Finest Hour": {
+            "status": "machine",
+            "zh_title": "托尼·马索的最光荣时刻"
+        },
+        "Adam Glaren": {
+            "status": "machine",
+            "zh_title": "亚当·格拉伦"
+        },
+        "Haden Blackman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mark Nelson": {
+            "status": "none"
+        },
+        "三条金鞭": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "杀戮的意志": {
+            "status": "machine"
+        },
+        "怒火燎原": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lord Hodgson": {
+            "status": "machine",
+            "zh_title": "霍奇森勋爵"
+        },
+        "Merlin": {
+            "status": "machine",
+            "zh_title": "梅林"
+        },
+        "Oannes Society": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "1946–1948 (story cycle)": {
+            "status": "machine",
+            "zh_title": "1946–1948",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joe Querio": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Big Baby": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "亚伯·塞皮恩科学的对立面": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Dragon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "恶魔不说笑": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "The Dragon": {
+            "status": "machine",
+            "zh_title": "巨龙"
+        },
+        "Mindy Lee": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Visitor": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "黑暗恐怖之处": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "海盗魂": {
+            "status": "machine"
+        },
+        "Hellboy: The God Machine": {
+            "status": "machine",
+            "zh_title": "地狱男爵：神之机器",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cameron Stewart": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sebek": {
+            "status": "machine",
+            "zh_title": "索贝克"
+        },
+        "Eligos": {
+            "status": "machine",
+            "zh_title": "埃利戈斯"
+        },
+        "Chelsea Cain": {
+            "status": "none"
+        },
+        "Anastasia Bransfield": {
+            "status": "machine",
+            "zh_title": "阿纳斯塔西娅·布兰斯菲尔德"
+        },
+        "Right Hand of Doom": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Heinrich Himmler": {
+            "status": "machine",
+            "zh_title": "海因里希·希姆莱"
+        },
+        "Hellboy Premiere Edition": {
+            "status": "machine",
+            "zh_title": "地狱男爵首发版",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "巨魔巫医": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Weird Tales": {
+            "status": "machine",
+            "zh_title": "地狱男爵：怪谈",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Next Men: Faith – Part 3": {
+            "status": "machine",
+            "zh_title": "Next Men：信念——第三部分",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "新世界": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Baron Konig": {
+            "status": "machine",
+            "zh_title": "柯尼希男爵"
+        },
+        "人人自危的荒原": {
+            "status": "reviewed",
+            "variant": "std"
+        },
+        "Cool Your Head": {
+            "status": "machine",
+            "zh_title": "冷静一下",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Toni Fejzula": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "John Cassaday": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "征服之虫（故事）": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "利奥波德·克茨": {
+            "status": "machine",
+            "zh_title": "利奥波德·克茨"
+        },
+        "Shattered": {
+            "status": "machine",
+            "zh_title": "破碎",
+            "variant": "machine",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jean-Marie de Grigny": {
+            "status": "machine",
+            "zh_title": "让-马里·德·格里尼"
+        },
+        "The Mirror": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "镜子"
+        },
+        "David Mack": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Arnold Wald": {
+            "status": "machine",
+            "zh_title": "阿诺德·瓦尔德"
+        },
+        "雅各布·斯特格纳": {
+            "status": "machine",
+            "zh_title": "雅各布·斯特格纳"
+        },
+        "Tom Fassbender": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Winter Special (2017)": {
+            "status": "machine",
+            "zh_title": "地狱男爵冬季特刊（2017）",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "九头蛇与狮子": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "And What Shall I Find There?": {
+            "status": "reviewed",
+            "variant": "std",
+            "zh_title": "我在彼处将会寻见什么？"
+        },
+        "Roderick Zinco": {
+            "status": "machine",
+            "zh_title": "罗德里克·津科"
+        },
+        "The Lobster": {
+            "status": "machine",
+            "zh_title": "大螯虾"
+        },
+        "即将推出": {
+            "status": "none"
+        },
+        "Lord Glaren": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "弗兰肯斯坦：地心之旅": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ben Stenbeck": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Last Witch of Fairfield": {
+            "status": "machine",
+            "zh_title": "费尔菲尔德最后的女巫",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "瑞安·苏克": {
+            "status": "partial"
+        },
+        "布拉格的吸血鬼": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mood Swings": {
+            "status": "machine",
+            "zh_title": "喜怒无常",
+            "variant": "mt",
+            "note": "2026-09-13 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lucky cat bone": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nick Filardi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-14 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Crooked Man (film)": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵：扭曲人（2024 真人电影）"
+        },
+        "Hellboy (2004 film) soundtrack": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵（2004）原声专辑"
+        },
+        "The Amazing Screw-On Head (Pilot)": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "神奇螺丝头（未播试播集）"
+        },
+        "The Dark Below": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "深渊之下（动画短片）"
+        },
+        "The Golden Army (promo)": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "黄金军团（宣传漫画）"
+        },
+        "Hellboy II: The Golden Army (soundtrack)": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "地狱男爵2：黄金军团（原声专辑）"
+        },
+        "Golden Army": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 电影组交叉核对后人工高质量翻译，pages_mt/pages 双层固化 | 2026-09-15 电影组：补侧栏中译名（含媒介消歧）",
+            "zh_title": "黄金军团（机械军团）"
+        },
+        "Alison Sampson": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Andrea Mutti": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Angela Slatter": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Anum Yassa": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Baolu": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Brennan Wagner": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Brian Augustyn": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Chris O'Halloran": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Craig Rousseau": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Dai Jieh": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Ethan Thomas": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Evelyn McDonald": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Gabriel Hernández Walta": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Gnome": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Hand of Glory": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文",
+            "zh_title": "荣耀之手"
+        },
+        "Hellboy II: The Art of the Movie": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文",
+            "zh_title": "地狱男爵2：电影艺术设定集"
+        },
+        "Hellboy: The Roleplaying Game": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文",
+            "zh_title": "地狱男爵：桌上角色扮演游戏"
+        },
+        "Jack the Ripper": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文",
+            "zh_title": "开膛手杰克"
+        },
+        "Leila del Duca": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Makoma (character)": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Margaret Truesdale": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Marie-Thérèse LaFleur": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Mary Wolf": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Márk László": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Olivier Vatine": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Ostasia": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Quinton Winter": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Rob Williams": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Saint-Sēbastien": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Salvatore Tasso": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Scarlett Santiago": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Semi-automatic pistol": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文",
+            "zh_title": "半自动手枪"
+        },
+        "Shawn McManus": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Shengli": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Steve Mannion": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Tiernen Trevallion": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Wylie Beckert": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 源站仅 stub 句，定版标准中文"
+        },
+        "Bob Schreck": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Freddye Lins": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dave Marshall": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Oliver Trumbolt": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Matt Dryer": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lemuria": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nimue (Brawlhalla)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Order-Hellboy&BPRD publication": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Glenn Barr": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Panya (series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gruagach (Brawlhalla)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Barbara Kesel": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jeff Parker": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gordon Asquith": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "John Workman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Daimio (Brawlhalla)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Sarah Jewell Mysteries": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Thrym": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sarah Dyer": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Utgard": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Shantel LaRocque": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Force For Good": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pat McEown": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sybacco": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Father Bill": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Kabandha": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nightingale": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Demon (Injustice)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Whittier Creature": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joseph Marcell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Martin Bassindale": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Phantom Limbs": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hannah Margetson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Neferu": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "William Stout": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ken Bruzenak": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "C.B. Cebulski": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jefferson White": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jason Arthur": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Yearning": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Grom (Fomorian)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Down Mexico Way": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Adeline Rudolph": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Animals (Injustice)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gallaragas": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Howard Eaton": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dinosaur": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jay Edidin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Brian Taylor": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Karl Brook": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Willie Schubert": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Shakti": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bob Fingerman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Amelia Brook": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Kia Asamiya": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dave Cooper": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Death Riding an Elephant (painting)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Iron Shoes": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Helena Gallaragas": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Behemoth": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Benaiah": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Venice": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Peter Tomasi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy vs. Lobster Johnson: The Ring of Death": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Allen Dulles": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Silver Lantern Club (organization)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Miss Truesdale": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Silver Lantern Club": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wendigo": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Silkard": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Zombies": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Family Ties": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lethe": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Annie Parkhouse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Todd Mignola": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Phantom": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Acheron": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Vârcolac (God)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Daniel Chabon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Valeria Burzo": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Todd Klein": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Leah McNamara": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "King Solomon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Eric Wright": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Objective Heuristic Metalanguage": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Savage Dragon Hellboy (TPB)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ananse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Naga": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fredrik Klar": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giuseppe Manunta": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gregory Manchess": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lance of Longinus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nukekubi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Creation of Hellboy Jr.": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Griart": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lewis": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "John Costanza": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hamilton": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Samantha Robertson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sean Konot": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Small Victories": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pernilla Aickman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Artist's Edition": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Evan Dorkin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hunahpu and Xbalanque": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Kali": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jill Thompson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cronie Troll": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hydra": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Father Kelly": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pterosaur": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cyrille Pomés": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Herbert Izzo": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Downtime": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Carmen Red Claw": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "David Hyde Pierce": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frankenstein; or, The Modern Prometheus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Karl Aronsson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lost Ones": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Schufftein glasses": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sandhu": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Durga": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mordred": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cipactlhem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Guardians of Mona": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Father Malakim": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Poltergeist": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Marbas": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Michael Heisler": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Fortune Teller": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Happy New Year, Ava Galluci": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Penanggalan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Menace of the Mechanical Monster": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Miser's Gift": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The British Paranormal Society (series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Longest Night": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Napoleon Bonaparte": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Margaret Laine": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mjollnir": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "RPG": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Gear (Injustice 2 Mobile)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Queen Victoria": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "New World": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pope Clement V": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Robert Isherwood": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Down Time": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Paul Nedin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hilary Barta": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Parade of Horrors": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Manticore": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Stephen DeStefano": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bobbie Jo Song": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jormungand": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Istra-Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Empty Chair": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Kung Pao Lobster": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rudolf Bergen": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Professional Help": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fearful Symmetry": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Haborym": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bureau for Paranormal Research and Defense (Injustice)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Marble": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "New World (Frankenstein story cycle)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bethmora": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jeffrey Tambor": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Matt Strackbein": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "John Hurt": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Elihu Cavendish": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The First 20 Years": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The City in the Sea": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sara May Blackburn": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Haures": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Selma Blair": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vucub Caquix": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Agares": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Judgment Bell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Roy Dotrice": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Quetzalcoatl": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Monster of Nivola": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Family Story": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Larzod": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Clem Robins": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Beast of Ingelheim": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "William Grenier": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Atlantis": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy (Brawlhalla)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Zach Howard": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Anna Walton": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Key to It All": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fifteen Minutes...": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jesse Lonergan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Queen Mab": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Daniele Serra": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Matthew Dow Smith": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Knights Templar": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rae Allen": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cave Troll": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Seth MacFarlane": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Yule Cat": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gusion": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nastassja Hansen": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Black Eyes": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "From Below": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Manley": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Werewolves": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Rumael": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fearless Dawn Meets Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tartarus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Des Vermis Mysteeriis": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "St. Agnes Church": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Four Horsemen of the Apocalypse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Forgotten Lives": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giant Bird": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vampire of Prague": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Falling Sky": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pandemonium (location)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Maggots, Maggots, Everywhere": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sanchez": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Camazotz": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Family Ties (Hellboy and the B.P.R.D. arc)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: 25 Years of Covers": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Norton Ricker": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy in Love": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nurse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Satyr": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vulcan Grenades": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Epke Vrooman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dragons": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cocytus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Ginger-Beef Boy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Astromagnet": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sytry": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Inquisitor": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Long Night at Goloski Station": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Orobas": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ogre": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sara Courteville": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Old Man Whittier": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Saint Leonard Wyrm": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Sending": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Styx": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Kalin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Toy Soldier": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Minotaur": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Peter Johnson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sven Olafson": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giant Monkey": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fragglewump": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ron Perlman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Igors": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Secret God of the Roma": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giant": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Painkiller Jane／Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Art of Fire": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Jr. vs Hitler": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mitri": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sparky Bear": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Sourcebook and Roleplaying Game": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Companion": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bael": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ereshigal": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wayne Barlowe": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wheezy the Sick Little Witch": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Thomas Haden Church": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Goddess of Manhattan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yggdrasil": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Abyss": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Behemoth (Demon)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Garm": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Crown of the Apocalypse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Ice Wolves": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hot": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Night of the Cyclops": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Anubis": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bruce Barker": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Proteus Club": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wilhelm Coppelius": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jesus Christ": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mike Allred": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Obsidian": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nohox Kanis": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pyramid of Death": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Magic": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mammon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giant Robot Hellboy Returns": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Peter Bergting": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Onchukov": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fisher of Souls": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Magical Mushroom Trip": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Acheron (river)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Beast of Vargu": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mac": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Salton Sea Monster": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Legendary Multiverse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Shadow Theater": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nothing But Blood": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Iron Shoes (character)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Koshchei (series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Goblin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Knights of October": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Phlegethon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Archibald Muraro": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Beleth": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mera-Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Adolfo Flores": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Ghost Ships of Labrador": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Baby Huey parody": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frankenstein (series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Serpent in the Garden: Ed Grey and the Last Battle for England": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Andras": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Lobster Johnson: The Satan Factory": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cavendish Hall": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Miss Truesdale (series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Shadow of the Golden Crane": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bishop Zrinyi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Savage Dragon 35": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tunungar": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hraesvelg": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Time Is a River": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The House of Candy Pain": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The last Demon in Hell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Squid of Man": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Goblin Night": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Jack Kesy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Devil Don't Smoke": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Beelzebub": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Bones of Giants (prose novel)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Jr. Gets a Car": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Pat Brosseau": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Secret of Chesbro House": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Enkeladite": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Sea of Forever": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "David Harbour": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Witch and Her Soul": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Her Fatal Hour": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Abu Gung": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Suggor Yogeroth": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy ／ Stranger Things: Free Comic Book Day 2024": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Seven Wives Club": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Fire Wolves": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Somnambo the Sleeping Giant": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "August Swain": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Professor Harvey Is Gone": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Serenity／Hellboy／Aliens: Free Comic Book Day 2016": {
+            "status": "reviewed",
+            "variant": "std",
+            "note": "2026-09-15 人工补记封面“宁静”汉字溯源；已固化到 pages 标准层，pages_mt 同步保留补记（mt_gate PASS）"
+        },
+        "The Menagerie": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Crown: A Tale of Hell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Wolvertons": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Foundry (comic series)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Return of Effie Kolb": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Winter Special (2019)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Web of Wyrd": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Domovoi": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bifrons": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ghost／Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Mummy's Curse": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Speed of Darkness": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Miss Truesdale and the Rise of Man": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Joseph Charles Dean and Henry Jenks": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Young Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Captain Henry and the Graveyard of Time": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy ／ Beasts of Burden: Sacrifice": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Time Out of Mind": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Belly of the Beast": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Mike Mignola's Hellboy in Hell Artist's Edition – Volume 2": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Science of Evil": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Black Wedding": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Saturn Returns": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Acheron (story)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yeti": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Caypor": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ghost of a Ghost": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Agent Navarro": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Thrilling Sky Adventures": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Tooth Fairies": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Itty Bitty Hellboy: The Search for the Were-Jaguar!": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Homunculus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "In the Chapel of Curious Objects": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Troll": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bill Wray": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Giant Robot Hellboy (story)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Batman／Hellboy／Starman": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Cedu-Barra": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Assault on Castle Death": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Sword of Hyperborea (story)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Silver Lantern Club (story)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Merfolk": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Aliens": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "New World (Frankenstein story arc)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ghennu-Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Last Knight of St. Hagan": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Behemoth (Ogdru Hem)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Injustice 2": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Hurricane": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Abu Gung and the Beanstalk": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy's revolver (2019 film)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Shambhala": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Bonji": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Hellboy 100 Project": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Snake": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dwarf": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Witches": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vigrid": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "A Plague of Wasps": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Zara-Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Fairies": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Gorinium": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Art of Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Hidden Land": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Goon 7": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Miss Truesdale and the Fall of Hyperborea": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Esteban": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Project Vampir Sturm": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Wieland Lorst": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Brawlhalla": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: Dogs of the Night": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ragna Rok (event)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Nunn-Jahad": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yotha-Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hammerheads": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Savage Dragon／Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Dark Horse Comics": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Troll Market": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vampire (creature)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hyperboreans": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Moloch": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hyperborean Sword": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yomyael": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Elf": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Sabrina Meets Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Angels of Destruction": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Asmodeus": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ælita": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frankenstein Undone": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Anchin": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Digital Issues": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Audio Dramas": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Human": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Vril": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Amazing Screw-On Head and Other Curious Objects": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Prisoner of Mars": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Art Books": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy: The Board Game": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ogdru Hem": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Ohnar": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Reign of Darkness": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Edith Howard": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The House of Lost Horizons": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Junior": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Servants of the Left Hand": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Katii O’Brien": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy's gun": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Yad Tovich": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Babe 2": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Blackbeard": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Monster-Sized Hellboy": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Aphrodite": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Victor Koestler": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Koshchei in Hell": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Wiki": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Castle Full of Blackbirds": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Madman Comics": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Demon": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Daoine Sidhe": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Frog monster": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "The Crooked Man (comic story)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）",
+            "zh_title": "扭曲人（漫画故事）"
+        },
+        "Hellboy (2004–2008 film character)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Deities": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy Universe timeline": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Story Publication Timeline": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "Hellboy (Injustice)": {
+            "status": "machine",
+            "variant": "mt",
+            "note": "2026-09-15 机翻待验证（pages_mt，mt_gate PASS）"
+        },
+        "地狱男爵：血皇后崛起 (2019)": {
+            "status": "reviewed",
+            "zh_title": "地狱男爵：血皇后崛起 (2019)"
+        }
+    }
+}

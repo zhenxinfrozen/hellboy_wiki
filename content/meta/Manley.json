@@ -1,0 +1,11 @@
+{
+ "cats": [
+  "Male_Characters",
+  "Witchfinder_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Witch finder-manley-lewis.png",
+ "img_source": "body",
+ "rows": []
+}

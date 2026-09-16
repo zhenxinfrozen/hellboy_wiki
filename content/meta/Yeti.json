@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Races_of_Man",
+  "Species",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Mythical_Creatures",
+  "Monsters",
+  "Animals"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Yeti.jpg",
+ "img_source": "body",
+ "rows": []
+}

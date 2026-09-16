@@ -1,0 +1,11 @@
+{
+ "cats": [
+  "Items",
+  "Weapons"
+ ],
+ "type": "Item",
+ "type_zh": "物品",
+ "image": "Seed of Destruction 1.jpg",
+ "img_source": "body",
+ "rows": []
+}

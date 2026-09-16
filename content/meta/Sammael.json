@@ -1,0 +1,51 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Desolate One <br>Lord of the Shadows <br>Harbinger of Pestilence <br>Seed of Destruction <br>Hound of Resurrection"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20%28film%29\">Hellboy</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "Brian Steele"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Seed of Destruction"
+  },
+  {
+   "label": "创作者",
+   "value": "Guillermo Del Toro"
+  },
+  {
+   "label": "亲属",
+   "value": "Multiple Clones"
+  }
+ ],
+ "image": "Sammael.jpg",
+ "cats": [
+  "Male Characters",
+  "Species",
+  "Mythical Creature",
+  "Monsters",
+  "Villains",
+  "Deceased Characters",
+  "Demons",
+  "Hellboy (2004 film) characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

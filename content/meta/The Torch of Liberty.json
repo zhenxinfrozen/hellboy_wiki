@@ -1,0 +1,40 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Paul Gibney"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Seed%20of%20Destruction\">Seed of Destruction</a><ref>This is his first Hellboy Appearance. He first appeared one month earlier in Danger Unlimited #1 by <a href=\"/entry/John%20Byrne\">John Byrne</a>.</ref>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Vigilante"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/John%20Byrne\">John Byrne</a><ref>In <a href=\"/entry/TPB%23Vol.%201%20Seed%20of%20Destruction\">Hellboy vol. 1 Seed of Destruction</a>, the copyright information states that \"The Torch of Liberty is a trademark of John Byrne, Inc.\"</ref>"
+  }
+ ],
+ "image": "Torch.jpg",
+ "cats": [
+  "Characters",
+  "Humans",
+  "Male Characters",
+  "Americans",
+  "Vigilantes",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

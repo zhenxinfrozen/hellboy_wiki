@@ -1,0 +1,26 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Box%20Full%20of%20Evil\">Box Full of Evil</a>"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  }
+ ],
+ "image": "Ualac 001.jpg",
+ "cats": [
+  "Demons",
+  "Characters",
+  "Male Characters",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

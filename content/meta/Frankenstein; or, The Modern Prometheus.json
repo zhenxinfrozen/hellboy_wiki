@@ -1,0 +1,20 @@
+{
+ "cats": [
+  "Story",
+  "Frankenstein_story"
+ ],
+ "type": "Story",
+ "image": "Frankenstein (first edition cover).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mary Shelley"
+  },
+  {
+   "label": "出版日期",
+   "value": "January 1, 1818"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

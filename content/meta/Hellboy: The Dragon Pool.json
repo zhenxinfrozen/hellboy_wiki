@@ -1,0 +1,19 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "March 2007"
+  }
+ ],
+ "image": "Hellboy - The Dragon Pool (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

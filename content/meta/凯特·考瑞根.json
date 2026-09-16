@@ -1,0 +1,29 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "BPRD Special Liason to Enhanced Talent Agents (2004 - current)<br><br>BPRD Director of Field Operations (2002-2004)<br><br>BPRD Paranormal/Folklore Consultant (1983-1999)<br><br>Professor of Folklore (1983 - 1998)"
+  }
+ ],
+ "image": "Kateface.jpg",
+ "cats": [
+  "Characters",
+  "B.P.R.D. agent",
+  "Living Characters",
+  "Americans",
+  "Female Characters",
+  "Humans",
+  "Hellboy Animated Characters"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,28 @@
+{
+ "cats": [
+  "Demons",
+  "Monsters",
+  "Villains",
+  "Goetia",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "image": "Orobas.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Demon Lord"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Witchcraft & Demonology"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

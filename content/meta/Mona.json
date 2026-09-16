@@ -1,0 +1,10 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": "Mona_.jpeg",
+ "cats": [
+  "Items"
+ ],
+ "img_source": "body"
+}

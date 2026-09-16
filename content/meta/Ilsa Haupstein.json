@@ -1,0 +1,39 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Ilsa Haupstein"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20%282004%20film%29\">Hellboy</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "<a href=\"/entry/Bridget%20Hodson\">Bridget Hodson</a>"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Seed%20of%20Destruction%23Part%20One\">Hellboy: Seed of Destruction #1</a>"
+  }
+ ],
+ "image": "Ilsa_Haupstein.png",
+ "cats": [
+  "Nazi",
+  "Deceased Characters",
+  "Female Characters",
+  "Germans",
+  "Humans",
+  "Villains",
+  "Hellboy (2004 film) characters",
+  "Hellboy characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

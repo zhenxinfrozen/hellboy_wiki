@@ -1,0 +1,38 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Humans",
+  "Scandinavians"
+ ],
+ "type": "Character",
+ "image": "PernillaAickman.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Edmond Aickman (father)"
+  },
+  {
+   "label": "职业",
+   "value": "Scholar"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: The Bones of Giants"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

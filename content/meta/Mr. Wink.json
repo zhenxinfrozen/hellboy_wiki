@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Troll (Cave Troll)"
+  },
+  {
+   "label": "职业",
+   "value": "TrollPrince Nuada's sidekick/best friend/henchman"
+  },
+  {
+   "label": "创作者",
+   "value": "Guillermo del Toro"
+  }
+ ],
+ "image": "MrWink.jpg",
+ "cats": [
+  "Villains",
+  "Trolls",
+  "Hellboy II: The Golden Army characters",
+  "Characters (2004–2008 film franchise)"
+ ],
+ "img_source": "body"
+}

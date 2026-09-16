@@ -1,0 +1,26 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "B.P.R.D._agent",
+  "Humans"
+ ],
+ "type": "Character",
+ "image": "Sara.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Agent of the Bureau for Paranormal Research and Defense"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

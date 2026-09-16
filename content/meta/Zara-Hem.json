@@ -1,0 +1,41 @@
+{
+ "cats": [
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Monsters",
+  "Villains",
+  "Deceased_Characters",
+  "Deities",
+  "Dragons"
+ ],
+ "type": "Character",
+ "image": "ZaraHem2.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "身高",
+   "value": "2.08 meters (Statue)50 meters (possessed a zombie)"
+  },
+  {
+   "label": "体重",
+   "value": "150kg (Statue)100kg (possessed a zombie)"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad (Parents)"
+  },
+  {
+   "label": "职业",
+   "value": "One of the Ogdru Hem<br>Worshipper of North America"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "[[Hellboy and the B.P.R.D.:1952]]"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

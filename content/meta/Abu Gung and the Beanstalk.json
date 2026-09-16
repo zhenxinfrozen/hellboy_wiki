@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Out-of-continuity_story"
+ ],
+ "type": "Story",
+ "image": "Scatterbrain 1.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "上色",
+   "value": "Dave Stewart"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "剪辑",
+   "value": "Scott Allie"
+  },
+  {
+   "label": "首发于",
+   "value": "Scatterbrain #1"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

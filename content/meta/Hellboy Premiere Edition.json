@@ -1,0 +1,28 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "作者",
+   "value": "Mike Mignola, John Arcudi"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola, Guy Davis"
+  },
+  {
+   "label": "出版日期",
+   "value": "March 2004"
+  },
+  {
+   "label": "出版",
+   "value": "Wizard, Dark Horse Comics"
+  }
+ ],
+ "image": "Premiere Edition 1.jpg",
+ "cats": [
+  "Comics",
+  "Article stubs"
+ ],
+ "img_source": "fandom"
+}

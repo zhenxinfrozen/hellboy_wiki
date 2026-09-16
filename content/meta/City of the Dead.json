@@ -1,0 +1,44 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/Chris%20Roberson\">Chris Roberson</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Ben%20Stenbeck\">Ben Stenbeck</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Michelle%20Madsen\">Michelle Madsen</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Sir Edward Grey, Witchfinder: City of the Dead #1–5"
+  },
+  {
+   "label": "连载日期",
+   "value": "August–December 2016"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23Grey4\">Witchfinder – Volume 4: City of the Dead</a>"
+  }
+ ],
+ "image": "City_of_the_Dead_1.jpg",
+ "cats": [
+  "Story",
+  "Witchfinder story"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Villains",
+  "Demons",
+  "Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Goetia"
+ ],
+ "type": "Character",
+ "image": "Gusion.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Demon Lord"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Black School"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

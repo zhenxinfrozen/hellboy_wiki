@@ -1,0 +1,13 @@
+**Edel Mischrasse** was a 16th century German philosopher and alchemist, and was the creator of [Roger](/entry/Roger).
+
+## History
+
+While a student in Wittenberg, Mischrasse had discovered a copy of *Flamma Recondus*, or *[The Secret Fire](/entry/The%20Secret%20Fire)*, carefully hidden in the university library. The book was a translation of the author's decipher of the Emerald Tablet that is a major key to alchemy. Mischrasse used the text as a starting point to create his homunculi.
+
+For three years, Mischrasse studied and experimented, perfecting his formulas and successfully creating several small homunculi before completing [his first man-sized homunculus](/entry/Roger%27s%20brother) in 1529. He kept the first homunculus a secret, in order to study it and improve his understanding of the science, but eventually his fear of the religious authorities led him to poison his creature and throw it into a well.
+
+Over the next thirty-six years, Mischrasse continued his work, constantly on the move for fear of discovery and prosecution, and establishing and then abandoning laboratories in remote areas of Eastern Europe. Four years after creating his first full-sized homunculus, Mischrasse created his second, the creature that would later to be known as [Roger](/entry/Roger), grown in a jar at Czege Castle in Romania. For the next three years, Mischrasse worked closely with his second homunculus, teaching it to read and to speak until it stopped moving. Having treated this second homunculus like a son, Mischrasse was unwilling to bring himself to destroy it and instead sealed the inert body in the Czege Castle laboratory before heading west again.
+
+Mischrasse was able to avoid the attention of the Inquisition until 1565 when he was arrested in the French town of Albi and thrown in prison. During his arrest, he swallowed the key to a hidden box containing his notes and the locations of his abandoned laboratories. Mischrasse remained in jail for a year, waiting for a trial that would never come. Soon, Mischrasse was visited by his first man-sized homunculus, who had willed itself to life. Mischrasse told the homunculus the location of the locked box containing his notes, and the creature strangled his creator and took the key from Mischrasse's stomach.
+
+**Category:Characters** **Category:Male Characters** **Category:Minor Character** **Category:Deceased Characters** **Category:Occultists** **Category:Germans**

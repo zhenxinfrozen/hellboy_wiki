@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Monsters",
+  "Demons",
+  "Spirits",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "image": "Nukekubi.jpeg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

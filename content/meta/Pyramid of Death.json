@@ -1,0 +1,25 @@
+{
+ "cats": [],
+ "type": "Story",
+ "image": "Hellboy Animated Volume 1 The Black Wedding.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Tad Stones"
+  },
+  {
+   "label": "作画",
+   "value": "Fabio Laguna"
+  },
+  {
+   "label": "首发于",
+   "value": "Hellboy Animated Volume 1: The Black Wedding"
+  },
+  {
+   "label": "出版日期",
+   "value": "January 2007"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Video_games"
+ ],
+ "type": "Game",
+ "image": "Hellboy dogs of the night pc.png",
+ "rows": [
+  {
+   "label": "开发商",
+   "value": "Cryo Studios<br>Hoplite Research"
+  },
+  {
+   "label": "出版社",
+   "value": "Cryo Interactive<br>Dreamcatcher Interactive"
+  },
+  {
+   "label": "平台",
+   "value": "PC, PlayStation"
+  },
+  {
+   "label": "上映日期",
+   "value": "December, 2000<br>April 4, 2004"
+  }
+ ],
+ "type_zh": "游戏",
+ "img_source": "keep"
+}

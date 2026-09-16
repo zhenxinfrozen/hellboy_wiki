@@ -1,0 +1,23 @@
+{
+ "cats": [
+  "Out-of-continuity_story"
+ ],
+ "type": "Story",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Bill Wray & Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Bill Wray & Mike Mignola"
+  },
+  {
+   "label": "首发于",
+   "value": "Hellboy Junior Halloween Special"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "image": null,
+ "img_source": "placeholder"
+}

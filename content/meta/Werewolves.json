@@ -1,0 +1,16 @@
+{
+ "cats": [
+  "Monsters",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Werewolves_and_therianthropes",
+  "Species",
+  "Races_of_Man",
+  "Mythical_Creatures"
+ ],
+ "type": "Species",
+ "image": "Helloboy Werewolf.jpg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

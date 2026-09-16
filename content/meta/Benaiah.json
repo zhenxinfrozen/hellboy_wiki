@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Humans",
+  "Male_Characters",
+  "Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Abrahamic"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Benaiah.jpeg",
+ "img_source": "body",
+ "rows": []
+}

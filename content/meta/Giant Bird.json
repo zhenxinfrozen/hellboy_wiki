@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Giant bird.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Unknown"
+  },
+  {
+   "label": "种族",
+   "value": "Monster"
+  },
+  {
+   "label": "职业",
+   "value": "Guard of the graveyard"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

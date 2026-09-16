@@ -1,0 +1,10 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "Saturn_Returns_1.jpg",
+ "cats": [
+  "Interior Artist"
+ ],
+ "img_source": "body"
+}

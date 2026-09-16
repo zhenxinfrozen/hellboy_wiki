@@ -1,0 +1,32 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "\"<a href=\"/entry/The%20Corpse\">The Corpse</a>\""
+  },
+  {
+   "label": "种族",
+   "value": "human"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "Mr. Monaghan (father), Margaret Monaghan (mother)"
+  }
+ ],
+ "image": "Alice.jpg",
+ "cats": [
+  "人物",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

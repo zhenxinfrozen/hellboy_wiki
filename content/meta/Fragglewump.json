@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Trolls",
+  "Magical_Beings",
+  "Hellboy_II:_The_Golden_Army",
+  "Monsters",
+  "Mythical_Creatures",
+  "Deceased_Characters"
+ ],
+ "type": "Species",
+ "image": "L.jpg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

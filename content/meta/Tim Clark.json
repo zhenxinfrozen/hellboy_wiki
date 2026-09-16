@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/1946\">B.P.R.D.: 1946 #1</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Soldier"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters",
+  "B.P.R.D. agent"
+ ],
+ "img_source": "placeholder"
+}

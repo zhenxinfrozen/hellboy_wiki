@@ -1,0 +1,48 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/F%C3%A1bio%20Moon\">Fábio Moon</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Hellboy 20th Anniversary Sampler"
+  },
+  {
+   "label": "连载日期",
+   "value": "March 22, 2014"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23HellboyInMexico\">Hellboy in Mexico</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23Hellboy_Shorts_Omni1\">Hellboy: The Complete Short Stories – Volume 1</a>"
+  }
+ ],
+ "image": "Hellboy_20th_Anniversary_Sampler.jpg",
+ "cats": [
+  "Story",
+  "Hellboy story"
+ ],
+ "img_source": "keep"
+}

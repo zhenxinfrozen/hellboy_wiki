@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Universal%20Machine\">The Universal Machine</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Field Agent"
+  }
+ ],
+ "image": "Devon.png",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "B.P.R.D. agent",
+  "Humans",
+  "Americans"
+ ],
+ "img_source": "keep"
+}

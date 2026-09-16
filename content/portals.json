@@ -1,0 +1,23 @@
+{
+  "characters": {
+    "section": "角色",
+    "title": "人物",
+    "title_en": "Characters",
+    "file": "characters.zh.md",
+    "file_en": "characters.en.md"
+  },
+  "stories": {
+    "section": "漫画故事",
+    "title": "漫画",
+    "title_en": "Comic Stories",
+    "file": "stories.zh.md",
+    "file_en": "stories.en.md"
+  },
+  "artists": {
+    "section": "创作者",
+    "title": "画师",
+    "title_en": "Creators",
+    "file": "artists.zh.md",
+    "file_en": "artists.en.md"
+  }
+}

@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Monsters",
+  "Mythical_Creatures",
+  "Species",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Greco-Roman_Myth"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Hellboy Minotaur.png",
+ "img_source": "body",
+ "rows": []
+}

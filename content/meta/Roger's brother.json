@@ -1,0 +1,51 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The homunculus<br>The colossal homunculus<br>the giant homunculus<br>The sinister homunculus"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Homunculus"
+  },
+  {
+   "label": "身高",
+   "value": "Man-sized<br>Giant body (In his colossus form)"
+  },
+  {
+   "label": "体重",
+   "value": "Man-sized<br>Giant body (In his colossus form)"
+  },
+  {
+   "label": "亲属",
+   "value": "Roger(brother)"
+  },
+  {
+   "label": "职业",
+   "value": "Mad Scientist<br>One of Edel Mischrasse 's creation (in the Past)<br>Destroyer (In his colossus form in present)"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: Wake the Devil #3"
+  }
+ ],
+ "image": "Evil Homunculi 001.PNG",
+ "cats": [
+  "Homonculi",
+  "Characters",
+  "Villains",
+  "Male Characters",
+  "Deceased Characters"
+ ],
+ "img_source": "fandom"
+}

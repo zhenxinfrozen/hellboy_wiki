@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Characters",
+  "Russians",
+  "Werewolves_and_therianthropes",
+  "Deceased_Characters",
+  "B.P.R.D._agent"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human (Formerly)<br>Werewolf"
+  },
+  {
+   "label": "职业",
+   "value": "Professor"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola & Matt Smith"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Long Night at Goloski Station"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

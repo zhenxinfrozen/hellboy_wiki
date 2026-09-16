@@ -1,0 +1,23 @@
+{
+ "cats": [
+  "Deities",
+  "Mythical_Creatures",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Species",
+  "Magical_Beings"
+ ],
+ "type": "Species",
+ "image": "Hecate.jpg",
+ "rows": [
+  {
+   "label": "体型",
+   "value": "Powerful<br>Iesser<br>omnipotent<br>self-created"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

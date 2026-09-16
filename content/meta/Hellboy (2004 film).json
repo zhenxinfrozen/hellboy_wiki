@@ -1,0 +1,78 @@
+{
+ "type": "Movie",
+ "type_zh": "电影",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "<a href=\"/entry/Guillermo%20del%20Toro\">Guillermo del Toro</a>"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> (comic book)<br>Guillermo del Toro (screen story &amp; screenplay)<br><a href=\"/entry/Peter%20Briggs\">Peter Briggs</a> (screen story)"
+  },
+  {
+   "label": "上映日期",
+   "value": "April 2, 2004"
+  },
+  {
+   "label": "片长",
+   "value": "122 min. (theatrical)<br>132 min. (director's cut)"
+  },
+  {
+   "label": "制片人",
+   "value": "Lawrence Gordon<br>Mike Richardson<br>Lloyd Levin"
+  },
+  {
+   "label": "配乐",
+   "value": "Marco Beltrami"
+  },
+  {
+   "label": "制作预算",
+   "value": "$60–66 million"
+  },
+  {
+   "label": "票房",
+   "value": "$99.8 million"
+  }
+ ],
+ "image": "HellboyMoviePoster.jpg",
+ "cats": [
+  "Hellboy (2004 film)",
+  "Films"
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "<a href=\"/entry/Guillermo%20del%20Toro\">Guillermo del Toro</a>"
+  },
+  {
+   "label": "Writer",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> (comic book)<br>Guillermo del Toro (screen story &amp; screenplay)<br><a href=\"/entry/Peter%20Briggs\">Peter Briggs</a> (screen story)"
+  },
+  {
+   "label": "Release date",
+   "value": "April 2, 2004"
+  },
+  {
+   "label": "Running time",
+   "value": "122 min. (theatrical)<br>132 min. (director's cut)"
+  },
+  {
+   "label": "Producers",
+   "value": "Lawrence Gordon<br>Mike Richardson<br>Lloyd Levin"
+  },
+  {
+   "label": "Music by",
+   "value": "Marco Beltrami"
+  },
+  {
+   "label": "Budget",
+   "value": "$60–66 million"
+  },
+  {
+   "label": "Box office",
+   "value": "$99.8 million"
+  }
+ ],
+ "img_source": "keep"
+}

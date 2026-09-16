@@ -1,0 +1,37 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Michael Mathers"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Alien"
+  },
+  {
+   "label": "亲属",
+   "value": "Ruby (wife)"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Conqueror Worm"
+  }
+ ],
+ "image": "visitor.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters"
+ ],
+ "img_source": "fandom"
+}

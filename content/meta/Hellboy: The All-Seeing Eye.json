@@ -1,0 +1,19 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mark%20Morris\">Mark Morris</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "October 2008"
+  }
+ ],
+ "image": "Hellboy - The All-Seeing Eye (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

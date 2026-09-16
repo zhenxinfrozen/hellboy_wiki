@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Characters",
+  "Male_Characters",
+  "Based_on_real_people",
+  "Witchfinder_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

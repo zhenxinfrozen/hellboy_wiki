@@ -1,0 +1,11 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": "Big_Baby.png",
+ "cats": [
+  "Hellboy II: The Golden Army",
+  "Items"
+ ],
+ "img_source": "body"
+}

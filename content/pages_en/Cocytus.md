@@ -1,0 +1,3 @@
+**Cocytus** is a river of [Hell](/entry/Hell). Within the river dwell the souls of average sinners, who are transformed into fish, which are taken out of the water by the [Fisher of Souls](/entry/Fisher_of_Souls) to be hammered into soldiers for Hell's army. These soldiers are then tossed into a pile, waiting for [Hellboy](/entry/Hellboy_(character)) to awaken them as his personal army.
+
+Later after [Eligos](/entry/Eligos) was killed by [Edward Grey](/entry/Edward_Grey) who became the embodiment of the river [Acheron](/entry/Acheron_(river)), Cocytus along with [Styx](/entry/Styx), [Phlegethon](/entry/Phlegethon), and [Lethe](/entry/Lethe) welcomed their newly ascended brother inviting him to join them.

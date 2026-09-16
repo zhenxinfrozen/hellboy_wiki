@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Witches",
+  "Species",
+  "Humans",
+  "Monsters",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Nimue 002.jpg",
+ "img_source": "body",
+ "rows": []
+}

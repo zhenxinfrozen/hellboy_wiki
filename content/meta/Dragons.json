@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Species",
+  "Monsters",
+  "Mythical_Creatures",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Dragons"
+ ],
+ "type": "Species",
+ "image": "Dragons.jpeg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

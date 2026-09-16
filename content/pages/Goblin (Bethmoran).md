@@ -1,0 +1,7 @@
+This **Unnamed Goblin** was the original creator of the Golden Army in *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*.
+
+During the war between the humans and magical creatures, the Goblin suggested creating an invincible army to King Balor. The King agreed to this plan, and the Goblin started work on the 4,900 soldiers. Though he lost his legs in the process, the Army was completed and sent to battle. The Army was too effective, though, and King Balor was shocked by the carnage caused. In the end, the Golden Army was shut down and sealed inside Bethmora. Bethmora was eventually abandoned, all except for the Golden Army's creator, who began to regret creating them.
+
+Eventually, [Hellboy](/entry/Hellboy%20%28character%29), [Liz](/entry/Liz%20Sherman), [Abe](/entry/Abe%20Sapien) and [Johann](/entry/Johann%20Kraus) came to Bethmora. The Goblin agreed to let them in if they would give him the shard embedded in Hellboy. But as trying to remove it would kill him, the Goblin brought them to the [Angel of Death](/entry/Angel%20of%20Death). After acquiring the shard, he showed Hellboy and co. to the resting place of the Golden Army and asked them to shut it down permanently.
+
+**Category:Mythical Creature** **Category:Monsters** **Category:Hellboy II: The Golden Army characters** **Category:Characters (2004–2008 film franchise)**

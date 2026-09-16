@@ -1,0 +1,19 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Lobster Johnson Characters",
+  "Characters",
+  "Villains",
+  "Female Characters",
+  "Occultists"
+ ],
+ "img_source": "placeholder"
+}

@@ -1,0 +1,28 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "High Priestess"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Vampire"
+  }
+ ],
+ "image": "ImagesBlood.jpg",
+ "cats": [
+  "Villains",
+  "Hellboy Animated Characters",
+  "Characters",
+  "Deceased Characters",
+  "Vampires",
+  "Witches"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,22 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "职业",
+   "value": "Clarion"
+  }
+ ],
+ "image": "Ratatosk.png",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Immortals",
+  "Deceased Characters"
+ ],
+ "img_source": "keep"
+}

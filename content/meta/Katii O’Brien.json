@@ -1,0 +1,16 @@
+{
+ "cats": [
+  "Editor",
+  "Real_people"
+ ],
+ "type": "RealPerson",
+ "image": "Katii O'Brien.webp",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

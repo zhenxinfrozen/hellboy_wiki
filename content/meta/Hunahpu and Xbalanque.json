@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Characters",
+  "Humans",
+  "Heroes",
+  "Mesoamerican_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "HunahpuAndXbalanque.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The mayan twins."
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "亲属",
+   "value": "Each Other (brothers)"
+  },
+  {
+   "label": "职业",
+   "value": "Mayan naiveties"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D. :The Shape of Things to Come"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

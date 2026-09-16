@@ -1,0 +1,49 @@
+![Box Full of Evil](/content/images/Box_Full_of_Evil_1.jpg)
+
+***Box Full of Evil*** is a two-issue miniseries written and drawn by [Mike Mignola](/entry/Mike%20Mignola). It was the first story to reveal Hellboy's secret crown.
+
+## Publication History
+
+*Box Full of Evil* was first published as a two-issue miniseries from August to September 1999. Each issue contained a backup story—*[The Killer in My Skull](/entry/The%20Killer%20in%20My%20Skull)* (the first *[Lobster Johnson](/entry/Lobster%20Johnson%20%28series%29)* story) in issue \#1 and *[Abe Sapien versus Science](/entry/Abe%20Sapien%20versus%20Science)* in issue \#2. A four-page epilogue was added to the story when it was collected in April 2000. The epilogue connected the story back to *[The Right Hand of Doom](/entry/The%20Right%20Hand%20of%20Doom)*.
+
+## Synopsis
+
+### Part One
+
+The story opens with [Hellboy](/entry/Hellboy) and [Abe Sapien](/entry/Abe%20Sapien) investigating a strange break-in in an English house. The owner relates that a man entered his house, broke down a wall over the fire place and left with a metal box and a pair of tongs. Hellboy notices that the broken wall one had a portrait of St. Dunstan on it, and the owner tells him that the house had one been a convent. The owner also got a vision of a sinister looking house.
+
+The Story cuts to the thief [Igor Bromhead](/entry/Igor%20Bromhead), speaking to a couple in the sinister looking house. He explains that Dunstan caught a demon with his tongs and trapped it inside the metal box. The couple, a Count and Countess, give Bromhead all their worldly possessions as payment. The Countess opens the box, and what looks like a fly flies out of the box and into her mouth. Possessed by the demon, she turns her husband into a monkey, and tries to transform Bromhead. However he wears a talisman with the image of St. Dunstan, granting him protection. Using the demon's secret name, [Ualac](/entry/Ualac), he binds and commands it. Bromhead asks the demon for wealth and power, the demon tells him of a treasure hidden in the house and of a great power. He explains that the “Harbinger of Apocalypse” is alive, and has denied his fate, however he still wears an invisible crown. This being has great power and even the regents of hell must follow him. The scene changes and it is revealed that [Hellboy](/entry/Hellboy) is in fact the Harbinger.
+
+Hellboy and Abe enter the house, and find the open box. The monkey shoots Abe and drags him away. At the same time Bromhead binds Hellboy, and using Ualac's help causes a crown to appear over Hellboy's head. Ualac takes the crown and Bromhead beats Hellboy with Dunstan's tongs. The issue ends with Abe chained to the wall, with the monkey standing over him.
+
+### Part Two
+
+The monkey stands over Abe and burns him with a red hot iron. Bromhead beats Hellboy almost to death, until Ualac tells him to stop. They must cut off Hellboy's hand before he is killed “lest his death bleed into it and poison it.” Ualac explains that the hand has the power of loose and command the [Ogdru Jahad](/entry/Ogdru%20Jahad) and to bring the soldiers of hell to life. Ualac takes Dunstan's tongs and they transform into a sword.
+
+Hellboy finds himself sitting below a tree, with [Dagda](/entry/Dagda), the goblin from *[The Corpse](/entry/The%20Corpse)*, and [Sir Edward Grey](/entry/Sir%20Edward%20Grey) looking down on him. The goblin tells him that since he no longer wears the crown, his name is no longer Anung Un Rama. Back in the house, since Hellboy's name is no longer Anung Un Rama, he is now free of Bromhead's binding. He attacks Ualac, and shatters the sword.
+
+Bromhead flees. Abe manages to free himself from the monkey. The monkey leaps at Abe, falls through a hole in the wall and lands on the treasure that Ualac mentioned earlier. Abe finds Bromhead and demands to know where Hellboy is. Bromhead locks himself in a room and invokes the demon [Astaroth](/entry/Astaroth) for help. Astaroth transforms the door of the room into a stone wall, protecting Bromhead. In the struggle Bromhead's talisman broke. With his protection broken, Astaroth turns the bottom half of Bromhead into a lizard.
+
+Hellboy, still fighting Ualac, breaks off his horns and stabs Ualac with them. The demon leaves the body and turns back into the fly like creature he was in the beginning. Hellboy leaps to catch Ualac and falls outside. Astaroth confronts Hellboy and takes Ualac back to hell. Astaroth holds out the crown. Hellboy says that he will never bring the apocalypse. Astaroth responds that he will hold onto the crown in hell and await Hellboy.
+
+Hellboy returns to the house and helps Abe. The final panel shows the count, turned into a monkey laying dead in the pile of treasure, with a crown on his head.
+
+### Epilogue
+
+[Kate Corrigan](/entry/Kate%20Corrigan) meets [Hellboy](/entry/Hellboy) in a field. She tells him that [Abe](/entry/Abe%20Sapien) will be ok. Hellboy talks about how he ignores asking questions about who he really is. However, sometimes things happen, and he is forced to confront his identity, but that at least this time he will again ignore it. Hellboy lets go of the paper from *[The Right Hand of Doom](/entry/The%20Right%20Hand%20of%20Doom)* and it is snatched up in midair by a large black bird.
+
+## Story Chronology
+
+The exact date of this story is never stated. It must take place after *[The Right Hand of Doom](/entry/The%20Right%20Hand%20of%20Doom)* but before *[Being Human](/entry/Being%20Human)*.
+
+## Gallery
+
+Covers by [Mike Mignola](/entry/Mike%20Mignola).
+
+文件:Box Full of Evil 1.jpg|Issue \#1 文件:Box Full of Evil 2.jpg|Issue \#2
+
+! colspan = 3 | [*Hellboy – Volume 4: The Right Hand of Doom*](/entry/TPB)
+
+sv:Box Full of Evil
+
+**Category:Story** **Category:Hellboy story**

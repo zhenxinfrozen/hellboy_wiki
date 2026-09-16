@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Hellboy%20in%20Hell\">Hellboy in Hell</a> #4"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Duke of Hell"
+  }
+ ],
+ "image": "Amdusias.jpg",
+ "cats": [
+  "Demons",
+  "Male Characters",
+  "Royalty",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

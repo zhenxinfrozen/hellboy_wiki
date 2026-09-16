@@ -1,0 +1,49 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Hellboy in Hell #7-8: The Hounds of Pluto"
+  },
+  {
+   "label": "连载日期",
+   "value": "August–September 2015"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23HB_Hell2\">Hellboy in Hell – Volume 2: The Death Card</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23Hellboy_Omni4\">Hellboy – Volume 4: Hellboy in Hell</a>"
+  }
+ ],
+ "image": "Hellboy_in_Hell_7.jpg",
+ "cats": [
+  "Story",
+  "Hellboy in Hell story",
+  "Hellboy story"
+ ],
+ "img_source": "keep"
+}

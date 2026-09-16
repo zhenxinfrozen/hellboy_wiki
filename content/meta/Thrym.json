@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Villains",
+  "Deities",
+  "Norse_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "ThrymByMikeMignola.jpg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

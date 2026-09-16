@@ -1,0 +1,44 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, <a href=\"/entry/Katie%20Mignola\">Katie Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Dark Horse Maverick: Happy Endings"
+  },
+  {
+   "label": "连载日期",
+   "value": "September 2002"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/The%20Amazing%20Screw-On%20Head%20and%20Other%20Curious%20Objects\">The Amazing Screw-On Head and Other Curious Objects</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23Hellboy_Omni4\">Hellboy – Volume 4: Hellboy in Hell</a>"
+  }
+ ],
+ "image": "TheMagicianAndTheSnake.png",
+ "cats": [
+  "Story",
+  "Story within a story"
+ ],
+ "img_source": "keep"
+}

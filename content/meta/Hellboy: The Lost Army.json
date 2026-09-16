@@ -1,0 +1,23 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "June 1, 1997"
+  }
+ ],
+ "image": "Hellboy - The Lost Army (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Prose"
+ ],
+ "type": "Book",
+ "image": "Lobster Johnson - The Satan Factory (Novel Cover).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Thomas E. Sniegowski"
+  },
+  {
+   "label": "出版日期",
+   "value": "July 22, 2009"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

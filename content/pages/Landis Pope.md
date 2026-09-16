@@ -1,0 +1,27 @@
+![Landis Pope](/content/images/Tumblr%20mig38ujNS81qkhas3o1%201280.jpg)
+
+**Landis Pope** was the CEO of the [Zinco Corporation](/entry/Zinco%20Corporation) and the recent mantle of the [Black Flame](/entry/The%20Black%20Flame%20%28character%29).
+
+## History
+
+Landis Pope succeeded as CEO of the Zinco Corporation following the death of [Roderick Zinco](/entry/Roderick%20Zinco). Pope continued his predecessor's ambitions with [Grigori Rasputin](/entry/Grigori%20Rasputin), but instead seeking to gain the powers of the Ogdru Hem. Pope tasked his R&D department with studying the frog monsters, to the extent that Pope is able to both speak to them and control them. For purposes of safety, Pope wore a suit of reinforced black armor when dealing with the frogs, but this costume serves a second purpose: it personifies him as the mysterious Black Flame. He was also responsible for killing [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) agent [Roger](/entry/Roger).
+
+Presumably under the guidance of some ancient text, Pope and the frogs performed an occult ritual, sucking the life force out of one frogman and enveloping Pope's skull-like helmet in a torch of obsidian fire. Suited up and ensorcelled as the Black Flame, Pope hoped to harness the power of [Katha-Hem](/entry/Katha-Hem) for his own personal gain. Too late did he discover that the destiny of the Black Flame is to simply "light the way" for Katha-Hem into the world, and that the frogs were not under his control.
+
+As Katha-Hem appeared in the world, the frogs harnessed Pope to a frame and carried him before them to guide the Ogdru Hem's path of destruction. Pope pleaded for release, lamenting that he had been *"forsaken",*to no avail.
+
+After [Liz Sherman](/entry/Liz%20Sherman) destroyed Katha-Hem, Pope was freed and encountered her. He begged her to help him out of his suit, the pieces of which had fused together and trapped him inside. He also apologized for his *"mistakes"* including summoning Katha-Hem and killing Roger. Before Liz could react to Pope's confession, he was seized by the remaining frog monsters and dragged into a deep chasm where the remains of Katha-Hem had fallen, still wailing that he was sorry and begging for help.
+
+Pope survived, but his suit mystically bonded with his body that transformed him into a being similar to the original Black Flame. He encountered the underground inhabitants led by the [King of Fear](/entry/King%20of%20Fear%20%28character%29).
+
+Pope subsequently forged an alliance with the King of Fear and his forces and together using ancient technology of the Golden Men began transferring Ogdru Hem spirits directly into the frogs. He also had the remaining frog monsters begin breeding more of their numbers and planned to unleash these horrors on the world to usher in the apocalypse.
+
+The B.P.R.D. led by [Abe Sapien](/entry/Abe%20Sapien) and Liz Sherman eventually managed to track him down in his underground lair where they were captured by the King of Fear. Pope to their surprise welcomed them as guests, much to the irritation of the King of Fear who refused to cooperate with the team. As Pope began to explain his true plans to the group the King of Fear began to realize that Pope never truelly intended to grant the world to him and was killed by Pope when he objected. Pope tried to convince Abe of his true destiny as the first of the new men and that it was his destiny to help usher in the new age but Abe refused to listen. Abe and the strike team were subsequently saved when Liz who through the guidance of an ancient shaman channeled her full power and completely annihilated Pope and all his forces in a world devastating explosion.
+
+Pope's spirit came to reside with the [Ogdru Jahad](/entry/Ogdru%20Jahad) in their crystalline prison; however, Pope's former second-in-command Isiah Marsten set out to revive him with the Zinco Corporation's resources. With the help of former Nazi scientists [Karl Ruprecht Kroenen](/entry/Karl%20Ruprecht%20Kroenen) and [Leopold Kurtz](/entry/Leopold%20Kurtz), whom Marsten had tricked into believing they were looking to revive [Rasputin](/entry/Rasputin), managed to pull Pope's soul back to Earth. With the engineered body they had received from the B.P.R.D. Pope was able to manifest as the Black Flame once again and immediately summed forth dozens of Ogdru Hem from beneath the earth to begin rampaging against humanity.
+
+Setting himself up as a god amongst the ruins of New York City the B.P.R.D. sent an assault force led by [Johann Kraus](/entry/Johann%20Kraus) and Liz to eliminate him. However, his rebirth had greatly increased his power and not even Liz at her full power could defeat him, forcing the B.P.R.D. to retreat as he unleashed a massive wave of energy that further devastated New York. However, Isiah Marsten was killed by [S.S.S.](/entry/Special%20Sciences%20Service) director [Iosif Nichayko](/entry/Iosif%20Nichayko) and Leopold Kurtz was captured by the B.P.R.D.
+
+The Black Flame was later killed by Liz following an [Ogdru Jahad](/entry/Ogdru%20Jahad) arriving on Earth. His remains were destroyed by Johann (see *[End of Days](/entry/End%20of%20Days)*).
+
+**Category:Characters** **Category:Male Characters** **Category:Villains** **Category:The Ogdru Jahad and their Agents** **Category:Nazi** **Category:Deceased Characters** **Category:Americans** **Category:Zinco Corporation** **Category:Demons**

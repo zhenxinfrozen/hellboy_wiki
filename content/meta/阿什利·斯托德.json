@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/War%20on%20Frogs\">War on Frogs #3</a>"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Field Agent, Former US Navy, Exorcist"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, <a href=\"/entry/John%20Arcudi\">John Arcudi</a>, <a href=\"/entry/Karl%20Moline\">Karl Moline</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "xxx"
+  }
+ ],
+ "image": "Asley Strode (By Cameron Stewart).jpg",
+ "cats": [
+  "Female Characters",
+  "B.P.R.D. agent",
+  "Living Characters",
+  "Americans",
+  "Humans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

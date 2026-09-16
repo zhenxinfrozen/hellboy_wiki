@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Seed%20of%20Destruction\">Hellboy:Seed of Destruction</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Psychic"
+  }
+ ],
+ "image": "Eden-Jones.jpg",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Humans",
+  "Psychics",
+  "Deceased Characters",
+  "British",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

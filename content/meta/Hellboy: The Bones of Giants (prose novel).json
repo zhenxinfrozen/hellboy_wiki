@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Prose"
+ ],
+ "type": "Book",
+ "image": "Hellboy - The Bones of Giants (Novel Cover).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Christopher Golden"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

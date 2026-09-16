@@ -1,0 +1,23 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The Crooked Man"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "image": "Jeremiahwitkins.jpg",
+ "cats": [
+  "Characters",
+  "Villains",
+  "Undead",
+  "Male Characters",
+  "Demons"
+ ],
+ "img_source": "body"
+}

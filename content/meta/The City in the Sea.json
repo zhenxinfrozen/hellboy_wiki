@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Article_stubs"
+ ],
+ "type": "Other",
+ "image": "Weird Tales 367.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Christopher Golden & Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "剪辑",
+   "value": "Jonathan Maberry"
+  },
+  {
+   "label": "首发于",
+   "value": "Weird Tales #367"
+  },
+  {
+   "label": "出版日期",
+   "value": "May 2023"
+  }
+ ],
+ "type_zh": "资料",
+ "img_source": "keep"
+}

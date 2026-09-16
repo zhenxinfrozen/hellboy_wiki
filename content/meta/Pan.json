@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Deities",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Greco-Roman_Myth"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Great God Pan"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

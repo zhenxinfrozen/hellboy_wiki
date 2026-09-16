@@ -1,0 +1,36 @@
+{
+ "cats": [
+  "Story",
+  "Koshchei_story"
+ ],
+ "type": "Story",
+ "image": "Koshchei in Hell 1.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Ben Stenbeck<br>Mike Mignola (epilogue)"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "剪辑",
+   "value": "Katii O'Brien"
+  },
+  {
+   "label": "首发于",
+   "value": "Koshchei in Hell #1–4"
+  },
+  {
+   "label": "出版日期",
+   "value": "November 2022 – April 2023 (#1–4), September 2023 (epilgue)"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

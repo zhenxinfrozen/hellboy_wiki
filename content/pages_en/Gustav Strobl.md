@@ -1,0 +1,49 @@
+**Gustav Strobl** was a 19th century German occultist and necromancer.
+
+## History
+
+### Background
+
+In 1800, as a young man, Gustav Strobl left home for seminary school in Augsburg, Germany until one night he saw something in his dream that caused him to delved in what he called the "darker philosophies". He and along with several of his classmates secretly studied the occult in what is known as the "Black School." For three years, these boys sleeplessly taught themselves until their education is complete. Upon their completion they are approached by the "schoolmaster" - the demon [Marbas](/entry/Marbas) - of the Black School to see the boys off by drawing straws - those who picked the short straws are seized and forced to run.
+
+Strobl, however, traded with another boy for the short straw and chosen to confront the schoolmaster rather than run. For his arrogance, the schoolmaster granted Strobl his real lessons that no other student were taught. On one final lesson, Strobl learned about the end of the world. But in his vision, Strobl believed that he belonged at the left hand of [Satan](/entry/Satan). Strobl soon left Augsburg and traveled for a time.
+
+Strobl arrived in Lausanne, where he attended a parish to teach the names of demons to the children and met a priest named Pierre Giraud, who also attended the Black School and had drawn the short straw in which his shadow was taken away by the schoolmaster. Strobl's presence there would also ruined Giraud.
+
+One evening, while on a walk, Strobl witnessed a group of witches. Presuming that the witches are flying to their Sabbath, Strobl followed one of them and threatened her in taking him to their next gathering or else he will tell what he saw to her husband. The witch reluctantly agreed to his demand and taught him how to mix oils that allows him to fly. On the next Sabbath, one of the witch's companions was offended by Strobl's presence and kicked him to the ground. Strobl awoke to find his hostess dead with a broken neck and he himself in Spain.
+
+Many years later, Strobl returned to Lausanne, where he burn down the witch's house and Giraud's church - in which by this time Giraud was long dead. He then traveled to Salamanca, where he revived the corpse of a witch who had been killed for cannibalism. By this time, Strobl was properly welcomed to the witches' Sabbath and then a door opened before him. The witches claimed that this door leads to [Hell](/entry/Hell), but Strobl was frightened by this since the first time he attended the Black School and passed up what might have been the path to his deepest desire.
+
+Soon later, Strobl traveled to Paris, where he "fell in love" with Catherine Lemieux, a successful fortuneteller. She brought him to an abandoned cathedral where they build up a coterie of curious mystic dabblers. To their surprise, Strobl succeeded in summoning a demon, [Orobas](/entry/Orobas), a Prince of Hell. Strobl mistaken Orobas for Satan and begged him for a position at the head of the Devil's Army, and even offered Lemieux and every soul in the church. Orobas was amused and told Strobl that he will grant him any station on Earth, but that he asked the impossible. On the next day, Lemieux had gone mad and Strobl left her.
+
+Throughout the century, Strobl met other great occultists and scolded them. Stating that they created buffers between themselves and the real power, which they feared. Strobl also hated witches, fearing that they be Satan's favored when the last day came. He took on a series of apprentices, including the Comte Guillaume De Carvalho, who had a familiar, which told Strobl about the demon [Asmodeus](/entry/Asmodeus) inhabiting in a cave in France. Strobl met Asmodeus, who warned him to abandon his quest but to no avail. After that, Strobl turned from conjuration to necromancy and Gematria.
+
+### In Hell
+
+In the last years of his life in 1866, Strobl took [Martin Gilfryd](/entry/Martin_Gilfryd) as his disciple. Gilfryd challenged Strobl to explore new areas of studies such as [Hecate](/entry/Hecate), [Hyperborea](/entry/Hyperborea), [Vril](/entry/Vril), and Egyptology. But Strobl rejected them and dismissed Gilfryd as a fool. Gilfryd, out of his own mania and fed up by his master's obsession with Hell, brutally murdered Strobl and nearly burned his body in his own fireplace before the police apprehended him.
+
+Strobl's spirit was sent to Hell, where he was tortured by its demonic denizens, including his master of the Black School, Marbas. By then, Strobl finally realized that the demon he summoned in Paris was not Satan and that he never gotten his wish. His torture lasted for years, and sometimes he was made to help tortured the other souls of the damned that he even found sickening. One female demon took a liking of Strobl in which he presented his master plan to her. The demon grant his wish for an audience with Satan in [Pandemonium](/entry/Pandemonium). Strobl said to the gathered demons that if they returned him to life, he will write a book that would renew Satan's fading influence on Earth. In exchange, he will get a station with the Army of Hell when the world finally ended.
+
+In 1879, the ghost of Gustav Strobl later appeared before Gilfryd who aided the witchfinder [Sir Edward Grey](/entry/Sir_Edward_Grey) in weakening a Hyperborean creature, to reveal that the magic Saa used against the creature was all Strobl's doing and mocked his former disciple for being incapable of wielding such powerful magic.
+
+### Alive Again
+
+Strobl was returned to London during World War I. He then set out to America, where he began his work on his book for seven years in which it become known as *[Witchcraft and Demonology: A Practical Guide for Witches, Warlocks and Covens](/entry/Witchcraft_and_Demonology%3A_A_Practical_Guide_for_Witches%2C_Warlocks_and_Covens)*. This book include everything he had learned in the Black School and containing a special rhythm of Hell that reached into a person's soul. Other occultists reviled Strobl and discredited his book. Antonis Kouvelis, a graduate of the Black School, attacked Strobl for putting such power in the hands of anyone who could read it. However, Strobl never cared for power but for his station.
+
+In the 1930's, Strobl met Professor [Trevor Bruttenholm](/entry/Trevor_Bruttenholm) who was investigating a haunting in Sussex. Bruttenholm was too occupied in his investigation that he never knew he was talking to Strobl. In December 23, 1944, the demon known as [Hellboy](/entry/Hellboy) appeared in which Strobl took this as a sign that he had been waiting for. Strobl kept his distance and observed Hellboy. By this time, Strobl developed an interest in the Indian version of the underworld, and lived briefly in Calcutta, before going further east. He met Hellboy in Angkor, and led him in a confrontation with a Naga demon, which Hellboy defeated. After that, Strobl was certain that Hellboy would be the leader of Hell's army and stand by him at the world's end.
+
+In 1958, Strobl's paperback version of *Witchcraft and Demonology* was released and caused a renewal of interest in the occult and Satanism. But the book caused a lot of tragic accidents with young people who gotten hold of the book. The [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) confiscated every copy of the paperback and attempted to find Strobl but were unsuccessful.
+
+### Present Day
+
+Gustav Strobl reappears as a supporting character in the ongoing [Abe Sapien](/entry/Abe_Sapien_%28series%29) series. Strobl is very interested in Abe and has resurrected the recently deceased B.P.R.D. [Agent Vaughn](/entry/Agent_Vaughn) to learn more about him. He promises to restore Vaughn to true life if he accompanies him. As of [*Abe Sapien* \#7](/entry/The_Shape_of_Things_to_Come), they are on their way to Seattle, Washington.
+
+At the Oregon-Washington border, Strobl has begun to notice that there is turmoil in the realm of Hell as his magic is getting significantly weaker. However despite this he is not distress and looks towards the source of the power that will come when the world ends.
+
+Once Agent Vaughn and Stobl reached Seattle, the former deceased agent attempted to escape from the mad occultist only to discover that the enchantment resurrecting him soon wore off. Gustav looked on and expressed his disappointment to his thrall.
+
+Soon after he learns from a demonic associate from his time in hell that the old heirachy had fallen in the underworld due to the result of Hellboy killing Satan and ending the royalty of Hell. Stobl was furious to learn of this as it meant all his plans to gain an important station in Hells armies were for naught as now it looked like hells armies would never rise and the world would belong to the Ogdru Jahad.
+
+Feeling aimless from his mission becoming pointless he redoubled his efforts to pursuing Abe Sapien. Knowing he possessed great power that he wished to wield he attacked him but Abe managed to escape. However finding old recordings of conversations Abe Sapien had with the late Professor Bruttleholm he learned of the origin of Abe's condition.
+
+Traveling to Saint-Sebastien and taking the power of the Water Angel hiding in the church, he transformed himself into an Ichthyo-humanoid just as Abe had decades earlier. Traveling by sea he managed to corner Abe again the two engaged in a brutal fight. Briefly overpowering him Strobl urged Abe to join him. Rationalizing that now they both possessed the blessings of Vril within them and as such it was their right to be the new guides of the final race of man. Rejecting his offer, Abe eventually Killed Strobl before passing out from his wounds having finally ended the menace of Hells great disciple.

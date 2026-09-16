@@ -1,0 +1,26 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Inquisitor.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Monster"
+  },
+  {
+   "label": "职业",
+   "value": "Guest at the monastery"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

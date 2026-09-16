@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Comics"
+ ],
+ "type": "Story",
+ "image": "ScrewOnHeadTPB.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola<br>Katie Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "上色",
+   "value": "Dave Stewart"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins<br>Pat Brosseau"
+  },
+  {
+   "label": "剪辑",
+   "value": "Scott Allie<br>Samantha Robertson<br>Daniel Chabon<br>Katii O’Brien (20th Anniversary Edition)"
+  },
+  {
+   "label": "出版日期",
+   "value": "September 1, 2010 (hardcover)<br>August 31, 2016 (Artist's Edition)<br>December 8, 2021 (trade paperback)<br>August 10, 2022 (20th Anniversary Edition)"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

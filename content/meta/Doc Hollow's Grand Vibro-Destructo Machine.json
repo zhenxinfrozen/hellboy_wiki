@@ -1,0 +1,47 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Doc Hollow's Grand Vibro-Destructo Machine"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/John%20Cassaday\">John Cassaday</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/John%20Cassaday\">John Cassaday</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "<a href=\"/entry/Hellboy%3A_Weird_Tales%23WeirdTales1\">Hellboy: Weird Tales #1-8</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "February 26, 2003 - April 14, 2004"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Hellboy%3A%20Weird_Tales%23WeirdTalesHC\">Hellboy: Weird Tales</a>"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Out-of-continuity story"
+ ],
+ "img_source": "placeholder"
+}

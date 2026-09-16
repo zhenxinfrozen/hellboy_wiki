@@ -1,0 +1,37 @@
+{
+ "cats": [
+  "Story",
+  "Hellboy_story",
+  "Hellboy_in_Hell_story"
+ ],
+ "type": "Story",
+ "image": "Parade of Horrors 1 Mignola.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Márk László"
+  },
+  {
+   "label": "上色",
+   "value": "Dave Stewart"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "首发于",
+   "value": "Hellboy in Hell: Parade of Horrors #1–2"
+  },
+  {
+   "label": "出版日期",
+   "value": "Scheduled for<br>December 2026 – January 2027"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

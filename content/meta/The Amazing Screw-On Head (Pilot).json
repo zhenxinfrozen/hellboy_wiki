@@ -1,0 +1,37 @@
+{
+ "cats": [
+  "Films"
+ ],
+ "type": "Movie",
+ "image": "The Amazing Screw-on Head DVD cover.jpeg",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "Chris Prynoski"
+  },
+  {
+   "label": "编剧",
+   "value": "Brian Fuller<br>Mike Mignola"
+  },
+  {
+   "label": "片长",
+   "value": "22 minutes"
+  }
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "Chris Prynoski"
+  },
+  {
+   "label": "Writer",
+   "value": "Brian Fuller<br>Mike Mignola"
+  },
+  {
+   "label": "Running time",
+   "value": "22 minutes"
+  }
+ ],
+ "type_zh": "电影",
+ "img_source": "keep"
+}

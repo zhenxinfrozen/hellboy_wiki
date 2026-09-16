@@ -1,0 +1,45 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Pat%20Brosseau\">Pat Brosseau</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "The Amazing Screw-On Head"
+  },
+  {
+   "label": "连载日期",
+   "value": "May 15, 2002"
+  },
+  {
+   "label": "合订本",
+   "value": "The Amazing Screw-On Head and Other Curious Objects"
+  }
+ ],
+ "image": "The_Amazing_Screw_On_Head.jpg",
+ "cats": [
+  "Story",
+  "Story within a story",
+  "Article stubs"
+ ],
+ "img_source": "keep"
+}

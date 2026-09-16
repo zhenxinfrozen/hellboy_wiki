@@ -1,0 +1,11 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": "Walter_Edmond_Heap.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters"
+ ],
+ "img_source": "body"
+}

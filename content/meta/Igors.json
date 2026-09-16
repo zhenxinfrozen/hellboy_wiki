@@ -1,0 +1,30 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Humans",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Guards.png",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Guards"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Humans"
+  },
+  {
+   "label": "职业",
+   "value": "Guards of the Asylum"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

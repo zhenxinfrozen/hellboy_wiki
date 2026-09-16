@@ -1,0 +1,33 @@
+{
+ "cats": [
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Ogdru_Hem",
+  "Characters",
+  "Villains",
+  "Monsters",
+  "Spirits",
+  "Deities"
+ ],
+ "type": "Character",
+ "image": "MeraHem.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad (parents)"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: Hell on Earth—The Abyss of Time"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

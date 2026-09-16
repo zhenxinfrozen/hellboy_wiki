@@ -1,0 +1,39 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Woody"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Black%20Sun\">Black Sun</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Agent (Specialist in Cryptozoology)"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Woody Farrier.jpg",
+ "cats": [
+  "Characters",
+  "B.P.R.D. agent",
+  "Male Characters",
+  "Americans",
+  "Article stubs"
+ ],
+ "img_source": "keep"
+}

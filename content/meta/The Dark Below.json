@@ -1,0 +1,46 @@
+{
+ "cats": [
+  "Hellboy_Animated",
+  "Films"
+ ],
+ "type": "Movie",
+ "image": "Hellboy Animated The Dark Below.jpg",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "Jan Carlee"
+  },
+  {
+   "label": "编剧",
+   "value": "Tad Stones"
+  },
+  {
+   "label": "上映日期",
+   "value": "2010"
+  },
+  {
+   "label": "片长",
+   "value": "6 minutes"
+  }
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "Jan Carlee"
+  },
+  {
+   "label": "Writer",
+   "value": "Tad Stones"
+  },
+  {
+   "label": "Release date",
+   "value": "2010"
+  },
+  {
+   "label": "Running time",
+   "value": "6 minutes"
+  }
+ ],
+ "type_zh": "电影",
+ "img_source": "keep"
+}

@@ -1,0 +1,37 @@
+**Ilsa Haupstein** was a Nazi scientist and a devoted follower of [Grigori Rasputin](/entry/Grigori%20Rasputin).
+
+## History
+
+Born in June 7th, 1919, Ilsa Haupstein was born in a nondescript house in the countryside east of Berlin, the third and last daughter of a mid-level country bureaucrat and a good German housewife. Ilsa's first years were remarkable only in that even as an infant, Ilsa never cried.
+
+Ilsa's early childhood passed without incident. She was recognized by her teacher for her unnatural athletic ability and was recommeneded to an elite gymnastic program in Berlin. Ilsa was soon sent to study under Germany's top coaches, in the country's most advanced training facility, and subsequently becoming the best gymnast at the age of thirteen. Unfortunately, Ilsa's success was short lived in which in 1933 she was physically impaired while completing a complicated dismount from uneven parallel bars. A later investigation revealed that the bar was sabotaged by an unscrupulous competitor. Less than a year later, the saboteur was found dead. Ilsa was questioned concerning her death, but no formal charges were ever filed.
+
+Although her injuries prevented her from competing again, Ilsa remained active in the gymnastic league, serving as an administrator in the Berlin offices until she was seventeen, which she was transferred to the Nazi party headquarters, where she worked as the secretary to the undersecretary to the Nazi brass [Heinrich Himmler](/entry/Heinrich%20Himmler).
+
+### The Third Reich
+
+In December 1936, Ilsa was promoted and caught the attention of Himmler, who put her through a series of grueling tests and brought her into the inner circle of the German Occult Bureau. Under Himmler, Ilsa met [Herman von Klempt](/entry/Herman%20von%20Klempt), [Karl Ruprecht Kroenen](/entry/Karl%20Ruprecht%20Kroenen), and [Leopold Kurtz](/entry/Leopold%20Kurtz). Ilsa Haupstein's first known role as a member of the Nazi military, was being head of the delegation that attempted to recruit [Vladimir Giurescu](/entry/Vladimir%20Giurescu) for the war effort. At some point she fell in love with him, and discovered that Giurescu was a vampire and could be healed from any ailment, through a specific ritual.
+
+### Project Ragna Rok
+
+Eventually, Haupstein was recruited for [Project Ragna Rok](/entry/Project%20Ragna%20Rok). As a member of this project, she became a highly devoted follower of a Russian mystic, who used the alias "The Master". She along with Kroenen and Kurtz formulated a plan to create a device to unleash the power of the [Ogdru Jahad](/entry/Ogdru%20Jahad). In 1944, on Tarmngant Island, Rasputin performed a ritual, that he said "Would ensure miracle for the Third Reich.". There, Haupstein revealed the Master's true identity as [Grigori Rasputin](/entry/Grigori%20Rasputin). Rasputin then told Haupstein, Kurtz, and Kroenen, that Germany was no longer safe for them, and that the true purpose of the ritual was to bring about a herald of his new age. He informed them that the fall of the Third Reich was upon them, and told them to cryogenically freeze themselves inside a castle in Norway until he needed their services again. Haupstein was then told she was betrayed, and that Vladimir Giurescu, her lover, had been executed.
+
+### The Giurescu Affair
+
+In 1994, in a failed attempt to release the Ogdru Jahad, Rasputin was killed by [Hellboy](/entry/Hellboy%20%28character%29), the very creature that he had brought to Earth back in 1944. After this Haupstein, and the other members of Project Ragna Rok, were unfrozen. Immediately, Ilsa set out to resurrect Giurescu using the vampire ritual that he had used so many times before so that they could be together again. She discovered that [Hans Ubler](/entry/Hans%20Ubler), who was once once trusted a member of Heinrich Himmler's inner circle, had smuggled Giurescu's body out of Germany. Haupstein then broke into Steinman's wax museum, shot him to death in cold blood, and reclaimed the vampire's body. Then aided by several Neo-Nazi thugs, including the cyborg brute [Unmensch](/entry/Unmensch), presumably supplied by [Roderick Zinco](/entry/Roderick%20Zinco), Haupstein succeeded in transferring Giurescu's body to the lower caverns of castle Giurescu. However, before the resurrection ritual could be completed, Haupstein was attacked by Hellboy who burst through the roof of the castle. Fortunately for her, the demon fell through the floor during a battle with Unmensch.
+
+### Death
+
+Before she and Giurescu could be reunited, Haupstein was contacted by Grigori Rasputin's ghost. Taken away from Giurescu's castle by Rasputin, Ilsa learns that would be unable to stand alongside him during storm brought about by Ragna Rok while in her mortal form. To remedy this, Rasputin requested [the Baba Yaga](/entry/Baba%20Yaga%20%28character%29) to have her servant [Koku](/entry/Koku) presented Haupstein with an iron maiden that killed hundreds of maiden. Told by Rasputin enter the iron maiden so her spirit can inhabit it while her human body died, Ilsa willingly enters the iron maiden. However, as Rasputin later learned in the events of the *[Conqueror Worm](/entry/Conqueror%20Worm%20%28story%29)*, Haupstein did not endure her physical death and the event only served to fuel [Vladimir Giurescu](/entry/Vladimir%20Giurescu) with her blood while her lifeless body became a vessel for [Hecate](/entry/Hecate) after her previous corporal form was destroyed by Hellboy. Some after, during the events of *[Darkness Calls](/entry/Darkness%20Calls)*, Ilsa's corpse was removed from the iron maiden by Igor Bromhead and sealed away alongside Giurescu's skeleton to render Hecate powerless.
+
+## Other media
+
+![Ilsa von Haupstein played by Bridget Hodson.](/content/images/IlsaHaupstein.jpg) Ilsa appeared in [Guillermo del Toro](/entry/Guillermo%20del%20Toro)'s 2004 film *[Hellboy](/entry/Hellboy%20%282004%20film%29)*, under the name *Ilsa von Haupstein* and portrayed by Bridget Hodson. In the film's storyline, also having romantic feelings for Rasputin, Ilsa was granted eternal youth by the sorcerer to continue their work. After Rasputin was sucked into the Ogdru Jahad's realm, Ilsa and Kroenen work to bring him back to their reality years later around the time that an upcoming eclipse would allow them to finish what they began decades ago. However, the scheme to use Hellboy to free the Ogdru Jahad failed and Ilsa remains by a dying Rasputin's side as they are crushed to death by the latter's "god" Behemoth. [Vanessa Eichholz](http://www.looper.com/107650/david-harbours-friends-tried-convince-play-hellboy/) plays the part of Ilsa in the new *Hellboy, Rise of the Blood Queen* film with David Harbour and Milla Jovovich. Neil Marshall is directing.
+
+## Trivia
+
+- The name "Hauptstein" consists of two German words: "Haupt" can mean "head" as well as "main" or "most important" while "Stein" is the German word for "stone"; therefore, her name could be thought to mean "stone-head" as in "cool-headed", refering to her unemotional character
+
+de:Ilsa Haupstein
+
+**Category:Nazi** **Category:Deceased Characters** **Category:Female Characters** **Category:Germans** **Category:Humans** **Category:Villains** **Category:Hellboy (2004 film) characters** **Category:Hellboy characters**

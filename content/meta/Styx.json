@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Locations",
+  "Greco-Roman_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Hell"
+ ],
+ "type": "Location",
+ "image": "Styx.jpeg",
+ "type_zh": "地点",
+ "img_source": "keep",
+ "rows": []
+}

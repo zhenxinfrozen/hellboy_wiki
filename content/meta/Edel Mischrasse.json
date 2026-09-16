@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Almost%20Colossus\">Almost Colossus</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Alchemist"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Minor Character",
+  "Deceased Characters",
+  "Occultists",
+  "Germans"
+ ],
+ "img_source": "placeholder"
+}

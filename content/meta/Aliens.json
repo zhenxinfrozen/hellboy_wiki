@@ -1,0 +1,28 @@
+{
+ "cats": [
+  "Species",
+  "Characters"
+ ],
+ "type": "Species",
+ "image": "Aliens2.jpg",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Unknown"
+  },
+  {
+   "label": "体型",
+   "value": "Humanoid"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "首次登场",
+   "value": "Hellboy: Seed of Destruction"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

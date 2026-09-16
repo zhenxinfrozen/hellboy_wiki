@@ -1,0 +1,38 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Rise%20of%20the%20Black%20Flame\">Rise of the Black Flame #1</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "British SOE Agent<br>Indian Imperial Police (Formerly)"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> &amp; <a href=\"/entry/Chris%20Roberson\">Chris Roberson</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Dr.%20N.K.%20Sandhu\">Dr. N.K. Sandhu</a> (Younger Sister)"
+  }
+ ],
+ "image": "A.N. Sandhu.jpeg",
+ "cats": [
+  "Humans",
+  "Male Characters",
+  "Deceased Characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

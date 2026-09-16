@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Vampires"
+ ],
+ "type": "Character",
+ "image": "CamazotzEsteban.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

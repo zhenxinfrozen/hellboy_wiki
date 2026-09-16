@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Wake%20the%20Devil\">Wake the Devil</a>"
+  },
+  {
+   "label": "种族",
+   "value": "demon"
+  },
+  {
+   "label": "职业",
+   "value": "Servant of the Baba Yaga"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": "Koku.jpg",
+ "cats": [
+  "Characters",
+  "Minor Character",
+  "Living Characters"
+ ],
+ "img_source": "keep"
+}

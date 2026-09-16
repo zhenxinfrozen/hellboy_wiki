@@ -1,0 +1,41 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Demons",
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Deceased_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Dragons",
+  "Villains",
+  "Deities",
+  "Mesoamerican_Myth"
+ ],
+ "type": "Character",
+ "image": "VucubCaquix .jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The bird demon<br>The Classic Maya bird<br>The principal bird deity"
+  },
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad (parent)"
+  },
+  {
+   "label": "职业",
+   "value": "Mayan spirit of Ogdru HemMayan mythology bird demon"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Shape of Things to Come"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,3 @@
+**Robert Amsel** was a [BPRD](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) agent that joined [Hellboy](/entry/Hellboy) on his first mission in Brazil in 1952. He turned out to be an agent working for [Malcolm Frost](/entry/Malcolm%20Frost) and attempted to kill Hellboy. After failing, he fled to Buenos Aires to escape arrest and reported his failures to Frost. When Frost renewed his plan and ordered Robert to kill Professor [Trevor Bruttenholm](/entry/Trevor%20Bruttenholm), Robert was very reluctant to follow Frost's order. But shortly after, Robert was murdered by [Varvara](/entry/Varvara) in which she burned him alive to serve as a warning for Frost.
+
+**Category:B.P.R.D. agent** **Category:Characters**

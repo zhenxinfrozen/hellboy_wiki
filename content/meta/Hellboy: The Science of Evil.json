@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Video_games"
+ ],
+ "type": "Game",
+ "type_zh": "游戏",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

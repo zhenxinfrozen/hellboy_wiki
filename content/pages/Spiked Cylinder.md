@@ -1,0 +1,3 @@
+<!-- missing image: Born_Again -->"](Spiked_Cylinder.jpg "The object's 1st appearance from "Born Again"") The 'Spiked Cylinder' is an old artifact from Hyperborea used by wise men to focus their power. It was found by [Roger](/entry/Roger) in the story "[Born Again](/entry/Born%20Again)." [Elizabeth Sherman](/entry/Elizabeth%20Sherman) used the object in *[The Black Flame](/entry/The%20Black%20Flame%20%28story%29)* to focus her fire powers and defeat [Katha-Hem](/entry/Katha-Hem). The object was lost at that time.
+
+**Category:Items**

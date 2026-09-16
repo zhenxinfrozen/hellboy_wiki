@@ -1,0 +1,29 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Conqueror%20Worm%20%28story%29\">Hellboy: Conqueror Worm #3</a>"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Ogdru%20Hem\">Ogdru Hem</a>"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Ogdru%20Jahad\">Ogdru Jahad</a> (parents)"
+  }
+ ],
+ "image": "Conqueror Worm (creature).png",
+ "cats": [
+  "Ogdru Hem",
+  "The Ogdru Jahad and their Agents",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

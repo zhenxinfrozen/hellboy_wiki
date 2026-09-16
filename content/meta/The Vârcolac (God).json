@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Mythical_Creatures",
+  "Monsters",
+  "Demons",
+  "Deities",
+  "Article_stubs"
+ ],
+ "type": "Character",
+ "image": "Varcolac.JPG",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

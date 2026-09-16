@@ -1,0 +1,1 @@
+**佩妮拉·艾克曼（Pernilla Aickman）** 是 [埃德蒙·艾克曼（Edmond Aickman）](/entry/Edmond_Aickman) 的女儿。她首次登场于2001年的文字小说 *[《地狱男爵：巨人之骨》](/entry/Hellboy%3A_The_Bones_of_Giants_(prose_novel))*。后来这部小说[在出版二十周年之际被改编](/entry/The_Bones_of_Giants_(comic_miniseries))为漫画，她也随之在漫画中登场。

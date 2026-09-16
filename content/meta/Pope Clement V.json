@@ -1,0 +1,28 @@
+{
+ "cats": [
+  "Humans",
+  "Characters",
+  "Male_Characters",
+  "Priests",
+  "Deceased_Characters",
+  "Based_on_real_people"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Bishop of Rome"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

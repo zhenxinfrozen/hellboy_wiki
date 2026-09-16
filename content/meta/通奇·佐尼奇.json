@@ -1,0 +1,13 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "The_Prayer_of_Neferu.jpg",
+ "cats": [
+  "Colorist",
+  "Interior Artist",
+  "Cover Artist",
+  "Writer"
+ ],
+ "img_source": "body"
+}

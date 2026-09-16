@@ -1,0 +1,34 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Humans",
+  "Characters",
+  "Male_Characters",
+  "Hellboy_and_the_B.P.R.D._Characters",
+  "Deceased_Characters",
+  "Based_on_real_people",
+  "Americans"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Director of Central Intelligence (1953-1961)<br>Deputy Director of Central Intelligence (1951-1953)<br>Deputy Director of Central Intelligence for Plans (1951)"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "1956"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

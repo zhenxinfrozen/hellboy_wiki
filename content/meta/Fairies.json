@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Species",
+  "Mythical_Creatures",
+  "Monsters",
+  "Magical_Beings",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "image": "AliceMonahanAndDaoine SidheRagnarok.jpeg",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "The Otherworld"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

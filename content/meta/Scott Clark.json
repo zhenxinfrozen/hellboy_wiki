@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Clark"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Wake%20the%20Devil\">Wake the Devil</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "special agent"
+  }
+ ],
+ "image": "Scan0003.jpg",
+ "cats": [
+  "Characters",
+  "B.P.R.D. agent",
+  "Humans",
+  "Deceased Characters",
+  "Male Characters",
+  "Americans"
+ ],
+ "img_source": "keep"
+}

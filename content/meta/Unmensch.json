@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Wake%20the%20Devil\">Hellboy: Wake the Devil</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Cyborg"
+  },
+  {
+   "label": "职业",
+   "value": "Super-soldier"
+  }
+ ],
+ "image": "Zirkus.jpg",
+ "cats": [
+  "Characters",
+  "Nazi",
+  "Minor Character",
+  "Deceased Characters",
+  "Germans"
+ ],
+ "img_source": "keep"
+}

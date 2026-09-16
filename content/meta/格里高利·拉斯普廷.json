@@ -1,0 +1,43 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Master"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "Hellboy"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: <a href=\"/entry/Seed%20of%20Destruction\">Seed of Destruction</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Sorcerer"
+  }
+ ],
+ "image": "Rasputin.jpg",
+ "cats": [
+  "The Ogdru Jahad and their Agents",
+  "Characters",
+  "Undead",
+  "Russians",
+  "Male Characters",
+  "Occultists",
+  "Humans",
+  "Villains",
+  "Hellboy (2004 film) characters"
+ ],
+ "img_source": "body"
+}

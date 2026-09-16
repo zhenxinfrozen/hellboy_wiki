@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Injustice_Characters",
+  "Injustice",
+  "Alternative_versions_of_Hellboy"
+ ],
+ "type": "Character",
+ "image": "InjusticeHellboy.jpg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Anung Un Rama"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human-demon hybrid"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

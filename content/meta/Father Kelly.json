@@ -1,0 +1,24 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Priests",
+  "Minor_Characters",
+  "Deceased_Characters",
+  "Characters",
+  "Male_Characters"
+ ],
+ "type": "Character",
+ "image": "Father Kelly.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

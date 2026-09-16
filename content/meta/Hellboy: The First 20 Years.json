@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Art_Books"
+ ],
+ "type": "Book",
+ "image": "Hellboy - The First 20 Years.png",
+ "rows": [
+  {
+   "label": "作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "出版日期",
+   "value": "March 19, 2014"
+  },
+  {
+   "label": "页数",
+   "value": "136"
+  },
+  {
+   "label": "出版方",
+   "value": "Dark Horse Comics"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

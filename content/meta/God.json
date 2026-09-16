@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Light, Creator, or Lord"
+  },
+  {
+   "label": "性别",
+   "value": "Genderless"
+  },
+  {
+   "label": "种族",
+   "value": "Deity"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Immortals",
+  "Deities",
+  "Vril"
+ ],
+ "img_source": "placeholder"
+}

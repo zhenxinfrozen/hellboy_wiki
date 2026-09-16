@@ -1,0 +1,18 @@
+{
+ "cats": [
+  "Actors",
+  "Hellboy:_The_Crooked_Man_(film)",
+  "Real_people",
+  "Cast"
+ ],
+ "type": "RealPerson",
+ "image": "Jefferson White.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

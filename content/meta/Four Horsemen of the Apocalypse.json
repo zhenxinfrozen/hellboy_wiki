@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Monsters",
+  "Villains",
+  "Mythical_Creatures",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Abrahamic"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

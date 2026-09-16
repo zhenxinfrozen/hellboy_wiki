@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Female_Characters",
+  "Humans",
+  "Characters",
+  "Lobster_Johnson_Characters"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Kyriakos Gallaragas"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola & Jason Armstrong"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Iron Prometheus"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

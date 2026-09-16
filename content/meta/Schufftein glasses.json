@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Items"
+ ],
+ "type": "Item",
+ "type_zh": "物品",
+ "image": "Schufftein glasses.jpg",
+ "img_source": "body",
+ "rows": []
+}

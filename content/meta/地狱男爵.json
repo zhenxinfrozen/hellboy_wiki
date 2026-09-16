@@ -1,0 +1,70 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Anung Un Rama<br>Red (films only)<br>Big Red (films only)"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20%282004%20film%29\">Hellboy (2004)</a><br><a href=\"/entry/Hellboy%20II%3A%20The%20Golden%20Army\">Hellboy II: The Golden Army</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "<a href=\"/entry/Ron%20Perlman\">Ron Perlman</a><br>Michael Leon Wooley (Injustice 2)<br>David Harbour (<a href=\"/entry/Hellboy%20%282019%20film%29\">2019 film</a>)"
+  },
+  {
+   "label": "种族",
+   "value": "Half-demon"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. field agent (1952–2001, 2018–)"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "亲属",
+   "value": "Arthur Pendragon (ancestor, deceased)<br><a href=\"/entry/Morgan%20Le%20Fey\">Morgan Le Fey</a> (ancestor)<br>Mordred (ancestor, deceased)<br><a href=\"/entry/Azzael\">Azzael</a> (father)<br><a href=\"/entry/Sarah%20Hughes\">Sarah Hughes</a> (mother, deceased)<br><a href=\"/entry/Astaroth\">Astaroth</a> (uncle, deceased)<br>Unnamed maternal half-brother (deceased)<br>Unnamed maternal half-sister (deceased)<br><a href=\"/entry/Gamori\">Gamori</a> (paternal half-sister)<br><a href=\"/entry/Gamon\">Gamon</a> (paternal half-brother, deceased)<br><a href=\"/entry/Lusk\">Lusk</a> (paternal half-brother, decceased)<br><a href=\"/entry/Trevor%20Bruttenholm\">Trevor Bruttenholm</a> (adoptive father, deceased)<br>Unnamed wife (separated)<br>Unborn twins (film only)"
+  }
+ ],
+ "image": "Hellboy_rzx_me-Characters-Icon-hellboy.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "B.P.R.D. agent",
+  "Demons",
+  "Americans",
+  "Hellboy Animated Characters",
+  "Half demons",
+  "Characters (2004–2008 film franchise)",
+  "Hellboy characters",
+  "人物"
+ ],
+ "rows_en": [
+  {
+   "label": "Created by",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "Affiliation",
+   "value": "<a href=\"/entry/B.P.R.D.\">B.P.R.D.</a>"
+  },
+  {
+   "label": "Publisher",
+   "value": "<a href=\"/entry/Dark_Horse_Comics\">Dark Horse Comics</a>"
+  },
+  {
+   "label": "Real name",
+   "value": "Anung un Rama"
+  }
+ ],
+ "img_source": "keep"
+}

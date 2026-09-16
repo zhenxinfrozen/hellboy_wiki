@@ -1,0 +1,32 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Hellboy_II:_The_Golden_Army"
+ ],
+ "type": "Book",
+ "image": "HellboyIITheArtOfTheMovie.jpg",
+ "rows": [
+  {
+   "label": "作者",
+   "value": "Guillermo del Toro<br>Mike Mignola<br>Sergio Sandoval<br>Francisco Ruiz Velasco"
+  },
+  {
+   "label": "出版日期",
+   "value": "June 15, 2008"
+  },
+  {
+   "label": "页数",
+   "value": "200"
+  },
+  {
+   "label": "出版方",
+   "value": "Dark Horse Comics"
+  },
+  {
+   "label": "ISBN",
+   "value": "1593079648"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

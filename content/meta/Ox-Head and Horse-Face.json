@@ -1,0 +1,37 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Ox-Head and Horse-Face"
+  },
+  {
+   "label": "性别",
+   "value": "Males"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Ghost%20Moon\">Ghost Moon</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Demons"
+  },
+  {
+   "label": "职业",
+   "value": "Guardians of Hell"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": "Ox-Head and Horse-Face1.png",
+ "cats": [
+  "Characters",
+  "Demons",
+  "Male Characters"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Male_Characters",
+  "Humans",
+  "Characters",
+  "Witchfinder_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "August Swain.jpeg",
+ "img_source": "body",
+ "rows": []
+}

@@ -1,0 +1,39 @@
+{
+ "cats": [
+  "Comics"
+ ],
+ "type": "Story",
+ "image": "Hellboy Winter Special (2019).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola<br>Scott Allie<br>Chris Roberson"
+  },
+  {
+   "label": "作画",
+   "value": "Márk László<br>Leila del Duca<br>Andrea Mutti"
+  },
+  {
+   "label": "上色",
+   "value": "Dave Stewart<br>Michelle Madsen<br>Lee Loughridge"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "剪辑",
+   "value": "Katii O'Brien"
+  },
+  {
+   "label": "首发于",
+   "value": "Hellboy Winter Special 2019"
+  },
+  {
+   "label": "出版日期",
+   "value": "January, 2020"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

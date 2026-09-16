@@ -1,0 +1,38 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Dr. Tolliver and Mr. Stump"
+  },
+  {
+   "label": "性别",
+   "value": "Males"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Rawhead%20and%20Bloody%20Bones\">Rawhead and Bloody Bones</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Ghost"
+  },
+  {
+   "label": "职业",
+   "value": "Grave Robbers"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": "Rawhead and Bloody Bones2.png",
+ "cats": [
+  "Characters",
+  "Spirits",
+  "Deceased Characters",
+  "Male Characters"
+ ],
+ "img_source": "keep"
+}

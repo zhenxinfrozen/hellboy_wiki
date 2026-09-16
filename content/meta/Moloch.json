@@ -1,0 +1,37 @@
+{
+ "cats": [
+  "Demons",
+  "Deities",
+  "Villains",
+  "Characters",
+  "Deceased_Characters",
+  "Hellboy_characters",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "Moloch.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Molech<br>Molek<br>the sun god"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Prince of Hell"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Chapel of Moloch"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,14 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Undead",
+  "Vampires",
+  "Villains"
+ ],
+ "img_source": "placeholder"
+}

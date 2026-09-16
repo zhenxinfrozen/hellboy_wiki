@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Queen of Blood, Vivienne"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "\"<a href=\"/entry/The%20Wild%20Hunt\">The Wild Hunt</a>\" #2 (mentioned in <a href=\"/entry/Darkness%20Calls\">Darkness Calls</a> #3)"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Witch"
+  }
+ ],
+ "image": "Nimue 002.jpg",
+ "cats": [
+  "Villains",
+  "Witches",
+  "Female Characters",
+  "Royalty",
+  "The Ogdru Jahad and their Agents",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

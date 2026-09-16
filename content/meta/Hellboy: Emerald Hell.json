@@ -1,0 +1,19 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Tom%20Picirilli\">Tom Picirilli</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "February 2008"
+  }
+ ],
+ "image": "Hellboy - Emerald Hell (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

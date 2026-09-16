@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Hellboy_characters",
+  "Deceased_Characters",
+  "Demons"
+ ],
+ "type": "Character",
+ "image": "WilhelmCoppelius.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Demon, formerly Human"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy in Hell"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

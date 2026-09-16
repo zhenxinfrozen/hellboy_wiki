@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Characters",
+  "Villains",
+  "Deities",
+  "Mesoamerican_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "Ereshkigal.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Ereshkigal"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Deity"
+  },
+  {
+   "label": "职业",
+   "value": "Mesopotamian goddess of the Underworld"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

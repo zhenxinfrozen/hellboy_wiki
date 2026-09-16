@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Video_games"
+ ],
+ "type": "Game",
+ "image": "Hellboy Web of Wyrd.jpg",
+ "rows": [
+  {
+   "label": "上映日期",
+   "value": "October 18th, 2023"
+  }
+ ],
+ "type_zh": "游戏",
+ "img_source": "keep"
+}

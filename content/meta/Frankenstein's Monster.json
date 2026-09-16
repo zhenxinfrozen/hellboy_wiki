@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Frankenstein's Monster"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/House%20of%20the%20Living%20Dead\">Hellboy: House of the Living Dead</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Flesh Golem"
+  },
+  {
+   "label": "职业",
+   "value": "Circus Freak"
+  }
+ ],
+ "image": "Frankenstein's Monster.png",
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Male Characters",
+  "Undead",
+  "Vril",
+  "Fictional characters with superhuman strength"
+ ],
+ "img_source": "fandom"
+}

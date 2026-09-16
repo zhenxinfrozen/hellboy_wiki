@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Species",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Species",
+ "image": "Nohox kanis2.png",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Hell"
+  },
+  {
+   "label": "体型",
+   "value": "Dog-like demons"
+  },
+  {
+   "label": "首次登场",
+   "value": "Hellboy: Dogs of the Night"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

@@ -1,0 +1,50 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/Chris%20Roberson\">Chris Roberson</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Stephen%20Green\">Stephen Green</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Hellboy and the B.P.R.D.: 1954—Black Sun #1–2"
+  },
+  {
+   "label": "期数",
+   "value": "Hellboy and the B.P.R.D. #11–12"
+  },
+  {
+   "label": "连载日期",
+   "value": "September–October 2016"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23HB%26BPRD1954\">Hellboy and the B.P.R.D.: 1954</a>"
+  }
+ ],
+ "image": "The_Black_Sun_1.jpg",
+ "cats": [
+  "Story",
+  "B.P.R.D. story",
+  "Hellboy story",
+  "Hellboy and the B.P.R.D. story"
+ ],
+ "img_source": "keep"
+}

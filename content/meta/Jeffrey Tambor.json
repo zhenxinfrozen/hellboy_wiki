@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Hellboy_II:_The_Golden_Army",
+  "Hellboy_(2004_film)",
+  "Hellboy_(2004–2008_film_franchise)",
+  "Cast",
+  "Real_people"
+ ],
+ "type": "RealPerson",
+ "image": "Jeffrey Tambor.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

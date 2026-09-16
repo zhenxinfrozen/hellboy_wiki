@@ -1,0 +1,11 @@
+The **Ohnar** are a race of intelligent apes native to a hidden island located somewhere near South America.
+
+## Background
+
+The Ohnar reside on an hidden island filled with prehistoric animals. In the distant past the island was home to a pre-[Hyperborean](/entry/Hyperboreans) culture known as the Kingdom of Ohnar-Dem. However its golden ule came to an end when the [vampire](/entry/Vampire) queen known as Vesperra came and usurped power over the city. The vampire ruled the Ohnar cruelly, feasting over their blood. Though the Ohnar feared the vampire and despaired over what had become of their city, they were more afraid for the young world. To save the world from the queen's darkness, the Ohnar led a revolt and imprisoned her in a stone coffin. The Ohnar elders though did not believe this to be enough and so used powerful magic to transport their land to a pocket dimension where time stood still.
+
+The Ohnar would eventually regress into a primitive tribal society, but always keeping vigilant guard over the ruins of their ancestor's city for Vesperra's return. During the early 1940s, Scarlett Sandiago crashed on the Ohnar's island. The Ohnar discovered her and in order to save her enacted a ritual that bonded the woman to Un-Gaaah and became their protector.
+
+In 1947, Hellboy and Professor [Trevor Bruttenholm](/entry/Trevor_Bruttenholm) crashed their plane unto the island escaping an assassin. Sandiago found the pair and brough them to the Ohnar where the two outsiders befriended the ape-like creatures. However the assassin that failed to kill the two was possessed by Vesperra's spirit and used to free her. Sandiago attempted to fight Vesperra but was no match and the vampire fed on her blood. Invigorate dby the power of the spirit god within her, the vampire used her magics to mutant the wildlife around her to take revenge on the Ohnar. The Ohnar elders though sensed this and used their magic to empower Santiago and with Hellboy and Bruttenholm's help defeated Vesperra causing her creations to flee with their injured queen back into the jungles.
+
+Once the crisis passed, Bruttenholm and Hellboy's memories were wiped to preserve the secret of the island and were sent back to the world outside the pocket dimension.

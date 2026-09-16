@@ -1,0 +1,15 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "B.P.R.D. agent",
+  "Humans",
+  "Americans",
+  "人物"
+ ],
+ "img_source": "placeholder"
+}

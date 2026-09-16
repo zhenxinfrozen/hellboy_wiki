@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Characters",
+  "Demons",
+  "Royalty",
+  "Male_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "Mammon.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Unspecified"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "High-ranking demon"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

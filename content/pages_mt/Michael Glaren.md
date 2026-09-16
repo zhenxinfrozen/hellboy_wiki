@@ -1,0 +1,1 @@
+**迈克尔·格拉伦勋爵（Lord Michael Glaren）**是[拉神日轮兄弟会](/entry/Heliopic_Brotherhood_of_Ra)（HBR）的高级成员，也是[亚当·格拉伦勋爵](/entry/Adam_Glaren)的弟弟。1880 年亚当死后，迈克尔接手照管[潘雅](/entry/Panya_%28character%29)。潘雅被允许在知识领域自由探索，并参与了 HBR 的许多科学与超自然实验。然而，她渐渐厌倦了被终日关在室内，决定离开一段时间，但格拉伦勋爵不许她走。不久后，[奥安尼斯社团](/entry/Oannes_Society)向潘雅许诺让她在美国获得自由，她便随他们从 HBR 逃走，从此再没见过格拉伦勋爵。

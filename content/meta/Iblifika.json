@@ -1,0 +1,29 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Princess"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Universal Machine"
+  }
+ ],
+ "image": "Iblifika.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Demons"
+ ],
+ "img_source": "fandom"
+}

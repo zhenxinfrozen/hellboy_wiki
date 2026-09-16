@@ -1,0 +1,34 @@
+{
+ "cats": [
+  "B.P.R.D._agent",
+  "Male_Characters",
+  "Humans",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "image": "Navarro.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Field Agent"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Black Flame"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

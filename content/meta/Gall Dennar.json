@@ -1,0 +1,26 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Tribesman"
+  }
+ ],
+ "image": "Gall.jpg",
+ "cats": [
+  "Humans",
+  "Male Characters",
+  "Article stubs",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

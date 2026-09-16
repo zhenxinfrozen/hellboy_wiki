@@ -1,0 +1,1 @@
+***The Great Blizzard*** is a short story that originally appeared in the *[Hellboy Winter Special (2017)](/entry/Hellboy_Winter_Special_%282017%29)*. It focuses on [Sir Edward Grey](/entry/Edward_Grey) and [Sarah Jewell](/entry/Sarah_Jewell) in a mysterious blizzard in March 1891.

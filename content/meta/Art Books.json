@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Sketchbooks"
+ ],
+ "type": "Book",
+ "type_zh": "图书",
+ "image": "Hand Numbered.png",
+ "img_source": "body",
+ "rows": []
+}

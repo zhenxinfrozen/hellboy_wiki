@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Humans",
+  "Villains",
+  "Lobster_Johnson_Characters"
+ ],
+ "type": "Character",
+ "image": "Neferu.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "职业",
+   "value": "High priestess of Anubis<br>Queen of the Underworld"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Prayer of Neferu"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,33 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Characters",
+  "Male_Characters",
+  "Deceased_Characters",
+  "Villains",
+  "Nazi",
+  "Lobster_Johnson_Characters"
+ ],
+ "type": "Character",
+ "image": "Steel Hawk.jpg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "\"The Steel Hawk\""
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: The Dead #3"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

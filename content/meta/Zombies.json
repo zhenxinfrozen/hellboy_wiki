@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Species",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Species",
+ "image": "Zombies.png",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Earth"
+  },
+  {
+   "label": "体型",
+   "value": "Human-like"
+  },
+  {
+   "label": "首次登场",
+   "value": "Hellboy: Dogs of the Night"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

@@ -1,0 +1,51 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Command Performance"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Will%20Pfeifer\">Will Pfeifer</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/P.%20Craig%20Russell\">P. Craig Russell</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Lovern%20Kindzierski\">Lovern Kindzierski</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Galen%20Showman\">Galen Showman</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "<a href=\"/entry/Hellboy%3A_Weird_Tales%23WeirdTales6\">Hellboy: Weird Tales #6</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "December 10, 2003"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/Hellboy%3A%20Weird_Tales%23WeirdTalesVol2\">Hellboy: Weird Tales Volume 2</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Hellboy%3A%20Weird_Tales%23WeirdTalesHC\">Hellboy: Weird Tales</a>"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Out-of-continuity story"
+ ],
+ "img_source": "placeholder"
+}

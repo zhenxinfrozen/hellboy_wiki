@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Wake%20the%20Devil\">Wake the Devil</a>"
+  },
+  {
+   "label": "职业",
+   "value": "Witch"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Baba_Yaga.jpg",
+ "cats": [
+  "Characters",
+  "The Ogdru Jahad and their Agents",
+  "Witches",
+  "Villains",
+  "Female Characters"
+ ],
+ "img_source": "keep"
+}

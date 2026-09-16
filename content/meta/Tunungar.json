@@ -1,0 +1,11 @@
+{
+ "cats": [
+  "Locations",
+  "Hyperborean"
+ ],
+ "type": "Location",
+ "image": "Tunugar.jpg",
+ "type_zh": "地点",
+ "img_source": "keep",
+ "rows": []
+}

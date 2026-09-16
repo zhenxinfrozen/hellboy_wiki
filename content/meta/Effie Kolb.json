@@ -1,0 +1,15 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": "Effiekolb.jpg",
+ "cats": [
+  "Villains",
+  "Characters",
+  "Witches",
+  "Female Characters",
+  "Humans",
+  "Americans"
+ ],
+ "img_source": "body"
+}

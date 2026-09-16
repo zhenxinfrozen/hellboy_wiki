@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Interior_Artist",
+  "Colorist",
+  "Cover_Artist"
+ ],
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

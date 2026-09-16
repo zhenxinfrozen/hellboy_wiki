@@ -1,0 +1,581 @@
+{
+    "_meta": {
+        "version": "0.1-draft",
+        "updated": "2026-09-12",
+        "note": "唯一译名事实源（草案）。zh=规范中译正名；aliases=旧译/常见变体/港台译，仅作兼容与内链回退，不作为正名；slug=站内英文 permalink。",
+        "convention": {
+            "title": "标题与正文统一用 zh 正名；首次出现可括注英文。",
+            "link": "内链显示中文，底层 href 走 slug 英文 permalink；缺中文条目回退英文标题。"
+        },
+        "review": {
+            "pending": "机译/AI新译、尚未人工确认；后台「待审核」视图可筛",
+            "confirmed": "已人工确认（字段缺省亦视为 confirmed，兼容旧词条）"
+        }
+    },
+    "terms": {
+        "Hellboy (character)": {
+            "zh": "地狱男爵",
+            "slug": "Hellboy (character)",
+            "aliases": [
+                "地狱小子",
+                "地狱男孩",
+                "地獄怪客"
+            ],
+            "type": "character",
+            "core": true
+        },
+        "B.P.R.D.": {
+            "zh": "超自然调查防御署",
+            "slug": "B.P.R.D. (series)",
+            "aliases": [
+                "BPRD",
+                "超自然现象研究与防御局"
+            ],
+            "type": "organization"
+        },
+        "Elizabeth Sherman": {
+            "zh": "丽兹·舍曼",
+            "slug": "Elizabeth Sherman",
+            "type": "character",
+            "core": true
+        },
+        "Abraham Sapien": {
+            "zh": "亚伯·塞皮恩",
+            "slug": "Abraham Sapien",
+            "type": "character",
+            "core": true
+        },
+        "Katherine Corrigan": {
+            "zh": "凯特·考瑞根",
+            "slug": "Katherine Corrigan",
+            "type": "character",
+            "core": true
+        },
+        "Roger": {
+            "zh": "罗杰",
+            "slug": "Roger",
+            "type": "character",
+            "core": true
+        },
+        "Benjamin Daimio": {
+            "zh": "本·达米奥",
+            "slug": "Benjamin Daimio",
+            "type": "character",
+            "core": true
+        },
+        "Johann Kraus": {
+            "zh": "约翰·克劳斯",
+            "slug": "Johann Kraus",
+            "type": "character",
+            "core": true
+        },
+        "Panya (character)": {
+            "zh": "潘雅",
+            "slug": "Panya (character)",
+            "type": "character",
+            "core": true
+        },
+        "Fenix Espejo": {
+            "zh": "菲尼克斯·埃斯佩霍",
+            "slug": "Fenix Espejo",
+            "type": "character",
+            "core": true
+        },
+        "Ted Howards": {
+            "zh": "泰德·霍华德",
+            "slug": "Ted Howards",
+            "type": "character",
+            "core": true
+        },
+        "Ashley Strode": {
+            "zh": "阿什利·斯托德",
+            "slug": "Ashley Strode",
+            "type": "character",
+            "core": true
+        },
+        "James Henry O’Donnell": {
+            "zh": "J·H·奥唐纳教授",
+            "slug": "James Henry O’Donnell",
+            "type": "character",
+            "core": true
+        },
+        "Trevor Bruttenholm": {
+            "zh": "特雷佛·布鲁姆",
+            "slug": "Trevor Bruttenholm",
+            "type": "character",
+            "core": true
+        },
+        "Simon Anders": {
+            "zh": "西蒙·安德斯",
+            "slug": "Simon Anders",
+            "type": "character",
+            "core": true
+        },
+        "Jacob Stegner": {
+            "zh": "雅各布·斯特格纳",
+            "slug": "Jacob Stegner",
+            "type": "character",
+            "core": true
+        },
+        "Susan Xiang": {
+            "zh": "苏珊·项",
+            "slug": "Susan Xiang",
+            "type": "character",
+            "core": true
+        },
+        "Woodrow Farrier": {
+            "zh": "伍德罗·法瑞尔",
+            "slug": "Woodrow Farrier",
+            "type": "character",
+            "core": true
+        },
+        "Edward Grey": {
+            "zh": "爱德华·格雷",
+            "slug": "Sir Edward Grey",
+            "type": "character",
+            "core": true
+        },
+        "Sarah Jewell": {
+            "zh": "Sarah Jewell",
+            "slug": "Sarah Jewell",
+            "type": "character",
+            "core": true
+        },
+        "Lobster Johnson": {
+            "zh": "大螯虾强生",
+            "slug": "Lobster Johnson",
+            "type": "character",
+            "core": true,
+            "aliases": [
+                "大鳌虾强生",
+                "龙虾强生"
+            ]
+        },
+        "Harold McTell": {
+            "zh": "Harold McTell",
+            "slug": "Harold McTell",
+            "type": "character",
+            "core": true
+        },
+        "Cynthia Tynan": {
+            "zh": "辛西雅·泰南",
+            "slug": "Cynthia Tynan",
+            "type": "character",
+            "core": true
+        },
+        "Frankenstein (character)": {
+            "zh": "Frankenstein's Monster",
+            "slug": "Frankenstein (character)",
+            "type": "character",
+            "core": true
+        },
+        "Ogdru Jahad": {
+            "zh": "奥古·桀哈",
+            "slug": "Ogdru Jahad",
+            "type": "character",
+            "core": true,
+            "review": "pending",
+            "aliases": [
+                "奥格德鲁·贾哈德",
+                "奥格鲁·贾哈德"
+            ],
+            "note": "旧正名『奥古·桀哈』全站仅1篇；已发布正文3篇用『奥格德鲁·贾哈德』，维基通译『奥格鲁·贾哈德』。是否全站统一待人工拍板。"
+        },
+        "Hecate": {
+            "zh": "赫卡特",
+            "slug": "Hecate",
+            "type": "character",
+            "core": true
+        },
+        "The Black Flame (character)": {
+            "zh": "黑焰",
+            "slug": "The Black Flame (character)",
+            "type": "character",
+            "core": true
+        },
+        "Varvara": {
+            "zh": "瓦尔瓦拉",
+            "slug": "Varvara",
+            "type": "character",
+            "core": true
+        },
+        "Satan": {
+            "zh": "撒旦",
+            "slug": "Satan",
+            "type": "character",
+            "core": true
+        },
+        "Nimue": {
+            "zh": "血皇后",
+            "slug": "Nimue",
+            "type": "character",
+            "core": true
+        },
+        "Grigori Rasputin": {
+            "zh": "格里高利·拉斯普廷",
+            "slug": "Grigori Rasputin",
+            "type": "character",
+            "core": true
+        },
+        "Karl Ruprect Kroenen": {
+            "zh": "克焰人",
+            "slug": "Karl Ruprect Kroenen",
+            "type": "character",
+            "core": true
+        },
+        "Leopold Kurtz": {
+            "zh": "利奥波德·克茨",
+            "slug": "Leopold Kurtz",
+            "type": "character",
+            "core": true
+        },
+        "Herman von Klempt": {
+            "zh": "赫尔曼·冯·卡朗普特",
+            "slug": "Herman von Klempt",
+            "type": "character",
+            "core": true
+        },
+        "Baba Yaga (character)": {
+            "zh": "雅加婆婆（人物）",
+            "slug": "Baba Yaga (character)",
+            "type": "character",
+            "core": true
+        },
+        "Gruagach": {
+            "zh": "棕精灵",
+            "slug": "Gruagach",
+            "type": "character",
+            "core": true
+        },
+        "Mike Mignola": {
+            "zh": "迈克·米格诺拉",
+            "slug": "Mike Mignola",
+            "type": "artist",
+            "core": true
+        },
+        "Duncan Fegredo": {
+            "zh": "邓肯·费格瑞铎",
+            "slug": "Duncan Fegredo",
+            "type": "artist",
+            "core": true
+        },
+        "Guy Davis": {
+            "zh": "盖·戴维斯",
+            "slug": "Guy Davis",
+            "type": "artist",
+            "core": true
+        },
+        "Tonci Zonjic": {
+            "zh": "通奇·佐尼奇",
+            "slug": "Tonci Zonjic",
+            "type": "artist",
+            "core": true
+        },
+        "James Harren": {
+            "zh": "詹姆斯·哈伦",
+            "slug": "James Harren",
+            "type": "artist",
+            "core": true
+        },
+        "Dave Stewart": {
+            "zh": "戴夫·斯图尔特",
+            "slug": "Dave Stewart",
+            "type": "artist",
+            "core": true
+        },
+        "Ryan Sook": {
+            "zh": "瑞安·苏克",
+            "slug": "Ryan Sook",
+            "type": "artist",
+            "core": true
+        },
+        "Gabriel Bá": {
+            "zh": "加布里埃尔·巴",
+            "slug": "Gabriel Bá",
+            "type": "artist",
+            "core": true
+        },
+        "Hellboy": {
+            "zh": null,
+            "slug": null,
+            "type": "series",
+            "core": true,
+            "todo": "本地暂无 Hellboy 主刊独立系列正条（现有『地狱男爵』是角色页），待新建/合并"
+        },
+        "Hellboy in Hell": {
+            "zh": "Hellboy in Hell",
+            "slug": "Hellboy in Hell",
+            "type": "series",
+            "core": true
+        },
+        "Hellboy and the B.P.R.D.": {
+            "zh": "Hellboy and the B.P.R.D.",
+            "slug": "Hellboy and the B.P.R.D.",
+            "type": "series",
+            "core": true
+        },
+        "B.P.R.D. (series)": {
+            "zh": "B.P.R.D.（系列）",
+            "slug": "B.P.R.D. (series)",
+            "type": "series",
+            "core": true
+        },
+        "Hell on Earth (story cycle)": {
+            "zh": "BPRD:人间地狱",
+            "slug": "Hell on Earth (story cycle)",
+            "type": "series",
+            "core": true
+        },
+        "Abe Sapien (series)": {
+            "zh": "亚伯·塞皮恩（系列）",
+            "slug": "Abe Sapien (series)",
+            "type": "series",
+            "core": true
+        },
+        "Lobster Johnson (series)": {
+            "zh": "大螯虾强生（系列）",
+            "slug": "Lobster Johnson (series)",
+            "type": "series",
+            "core": true,
+            "aliases": [
+                "龙虾强生（系列）"
+            ]
+        },
+        "The Devil You Know (story cycle)": {
+            "zh": "魔鬼旧相识（系列短篇）",
+            "slug": "The Devil You Know (story cycle)",
+            "type": "series",
+            "core": true
+        },
+        "Sir Edward Grey: Witchfinder": {
+            "zh": "Witchfinder",
+            "slug": "Sir Edward Grey: Witchfinder",
+            "type": "series",
+            "core": true
+        },
+        "Frankenstein": {
+            "zh": "Frankenstein",
+            "slug": "Frankenstein",
+            "type": "series",
+            "core": true
+        },
+        "The Visitor: How & Why He Stayed": {
+            "zh": "The Visitor: How & Why He Stayed",
+            "slug": "The Visitor: How & Why He Stayed",
+            "type": "series",
+            "core": true
+        },
+        "Sledgehammer 44": {
+            "zh": "Sledgehammer 44",
+            "slug": "Sledgehammer 44",
+            "type": "series",
+            "core": true
+        },
+        "Rasputin: The Voice of the Dragon": {
+            "zh": "Rasputin: The Voice of the Dragon",
+            "slug": "Rasputin: The Voice of the Dragon",
+            "type": "series",
+            "core": true
+        },
+        "B.P.R.D.: The Devil You Know (series)": {
+            "zh": "BPRD:魔鬼旧相识（系列）",
+            "slug": "B.P.R.D.The_Devil_You_Know",
+            "type": "series",
+            "core": true,
+            "review": "confirmed"
+        },
+        "Koshchei (series)": {
+            "zh": null,
+            "slug": null,
+            "type": "series",
+            "core": true,
+            "todo": "本地暂无独立系列正条，待新建/合并"
+        },
+        "Young Hellboy (series)": {
+            "zh": null,
+            "slug": null,
+            "type": "series",
+            "core": true,
+            "todo": "本地暂无独立系列正条，待新建/合并"
+        },
+        "Ogdru Hem": {
+            "zh": "奥格德鲁·赫姆",
+            "slug": "Ogdru_Hem",
+            "aliases": [
+                "奥格鲁·海姆",
+                "奥古·赫姆"
+            ],
+            "type": "deity",
+            "review": "pending",
+            "note": "已发布蛙灾系列8篇用『奥格德鲁·赫姆』，沿用以免新旧打架；维基大陆通译『奥格鲁·海姆』。父神译法也待统一，见 Ogdru Jahad。"
+        },
+        "Tyler Crook": {
+            "zh": "泰勒·克鲁克",
+            "slug": "Tyler_Crook",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Julián Totino Tedesco": {
+            "zh": "胡利安·托蒂诺·特德斯科",
+            "type": "artist",
+            "review": "pending",
+            "note": "无权威中译，音译，保留原文"
+        },
+        "Joe Querio": {
+            "zh": "乔·奎里奥",
+            "slug": "Joe_Querio",
+            "type": "artist",
+            "review": "pending",
+            "note": "无权威中译，音译"
+        },
+        "Laurence Campbell": {
+            "zh": "劳伦斯·坎贝尔",
+            "slug": "Laurence_Campbell",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Russell Enos": {
+            "zh": "拉塞尔·伊诺斯",
+            "slug": "Russell_Enos",
+            "type": "character",
+            "review": "pending"
+        },
+        "Vril Energy Suit": {
+            "zh": "重锤装甲",
+            "slug": "Vril_Energy_Suit",
+            "aliases": [
+                "维利能量服",
+                "Sledgehammer 装甲"
+            ],
+            "type": "item",
+            "review": "pending"
+        },
+        "Project Epimetheus": {
+            "zh": "厄庇墨透斯计划",
+            "type": "project",
+            "review": "pending",
+            "note": "Epimetheus 希腊神话通译厄庇墨透斯，普罗米修斯之弟"
+        },
+        "Carla Giarocco": {
+            "zh": "卡拉·贾罗科",
+            "type": "character",
+            "review": "pending",
+            "note": "沿用已译篇《恐惧之王》"
+        },
+        "Chris Roberson": {
+            "zh": "克里斯·罗伯森",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Mike Norton": {
+            "zh": "迈克·诺顿",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Dave Stokes": {
+            "zh": "戴夫·斯托克斯",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Cameron Stewart": {
+            "zh": "卡梅伦·斯图尔特",
+            "type": "artist",
+            "review": "pending"
+        },
+        "David Mack": {
+            "zh": "大卫·麦克",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Manuel Antonio Chaves": {
+            "zh": "查韦斯",
+            "type": "character",
+            "review": "pending",
+            "note": "Manuel Antonio Chaves，沿用《本·达米奥》页译法"
+        },
+        "Were-Jaguar": {
+            "zh": "豹人",
+            "type": "character",
+            "review": "pending",
+            "note": "沿用站内已有译法"
+        },
+        "Year of Monsters": {
+            "zh": "怪兽之年",
+            "type": "event",
+            "review": "pending",
+            "note": "变体封面主题，站内暂无定译"
+        },
+        "Dave Johnson": {
+            "zh": "戴夫·约翰逊",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Rampayedik": {
+            "zh": "兰帕耶季克",
+            "type": "character",
+            "review": "pending",
+            "note": "音译，待核"
+        },
+        "Special Sciences Service": {
+            "zh": "特殊科学局",
+            "type": "organization",
+            "review": "pending",
+            "note": "苏联SSS，待核"
+        },
+        "Russian Occult Bureau": {
+            "zh": "俄罗斯秘术局",
+            "type": "organization",
+            "review": "pending"
+        },
+        "Peter Snejbjerg": {
+            "zh": "彼得·斯奈比约",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Scott Allie": {
+            "zh": "斯科特·阿利",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Rafael Albuquerque": {
+            "zh": "拉斐尔·阿尔伯克基",
+            "type": "artist",
+            "review": "pending"
+        },
+        "Salton Sea": {
+            "zh": "索尔顿湖",
+            "type": "location",
+            "review": "pending"
+        },
+        "Father Bill": {
+            "zh": "比尔神父",
+            "type": "character",
+            "review": "pending"
+        },
+        "Alice Monaghan": {
+            "zh": "爱丽丝·莫纳汉",
+            "type": "character",
+            "review": "pending"
+        },
+        "Bruno Karhu": {
+            "zh": "布鲁诺·卡尔胡",
+            "type": "character",
+            "review": "pending"
+        },
+        "Dark Horse Presents": {
+            "zh": "《黑马呈现》",
+            "type": "work",
+            "review": "pending"
+        },
+        "The Crooked Man": {
+            "zh": "扭曲人",
+            "slug": "The Crooked Man (comic story)",
+            "aliases": [
+                "驼背人",
+                "The Crooked Man"
+            ],
+            "type": "comic_story",
+            "core": false
+        }
+    }
+}

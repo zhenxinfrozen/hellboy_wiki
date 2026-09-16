@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Hellboy%20in%20Hell\">Hellboy in Hell</a>"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Azzael\">Azzael</a> (father) <br> <a href=\"/entry/Astaroth\">Astaroth</a> (uncle)<br><a href=\"/entry/Lusk\">Lusk</a> (brother)<br><a href=\"/entry/Hellboy\">Hellboy</a> (brother)<br><a href=\"/entry/Gamori\">Gamori</a> (sister)<br>"
+  }
+ ],
+ "image": "Gamon.png",
+ "cats": [
+  "Demons",
+  "Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Villains"
+ ],
+ "img_source": "keep"
+}

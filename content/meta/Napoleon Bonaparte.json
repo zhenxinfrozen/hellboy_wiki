@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Humans",
+  "Deceased_Characters",
+  "Male_Characters",
+  "Characters",
+  "French",
+  "Based_on_real_people",
+  "Royalty",
+  "Veteran"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Emperor of France"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

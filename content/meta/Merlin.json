@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Merlin Ambrosius, Myrddin Emrys"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Storm\">The Storm</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Wizard"
+  }
+ ],
+ "image": "Merlin.JPG",
+ "cats": [
+  "Male Characters",
+  "Witches",
+  "Immortals",
+  "Humans",
+  "Spirits",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

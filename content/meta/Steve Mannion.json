@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Writer",
+  "Interior_Artist",
+  "Cover_Artist"
+ ],
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

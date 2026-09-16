@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Species",
+  "Mythical_Creatures",
+  "Monsters",
+  "Magical_Beings",
+  "Goblins",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Bethmoran goblin.jpg",
+ "img_source": "body",
+ "rows": []
+}

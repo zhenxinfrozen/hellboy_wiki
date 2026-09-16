@@ -1,0 +1,19 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "image": "DougJones.jpg",
+ "cats": [
+  "Hellboy II: The Golden Army",
+  "Hellboy (2004 film)",
+  "Hellboy (2004–2008 film franchise)‎",
+  "Real people",
+  "Hellboy (2004–2008 film franchise)"
+ ],
+ "img_source": "body"
+}

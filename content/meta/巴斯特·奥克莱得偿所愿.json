@@ -1,0 +1,53 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Hellboy: Buster Oakley Gets His Wish"
+  },
+  {
+   "label": "期数",
+   "value": "Hellboy #53"
+  },
+  {
+   "label": "连载日期",
+   "value": "April 2011"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23Hellboy11\">Hellboy – Volume 11: The Bride of Hell and Others</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23Hellboy_Shorts_Omni2\">Hellboy: The Complete Short Stories – Volume 2</a>"
+  }
+ ],
+ "image": "buster_oakley_gets_his_wish.jpg",
+ "cats": [
+  "Story",
+  "Hellboy story",
+  "Article stubs"
+ ],
+ "img_source": "keep"
+}

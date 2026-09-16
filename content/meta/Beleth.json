@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Demons",
+  "Monsters",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Goetia",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Beleth.jpeg",
+ "img_source": "body",
+ "rows": []
+}

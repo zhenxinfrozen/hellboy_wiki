@@ -1,0 +1,21 @@
+{
+ "cats": [],
+ "type": "Character",
+ "image": "The Vampire of Prague.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Vampire<br>Human (formerly)"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy – Volume 7: The Troll Witch and Others"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

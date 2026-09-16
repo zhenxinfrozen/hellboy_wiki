@@ -1,0 +1,12 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "Vampire_1.jpg",
+ "cats": [
+  "Interior Artist",
+  "Writer",
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

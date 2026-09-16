@@ -1,0 +1,25 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Garden%20of%20Souls\">B.P.R.D.: Garden of Souls</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters"
+ ],
+ "img_source": "placeholder"
+}

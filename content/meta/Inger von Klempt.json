@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Laura Karnstein"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Mutant (previously human)"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Herman%20von%20Klempt\">Herman von Klempt</a> (grandfather)"
+  }
+ ],
+ "image": "Inger.jpg",
+ "cats": [
+  "Characters",
+  "Nazi",
+  "Deceased Characters",
+  "Female Characters",
+  "Humans",
+  "Villains"
+ ],
+ "img_source": "keep"
+}

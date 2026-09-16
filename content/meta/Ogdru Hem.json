@@ -1,0 +1,41 @@
+{
+ "cats": [
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Species",
+  "Ogdru_Hem",
+  "Monsters",
+  "Villains",
+  "Characters",
+  "Hellboy_characters",
+  "Immortals",
+  "Hellboy_Animated_Characters",
+  "Spirits",
+  "Deceased_Characters",
+  "Demons",
+  "Dragons",
+  "Deities",
+  "Comics"
+ ],
+ "type": "Species",
+ "image": "Ogdru Hem.png",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "The Abyss"
+  },
+  {
+   "label": "体型",
+   "value": "Original<br>Spirit<br>Physical<br>Fungus<br>Existence"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "首次登场",
+   "value": "Hellboy: Seed of Destruction"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

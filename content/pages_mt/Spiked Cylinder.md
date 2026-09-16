@@ -1,0 +1,1 @@
+![该物品在《[重生](/entry/Born_Again)》中首次登场](Spiked_Cylinder.jpg "该物品在“重生”中首次登场")**尖刺圆筒（Spiked Cylinder）**是一件来自[极北之地](/entry/Hyperborea)的古老器物，智者用它来凝聚自身力量。它由[罗杰](/entry/Roger)在故事《[重生](/entry/Born_Again)》中发现。[伊丽莎白·舍曼](/entry/Elizabeth_Sherman)在*[《黑焰》](/entry/The_Black_Flame_%28story%29)*中使用此物凝聚她的火焰力量，击败了[卡塔-赫姆](/entry/Katha-Hem)。该器物也在那时遗失。

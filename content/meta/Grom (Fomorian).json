@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Deities",
+  "Villains",
+  "Male_Characters"
+ ],
+ "type": "Character",
+ "image": "Grom(Fomorian).jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

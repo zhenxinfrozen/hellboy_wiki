@@ -1,0 +1,11 @@
+{
+ "cats": [
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Locations"
+ ],
+ "type": "Location",
+ "image": "CavendishHall.jpeg",
+ "type_zh": "地点",
+ "img_source": "keep",
+ "rows": []
+}

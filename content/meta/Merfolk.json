@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Races_of_Man",
+  "Species",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Merfolk.png",
+ "img_source": "body",
+ "rows": []
+}

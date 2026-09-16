@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Humans",
+  "Male_Characters",
+  "Characters",
+  "Deceased_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Arthurian_legend"
+ ],
+ "type": "Character",
+ "image": "Mordred.jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Hellboy_II:_The_Golden_Army",
+  "Cast",
+  "Real_people"
+ ],
+ "type": "RealPerson",
+ "image": "SethMacFarlane.jpg",
+ "type_zh": "真实人物",
+ "img_source": "keep",
+ "rows": []
+}

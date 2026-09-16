@@ -1,0 +1,27 @@
+**Shonchin** is an ancient shaman from the Hyperborean Age that survived well into the 21st century.
+
+## History
+
+### [*King of Fear*](/entry/King%20of%20Fear%20%28story%29)
+
+A mysterious shaman appeared in [Liz Sherman](/entry/Elizabeth%20Sherman)'s vision of the future. He pointed to a vision of [Hellboy](/entry/Hellboy) who encouraged Liz to unleash her power against the Ogdru Hem. Just as Liz was about to decimate [the Black Flame](/entry/The%20Black%20Flame%20%28character%29) and his allies with her powers, the shaman teleported [Abe Sapien](/entry/Abe%20Sapien) and the remaining [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) agents to safety.
+
+### *[End of Days](/entry/End%20of%20Days)*
+
+A mysterious apparition of a shaman had answered [Panya's](/entry/Panya) prayer after Black Flame taunted her telepathically of the end of the world. He spoke through Panya, who in turn spoke through the comatose [Fenix](/entry/Fenix%20Espejo) to recite a prayer that would drain Black Flame's power and give [Johann Kraus](/entry/Johann%20Kraus) and Liz a fighting chance.
+
+### *[The Shadow Over Suwanee](/entry/The%20Shadow%20Over%20Suwanee)*
+
+The shaman appeared again before [Gustav Strobl](/entry/Gustav%20Strobl), warning him of the consequences should he interfere on discovering the true origins of Abraham Sapien.
+
+### *[Dark and Terrible Deep](/entry/Dark%20and%20Terrible%20Deep)*
+
+The shaman appeared before Abe at the underwater temple where Langdon Everett Caul found the egg containing the [entity](/entry/Water%20Spirit) that transformed him. The man revealed himself to be Shonchin, a shaman and a former disciple of the Hyperboreans, who was left behind when the followers of the Right Hand ascended to the stars. He gave an account to Abe of his past, thousands of years ago. Shonchin and his comrade attempted to reason with a city that fell under the influence of the [Black Goddess](/entry/Hecate). They underestimated the corruption and were captured. The people tortured the men until they renounced their faith and swear loyalty to the Black Goddess. Shonchin was the first to break and became a follower of the Left Hand. He was released and allowed to flee. However his friend refused to submit, and his faith held strong that gave birth to a miraculous creature that extinguished the very villagers and land around him.
+
+Due to his weakness, Shonchin was left behind to remain on Earth while the rest of his kin ascended to Hyperberum. He was left a broken man, unable to call forth the power of vril. Yet there was still enough vril within him that he was unable to die. He revealed the truth to Abe, that he was not a herald of the Ogdru Jahad, but in fact the light of the Old World who will carry into the Next World. He encouraged Abe to stop running and to finally embrace his destiny.
+
+## Powers and Abilities
+
+Shonchin was a disciple of the Right Hand and capable of using the power of vril. According to Shonchin after he had given into darkness he was unable to call upon its power, but still retain enough vril to keep him alive for millennia. In the issues shown Shonchin seems to have regained enough of his power to act behind the scenes to stall the Apocalypse.
+
+**Category:Characters** **Category:Male Characters** **Category:Immortals** **Category:Vril**

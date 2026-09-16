@@ -1,0 +1,32 @@
+{
+ "cats": [
+  "Species",
+  "Mythical_Creatures",
+  "Daoine_Sidhe",
+  "Magical_Beings",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Irish"
+ ],
+ "type": "Species",
+ "image": "HELLBOYFairies.jpg",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Ireland"
+  },
+  {
+   "label": "体型",
+   "value": "Supernatural<br>Human<br>Destiny<br>Purpose<br>Humanoid<br>Mythology"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "首次登场",
+   "value": "The Corpse"
+  }
+ ],
+ "type_zh": "种族",
+ "img_source": "keep"
+}

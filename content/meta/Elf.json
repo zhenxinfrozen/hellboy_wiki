@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Species",
+  "Mythical_Creatures",
+  "Magical_Beings",
+  "Hellboy_II:_The_Golden_Army",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Norse_Myth"
+ ],
+ "type": "Species",
+ "image": "Elves.jpg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Mythical_Creatures",
+  "Spirits",
+  "Monsters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Slavic_Myth",
+  "Deities"
+ ],
+ "type": "Species",
+ "image": "Domovoi .jpeg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

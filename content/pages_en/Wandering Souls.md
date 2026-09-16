@@ -1,0 +1,1 @@
+This short story originally appeared in the *[Hellboy Winter Special](/entry/Hellboy_Winter_Special)*. It is the Hellboy Universe debut of Chris Roberson and Michael Walsh. The story focuses on [Hellboy](/entry/Hellboy_%28character%29) and [Agent Susan Xiang](/entry/Susan_Xiang) and falls under the *[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)* series banner.

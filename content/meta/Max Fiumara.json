@@ -1,0 +1,16 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "image": "The_New_Race_of_Man_1.jpg",
+ "cats": [
+  "Interior Artist",
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

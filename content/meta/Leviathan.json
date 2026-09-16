@@ -1,0 +1,22 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Non-Specific"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  }
+ ],
+ "image": "The_Leviathan_001.jpg",
+ "cats": [
+  "Characters",
+  "Demons",
+  "Deceased Characters",
+  "Villains"
+ ],
+ "img_source": "keep"
+}

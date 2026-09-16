@@ -1,0 +1,30 @@
+{
+ "cats": [
+  "Characters",
+  "Deities",
+  "Monsters",
+  "Male_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Mesoamerican_Myth",
+  "Vampires",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Camazotz.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Vampire God"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Land of the Dead"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

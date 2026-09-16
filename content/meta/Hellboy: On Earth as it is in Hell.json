@@ -1,0 +1,19 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Brian%20Hodge\">Brian Hodge</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "September, 2005"
+  }
+ ],
+ "image": "Hellboy - On Earth as It Is in Hell (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

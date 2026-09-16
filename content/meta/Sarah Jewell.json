@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "19th century Paranormal Investigator"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Rise of the Black Flame #1"
+  }
+ ],
+ "image": "Sarah Jewell.jpg",
+ "cats": [
+  "Characters",
+  "Article stubs"
+ ],
+ "img_source": "fandom"
+}

@@ -1,0 +1,1 @@
+**西蒙·布鲁顿霍姆（Simon Bruttenholm）**是[特雷佛·布鲁姆教授](/entry/Trevor_Bruttenholm)的叔叔、[地狱男爵](/entry/Hellboy_%28character%29)（因收养关系而成为）的叔公，同时是[银灯俱乐部](/entry/Silver_Lantern_Club_%28organization%29)和[英国超自然学会](/entry/The_British_Paranormal_Society_%28organization%29)的成员。他是[《英国超自然学会》系列](/entry/The_British_Paranormal_Society_%28series%29)的核心人物。

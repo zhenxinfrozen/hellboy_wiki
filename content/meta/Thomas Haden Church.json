@@ -1,0 +1,18 @@
+{
+ "cats": [
+  "Cast",
+  "Real_people",
+  "Hellboy_(2019_film)",
+  "Actors"
+ ],
+ "type": "RealPerson",
+ "image": "Thomas Haden Church.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

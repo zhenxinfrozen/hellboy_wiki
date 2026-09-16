@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Villains",
+  "Demons",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Rumael.jpeg",
+ "img_source": "body",
+ "rows": []
+}

@@ -1,0 +1,1 @@
+**战争（War）**是[天启四骑士](/entry/Four_Horsemen_of_the_Apocalypse)之一，在维格利德战场上[地狱男爵](/entry/Hellboy_%28character%29)与[Nimue](/entry/Nimue)交战期间现身。他率军迎战由新近获得力量的 [George Washbrook](/entry/George_Washbrook) 率领的复活不列颠骑士大军。他在这场战斗的余波中殒命。

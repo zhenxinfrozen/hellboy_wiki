@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Hellboy:_The_Crooked_Man_(film)"
+ ],
+ "type": "Character",
+ "image": "Bobbie Jo Song 2.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "BPRD agent"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

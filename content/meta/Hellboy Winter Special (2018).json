@@ -1,0 +1,36 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/F%C3%A1bio%20Moon\">Fábio Moon</a><br><a href=\"/entry/Gabriel%20B%C3%A1\">Gabriel Bá</a><br><a href=\"/entry/Tonci%20Zonjic\">Tonci Zonjic</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Ben%20Stenbeck\">Ben Stenbeck</a><br><a href=\"/entry/F%C3%A1bio%20Moon\">Fábio Moon</a><br><a href=\"/entry/Gabriel%20B%C3%A1\">Gabriel Bá</a><br><a href=\"/entry/Tonci%20Zonjic\">Tonci Zonjic</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a><br><a href=\"/entry/Tonci%20Zonjic\">Tonci Zonjic</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Katii%20O%E2%80%99Brien\">Katii O’Brien</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "December 12, 2019"
+  }
+ ],
+ "image": "Hellboy Winter Special (2018).jpg",
+ "cats": [
+  "Comics",
+  "Article stubs"
+ ],
+ "img_source": "keep"
+}

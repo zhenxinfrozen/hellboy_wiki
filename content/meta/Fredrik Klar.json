@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Humans",
+  "Scandinavians"
+ ],
+ "type": "Character",
+ "image": "FredrikKlarByMattSmith.jpg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

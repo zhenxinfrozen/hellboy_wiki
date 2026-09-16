@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Locations"
+ ],
+ "type": "Location",
+ "image": "Abyss creatures3.png",
+ "type_zh": "地点",
+ "img_source": "keep",
+ "rows": []
+}

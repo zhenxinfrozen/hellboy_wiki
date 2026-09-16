@@ -1,0 +1,31 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Hellboy: An Assortment of Horrors"
+  },
+  {
+   "label": "编剧",
+   "value": "Rio Youers, Delilah S. Dawson, <a href=\"/entry/Chris%20Roberson\">Chris Roberson</a>, Chris Priestley, Chelsea Cain, Jonathan Maberry, E. Lily Yu, Michael Rowe, Richard Kadrey, Weston Ochse, Paul Tremblay, Angela Slatter, Kealan Patrick Burke, Laird Barron, Seanan Mcguire, and Nathan Ballingrud"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, Chris Priestley"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "August 23, 2016"
+  }
+ ],
+ "image": "Hellboy_-_An_Assortment_of_Horrors.jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Species",
+  "Homonculi",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Monsters"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Homunculi 001.PNG",
+ "img_source": "body",
+ "rows": []
+}

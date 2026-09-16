@@ -1,0 +1,39 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20%28film%29\">Hellboy</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "Agnus Maclnnes"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Seed%20of%20Destruction\">Seed of Destruction</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "U.S. military official"
+  }
+ ],
+ "image": "Whitman.jpg",
+ "cats": [
+  "Characters",
+  "Minor Character",
+  "Male Characters",
+  "Characters (2004–2008 film franchise)",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

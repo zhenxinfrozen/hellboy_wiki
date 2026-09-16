@@ -1,0 +1,41 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Story",
+  "Carmen_Red_Claw_story"
+ ],
+ "type": "Story",
+ "image": "Belly of the Beast 1 Mignola.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola<br>Rae Allen"
+  },
+  {
+   "label": "作画",
+   "value": "Rae Allen"
+  },
+  {
+   "label": "上色",
+   "value": "Michelle Madsen"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "剪辑",
+   "value": "Katii O’Brien"
+  },
+  {
+   "label": "首发于",
+   "value": "Carmen Red Claw: Belly of the Beast #1–4"
+  },
+  {
+   "label": "出版日期",
+   "value": "January–May 2026"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

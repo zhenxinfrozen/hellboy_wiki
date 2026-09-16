@@ -1,0 +1,41 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Story",
+  "Sir_Edward_Grey_story"
+ ],
+ "type": "Story",
+ "image": "The Serpent in the Garden 1.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Ben Stenbeck<br>Mike Mignola (epilogue)"
+  },
+  {
+   "label": "上色",
+   "value": "Dave Stewart"
+  },
+  {
+   "label": "嵌字",
+   "value": "Clem Robins"
+  },
+  {
+   "label": "剪辑",
+   "value": "Katii O’Brien"
+  },
+  {
+   "label": "首发于",
+   "value": "The Serpent in the Garden: Ed Grey and the Last Battle for England #1–3"
+  },
+  {
+   "label": "出版日期",
+   "value": "scheduled for<br>November 2024 – March 2025 (#1–3), July 2025 (epilogue)"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

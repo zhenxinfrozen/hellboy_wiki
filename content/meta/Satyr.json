@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Monsters",
+  "Races_of_Man",
+  "Mythical_Creatures",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Greco-Roman_Myth",
+  "Magical_Beings"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

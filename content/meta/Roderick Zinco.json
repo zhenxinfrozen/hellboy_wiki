@@ -1,0 +1,35 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20II%3A%20The%20Golden%20Army\">Hellboy II: The Golden Army</a><br>proposed third film (possibly)"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Wake%20the%20Devil\">Wake the Devil</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Industrialist"
+  }
+ ],
+ "image": "Zinco.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Americans",
+  "Zinco Corporation"
+ ],
+ "img_source": "keep"
+}

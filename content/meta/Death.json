@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Rider of the Pale Horse"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: <a href=\"/entry/The%20Fury\">The Fury</a> #2"
+  },
+  {
+   "label": "种族",
+   "value": "Chaotic Natural Phenomenon, Harbinger of the Apocalypse"
+  },
+  {
+   "label": "职业",
+   "value": "Horseman of the Apocalypse"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Death1.png",
+ "cats": [
+  "Characters",
+  "Mythical Creature"
+ ],
+ "img_source": "keep"
+}

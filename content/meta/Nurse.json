@@ -1,0 +1,26 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Humans",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Nurse.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Guard of the Asylum<br>Medical orderly"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

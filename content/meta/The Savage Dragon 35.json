@@ -1,0 +1,24 @@
+{
+ "cats": [
+  "Out-of-continuity_story",
+  "Crossovers"
+ ],
+ "type": "Story",
+ "image": "Savage Dragon Vol 1 35.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Erik Larsen"
+  },
+  {
+   "label": "作画",
+   "value": "Erik Larsen"
+  },
+  {
+   "label": "首发于",
+   "value": "The Savage Dragon Vol 1 #35"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

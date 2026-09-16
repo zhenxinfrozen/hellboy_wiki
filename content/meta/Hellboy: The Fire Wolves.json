@@ -1,0 +1,23 @@
+{
+ "cats": [
+  "Prose"
+ ],
+ "type": "Book",
+ "image": "Hellboy - The Fire Wolves (Novel Cover).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Tim Lebbon"
+  },
+  {
+   "label": "作画",
+   "value": "Duncan Fegredo"
+  },
+  {
+   "label": "出版日期",
+   "value": "April 1, 2009"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

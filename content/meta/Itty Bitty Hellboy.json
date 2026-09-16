@@ -1,0 +1,35 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Itty Bitty Hellboy"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Art%20Baltazar\">Art Baltazar</a> &amp; <a href=\"/entry/Franco%20Aureliani\">Franco Aureliani</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Art%20Baltazar\">Art Baltazar</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Itty Bitty Hellboy #1–5"
+  },
+  {
+   "label": "连载日期",
+   "value": "August–December 2013"
+  }
+ ],
+ "image": "Hellboy in Hell, boy!.jpg",
+ "cats": [
+  "Out-of-continuity story"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Weapons",
+  "Items",
+  "Hellboy_(2004_film)"
+ ],
+ "type": "Item",
+ "type_zh": "物品",
+ "image": "Hellboy-Vulcan-65-Hand-Grenades-1.jpg",
+ "img_source": "body",
+ "rows": []
+}

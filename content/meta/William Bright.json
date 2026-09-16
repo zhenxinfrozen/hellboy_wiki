@@ -1,0 +1,23 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Witchfinder: <a href=\"/entry/The%20Gates%20of%20Heaven\">The Gates of Heaven</a> #3"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters"
+ ],
+ "img_source": "placeholder"
+}

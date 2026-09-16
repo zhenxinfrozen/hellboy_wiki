@@ -1,0 +1,34 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Female_Characters",
+  "Characters",
+  "Hellboy_and_the_B.P.R.D._Characters"
+ ],
+ "type": "Character",
+ "image": "Amelia Brook.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Karl Brook"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola & Zach Howard"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Return of Effie Kolb"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

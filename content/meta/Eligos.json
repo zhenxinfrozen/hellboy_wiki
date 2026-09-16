@@ -1,0 +1,26 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Wild%20Hunt\">Hellboy: The Wild Hunt</a>"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  }
+ ],
+ "image": "Eligos 001.jpg",
+ "cats": [
+  "Demons",
+  "Characters",
+  "Male Characters",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

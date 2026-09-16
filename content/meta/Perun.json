@@ -1,0 +1,35 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Father of the World"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Darkness Calls"
+  },
+  {
+   "label": "职业",
+   "value": "Ancient Pagan God, God of Lighning and Thunder, God of Storms"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Perun 001.png",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Immortals",
+  "Deities"
+ ],
+ "img_source": "keep"
+}

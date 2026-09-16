@@ -1,0 +1,12 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": "Reverendwatts.jpg",
+ "cats": [
+  "Priests",
+  "Characters",
+  "Male Characters"
+ ],
+ "img_source": "body"
+}

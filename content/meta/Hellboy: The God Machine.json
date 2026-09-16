@@ -1,0 +1,19 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Thomas%20E.%20Sniegoski\">Thomas E. Sniegoski</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "July 2006"
+  }
+ ],
+ "image": "Hellboy - The God Machine (Novel Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,45 @@
+{
+ "cats": [
+  "Humans",
+  "Deceased_Characters",
+  "Female_Characters"
+ ],
+ "type": "Character",
+ "image": "EdithPortrait.png",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Edith CaulMy wife (Abe)"
+  },
+  {
+   "label": "逝世",
+   "value": "March, 1865"
+  },
+  {
+   "label": "国籍",
+   "value": "American"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Langdon Everett Caul (Husband)"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Dead"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

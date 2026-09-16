@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "The Troll Witch"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Troll%20Witch\">The Troll Witch</a>"
+  },
+  {
+   "label": "职业",
+   "value": "Witch"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": "Troll witch.jpg",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Witches"
+ ],
+ "img_source": "keep"
+}

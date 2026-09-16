@@ -1,0 +1,29 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Iron%20Prometheus\">Lobster Johnson: The Iron Prometheus</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a> and <a href=\"/entry/Jason%20Armstrong\">Jason Armstrong</a>"
+  }
+ ],
+ "image": "Massimo_face.jpg",
+ "cats": [
+  "Lobster Johnson Characters",
+  "Characters",
+  "Lobster's crew"
+ ],
+ "img_source": "keep"
+}

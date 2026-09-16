@@ -1,0 +1,35 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Hell on Earth<br>(story cycle)"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/John%20Arcudi\">John Arcudi</a><br><a href=\"/entry/Scott%20Allie\">Scott Allie</a><br><a href=\"/entry/Cameron%20Stewart\">Cameron Stewart</a><br><a href=\"/entry/Chris%20Roberson\">Chris Roberson</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Guy%20Davis\">Guy Davis</a><br><a href=\"/entry/Tyler%20Crook\">Tyler Crook</a><br><a href=\"/entry/James%20Harren\">James Harren</a><br><a href=\"/entry/Cameron%20Stewart\">Cameron Stewart</a><br><a href=\"/entry/Laurence%20Campbell\">Laurence Campbell</a>"
+  },
+  {
+   "label": "出版",
+   "value": "<a href=\"/entry/New%20World\">New World</a> – <a href=\"/entry/Cometh%20the%20Hour\">Cometh the Hour</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "August 2010 – November 2016"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/Trade%20Paperback%20Collections%23Hell%20on%20Earth\">B.P.R.D.: Hell on Earth trade paperbacks</a>"
+  }
+ ],
+ "image": "Story_Cycle_-_Hell_on_Earth.png",
+ "cats": [
+  "Comics"
+ ],
+ "img_source": "keep"
+}

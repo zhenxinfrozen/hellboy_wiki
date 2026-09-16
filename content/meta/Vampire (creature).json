@@ -1,0 +1,22 @@
+{
+ "cats": [
+  "Vampires",
+  "Species",
+  "Undead",
+  "Mythical_Creatures",
+  "Monsters",
+  "Female_Characters",
+  "Male_Characters",
+  "Immortals",
+  "Hellboy_characters",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Slavic_Myth",
+  "Races_of_Man"
+ ],
+ "type": "Species",
+ "image": "Heads-of-the-Great-Vampire-Families-1-.jpg",
+ "type_zh": "种族",
+ "img_source": "keep",
+ "rows": []
+}

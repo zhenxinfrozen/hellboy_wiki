@@ -1,0 +1,49 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Laurence%20Campbell\">Laurence Campbell</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "B.P.R.D.: The Devil You Know #1–5"
+  },
+  {
+   "label": "期数",
+   "value": "B.P.R.D. #148–152"
+  },
+  {
+   "label": "连载日期",
+   "value": "July – December 2017"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23BPRD_TDYK1\">B.P.R.D.: The Devil You Know – Volume 1: Messiah</a>"
+  }
+ ],
+ "image": "The_Devil_You_Know_1.jpg",
+ "cats": [
+  "Story",
+  "B.P.R.D. story",
+  "B.P.R.D.: The Devil You Know story"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: Dr Carp's Experiment (Un-named Character). Hellboy: The Ghoul (First named Appearance)"
+  },
+  {
+   "label": "职业",
+   "value": "Senior BPRD Agent"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  }
+ ],
+ "image": "Pauline-Transformation.jpg",
+ "cats": [
+  "Female Characters",
+  "B.P.R.D. agent",
+  "Minor Character",
+  "Humans",
+  "Americans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

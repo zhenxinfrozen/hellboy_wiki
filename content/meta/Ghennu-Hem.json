@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Ogdru_Hem",
+  "Monsters",
+  "Villains",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Characters"
+ ],
+ "type": "Character",
+ "image": "GhennuHem.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Ogdru-Hem"
+  },
+  {
+   "label": "职业",
+   "value": "One of the Ogdru Hem<br>Child of the Ogdru Jahad"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Abe Sapien: Dark and Terrible #3"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

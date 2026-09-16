@@ -1,0 +1,11 @@
+![Hellboy: Emerald Hell](/content/images/Hellboy%20-%20Emerald%20Hell%20%28Novel%20Cover%29.jpg)
+
+***Hellboy: The Dragon Pool*** is the sixth *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
+
+## Cover Description
+
+[Hellboy](/entry/Hellboy%20%28character%29) comes to the crossroads in Enigma, Georgia, a small town plagued by strange occurrences. Sent to keep an eye on Sarah Nail, a young girl hiding from the curse of her family, Hellboy becomes entangled in the blood debt of evil mystical preacher, Brother Jester. Stuck between human malice and the mysteries of the occult, Hellboy comes up against an intrigue of ghosts, demon trees, talking bullfrogs, and a race of lost mutant children.
+
+## Story Chronology
+
+**Emerald Hell**

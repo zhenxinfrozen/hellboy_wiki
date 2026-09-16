@@ -1,0 +1,22 @@
+{
+ "cats": [
+  "Actors",
+  "Real_people",
+  "Hellboy:_The_Crooked_Man_(film)",
+  "Cast"
+ ],
+ "type": "RealPerson",
+ "image": "Jack Kesy.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "出生",
+   "value": "August 27th, 1986"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

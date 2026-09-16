@@ -1,0 +1,16 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": "JosephVaughn.jpeg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "B.P.R.D. agent",
+  "Undead",
+  "Humans",
+  "Americans",
+  "Deceased Characters"
+ ],
+ "img_source": "body"
+}

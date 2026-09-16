@@ -1,0 +1,1 @@
+这则短篇最初发表于《*[地狱男爵冬季特刊](/entry/Hellboy_Winter_Special)*》（Hellboy Winter Special）。这是 Chris Roberson 和 Michael Walsh 在地狱男爵宇宙（Hellboy Universe）中的首次亮相。故事围绕[地狱男爵](/entry/Hellboy_%28character%29)和[苏珊·项探员](/entry/Susan_Xiang)展开，隶属于《*[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)*》系列。

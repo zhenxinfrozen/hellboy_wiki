@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Weapons"
+ ],
+ "type": "Item",
+ "type_zh": "物品",
+ "image": "Spear.png",
+ "img_source": "body",
+ "rows": []
+}

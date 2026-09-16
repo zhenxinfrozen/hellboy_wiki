@@ -1,0 +1,78 @@
+{
+ "cats": [
+  "Films",
+  "Hellboy:_The_Crooked_Man_(film)"
+ ],
+ "type": "Movie",
+ "image": "Hellboy- The Crooked Man UK poster.jpeg",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "Brian Taylor"
+  },
+  {
+   "label": "编剧",
+   "value": "Christopher Golden<br>Mike Mignola<br>Brian Taylor"
+  },
+  {
+   "label": "制片人",
+   "value": "Mike Richardson<br>Jeff Greenstein<br>Jonathan Yunger<br>Les Weldon<br>Robert Van Norden<br>Yariv Lerne"
+  },
+  {
+   "label": "配乐",
+   "value": "Sven Faulconer"
+  },
+  {
+   "label": "上映日期",
+   "value": "September 27, 2024<br>October 8, 2024"
+  },
+  {
+   "label": "片长",
+   "value": "99 minutes"
+  },
+  {
+   "label": "制作预算",
+   "value": "Less than $20 million"
+  },
+  {
+   "label": "票房",
+   "value": "$1,649,352"
+  }
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "Brian Taylor"
+  },
+  {
+   "label": "Writer",
+   "value": "Christopher Golden<br>Mike Mignola<br>Brian Taylor"
+  },
+  {
+   "label": "Producers",
+   "value": "Mike Richardson<br>Jeff Greenstein<br>Jonathan Yunger<br>Les Weldon<br>Robert Van Norden<br>Yariv Lerne"
+  },
+  {
+   "label": "Music by",
+   "value": "Sven Faulconer"
+  },
+  {
+   "label": "Release date",
+   "value": "September 27, 2024<br>October 8, 2024"
+  },
+  {
+   "label": "Running time",
+   "value": "99 minutes"
+  },
+  {
+   "label": "Budget",
+   "value": "Less than $20 million"
+  },
+  {
+   "label": "Box office",
+   "value": "$1,649,352"
+  }
+ ],
+ "type_zh": "电影",
+ "img_source": "keep"
+}

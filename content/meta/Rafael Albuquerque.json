@@ -1,0 +1,10 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "Lake_of_Fire_2.jpg",
+ "cats": [
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

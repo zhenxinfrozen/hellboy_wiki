@@ -1,0 +1,7 @@
+***My Vacation in Hell*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy%3A%20Weird%20Tales)*, written and drawn by [Craig Thompson](/entry/Craig%20Thompson).
+
+## Plot Synopsis
+
+[Hellboy](/entry/Hellboy%20%28character%29)'s activities while vacationing in Hell are enumerated.
+
+**Category:Out-of-continuity story**

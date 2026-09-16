@@ -1,0 +1,22 @@
+{
+ "cats": [
+  "Monsters",
+  "Demons",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "BehemothComics.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Biblical Beast"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

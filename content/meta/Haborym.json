@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Characters",
+  "Demons",
+  "Male_Characters",
+  "Royalty",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Goetia"
+ ],
+ "type": "Character",
+ "image": "Haborym.jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

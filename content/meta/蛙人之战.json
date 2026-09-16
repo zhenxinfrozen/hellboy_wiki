@@ -1,0 +1,53 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/John%20Arcudi\">John Arcudi</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Herb%20Trimpe\">Herb Trimpe</a> (#1 pencils)<br><a href=\"/entry/Guy%20Davis\">Guy Davis</a> (#1 inks)<br><a href=\"/entry/John%20Severin\">John Severin</a> (#2)<br><a href=\"/entry/Karl%20Moline\">Karl Moline</a> (#3)<br><a href=\"/entry/Peter%20Snejbjerg\">Peter Snejbjerg</a> (#4)"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a> (#1–3)<br><a href=\"/entry/Bjarne%20Hansen\">Bjarne Hansen</a> (#4)"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "B.P.R.D.: War on Frogs #1–4"
+  },
+  {
+   "label": "期数",
+   "value": "B.P.R.D. #44,51,57,63"
+  },
+  {
+   "label": "连载日期",
+   "value": "June 2008 (#1)<br>December 2008 (#2)<br>June 2009 (#3)<br>December 2009 (#4)"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23BPRD12\">B.P.R.D. – Volume 12: War on Frogs</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23BPRD_Omni_PoF2\">B.P.R.D.: Plague of Frogs – Volume 2</a>"
+  }
+ ],
+ "image": "War_on_Frogs_1.jpg",
+ "cats": [
+  "Story",
+  "B.P.R.D. story",
+  "B.P.R.D.: Plague of Frogs story"
+ ],
+ "img_source": "keep"
+}

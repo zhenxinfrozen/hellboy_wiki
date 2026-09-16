@@ -1,0 +1,20 @@
+{
+  "about": {
+    "title": "关于本站",
+    "file": "about.md",
+    "nav": false
+  },
+  "_groups": [
+    {
+      "slug": "reports",
+      "title": "翻译报告",
+      "icon": "book",
+      "nav": "other",
+      "pages": [
+        {"slug": "report-method", "title": "翻译方法与译名依据", "file": "report-method.md"},
+        {"slug": "report-progress", "title": "翻译进度与更新日志", "file": "report-progress.md"},
+        {"slug": "report-backup", "title": "更新与备份机制", "file": "report-backup.md"}
+      ]
+    }
+  ]
+}

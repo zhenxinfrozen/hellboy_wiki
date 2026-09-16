@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Female_Characters",
+  "Deceased_Characters",
+  "British",
+  "Based_on_real_people",
+  "Characters",
+  "Humans",
+  "Royalty",
+  "Witchfinder_Characters"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Queen of the United Kingdom of Britain and Ireland"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

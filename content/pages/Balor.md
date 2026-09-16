@@ -1,0 +1,57 @@
+![Balor](/content/images/KingBalor.jpg)
+
+**King Balor** is the legendary one-armed king of Elfland and ruler of all magical races (collectively known as 'the sons of the earth' or the Bethmoora Clan). The Golden Army was forged at his command as well as the crown accompanying it. Despite forming a truce with humanity, Balor lost the war to man's conquest and his son, Prince Nuada's, anger.
+
+## Biography
+
+King Balor was the oldest living elf on earth surviving into the 21st Century (in theory). He was the father of two children, twin siblings Princess Nuala and Prince Nuada. Balor was born, like all the other royal elves, in Ireland. At that time, Ireland was known to humans as Erinland or Eirin, near what is known today as the Giant's Causeway in County Antrim.
+
+The exact length of Balor's reign is unknown, as well as what transpired before his warring with humanity, other than the peace that existed among the magical races and mankind. Balor was alive when Aiglin, the father tree ('tree of life' in Christian beliefs) was the focal point of activity on earth. Balor was born into royalty and was forced to defend his crown. He was known as a fierce and cunning warrior until the loss of his left arm, from the hand up to the shoulder, to enemies.
+
+Balor's two children (twins being odd for elves) were blessed with a supernatural link and equally impressive abilities; Nuala held spiritual and emotional abilities, telepathy for elves being more linked to spiritual and emotional aspects instead of cerebral activity; while Nuada held physical and mental prowess. The name of Balor's wife that bore the children is unknown, but speculation exists that she was either Danu or one of the Tuatha de Danan or descendants of the Irish mother-goddess.
+
+Nothing is said of what happened to the she-elf, but it is shown in the film and in the novelization that she was not present when Balor formed the Golden Army. Neither Nuada nor Nuala mention their mother, leading fans to believe that she died while they were very young and Balor tried to blot her loss from his memory.
+
+The warring with man saw the decline of the king and the rise of his son in his place. Balor's arm is said (mythologically in place of Nuadha) to have been taken either in the heat of battle itself or while being tortured as a prisoner of war. The first is more likely given Balor's supposed abilities. Balor's arm was replaced by a wooden oddment and his hand was constructed out of silver. One should note in the film, that the hand is magical and has the ability to move at the wrist and fingers like a normal hand.
+
+After a time of peace, mankind waged war against the magical races in order to claim the forests as part of their kingdoms. Balor's armies began to dwindle (even while using goblins, trolls, ogres, and fairies as soldiers). Luckily, the prince survived each battle, but Balor began to grow restless and desperate. The leader of the goblin blacksmiths offered to build Balor the magnificent, mechanical army that would be his undoing. At the urging of his desperate son, [Nuada](/entry/Nuada), the goblins built an invincible force. Balor commissioned the Golden Army, composed of 4900 soldiers, controlled by the magical Crown of Bethmoora during the winter (according to Celtic and Briton tradition, winter was a time to re-supply and gather forces during wars, but was never to see any battles fought until spring thaw). Balor sent the army out against the humans at the next available battle, but the Army was without mercy and slaughtered the humans more greatly than they did them.
+
+Balor remarks (in the texts left behind) that they did not differentiate between soldier and bystander, man or woman, child or adult leading readers to believe that the army marched not only onto the battle field, but pursued fleeing humans to settlements and destroyed them. Horrified at the tragedy, and ashamed at how his own desperation and anger had turned him into what he felt he fought against, Balor offered a truce with the humans; man would keep his cities and the elves would keep to the forests. He then broke up the crown, giving the one piece to the humans and the others to his family, while the golden Army was buried in the earth beneath Balor's original throne and palace in Bethmoora (also known by the other magical races as 'the nightlands' due to the darkness and nightmarish powers that overshadowed the realm after the army was sealed).
+
+Prince Nuada disagreed with the truce, warning his father that humans could not be trusted and would not honor their bargain, and left in self-imposed exile. It is implied that Balor refused to give Nuada his rightful piece of the crown (as seen in the film and novelization in Nuala's possession which breaks tradition with a patriarchal society) and gave it to Nuala while also keeping one piece for himself. Balor returned to his throne as his son wandered away vowing to return when 'his people needed him most'.
+
+By the 21st century, Balor had moved the permanent throne to New York City, beneath what became the remnants of the East Side Rail-yards. On September 26, 2008, Nuada had found the human's piece of the crown and took it to his father's court after declaring war to the human world, stating that the elves would take what was 'rightfully theirs'. He asserted to the worn and aged king that the earth's state was at a 'tipping point' and that even the humans had recognized the jeopardy they had placed their planet in. Nuada did not want humans deciding the fate of their world and begged his father to see that he was right (at this time, Nuada also scorned his father for having moved their throne into human refuse in the rail-yards and told him that the only place left to go was to the sewers and derelict ones).
+
+Balor refused to take arms against humanity or try to reason with his son. In the novelization, Balor becomes enraged when seeing the elf-council and elders agreeing with the prince. Balor opted, instead, to kill Nuada (knowing well that he was sentencing his innocent daughter, Nuala, to death as well), but his son defeated all of his butcher-guards and, while trying to claim the king's piece of the crown, stabbed his father in the heart. Balor turned to the same smooth, white stone that all elves became when killed as Nuada took the crown piece and summoned the rest of the court to war, threatening to kill all that opposed him. Balor was mourned briefly by Nuala, but there was no sorrow among the people for the loss of the king who had already begun to fade centuries ago.
+
+## Other Facts About King Balor
+
+- **Age:** Balor's exact age is unknown, but he was a full grown adult elf with some years of reign behind him during the war with man (apparently during the Roman and Barbarian conquest of the Briton and Celtic lands).
+
+<!-- -->
+
+- **Family:** Twins are unusual among elves, but Balor and his mate managed to have a very unusual pair. Balor had no other children (breaking with tradition of large warrior families and greater numbers of royal lineage) and his wife is not present in any recorded stories about the Bethmoora. Prince Nuada, the king's only son, was raised to fight alongside his father and one day assume the throne. Princess Nuala, the other half of the royal heirs, was not trained to rule or be a significant voice in court to anyone other than her brother. Balor seemed to have adopted something universal among single-father widowers who cannot handle loss, by allowing the daughter to become the mother figure. Balor did not favor one child over the other, but was more apt, until the creation of the Golden Army, to listen to his son and take everything to heart. It is said in the film that Balor, fearing the link that the pair had to one another, did his best to shield his daughter's heart from her brother which could have been for three reasons; 1). the king did not want the pair to take the throne and produce an heir of their own (an acceptable practice to the Celts, Britons, Romans, and Barbarians), 2). the king was modern-minded and felt it immoral for the two to have intimacy, 3). the king knew that he had trained Nuada for battle and did not want the harshness of a warrior's life and thoughts to oppress the gentle nature of the princess.
+
+<!-- -->
+
+- **Lifestyle:** Balor was trained in the manner of any king to rule and defend. He is said to have been a proud, fierce, and cunning warrior until the war with man. There are no textual reasons for the king's stamina and fortitude failing him against mankind (the war with man seems to have been the first time that the magical races had been called to an all out war and Balor had never lost a physical dispute up to that point), but some fans speculate that it was either the king's age, the loss of his arm, or the death of his queen that caused him to lose most of his former abilities. After the truce with man, Balor allowed the throne to drift with the trends of man and relocated to the new world to live in less than royal conditions. Balor was not fond of peace, like Nuala, but was instead simply weary of making war against humans, a race that never seems to tire despite being mortal.
+
+<!-- -->
+
+- **Weaponry/Silver-hand:** King Balor has a magical hand forged of silver to replace his lost hand and arm. The hand can move just as any other, but the king seems put off by its presence. While one can see it moving in the film, he seems to have neither the energy nor the desire to even lift the arm, allowing it to rest on the throne. The novel describes the wooden portion being strapped across the king's chest beneath his robes and the weight of it became more noticeable to both the king and the court as he grew older. However, even in his younger years and during the war with man, Balor was shown to not move the prosthetic arm much at all. Balor used a magical sword forged from silver similar to the one given to Nuada, meant to not only catch an enemy's blade, but allow the king to wrench it free of its wielder.
+
+<!-- -->
+
+- **Crown:** Aside from the magical golden crown, the king was also shown to have a more bizarre and natural crown (which appeared to be fused to his head). The crown grew more large and grand as the king aged and seemed to be an odd set of branch-like antlers. Kings of the old world often incorporated the antlers of large bucks in order to appear more powerful and fierce. Balor's is shown to be smaller before the war with man and then quite large by the time his son confronted him for their final meeting.
+
+## Trivia
+
+- In Celtic Mythology, Balor was a Formorian King who slew Nuada (Nuadha Airgetlam). Before killing him, Balor also managed to 'disarm' King Nuada, necessitating the creation of a silver hand for him.
+
+<!-- -->
+
+- In the film, Balor is portrayed by the late Roy Dotrice. Dotrice also appeared in the television series *Beauty and the Beast* as the adoptive father of Vincent, who was played by Hellboy himself, Ron Perlman.
+
+de:Balor
+
+**Category:Mythical Creature** **Category:Elves** **Category:Male Characters** **Category:Deceased Characters** **Category:Royalty** **Category:Hellboy II: The Golden Army characters** **Category:Characters (2004–2008 film franchise)**

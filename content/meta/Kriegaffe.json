@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "War Apes"
+  },
+  {
+   "label": "性别",
+   "value": "usually males"
+  },
+  {
+   "label": "种族",
+   "value": "Apes"
+  },
+  {
+   "label": "职业",
+   "value": "Super-soldiers"
+  }
+ ],
+ "image": "174751-144649-kriegsaffe large.jpg",
+ "cats": [
+  "Nazi",
+  "Characters",
+  "Species",
+  "villains",
+  "Villains"
+ ],
+ "img_source": "keep"
+}

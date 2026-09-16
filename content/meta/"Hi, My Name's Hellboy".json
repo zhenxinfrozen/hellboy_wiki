@@ -1,0 +1,37 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "\"Hi, my name's Hellboy\""
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Celebrate Diversity"
+  },
+  {
+   "label": "连载日期",
+   "value": "October 1994"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23The%20Art%20of%20Hellboy\">The Art of Hellboy</a>"
+  }
+ ],
+ "image": "Hi,_my_name's_Hellboy.jpg",
+ "cats": [
+  "Story",
+  "Hellboy story",
+  "Out-of-continuity story"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "B.P.R.D._agent",
+  "Humans",
+  "Male_Characters",
+  "Americans",
+  "Heroes"
+ ],
+ "type": "Character",
+ "image": "NortonRicker.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "General of the B.P.R.D. (1947)"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Pancakes"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

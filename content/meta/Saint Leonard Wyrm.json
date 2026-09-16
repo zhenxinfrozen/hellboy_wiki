@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Monsters",
+  "Villains",
+  "Deceased_Characters",
+  "Mythical_Creatures",
+  "Dragons",
+  "Animals"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "SaintLeonardWorm.jpeg",
+ "img_source": "body",
+ "rows": []
+}

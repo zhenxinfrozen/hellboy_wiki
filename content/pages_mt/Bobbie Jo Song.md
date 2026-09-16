@@ -1,0 +1,1 @@
+**博比·乔·宋（Bobbie Jo Song）**是登场于 *[《地狱男爵：扭曲人》](/entry/Hellboy%3A_The_Crooked_Man_(film))* 的原创角色。她是[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)的一名特工，专长是调查研究。她与[地狱男爵](/entry/Hellboy_(character))是非常亲密的朋友。

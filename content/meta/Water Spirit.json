@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Num-Yabisc?"
+  },
+  {
+   "label": "性别",
+   "value": "Male<ref>In <a href=\"/entry/The%20Drowning\">The Drowning</a> #5 the creature refered to as the old woman's father</ref>"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Plague%20of%20Frogs%20%28story%29\">Plague of Frogs</a> #5"
+  },
+  {
+   "label": "种族",
+   "value": "Unknown"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Water_Spirit.jpg",
+ "cats": [
+  "Characters"
+ ],
+ "img_source": "keep"
+}

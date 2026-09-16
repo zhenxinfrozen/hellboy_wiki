@@ -1,0 +1,36 @@
+{
+ "cats": [
+  "Demons",
+  "Monsters",
+  "Villains",
+  "Goetia",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "image": "Marbas.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "The schoolmaster"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Teacher"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Witchcraft & Demonology"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

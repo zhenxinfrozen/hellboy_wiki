@@ -1,0 +1,1 @@
+"The City of Canals and Gondoliers" featured prominently in [The Soul of Venice](/entry/The_Soul_of_Venice). The city is tied to [Cloacina](/entry/Cloacina), the Roman goddess of canals. The city has a complicated history with vampires.

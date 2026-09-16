@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "登场电影",
+   "value": "<a href=\"/entry/Hellboy%20II%3A%20The%20Golden%20Army\">Hellboy II: The Golden Army</a>"
+  },
+  {
+   "label": "饰演",
+   "value": "<a href=\"/entry/Doug%20Jones\">Doug Jones</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Angel"
+  },
+  {
+   "label": "职业",
+   "value": "Hellboy's Reaper"
+  }
+ ],
+ "image": "Angel_of_death.jpg",
+ "cats": [
+  "Hellboy II: The Golden Army characters",
+  "Characters (2004–2008 film franchise)",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

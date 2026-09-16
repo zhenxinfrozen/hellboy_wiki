@@ -1,0 +1,39 @@
+{
+ "cats": [
+  "Monsters",
+  "Ogdru_Hem",
+  "Deities",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Characters",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Mesoamerican_Myth",
+  "Dragons"
+ ],
+ "type": "Character",
+ "image": "Quetzalcoatl.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "the Aztec mummy"
+  },
+  {
+   "label": "种族",
+   "value": "Ogdru Hem, Deities"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad (parent)"
+  },
+  {
+   "label": "职业",
+   "value": "Secret one of the Ogdru Hem<br>Mesoamerican god"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy versus the Aztec Mummy"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

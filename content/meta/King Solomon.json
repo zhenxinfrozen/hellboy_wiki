@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Humans",
+  "Royalty",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Abrahamic",
+  "Deceased_Characters",
+  "Based_on_real_people"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "KingSolomon .jpeg",
+ "img_source": "body",
+ "rows": []
+}

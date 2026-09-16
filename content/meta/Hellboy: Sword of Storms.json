@@ -1,0 +1,46 @@
+{
+ "type": "Movie",
+ "type_zh": "电影",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Matt Wayne<br>Tad Stones"
+  },
+  {
+   "label": "配乐",
+   "value": "Christopher Drake"
+  },
+  {
+   "label": "上映日期",
+   "value": "October 28, 2006"
+  },
+  {
+   "label": "片长",
+   "value": "77 minutes"
+  }
+ ],
+ "image": "Sword of Storms.jpg",
+ "cats": [
+  "Hellboy Animated",
+  "Films"
+ ],
+ "rows_en": [
+  {
+   "label": "Writers",
+   "value": "Matt Wayne<br>Tad Stones"
+  },
+  {
+   "label": "Music by",
+   "value": "Christopher Drake"
+  },
+  {
+   "label": "Release date",
+   "value": "October 28, 2006"
+  },
+  {
+   "label": "Running time",
+   "value": "77 minutes"
+  }
+ ],
+ "img_source": "keep"
+}

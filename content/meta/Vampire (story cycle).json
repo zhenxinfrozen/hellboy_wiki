@@ -1,0 +1,35 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Vampire<br>(story cycle)"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/Gabriel%20B%C3%A1\">Gabriel Bá</a> &amp; <a href=\"/entry/F%C3%A1bio%20Moon\">Fábio Moon</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Gabriel%20B%C3%A1\">Gabriel Bá</a> &amp; <a href=\"/entry/F%C3%A1bio%20Moon\">Fábio Moon</a>"
+  },
+  {
+   "label": "出版",
+   "value": "<a href=\"/entry/Vampire%20%28story%29\">Vampire</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "March 2013 – present"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23Vampire_Collected_Trade_Paperbacks\">B.P.R.D. Vampire trade paperbacks</a>"
+  }
+ ],
+ "image": "Story_Cycle_-_Vampire.png",
+ "cats": [
+  "Comics"
+ ],
+ "img_source": "keep"
+}

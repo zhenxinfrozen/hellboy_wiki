@@ -1,0 +1,35 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Dark and Terrible<br>(story cycle)"
+  },
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/Scott%20Allie\">Scott Allie</a><br><a href=\"/entry/John%20Arcudi\">John Arcudi</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Max%20Fiumara\">Max Fiumara</a><br><a href=\"/entry/Sebasti%C3%A1n%20Fiumara\">Sebastián Fiumara</a>"
+  },
+  {
+   "label": "出版",
+   "value": "<a href=\"/entry/Dark%20and%20Terrible%20%28story%29\">Dark and Terrible</a> – <a href=\"/entry/The%20Desolate%20Shore\">The Desolate Shore</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "April 2013 – August 2016"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/Trade%20Paperback%20Collections%23Abe%20Sapien\">Abe Sapien trade paperbacks (Volumes 3–8)</a>"
+  }
+ ],
+ "image": "Abe_Sapien_Dark_and_Terrible_Trade_Collections.jpg",
+ "cats": [
+  "Comics"
+ ],
+ "img_source": "body"
+}

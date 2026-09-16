@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Out-of-continuity_story"
+ ],
+ "type": "Story",
+ "image": "Itty Bitty Hellboy 2 TPB.png",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Art Baltazar & Franco Aureliani"
+  },
+  {
+   "label": "作画",
+   "value": "Art Baltazar"
+  },
+  {
+   "label": "剪辑",
+   "value": "Scott Allie"
+  },
+  {
+   "label": "首发于",
+   "value": "Itty Bitty Hellboy: The Search for the Were-Jaguar! #1–4"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

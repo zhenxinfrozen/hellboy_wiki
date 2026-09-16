@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Art_Books"
+ ],
+ "type": "Book",
+ "image": "The Art of Hellboy (Hardcover).jpg",
+ "rows": [
+  {
+   "label": "作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "出版日期",
+   "value": "March 26, 2003 (Hardcover)<br>March 31, 2004 (Paperback)"
+  },
+  {
+   "label": "页数",
+   "value": "200"
+  },
+  {
+   "label": "出版方",
+   "value": "Dark Horse Comics"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

@@ -1,0 +1,16 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Deities",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Based_on_real_people",
+  "Humans",
+  "Abrahamic"
+ ],
+ "type": "Character",
+ "image": "JesusChrist.jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

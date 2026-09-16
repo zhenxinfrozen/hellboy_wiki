@@ -1,0 +1,13 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": "Shonchin.jpeg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Immortals",
+  "Vril"
+ ],
+ "img_source": "body"
+}

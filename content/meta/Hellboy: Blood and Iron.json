@@ -1,0 +1,46 @@
+{
+ "type": "Movie",
+ "type_zh": "电影",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "Victor Cook"
+  },
+  {
+   "label": "编剧",
+   "value": "Mike Mignola<br>Tad Stones<br>Kevin Hop (screenplay)"
+  },
+  {
+   "label": "上映日期",
+   "value": "March 17, 2007"
+  },
+  {
+   "label": "片长",
+   "value": "1 hr 16 min"
+  }
+ ],
+ "image": "Blood & Iron.jpg",
+ "cats": [
+  "Hellboy Animated",
+  "Films"
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "Victor Cook"
+  },
+  {
+   "label": "Writers",
+   "value": "Mike Mignola<br>Tad Stones<br>Kevin Hop (screenplay)"
+  },
+  {
+   "label": "Release date",
+   "value": "March 17, 2007"
+  },
+  {
+   "label": "Running time",
+   "value": "1 hr 16 min"
+  }
+ ],
+ "img_source": "keep"
+}

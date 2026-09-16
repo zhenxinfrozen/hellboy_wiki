@@ -1,0 +1,11 @@
+{
+ "cats": [
+  "Animals",
+  "Minor_Characters"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Injustice2Elephant.PNG",
+ "img_source": "body",
+ "rows": []
+}

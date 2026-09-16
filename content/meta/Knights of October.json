@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Organizations",
+  "Germans",
+  "Knight_Military_Orders"
+ ],
+ "type": "Organization",
+ "type_zh": "组织",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

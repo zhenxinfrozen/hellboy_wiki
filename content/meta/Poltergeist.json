@@ -1,0 +1,25 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Spirits",
+  "Villains",
+  "Mythical_Creatures",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Species"
+ ],
+ "type": "Character",
+ "image": "PoltergeistVsSarahJewell.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Spirit"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Rise of the Black Flame"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

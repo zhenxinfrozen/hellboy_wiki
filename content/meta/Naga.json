@@ -1,0 +1,29 @@
+{
+ "cats": [
+  "Monsters",
+  "Demons",
+  "Deities",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Dragons",
+  "Animals"
+ ],
+ "type": "Character",
+ "image": "Naga.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Demonic Monster"
+  },
+  {
+   "label": "职业",
+   "value": "Hindu and Buddhist monster"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Witchcraft & Demonology"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

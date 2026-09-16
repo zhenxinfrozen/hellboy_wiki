@@ -1,0 +1,37 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Beings_based_on_literature",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Heroes",
+  "Daoine_Sidhe",
+  "Irish"
+ ],
+ "type": "Character",
+ "image": "QueenMab.jpeg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Queen Medb"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Fairy"
+  },
+  {
+   "label": "职业",
+   "value": "High Queen of the Tuatha De Danann (formerly)<br>One of the Daoine Sidhe"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Island"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,44 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Naunet"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: <a href=\"/entry/Garden%20of%20Souls\">Garden of Souls</a> #3"
+  },
+  {
+   "label": "种族",
+   "value": "Mummified Egyptian human"
+  },
+  {
+   "label": "职业",
+   "value": "Consultant for B.P.R.D."
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola &amp; Scott Allie"
+  },
+  {
+   "label": "亲属",
+   "value": "Father (unnamed, deceased)"
+  }
+ ],
+ "image": "panya2.jpg",
+ "cats": [
+  "Female Characters",
+  "Humans",
+  "Undead",
+  "Psychics",
+  "B.P.R.D. agent",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

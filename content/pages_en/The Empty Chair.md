@@ -1,0 +1,1 @@
+***The Empty Chair*** is a short story featured in the *[Hellboy Winter Special (2018)](/entry/Hellboy_Winter_Special_(2018))* written and illustrated by Tonci Zonjic. It is Tonci Zonjic's debut writing a Hellboy Universe story. The tale is set in 1930, making it chronologically the first *[Lobster Johnson](/entry/Lobster_Johnson_(series))* story.

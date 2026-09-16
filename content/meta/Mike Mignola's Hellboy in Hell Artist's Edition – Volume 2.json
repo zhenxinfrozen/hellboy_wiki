@@ -1,0 +1,23 @@
+{
+ "cats": [
+  "Comics"
+ ],
+ "type": "Story",
+ "image": "Hellboy Artist's Edition Vol 2.jpg",
+ "rows": [
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "剪辑",
+   "value": "Scott Dunbier"
+  },
+  {
+   "label": "出版日期",
+   "value": "scheduled for<br>April 1, 2026"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

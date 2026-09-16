@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  },
+  {
+   "label": "职业",
+   "value": "Grand-Duke of Hell"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Azzael\">Azzael</a> (brother) <br> <a href=\"/entry/Gamon\">Gamon</a> (nephew)<br><a href=\"/entry/Lusk\">Lusk</a> (nephew)<br><a href=\"/entry/Hellboy\">Hellboy</a> (nephew)<br><a href=\"/entry/Gamori\">Gamori</a> (niece)<br>"
+  }
+ ],
+ "image": "Astaroth 002.jpg",
+ "cats": [
+  "Characters",
+  "Demons",
+  "Male Characters",
+  "Villains",
+  "Deceased Characters",
+  "Royalty"
+ ],
+ "img_source": "keep"
+}

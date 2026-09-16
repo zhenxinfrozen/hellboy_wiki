@@ -1,0 +1,34 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Midnight%20Circus\">Hellboy: The Midnight Circus</a>"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Azzael\">Azzael</a> (father) <br> <a href=\"/entry/Astaroth\">Astaroth</a> (uncle)<br><a href=\"/entry/Lusk\">Lusk</a> (brother)<br><a href=\"/entry/Gamon\">Gamon</a> (brother)<br> <a href=\"/entry/Hellboy\">Hellboy</a> (half-brother)"
+  }
+ ],
+ "image": "Gamori.jpg",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Demons",
+  "Hellboy characters"
+ ],
+ "img_source": "keep"
+}

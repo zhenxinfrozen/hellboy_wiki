@@ -1,0 +1,30 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "Giant monkey.png",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Monkey-Boy"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Monster"
+  },
+  {
+   "label": "职业",
+   "value": "Monk"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,34 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Witchfinder_Characters",
+  "Characters",
+  "Female_Characters"
+ ],
+ "type": "Character",
+ "image": "Screenshot 2025-03-14 at 16-18-27 Read The Serpent in the Garden Ed Grey and the Last Battle for England (2024-) -2 comics online for free.png",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "human"
+  },
+  {
+   "label": "亲属",
+   "value": "Howard Wolf (brother)"
+  },
+  {
+   "label": "职业",
+   "value": "medium"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "\"In the Service of Angels\""
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

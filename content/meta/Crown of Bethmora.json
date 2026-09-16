@@ -1,0 +1,11 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": "Crown.jpg",
+ "cats": [
+  "Items",
+  "Hellboy II: The Golden Army"
+ ],
+ "img_source": "body"
+}

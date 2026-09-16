@@ -1,0 +1,34 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Seed%20of%20Destruction\">Seed of Destruction</a>"
+  },
+  {
+   "label": "种族",
+   "value": "human"
+  },
+  {
+   "label": "职业",
+   "value": "Nazi scientist"
+  }
+ ],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Nazi",
+  "Germans",
+  "Male Characters",
+  "Humans",
+  "Scientists",
+  "Zinco Corporation",
+  "Hellboy characters"
+ ],
+ "img_source": "placeholder"
+}

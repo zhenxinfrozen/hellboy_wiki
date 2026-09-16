@@ -1,0 +1,38 @@
+{
+ "cats": [
+  "Hellboy_story",
+  "Hellboy_and_the_B.P.R.D._story",
+  "B.P.R.D._story",
+  "Audio_drama"
+ ],
+ "type": "Audio",
+ "image": "The Goddess of Manhattan.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Christopher Golden and Thomas E. Sniegoski"
+  },
+  {
+   "label": "改编",
+   "value": "Scott McCormick"
+  },
+  {
+   "label": "导演",
+   "value": "Scott McCormick"
+  },
+  {
+   "label": "制片人",
+   "value": "Colleen Delany, Scott McCormick, David Zitney, Casey Green, and Aaron Coe"
+  },
+  {
+   "label": "执行制片",
+   "value": "Anji Cornette, Duane Beeman, and Matt Webb"
+  },
+  {
+   "label": "出版日期",
+   "value": "September 10, 2024"
+  }
+ ],
+ "type_zh": "音频剧",
+ "img_source": "keep"
+}

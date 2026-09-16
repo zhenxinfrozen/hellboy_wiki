@@ -1,0 +1,11 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Interior Artist",
+  "Writer"
+ ],
+ "img_source": "placeholder"
+}

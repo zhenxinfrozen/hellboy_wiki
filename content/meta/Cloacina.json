@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Soul%20of%20Venice\">The Soul of Venice</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Deity"
+  },
+  {
+   "label": "职业",
+   "value": "Soul of Venice"
+  }
+ ],
+ "image": "Cloacina.jpg",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Deities",
+  "Immortals"
+ ],
+ "img_source": "keep"
+}

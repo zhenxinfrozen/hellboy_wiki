@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. field agent"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Susan Xiang.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Psychics",
+  "B.P.R.D. agent",
+  "Americans",
+  "Humans"
+ ],
+ "img_source": "keep"
+}

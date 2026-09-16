@@ -1,0 +1,10 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "The_Haunted_Boy.jpg",
+ "cats": [
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

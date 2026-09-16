@@ -1,0 +1,11 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "BPRD_120.jpg",
+ "cats": [
+  "Interior Artist",
+  "Cover Artist"
+ ],
+ "img_source": "body"
+}

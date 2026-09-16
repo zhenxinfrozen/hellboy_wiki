@@ -1,0 +1,10 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "The_Bones_of_Giants_1.png",
+ "cats": [
+  "Interior Artist"
+ ],
+ "img_source": "body"
+}

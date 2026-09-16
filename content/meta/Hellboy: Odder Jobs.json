@@ -1,0 +1,31 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Hellboy: Odder Jobs"
+  },
+  {
+   "label": "编剧",
+   "value": "Frank Darabont, Peter Crowther, Scott Allie, Charles de Lint, David J. Schowr, James L. Cambias, Ed Gorman &amp; Richard Dean Starr, Tom Piccirilli, Nancy Kilpatrick, Sharyn McCrumb, Thomas E. Sniegoski, Graham Joyce, James A. Moore, Ray Garton, Tim Lebbon, and <a href=\"/entry/Guillermo%20del%20Toro\">Guillermo del Toro</a> &amp; Matthew Robbins"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "November 6, 2004"
+  }
+ ],
+ "image": "Hellboy_-_Odder_Jobs_(Novel_Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

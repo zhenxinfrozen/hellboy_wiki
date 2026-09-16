@@ -1,0 +1,35 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Heca-Emem-Ra, Goddess of Witches, Gorgon Eyes, Witch Queen, Black Goddess, Queen of Dogs, Black Heccata; Neb-Ogeroth, <a href=\"/entry/Ilsa%20Haupstein\">Ilsa Haupstein</a> (after transformation)"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Wake the Devil"
+  },
+  {
+   "label": "种族",
+   "value": "Witch"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Vladimir%20Giurescu\">Vladimir Giurescu</a> (\"son\")"
+  }
+ ],
+ "image": "Hecate 002.jpg",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Deities",
+  "Witches",
+  "Hellboy Animated Characters"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Species",
+  "Mythical_Creatures",
+  "Monsters",
+  "Trolls",
+  "Magical_Beings",
+  "Hellboy_II:_The_Golden_Army",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Norse_Myth"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Troll2.png",
+ "img_source": "body",
+ "rows": []
+}

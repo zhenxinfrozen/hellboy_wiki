@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Martin Gilfryd"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: <a href=\"/entry/The%20Black%20Flame%20%28story%29\">The Black Flame</a> #3"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  }
+ ],
+ "image": "Memnan.jpg",
+ "cats": [
+  "Characters",
+  "Lobster Johnson Characters",
+  "Witchfinder Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Spirits",
+  "Witches"
+ ],
+ "img_source": "keep"
+}

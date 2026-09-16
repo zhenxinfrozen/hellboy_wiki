@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Characters",
+  "Monsters",
+  "Villains",
+  "Deceased_Characters",
+  "Norse_Myth"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "HraesvelgByMattSmith.jpg",
+ "img_source": "body",
+ "rows": []
+}

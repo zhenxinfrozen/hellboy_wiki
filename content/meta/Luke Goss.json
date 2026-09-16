@@ -1,0 +1,10 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "Luke-Goss-240x300.jpg",
+ "cats": [
+  "Real people"
+ ],
+ "img_source": "body"
+}

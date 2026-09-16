@@ -1,0 +1,34 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Scientific Advisor to the B.P.R.D."
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/A.N.%20Sandhu\">A.N. Sandhu</a> (Older Brother)"
+  }
+ ],
+ "image": "N.K. Sandhu.jpg",
+ "cats": [
+  "B.P.R.D. agent",
+  "Female Characters",
+  "Humans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,39 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Dead\">The Dead</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": " <a href=\"/entry/B.P.R.D.\">B.P.R.D.</a> agent"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/John%20Arcudi\">John Arcudi</a><ref>\"...he Mignola leaves a lot of blanks for John to fill in - starting with the creation of Daimio.\" from the <a href=\"/entry/Hellmail\">Hellmail</a> to <a href=\"/entry/The%20Dead\">The Dead</a> #3</ref>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Crimson%20Lotus\">Crimson Lotus</a> (grandmother)"
+  }
+ ],
+ "image": "BenDaimio.jpg",
+ "cats": [
+  "B.P.R.D. agent",
+  "Male Characters",
+  "Monsters",
+  "Americans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

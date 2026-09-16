@@ -1,0 +1,10 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": "Excalibur2.jpg",
+ "cats": [
+  "Items"
+ ],
+ "img_source": "body"
+}

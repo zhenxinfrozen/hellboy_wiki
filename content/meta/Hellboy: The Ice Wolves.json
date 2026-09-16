@@ -1,0 +1,23 @@
+{
+ "cats": [
+  "Prose"
+ ],
+ "type": "Book",
+ "image": "Hellboy - The Ice Wolves (Novel Cover).jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Mark Chadbourn"
+  },
+  {
+   "label": "作画",
+   "value": "Duncan Fegredo"
+  },
+  {
+   "label": "出版日期",
+   "value": "September 30, 2009"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

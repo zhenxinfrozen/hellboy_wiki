@@ -1,0 +1,10 @@
+{
+ "cats": [
+  "Species"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

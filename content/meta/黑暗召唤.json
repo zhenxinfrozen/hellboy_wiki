@@ -1,0 +1,52 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Duncan%20Fegredo\">Duncan Fegredo</a><br>with <a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Hellboy: Darkness Calls #1–6"
+  },
+  {
+   "label": "期数",
+   "value": "Hellboy #27–32"
+  },
+  {
+   "label": "连载日期",
+   "value": "May–November 2007"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23Hellboy8\">Hellboy – Volume 8: Darkness Calls</a>"
+  },
+  {
+   "label": "全集",
+   "value": "<a href=\"/entry/Omnibus_Editions%23Hellboy_Omni3\">Hellboy – Volume 3: The Wild Hunt</a>"
+  }
+ ],
+ "image": "Darkness_Calls_1.jpg",
+ "cats": [
+  "Story",
+  "Hellboy story"
+ ],
+ "img_source": "keep"
+}

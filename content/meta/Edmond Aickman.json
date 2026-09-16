@@ -1,0 +1,37 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "亲属",
+   "value": "Pernilla Aickman (daughter)"
+  },
+  {
+   "label": "职业",
+   "value": "Professor"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: King Vold"
+  }
+ ],
+ "image": "EdmondAickman.jpeg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Minor Character"
+ ],
+ "img_source": "fandom"
+}

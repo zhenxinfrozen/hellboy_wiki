@@ -1,0 +1,35 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Wild%20Hunt\">Hellboy: The Wild Hunt #5</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Witch"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Morgan Le Fay.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Living Characters",
+  "Witches",
+  "Immortals"
+ ],
+ "img_source": "keep"
+}

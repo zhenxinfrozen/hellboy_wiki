@@ -1,0 +1,37 @@
+{
+ "cats": [
+  "Out-of-continuity_story",
+  "Comics",
+  "Crossovers"
+ ],
+ "type": "Story",
+ "image": "Batman Hellboy Starman 1.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "James Robinson"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "上色",
+   "value": "Matt Hollingsworth"
+  },
+  {
+   "label": "嵌字",
+   "value": "Willie Schubert"
+  },
+  {
+   "label": "剪辑",
+   "value": "Peter Tomasi"
+  },
+  {
+   "label": "首发于",
+   "value": "Batman/Hellboy/Starman #1–2"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "img_source": "keep"
+}

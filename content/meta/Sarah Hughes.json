@@ -1,0 +1,39 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Chained%20Coffin\">Hellboy: The Chained Coffin</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Witch"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Hellboy%20%28character%29\">Hellboy</a> (son)<br><a href=\"/entry/Azzael\">Azzael</a> (husband)<br>Mordred (ancestor)<br>King Arthur (ancestor)<br><a href=\"/entry/Morgan%20le%20Fay\">Morgan le Fay</a> (ancestor)<br>Katheryn of Gilfach (ancestor)"
+  }
+ ],
+ "image": "Sarah Hughes.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Witches",
+  "Deceased Characters",
+  "Humans"
+ ],
+ "img_source": "keep"
+}

@@ -1,0 +1,44 @@
+{
+ "cats": [
+  "Hellboy_story",
+  "Audio_drama"
+ ],
+ "type": "Audio",
+ "image": "A Plague of Wasps.jpg",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Christopher Golden"
+  },
+  {
+   "label": "改编",
+   "value": "Scott McCormick"
+  },
+  {
+   "label": "导演",
+   "value": "Scott McCormick"
+  },
+  {
+   "label": "对白剪辑",
+   "value": "Justin Wortz and David Ryeczek"
+  },
+  {
+   "label": "音效设计",
+   "value": "Justin Wortz and David Ryeczek"
+  },
+  {
+   "label": "制片人",
+   "value": "Colleen Delany, Scott McCormick, David Zitney, Casey Green, and Aaron Coe"
+  },
+  {
+   "label": "执行制片",
+   "value": "Anji Cornette, Duane Beeman, and Matt Webb"
+  },
+  {
+   "label": "出版日期",
+   "value": "July 11, 2023"
+  }
+ ],
+ "type_zh": "音频剧",
+ "img_source": "keep"
+}

@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Abyssal%20Plain\">The Abyssal Plain</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Director of the <a href=\"/entry/Special%20Sciences%20Service\">Special Sciences Service</a>"
+  }
+ ],
+ "image": "Iosif.jpg",
+ "cats": [
+  "Russians",
+  "Undead",
+  "Male Characters",
+  "Fictional characters with superhuman strength",
+  "Deceased Characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

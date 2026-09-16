@@ -1,0 +1,31 @@
+{
+ "cats": [
+  "Art_Books"
+ ],
+ "type": "Book",
+ "image": "Hellboy - 20 Years of Covers.jpg",
+ "rows": [
+  {
+   "label": "作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "作画",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "出版日期",
+   "value": "July 19, 2019"
+  },
+  {
+   "label": "页数",
+   "value": "192"
+  },
+  {
+   "label": "出版方",
+   "value": "Dark Horse Comics"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

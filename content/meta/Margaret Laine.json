@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Article_stubs",
+  "Female_Characters",
+  "B.P.R.D._agent",
+  "Americans",
+  "Hellboy_and_the_B.P.R.D._Characters"
+ ],
+ "type": "Character",
+ "image": "Margaret(1).jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. Director of Field OperationsB.P.R.D. Secretary (Formerly)"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

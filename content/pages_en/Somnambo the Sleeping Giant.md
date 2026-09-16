@@ -1,0 +1,5 @@
+***Somnambo the Sleeping Giant*** is a non-canonical story published in *[Hellboy Junior Halloween Special](/entry/Hellboy_Junior)*. It was written by [Bill Wray](/entry/Bill_Wray) and drawn by [Dave Cooper](/entry/Dave_Cooper).
+
+## Plot Synopsis
+
+In order to protect his town from troll raiding parties the mayor of Little Pork Loin seeks the advice of the oldest town elder. The Elder instructs the mayor to waken the nearby sleeping giant by tossing a virgin into its mouth. The Mayor then betrays the elder by tossing him into the giants mouth. The giant awakens and accidentally causes damage to the town. Even more of the town is destroyed during the giants successfully fight against the trolls. The giant then gets sick thus destroying even more of Little Pork Loin. Finally seeing all the destruction he has wrought the giant begins crying which leads to the ultimate destruction of the town and the death of all but one of the towns citizens. The only survivor is the elder to exited the Giants stomach when it got sick.

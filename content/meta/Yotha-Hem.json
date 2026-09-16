@@ -1,0 +1,33 @@
+{
+ "cats": [
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Deities",
+  "Spirits",
+  "Monsters",
+  "Villains",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "image": "YothaHem.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "亲属",
+   "value": "Ogdru Jahad (parents)"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Frankenstein Underground"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

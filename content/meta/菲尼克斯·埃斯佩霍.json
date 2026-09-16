@@ -1,0 +1,42 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Fenix Espejo"
+  },
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Gods\">B.P.R.D. Hell on Earth: Gods #1</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "B.P.R.D. field agent"
+  },
+  {
+   "label": "创作者",
+   "value": "<ul><li><a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><li><a href=\"/entry/John%20Arcudi\">John Arcudi</a><br><li><a href=\"/entry/Guy%20Davis\">Guy Davis</a></ul>"
+  },
+  {
+   "label": "亲属",
+   "value": "Unknown"
+  }
+ ],
+ "image": "Fenix.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Psychics",
+  "Humans"
+ ],
+ "img_source": "keep"
+}

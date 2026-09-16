@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Characters",
+  "Female_Characters",
+  "Deities",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "Kali.jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

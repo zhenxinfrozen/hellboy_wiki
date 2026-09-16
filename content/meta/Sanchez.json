@@ -1,0 +1,30 @@
+{
+ "cats": [
+  "Characters",
+  "Male_Characters",
+  "Humans",
+  "Deceased_Characters"
+ ],
+ "type": "Character",
+ "image": "Sanchez.png",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Brother Sanchez"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Monk"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

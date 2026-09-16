@@ -1,0 +1,36 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "别称/身份",
+   "value": "Koshchei the Deathless<br>Koshchei the Devil"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Darkness%20Calls\">Darkness Calls</a>"
+  },
+  {
+   "label": "种族",
+   "value": "Undead Human"
+  },
+  {
+   "label": "职业",
+   "value": "Mercenary"
+  }
+ ],
+ "image": "2576748-koshchei the deathless.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Deceased Characters",
+  "Undead",
+  "Immortals",
+  "Article stubs"
+ ],
+ "img_source": "keep"
+}

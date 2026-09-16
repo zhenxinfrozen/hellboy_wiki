@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Gender fluid"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: <a href=\"/entry/1946\">1946</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Demon\">Demon</a>"
+  },
+  {
+   "label": "职业",
+   "value": "Former Director of the <a href=\"/entry/Special%20Sciences%20Service\">Special Sciences Service</a>, 7th Lord of Hell"
+  }
+ ],
+ "image": "Varvara.png",
+ "cats": [
+  "Russians",
+  "Demons",
+  "Female Characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

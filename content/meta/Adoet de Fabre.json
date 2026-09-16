@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Collector of supernatural creatures and artifacts<br>Marquis of the Duchee of Fabre"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Universal Machine"
+  }
+ ],
+ "image": "AdoetdeFabre.jpeg",
+ "cats": [
+  "Characters",
+  "Deceased Characters",
+  "Immortals",
+  "Male Characters",
+  "Humans",
+  "Royalty",
+  "Occultists"
+ ],
+ "img_source": "fandom"
+}

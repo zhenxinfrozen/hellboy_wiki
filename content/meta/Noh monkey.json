@@ -1,0 +1,18 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Dead\">The Dead</a> #3"
+  }
+ ],
+ "image": "Noh_monkey.jpg",
+ "cats": [
+  "Characters",
+  "Species",
+  "Mythical Creature",
+  "Monsters"
+ ],
+ "img_source": "keep"
+}

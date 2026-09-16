@@ -1,0 +1,17 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "image": "Into_the_Silent_Sea_-_Gianni_(Flesk).jpg",
+ "cats": [
+  "Cover Artist",
+  "Writer",
+  "Interior Artist"
+ ],
+ "img_source": "body"
+}

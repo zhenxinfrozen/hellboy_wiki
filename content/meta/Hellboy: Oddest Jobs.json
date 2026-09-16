@@ -1,0 +1,31 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Hellboy: Oddest Jobs"
+  },
+  {
+   "label": "编剧",
+   "value": "Joe R. Lansdale, Mark Chadbourn, John Skipp &amp; Cody Goodfellow, Ken Bruen, Garth Nix, Brian Keene, Tad Williams, Amber Benson, Barbara Hambly, Gary A. Braunbeck, Rhys Hughes, Stephen Volk, Don Winslow, and China Miéville"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "July 9, 2008"
+  }
+ ],
+ "image": "Hellboy_-_Oddest_Jobs_(Novel_Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

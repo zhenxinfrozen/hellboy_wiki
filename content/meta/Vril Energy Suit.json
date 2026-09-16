@@ -1,0 +1,11 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Items",
+  "Vril"
+ ],
+ "img_source": "placeholder"
+}

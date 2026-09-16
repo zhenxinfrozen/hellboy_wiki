@@ -1,0 +1,12 @@
+{
+ "cats": [
+  "Hellboy_II:_The_Golden_Army",
+  "Cast",
+  "Real_people"
+ ],
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "image": "Roy 3-2004.jpg",
+ "img_source": "body",
+ "rows": []
+}

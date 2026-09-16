@@ -1,0 +1,1 @@
+**Pope Clement V** was the head of the Catholic church from 1305 to 1314.  Under his papacy, in 1307 he ordered the arrests of the [Knights Templar](/entry/Knights_Templar) to be carried out by the [Order of the Knights of Saint Hagan](/entry/Order_of_the_Knights_of_Saint_Hagan).

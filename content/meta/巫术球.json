@@ -1,0 +1,11 @@
+{
+ "type": "Item",
+ "type_zh": "物品",
+ "rows": [],
+ "image": "Witchball.jpg",
+ "cats": [
+  "items",
+  "Items"
+ ],
+ "img_source": "body"
+}

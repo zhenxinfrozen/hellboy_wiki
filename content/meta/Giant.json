@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Monsters",
+  "Species",
+  "Villains",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Species",
+ "type_zh": "种族",
+ "image": "Giant.jpeg",
+ "img_source": "body",
+ "rows": []
+}

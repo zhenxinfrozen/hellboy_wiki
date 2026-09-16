@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/War%20on%20Frogs\">War on Frogs #4</a>"
+  },
+  {
+   "label": "职业",
+   "value": "BPRD Field Agent"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, <a href=\"/entry/John%20Arcudi\">John Arcudi</a>, <a href=\"/entry/Peter%20Snejbjerg\">Peter Snejbjerg</a>"
+  }
+ ],
+ "image": "Bprd catlett (By Peter Snejbjerg).jpg",
+ "cats": [
+  "Male Characters",
+  "Living Characters",
+  "Minor Character",
+  "Humans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

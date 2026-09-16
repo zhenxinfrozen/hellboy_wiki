@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Undead",
+  "Villains",
+  "Minor_Characters",
+  "Deceased_Characters",
+  "Humans",
+  "Male_Characters",
+  "Hellboy_characters",
+  "Based_on_real_people"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": "Blackbeardalive.jpg",
+ "img_source": "body",
+ "rows": []
+}

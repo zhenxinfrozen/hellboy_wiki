@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: <a href=\"/entry/1947\">1947</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Vampire; former human"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, <a href=\"/entry/Joshua%20Dysart\">Joshua Dysart</a>"
+  }
+ ],
+ "image": "Simon Andrews 001.JPG",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "B.P.R.D. agent",
+  "Humans",
+  "Americans",
+  "Vampires"
+ ],
+ "img_source": "keep"
+}

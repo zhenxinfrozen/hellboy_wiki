@@ -1,0 +1,17 @@
+{
+ "cats": [
+  "Article_stubs",
+  "B.P.R.D._agent",
+  "Male_Characters"
+ ],
+ "type": "Character",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  }
+ ],
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder"
+}

@@ -1,0 +1,48 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a><br><a href=\"/entry/John%20Arcudi\">John Arcudi</a>"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Troy%20Nixey\">Troy Nixey</a><br><a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "上色",
+   "value": "<a href=\"/entry/Dave%20Stewart\">Dave Stewart</a><br><a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "嵌字",
+   "value": "<a href=\"/entry/Clem%20Robins\">Clem Robins</a><br><a href=\"/entry/Kevin%20Nowlan\">Kevin Nowlan</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Scott%20Allie\">Scott Allie</a>"
+  },
+  {
+   "label": "出版",
+   "value": "Lobster Johnson: A Chain Forged in Life"
+  },
+  {
+   "label": "期数",
+   "value": "Lobster Johnson #21"
+  },
+  {
+   "label": "连载日期",
+   "value": "July 2015"
+  },
+  {
+   "label": "合订本",
+   "value": "<a href=\"/entry/TPB%23LoJo6\">Lobster Johnson – A Chain Forged in Life</a>"
+  }
+ ],
+ "image": "A Chain Forged in Life.jpg",
+ "cats": [
+  "Story",
+  "Lobster Johnson story"
+ ],
+ "img_source": "keep"
+}

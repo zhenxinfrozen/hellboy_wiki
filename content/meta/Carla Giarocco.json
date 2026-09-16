@@ -1,0 +1,35 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/King%20of%20Fear%20%28story%29\">B.P.R.D: King of Fear</a> (name mentioned),<br> <a href=\"/entry/New%20World\">B.P.R.D Hell on Earth: New World</a> (first appearance)"
+  },
+  {
+   "label": "职业",
+   "value": "BPRD Field Agent"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "亲属",
+   "value": "Husband and son"
+  }
+ ],
+ "image": "Tumblr_mfb6pmH7ep1r9md50o3_400.png",
+ "cats": [
+  "Female Characters",
+  "B.P.R.D. agent",
+  "Humans",
+  "Americans",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

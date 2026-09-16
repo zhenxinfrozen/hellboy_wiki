@@ -1,0 +1,30 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: The Black Flame #5"
+  },
+  {
+   "label": "种族",
+   "value": "<a href=\"/entry/Ogdru%20Hem\">Ogdru Hem</a>"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "亲属",
+   "value": "<a href=\"/entry/Ogdru%20Jahad\">Ogdru Jahad</a> (parents)"
+  }
+ ],
+ "image": "Katha-Hem 002.png",
+ "cats": [
+  "The Ogdru Jahad and their Agents",
+  "Ogdru Hem",
+  "Deceased Characters",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

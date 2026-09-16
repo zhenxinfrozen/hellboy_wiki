@@ -1,0 +1,38 @@
+{
+ "type": "Movie",
+ "type_zh": "电影",
+ "rows": [
+  {
+   "label": "导演",
+   "value": "Victor Cook"
+  },
+  {
+   "label": "上映日期",
+   "value": "2007"
+  },
+  {
+   "label": "片长",
+   "value": "3 minutes"
+  }
+ ],
+ "image": "Hellboy Animated promo art.jpg",
+ "cats": [
+  "Hellboy Animated",
+  "Films"
+ ],
+ "rows_en": [
+  {
+   "label": "Director",
+   "value": "Victor Cook"
+  },
+  {
+   "label": "Release date",
+   "value": "2007"
+  },
+  {
+   "label": "Running time",
+   "value": "3 minutes"
+  }
+ ],
+ "img_source": "keep"
+}

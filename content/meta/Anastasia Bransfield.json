@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Archaeologist"
+  },
+  {
+   "label": "创作者",
+   "value": "Christopher Golden"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy in Love #1: \"Goblin Night, part 1\""
+  }
+ ],
+ "image": "Anastasia Bransfield.png",
+ "cats": [
+  "Characters",
+  "Female Characters",
+  "Article stubs"
+ ],
+ "img_source": "fandom"
+}

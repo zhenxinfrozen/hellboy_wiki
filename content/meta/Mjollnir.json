@@ -1,0 +1,13 @@
+{
+ "cats": [
+  "Items",
+  "Norse_Myth",
+  "Weapons",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Item",
+ "type_zh": "物品",
+ "image": "Mjollnir.jpeg",
+ "img_source": "body",
+ "rows": []
+}

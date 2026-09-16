@@ -1,0 +1,31 @@
+{
+ "type": "Book",
+ "type_zh": "图书",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Hellboy: Odd Jobs"
+  },
+  {
+   "label": "编剧",
+   "value": "Yvonne Navarro, Stephen R. Bissette, Philip Nutman, Greg Rucka, Nancy Holder, Craig Shaw Gardner, Nancy A. Collins, Rick Hautala, Jim Connolly, Chet Williamson, Max Allan Collins, <a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>, <a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>, Matthew J. Costello, Poppy Z. Brite, and Brian Hodge"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "编辑",
+   "value": "<a href=\"/entry/Christopher%20Golden\">Christopher Golden</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "December 15, 1999"
+  }
+ ],
+ "image": "Hellboy_-_Odd_Jobs_(Novel_Cover).jpg",
+ "cats": [
+  "Prose"
+ ],
+ "img_source": "keep"
+}

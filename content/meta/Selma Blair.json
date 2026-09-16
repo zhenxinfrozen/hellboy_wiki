@@ -1,0 +1,19 @@
+{
+ "cats": [
+  "Hellboy_(2004_film)",
+  "Hellboy_II:_The_Golden_Army",
+  "Hellboy_(2004–2008_film_franchise)",
+  "Actors",
+  "Cast"
+ ],
+ "type": "RealPerson",
+ "image": "SelmaBlair.jpg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  }
+ ],
+ "type_zh": "真实人物",
+ "img_source": "keep"
+}

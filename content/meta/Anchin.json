@@ -1,0 +1,14 @@
+{
+ "cats": [
+  "Characters",
+  "Undead",
+  "Humans",
+  "Hellboy_Animated_Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "type_zh": "角色",
+ "image": null,
+ "img_source": "placeholder",
+ "rows": []
+}

@@ -1,0 +1,23 @@
+{
+ "type": "Story",
+ "type_zh": "漫画故事",
+ "rows": [
+  {
+   "label": "标题",
+   "value": "Mike Mignola's Hellboy Artist's Edition"
+  },
+  {
+   "label": "作画",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  },
+  {
+   "label": "连载日期",
+   "value": "July 9, 2014"
+  }
+ ],
+ "image": "Hellboy_Artist's_Edition.jpg",
+ "cats": [
+  "Comics"
+ ],
+ "img_source": "keep"
+}

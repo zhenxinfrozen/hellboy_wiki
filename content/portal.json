@@ -1,0 +1,434 @@
+{
+  "角色": {
+    "intro": "《地狱男爵》漫画宇宙所有人物列表。",
+    "core_title": "核心人物",
+    "core": [
+      "地狱男爵",
+      "丽兹·舍曼",
+      "亚伯·塞皮恩",
+      "凯特·考瑞根",
+      "罗杰",
+      "本·达米奥",
+      "约翰·克劳斯",
+      "潘雅",
+      "菲尼克斯·埃斯佩霍",
+      "泰德·霍华德",
+      "阿什利·斯托德",
+      "J·H·奥唐纳教授",
+      "特雷佛·布鲁姆",
+      "西蒙·安德斯",
+      "雅各布·斯特格纳",
+      "苏珊·项",
+      "伍德罗·法瑞尔",
+      "爱德华·格雷",
+      "Sarah Jewell",
+      "Lobster Johnson",
+      "Harold McTell",
+      "辛西雅·泰南",
+      "Frankenstein's Monster",
+      "奥古·桀哈",
+      "赫卡特",
+      "黑焰",
+      "瓦尔瓦拉",
+      "撒旦",
+      "血皇后",
+      "格里高利·拉斯普廷",
+      "克焰人",
+      "利奥波德·克茨",
+      "赫尔曼·冯·卡朗普特",
+      "雅加婆婆（人物）",
+      "棕精灵"
+    ],
+    "subcat_groups": [
+      {
+        "group": "按系列 / 出处",
+        "cats": [
+          {
+            "label": "地狱男爵系列",
+            "match": [
+              "Hellboy characters"
+            ],
+            "count": 21,
+            "label_en": "Hellboy series"
+          },
+          {
+            "label": "龙虾强生系列",
+            "match": [
+              "Lobster Johnson Characters",
+              "Lobster's crew"
+            ],
+            "count": 17,
+            "label_en": "Lobster Johnson series"
+          },
+          {
+            "label": "猎巫人系列",
+            "match": [
+              "Witchfinder Characters"
+            ],
+            "count": 4,
+            "label_en": "Witchfinder series"
+          },
+          {
+            "label": "电影角色 (2004–2008)",
+            "match": [
+              "Characters (2004–2008 film franchise)",
+              "Hellboy (2004 film) characters",
+              "Hellboy II: The Golden Army characters",
+              "Characters (Film Franchise)"
+            ],
+            "count": 23,
+            "label_en": "Film characters (2004–2008)"
+          },
+          {
+            "label": "动画角色",
+            "match": [
+              "Hellboy Animated Characters"
+            ],
+            "count": 10,
+            "label_en": "Animated characters"
+          }
+        ]
+      },
+      {
+        "group": "按身份 / 种族",
+        "cats": [
+          {
+            "label": "B.P.R.D. 成员",
+            "match": [
+              "B.P.R.D. agent"
+            ],
+            "count": 36,
+            "label_en": "B.P.R.D. members"
+          },
+          {
+            "label": "反派",
+            "match": [
+              "Villains",
+              "villains"
+            ],
+            "count": 32,
+            "label_en": "Villains"
+          },
+          {
+            "label": "纳粹",
+            "match": [
+              "Nazi"
+            ],
+            "count": 13,
+            "label_en": "Nazis"
+          },
+          {
+            "label": "恶魔",
+            "match": [
+              "Demons"
+            ],
+            "count": 20,
+            "label_en": "Demons"
+          },
+          {
+            "label": "神祇",
+            "match": [
+              "Deities"
+            ],
+            "count": 15,
+            "label_en": "Gods"
+          },
+          {
+            "label": "女巫",
+            "match": [
+              "Witches"
+            ],
+            "count": 17,
+            "label_en": "Witches"
+          },
+          {
+            "label": "不死者",
+            "match": [
+              "Immortals"
+            ],
+            "count": 17,
+            "label_en": "Immortals"
+          },
+          {
+            "label": "亡灵",
+            "match": [
+              "Undead"
+            ],
+            "count": 12,
+            "label_en": "Undead"
+          },
+          {
+            "label": "怪物",
+            "match": [
+              "Monsters"
+            ],
+            "count": 12,
+            "label_en": "Monsters"
+          },
+          {
+            "label": "灵体",
+            "match": [
+              "Spirits"
+            ],
+            "count": 9,
+            "label_en": "Spirits"
+          },
+          {
+            "label": "吸血鬼",
+            "match": [
+              "Vampires"
+            ],
+            "count": 6,
+            "label_en": "Vampires"
+          },
+          {
+            "label": "神秘学者",
+            "match": [
+              "Occultists"
+            ],
+            "count": 10,
+            "label_en": "Occultists"
+          },
+          {
+            "label": "奥古·桀哈爪牙",
+            "match": [
+              "The Ogdru Jahad and their Agents"
+            ],
+            "count": 11,
+            "label_en": "Ogdru Jahad cultists"
+          },
+          {
+            "label": "神话生物",
+            "match": [
+              "Mythical Creature"
+            ],
+            "count": 11,
+            "label_en": "Mythical beings"
+          }
+        ]
+      },
+      {
+        "group": "按性别 / 状态 / 国籍",
+        "cats": [
+          {
+            "label": "男性角色",
+            "match": [
+              "Male Characters"
+            ],
+            "count": 118,
+            "label_en": "Male characters"
+          },
+          {
+            "label": "女性角色",
+            "match": [
+              "Female Characters"
+            ],
+            "count": 34,
+            "label_en": "Female characters"
+          },
+          {
+            "label": "已故",
+            "match": [
+              "Deceased Characters"
+            ],
+            "count": 69,
+            "label_en": "Deceased"
+          },
+          {
+            "label": "在世",
+            "match": [
+              "Living Characters"
+            ],
+            "count": 9,
+            "label_en": "Living"
+          },
+          {
+            "label": "美国人",
+            "match": [
+              "Americans"
+            ],
+            "count": 35,
+            "label_en": "Americans"
+          },
+          {
+            "label": "德国人",
+            "match": [
+              "Germans"
+            ],
+            "count": 11,
+            "label_en": "Germans"
+          },
+          {
+            "label": "俄国人",
+            "match": [
+              "Russians"
+            ],
+            "count": 4,
+            "label_en": "Russians"
+          },
+          {
+            "label": "英国人",
+            "match": [
+              "British"
+            ],
+            "count": 2,
+            "label_en": "British"
+          }
+        ]
+      }
+    ]
+  },
+  "创作者": {
+    "intro": "Hellboy 以及衍生作品的画师、编剧、上色师等创作者。",
+    "core_title": "核心画师 / 主笔大神",
+    "core": [
+      "迈克·米格诺拉",
+      "邓肯·费格瑞铎",
+      "盖·戴维斯",
+      "通奇·佐尼奇",
+      "詹姆斯·哈伦",
+      "戴夫·斯图尔特",
+      "瑞安·苏克",
+      "加布里埃尔·巴"
+    ]
+  },
+  "漫画故事": {
+    "intro": "《地狱男爵》及其衍生漫画、外传漫画所有相关故事。",
+    "subcat_groups": [
+      {
+        "group": "按漫画系列",
+        "cats": [
+          {
+            "label": "Hellboy 主线",
+            "match": [
+              "Hellboy story"
+            ],
+            "count": 76,
+            "label_en": "Hellboy main line"
+          },
+          {
+            "label": "Hellboy 在地狱",
+            "match": [
+              "Hellboy in Hell story"
+            ],
+            "count": 7,
+            "label_en": "Hellboy in Hell"
+          },
+          {
+            "label": "Hellboy 与 B.P.R.D.",
+            "match": [
+              "Hellboy and the B.P.R.D. story"
+            ],
+            "count": 15,
+            "label_en": "Hellboy and the B.P.R.D."
+          },
+          {
+            "label": "B.P.R.D.",
+            "match": [
+              "B.P.R.D. story"
+            ],
+            "count": 74,
+            "label_en": "B.P.R.D."
+          },
+          {
+            "label": "B.P.R.D.：蛙灾瘟疫",
+            "match": [
+              "B.P.R.D.: Plague of Frogs story"
+            ],
+            "count": 20,
+            "label_en": "B.P.R.D.: Plague of Frogs"
+          },
+          {
+            "label": "B.P.R.D.：人间地狱",
+            "match": [
+              "B.P.R.D.: Hell on Earth story"
+            ],
+            "count": 26,
+            "label_en": "B.P.R.D.: Hell on Earth"
+          },
+          {
+            "label": "B.P.R.D.：现世终章",
+            "match": [
+              "B.P.R.D.: The Devil You Know story"
+            ],
+            "count": 3,
+            "label_en": "B.P.R.D.: The Devil You Know"
+          },
+          {
+            "label": "B.P.R.D.：1946–1948",
+            "match": [
+              "B.P.R.D.: 1946–1948 story"
+            ],
+            "count": 5,
+            "label_en": "B.P.R.D.: 1946–1948"
+          },
+          {
+            "label": "B.P.R.D.：吸血鬼",
+            "match": [
+              "B.P.R.D.: Vampire story"
+            ],
+            "count": 1,
+            "label_en": "B.P.R.D.: Vampire"
+          },
+          {
+            "label": "亚伯·塞皮恩",
+            "match": [
+              "Abe Sapien story"
+            ],
+            "count": 29,
+            "label_en": "Abe Sapien"
+          },
+          {
+            "label": "亚伯：黑暗与可怖",
+            "match": [
+              "Abe Sapien: Dark and Terrible story",
+              "Abe Sapien Dark and Terrible story"
+            ],
+            "count": 16,
+            "label_en": "Abe Sapien: The Dark and Terrible"
+          },
+          {
+            "label": "龙虾强生",
+            "match": [
+              "Lobster Johnson story"
+            ],
+            "count": 16,
+            "label_en": "Lobster Johnson"
+          },
+          {
+            "label": "猎巫人",
+            "match": [
+              "Witchfinder story"
+            ],
+            "count": 9,
+            "label_en": "Witchfinder"
+          },
+          {
+            "label": "碎骨锤 44",
+            "match": [
+              "Sledgehammer 44 story"
+            ],
+            "count": 2,
+            "label_en": "Sledgehammer 44"
+          },
+          {
+            "label": "非正史 / 番外",
+            "match": [
+              "Out-of-continuity story"
+            ],
+            "count": 23,
+            "label_en": "Non-canon / extras"
+          },
+          {
+            "label": "剧中剧",
+            "match": [
+              "Story within a story"
+            ],
+            "count": 2,
+            "label_en": "Fictional media"
+          }
+        ]
+      }
+    ]
+  }
+}

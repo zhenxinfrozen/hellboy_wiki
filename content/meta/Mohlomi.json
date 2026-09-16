@@ -1,0 +1,33 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/The%20Third%20Wish\">The Third Wish</a> #1"
+  },
+  {
+   "label": "种族",
+   "value": "Human (presumably)"
+  },
+  {
+   "label": "职业",
+   "value": "Witch doctor"
+  },
+  {
+   "label": "创作者",
+   "value": "<a href=\"/entry/Mike%20Mignola\">Mike Mignola</a>"
+  }
+ ],
+ "image": "Mohlomi.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Living Characters"
+ ],
+ "img_source": "keep"
+}

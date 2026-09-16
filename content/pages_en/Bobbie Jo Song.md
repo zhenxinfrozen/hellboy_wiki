@@ -1,0 +1,1 @@
+**Bobbie Jo Song** is an original character appearing in *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_(film))*. She is a [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) special agent who specializes in reaseach. She is a very close friend to [Hellboy](/entry/Hellboy_(character)).

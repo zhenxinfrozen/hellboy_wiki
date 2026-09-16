@@ -1,0 +1,22 @@
+{
+ "cats": [
+  "Ogdru_Hem",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Monsters",
+  "Villains"
+ ],
+ "type": "Character",
+ "image": "PresumablyIstraHem.jpeg",
+ "rows": [
+  {
+   "label": "种族",
+   "value": "Ogdru Hem"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "The Shadow Over Suwanee"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

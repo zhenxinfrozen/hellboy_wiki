@@ -1,0 +1,15 @@
+{
+ "cats": [
+  "Characters",
+  "Watchers",
+  "Male_Characters",
+  "Mythical_Creatures",
+  "Greco-Roman_Myth",
+  "Based_on_mythology,_theology,_folklore_and_literature"
+ ],
+ "type": "Character",
+ "image": "FisherOfSouls.jpeg",
+ "type_zh": "角色",
+ "img_source": "keep",
+ "rows": []
+}

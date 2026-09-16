@@ -1,0 +1,30 @@
+{
+ "type": "Species",
+ "type_zh": "种族",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Worldwide (formerly)<br>Lost city of Bethmoraunder,Ireland mountain"
+  },
+  {
+   "label": "体型",
+   "value": "Mechanical<br>Clockwork<br>Artificial intelligence"
+  },
+  {
+   "label": "创作者",
+   "value": "Bethmoran Goblin"
+  },
+  {
+   "label": "首次登场",
+   "value": "Hellboy II: The Golden Army"
+  }
+ ],
+ "image": "Golden_Army_Fight.jpg",
+ "cats": [
+  "Monsters",
+  "Villains",
+  "Hellboy II: The Golden Army characters",
+  "Characters (2004–2008 film franchise)"
+ ],
+ "img_source": "body"
+}

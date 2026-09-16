@@ -1,0 +1,38 @@
+{
+ "cats": [
+  "Characters_(2004–2008_film_franchise)",
+  "Hellboy_(2004_film)_characters",
+  "Hellboy_II:_The_Golden_Army_characters",
+  "Alternative_versions_of_Hellboy"
+ ],
+ "type": "Character",
+ "image": "Hellboy-2004--Ron-Perlman.jpg",
+ "rows": [
+  {
+   "label": "别名",
+   "value": "Anung Un Rama<br>Big Red<br>Red"
+  },
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Half-demon, half-human"
+  },
+  {
+   "label": "亲属",
+   "value": "Trevor Bruttenholm"
+  },
+  {
+   "label": "职业",
+   "value": "Bureau for Paranormal Research and Defense agent"
+  },
+  {
+   "label": "登场",
+   "value": "Hellboy<br>Hellboy II: The Golden Army"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

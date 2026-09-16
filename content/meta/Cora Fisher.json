@@ -1,0 +1,22 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  }
+ ],
+ "image": "Corafisher.jpg",
+ "cats": [
+  "Witches",
+  "Minor Character",
+  "Characters",
+  "Deceased Characters",
+  "Spirits",
+  "Female Characters",
+  "Humans",
+  "Americans"
+ ],
+ "img_source": "body"
+}

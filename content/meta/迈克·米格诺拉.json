@@ -1,0 +1,14 @@
+{
+ "type": "RealPerson",
+ "type_zh": "真实人物",
+ "rows": [],
+ "image": "Seed_of_Destruction_1.jpg",
+ "cats": [
+  "Writer",
+  "Interior Artist",
+  "Cover Artist",
+  "画师",
+  "创作者"
+ ],
+ "img_source": "body"
+}

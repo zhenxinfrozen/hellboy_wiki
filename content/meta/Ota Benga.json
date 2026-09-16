@@ -1,0 +1,13 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Humans",
+  "Priests"
+ ],
+ "img_source": "placeholder"
+}

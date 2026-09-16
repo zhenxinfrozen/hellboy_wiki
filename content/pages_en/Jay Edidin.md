@@ -1,0 +1,1 @@
+**Jay Edidin** was an assistant editor on the books from 2006 to 2009 (credited as "Rachel Edidin" at the time). He was a major contributor to *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*.

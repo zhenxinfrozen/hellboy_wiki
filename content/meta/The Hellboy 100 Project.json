@@ -1,0 +1,27 @@
+{
+ "cats": [
+  "Art_Books"
+ ],
+ "type": "Book",
+ "image": "Hellboy 100 Project.jpg",
+ "rows": [
+  {
+   "label": "作画",
+   "value": "Various"
+  },
+  {
+   "label": "出版日期",
+   "value": "September 23, 2015"
+  },
+  {
+   "label": "页数",
+   "value": "120"
+  },
+  {
+   "label": "出版方",
+   "value": "Dark Horse Comics"
+  }
+ ],
+ "type_zh": "图书",
+ "img_source": "keep"
+}

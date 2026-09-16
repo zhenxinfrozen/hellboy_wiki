@@ -1,0 +1,32 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "B.P.R.D.: <a href=\"/entry/Plague%20of%20Frogs%20%28story%29\">Plague of Frogs</a> #2"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Consultant to the B.P.R.D."
+  }
+ ],
+ "image": "O'Donnell.jpg",
+ "cats": [
+  "Male Characters",
+  "Occultists",
+  "Humans",
+  "Americans",
+  "B.P.R.D. agent",
+  "Characters"
+ ],
+ "img_source": "keep"
+}

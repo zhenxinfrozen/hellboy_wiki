@@ -1,0 +1,5 @@
+***The House of Candy Pain*** is a non-canonical story published in *[Hellboy Junior \#2](/entry/Hellboy_Junior)*. It was written by [Bill Wray](/entry/Bill_Wray) and drawn by [Hilary Barta](/entry/Hilary_Barta).
+
+## Plot Synopsis
+
+[Hellboy](/entry/Hellboy_(character)) is [once more lamenting having to eat maggots](/entry/Magical_Mushroom_Trip) when his friend Donnie suggests that they use their weekend off to visit the Forbidden Forest of Festible Dwellings. Th two devils are caught by a transvestite wich as they eat her gingerbread house. She imprisons them and forces Donnie to marry her and then cuts of Hellboy's legs to serve and the main course of the marital feast. After his new bride has gone to bed Donnie replaces Hellboy's legs with those of a frog using a spell. Hellboy is then surprised when Donnie refuses to flee with him. Donnie does not wish to dishonor the sanctity of marriage, even if it is a homosexual marriage. A side effect of the spell causes Hellboy to continue growing. Hellboy then eats the gingerbread house with Donnie and the witch still inside in order to save his friend from eternal damnation.

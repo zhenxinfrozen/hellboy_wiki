@@ -1,0 +1,38 @@
+{
+ "cats": [
+  "Mythical_Creatures",
+  "Monsters",
+  "Villains",
+  "Species",
+  "The_Ogdru_Jahad_and_their_Agents",
+  "Races_of_Man",
+  "Characters",
+  "Deceased_Characters",
+  "Werewolves_and_therianthropes",
+  "Video_games",
+  "Hellboy_characters",
+  "Comics"
+ ],
+ "type": "Game",
+ "image": "Frogs.jpg",
+ "rows": [
+  {
+   "label": "母星",
+   "value": "Earth"
+  },
+  {
+   "label": "体型",
+   "value": "Humanity<br>Powerful<br>Frog form<br>Physically<br>Primitive<br>Psychically<br>Monstrous"
+  },
+  {
+   "label": "创作者",
+   "value": "Mike Mignola"
+  },
+  {
+   "label": "首次登场",
+   "value": "Seed of Destruction"
+  }
+ ],
+ "type_zh": "游戏",
+ "img_source": "keep"
+}

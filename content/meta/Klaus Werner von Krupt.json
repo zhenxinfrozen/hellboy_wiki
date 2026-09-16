@@ -1,0 +1,34 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Human"
+  },
+  {
+   "label": "职业",
+   "value": "Nazi General"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Hellboy: Seed of Destruction #1"
+  }
+ ],
+ "image": "104088-107881-general-klaus-werner large.png",
+ "cats": [
+  "Characters",
+  "Nazi",
+  "Minor Character",
+  "Male Characters",
+  "Germans",
+  "Deceased Characters",
+  "Humans",
+  "Characters (2004–2008 film franchise)"
+ ],
+ "img_source": "fandom"
+}

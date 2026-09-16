@@ -1,0 +1,1 @@
+**Pestilence**is one of the [Four Horsemen of the Apocalypse](/entry/Four_Horsemen_of_the_Apocalypse) that appeared during [Hellboy's](/entry/Hellboy_%28character%29) battle with [Nimue](/entry/Nimue) at the battleground of Vigrid.

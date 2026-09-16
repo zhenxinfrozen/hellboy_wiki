@@ -1,0 +1,3 @@
+**Elihu Cavendish** was a sailor who gathered esoteric lore from all across the globe. One night, drunk, he revealed to Langdon Everett Caul his theory of the existence of Hyperborea and the monsters which destroyed it. Later, embarrassed, he assaulted Caul for unclear reasons, leading the latter to leave his service.
+
+Cavendish later settled down and built [Cavendish Hall](/entry/Cavendish_Hall) to exact specifications in a place where Native Americans feared to go. He planned on making an expedition to [Gorinium](/entry/Gorinium), the location of which he had somehow discovered, but died before he could do so.

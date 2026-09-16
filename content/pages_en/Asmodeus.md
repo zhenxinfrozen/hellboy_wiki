@@ -1,0 +1,11 @@
+**Asmodeus** was a demon who was captured by King Solomon to build the Temple in Jerusalem.
+
+## History
+
+When King Solomon planned to build the Temple in Jerusalem, God had forbidden any iron tools in the building of the Temple. Solomon heard that there was a certain worm called the "shamir" that had the power to split and shape stone. He conjured demons and asked them about the "shamir". The demons do not know, but they told him that their king, Asmodeus, would know. Solomon sent his warrior, Benaiah, to capture the demon. Benaiah done this by tricking Asmodeus into drinking wine and was harnessed in chains that are carved with the secret name of God that made him powerless.
+
+After Asmodeus was brought to Jerusalem, the demon was forced to reveal his secrets to Solomon, who carries a magic ring that overpowered Asmodeus. One day, however, Solomon grew careless and Asmodeus took his magic ring before hurling him into the desert. Thereafter Asmodeus rules Jerusalem in Solomon's place for the next three years. But Asmodeus was not happy of being ruler and immediately returned the throne to Solomon when he finally returned.
+
+Asmodeus retreated to the desert and spent his life there to live in peace. After a long time living there alone, he was eventually founded by men, who unlike the humans of Jerusalem "read the stars and spoke the language of animals" in which Asmodeus grew to like them. The men built a house for him and spent many days having intelligent conversations. Asmodeus also have many human wives that he treated them with respect. He remained content until knights of the [Order of Saint Hagan](/entry/Order_of_the_Knights_of_Saint_Hagan) learned of his existence and drove him away and killed his wives. Dismayed by his losses, Asmodeus spent the remains of his years seeking in revenge on the knights. The demon killed the last knights in France and chose to live there inside a cave while being offered wives by devoted Satanists.
+
+In 1985, Teressa Cipriano became the recent and last wife of Asmodeus in which her disappearance garnered the attention of the [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense). Asmodeus was ultimately killed by [Hellboy](/entry/Hellboy).

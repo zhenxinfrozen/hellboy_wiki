@@ -1,0 +1,70 @@
+{
+    "type": "Movie",
+    "type_zh": "电影",
+    "image": "Hellboy-reboot-poster.jpg",
+    "img_source": "keep",
+    "rows": [
+        {
+            "label": "导演",
+            "value": "<a href=\"/entry/Neil_Marshall\">Neil Marshall</a>"
+        },
+        {
+            "label": "编剧",
+            "value": "<a href=\"/entry/Mike_Mignola\">Mike Mignola</a> (comic book)<br><a href=\"/entry/Andrew_Cosby\">Andrew Cosby</a> and <a href=\"/entry/Christopher_Golden\">Christopher Golden</a> (screenplay)"
+        },
+        {
+            "label": "上映日期",
+            "value": "TBA"
+        },
+        {
+            "label": "片长",
+            "value": "121 mins."
+        },
+        {
+            "label": "配乐",
+            "value": "Benjamin Wallfisch"
+        },
+        {
+            "label": "制作预算",
+            "value": "$50 million"
+        },
+        {
+            "label": "票房",
+            "value": "$55.1 million"
+        }
+    ],
+    "rows_en": [
+        {
+            "label": "Director",
+            "value": "<a href=\"/entry/Neil_Marshall\">Neil Marshall</a>"
+        },
+        {
+            "label": "Writer",
+            "value": "<a href=\"/entry/Mike_Mignola\">Mike Mignola</a> (comic book)<br><a href=\"/entry/Andrew_Cosby\">Andrew Cosby</a> and <a href=\"/entry/Christopher_Golden\">Christopher Golden</a> (screenplay)"
+        },
+        {
+            "label": "Release date",
+            "value": "TBA"
+        },
+        {
+            "label": "Running time",
+            "value": "121 mins."
+        },
+        {
+            "label": "Music by",
+            "value": "Benjamin Wallfisch"
+        },
+        {
+            "label": "Budget",
+            "value": "$50 million"
+        },
+        {
+            "label": "Box office",
+            "value": "$55.1 million"
+        }
+    ],
+    "cats": [
+        "Hellboy (2019 film)",
+        "Films"
+    ]
+}

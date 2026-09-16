@@ -1,0 +1,35 @@
+{
+ "cats": [
+  "Out-of-continuity_story"
+ ],
+ "type": "Story",
+ "rows": [
+  {
+   "label": "编剧",
+   "value": "Randy Stradley"
+  },
+  {
+   "label": "作画",
+   "value": "Seung Kim"
+  },
+  {
+   "label": "嵌字",
+   "value": "Michelle Madsen"
+  },
+  {
+   "label": "剪辑",
+   "value": "Scott Allie"
+  },
+  {
+   "label": "首发于",
+   "value": "Hellboy: Weird Tales #2"
+  },
+  {
+   "label": "出版日期",
+   "value": "April 23, 2003"
+  }
+ ],
+ "type_zh": "漫画故事",
+ "image": null,
+ "img_source": "placeholder"
+}

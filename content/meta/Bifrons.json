@@ -1,0 +1,29 @@
+{
+ "cats": [
+  "Demons",
+  "Villains",
+  "Deceased_Characters",
+  "Characters",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Goetia",
+  "Dragons"
+ ],
+ "type": "Character",
+ "image": "Bifrons2.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "种族",
+   "value": "Demon"
+  },
+  {
+   "label": "职业",
+   "value": "Earl of Hell"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

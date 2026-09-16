@@ -1,0 +1,11 @@
+{
+ "type": "Species",
+ "type_zh": "种族",
+ "rows": [],
+ "image": null,
+ "cats": [
+  "Characters",
+  "Monsters"
+ ],
+ "img_source": "placeholder"
+}

@@ -1,0 +1,30 @@
+{
+ "cats": [
+  "Female_Characters",
+  "Deities",
+  "Based_on_mythology,_theology,_folklore_and_literature",
+  "Characters"
+ ],
+ "type": "Character",
+ "image": "Durga.jpeg",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Female"
+  },
+  {
+   "label": "亲属",
+   "value": "Shiva (husband)"
+  },
+  {
+   "label": "职业",
+   "value": "Goddess of motherhood"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "Occult Intelligence"
+  }
+ ],
+ "type_zh": "角色",
+ "img_source": "keep"
+}

@@ -1,0 +1,31 @@
+{
+ "type": "Character",
+ "type_zh": "角色",
+ "rows": [
+  {
+   "label": "性别",
+   "value": "Male"
+  },
+  {
+   "label": "漫画首秀",
+   "value": "<a href=\"/entry/Drums%20of%20the%20Dead\">Drums of the Dead</a>"
+  },
+  {
+   "label": "职业",
+   "value": "Medium"
+  },
+  {
+   "label": "创作者",
+   "value": "Brian McDonald"
+  }
+ ],
+ "image": "Omatta.jpg",
+ "cats": [
+  "Characters",
+  "Male Characters",
+  "Humans",
+  "B.P.R.D. agent",
+  "Psychics"
+ ],
+ "img_source": "keep"
+}
