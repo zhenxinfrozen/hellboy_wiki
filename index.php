@@ -590,6 +590,7 @@ function layout(Ctx $ctx, string $title, string $main, array $opts = []): void {
 <link rel="icon" href="/favicon.ico?v=2" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png?v=2">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png?v=2">
+<?php $__hb_head = CONTENT . "/code_head.html"; if (is_file($__hb_head)) echo file_get_contents($__hb_head); ?>
 </head>
 <body>
 <div class="app">
