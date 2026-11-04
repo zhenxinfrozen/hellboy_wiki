@@ -11,10 +11,10 @@ if (admin_logged_in()) {
     header('Location: ' . $goto); exit;
 }
 
-// 仅允许站内相对路径回跳（/admin/ 或前台 / 开头），拒绝协议/外域
+// 仅允许 /admin/ 开头的后台站内路径回跳，前台路径一律跳后台首页
 function admin_safe_goto($g): string {
     $g = trim((string)$g);
-    if ($g === '' || !preg_match('#^/[A-Za-z0-9_\-/.?=&%()\x{4e00}-\x{9fa5}]+$#u', $g)) return '';
+    if ($g === '' || !preg_match('#^/admin/[A-Za-z0-9_\-/.?=&%()\x{4e00}-\x{9fa5}]+$#u', $g)) return '';
     if (preg_match('#^//|:/|javascript:#i', $g)) return '';
     return $g;
 }
