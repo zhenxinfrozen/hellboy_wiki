@@ -76,8 +76,10 @@ body{
   font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;
   color:var(--txt);
   background:
-    radial-gradient(1100px 600px at 50% -8%, rgba(193,31,31,.22), transparent 60%),
-    radial-gradient(900px 700px at 50% 118%, rgba(120,18,18,.28), transparent 62%),
+    linear-gradient(180deg, rgba(13,11,10,.58), rgba(13,11,10,.78)),
+    radial-gradient(1100px 600px at 50% -8%, rgba(193,31,31,.18), transparent 60%),
+    radial-gradient(900px 700px at 50% 118%, rgba(120,18,18,.24), transparent 62%),
+    url("/assets/img/bg-login.png?v=1") center center / cover no-repeat,
     var(--ink);
   min-height:100%;
   display:flex; align-items:center; justify-content:center;
@@ -91,7 +93,9 @@ body::before{
 }
 .card{
   position:relative; width:100%; max-width:392px;
-  background:linear-gradient(180deg,var(--panel-2),var(--panel) 40%);
+  background:linear-gradient(180deg,rgba(31,25,23,.90),rgba(23,19,18,.94) 40%);
+  -webkit-backdrop-filter:blur(10px) saturate(115%);
+  backdrop-filter:blur(10px) saturate(115%);
   border:1px solid var(--line);
   border-radius:20px;
   padding:38px 34px 32px;
