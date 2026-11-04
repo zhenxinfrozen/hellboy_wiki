@@ -27,6 +27,10 @@ AdminCore::init([
         ['type' => 'item', 'key' => 'redirects', 'title' => '重定向 / 别名', 'url' => 'redirects.php', 'icon' => 'shuffle'],
         ['type' => 'section', 'title' => '系统与质量'],
         ['type' => 'item', 'key' => 'audit', 'title' => '汉化体检', 'url' => 'audit.php', 'icon' => 'activity'],
+        ['type' => 'section', 'title' => '开发与规范'],
+        ['type' => 'item', 'key' => 'system-info', 'title' => '系统信息', 'url' => 'system-info.php', 'icon' => 'info'],
+        ['type' => 'item', 'key' => 'docs', 'title' => '项目文档', 'url' => 'docs.php', 'icon' => 'book'],
+        ['type' => 'item', 'key' => 'template-new', 'title' => '📐 标准模板', 'url' => 'template-new.php', 'icon' => 'layout'],
     ]
 ]);
 
