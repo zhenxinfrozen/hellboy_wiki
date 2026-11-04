@@ -24,33 +24,21 @@
 
 ## 站点截图
 
-- **首页**
+| 首页 | 漫画故事 · 条目列表 |
+| :---: | :---: |
+| <img src="assets/img/website-screenshot/home.webp" alt="首页" width="440"> | <img src="assets/img/website-screenshot/comics-list.webp" alt="漫画故事列表" width="440"> |
 
-  ![首页](assets/img/website-screenshot/home.png)
+| 漫画故事 · 系列分类 | 图书系列 |
+| :---: | :---: |
+| <img src="assets/img/website-screenshot/comics-categories.webp" alt="漫画故事分类" width="440"> | <img src="assets/img/website-screenshot/books.webp" alt="图书系列" width="440"> |
 
-- **漫画故事 · 条目列表**
+| 角色浏览 | 条目画廊（按封面浏览全部条目） |
+| :---: | :---: |
+| <img src="assets/img/website-screenshot/characters.webp" alt="角色浏览" width="440"> | <img src="assets/img/website-screenshot/gallery.webp" alt="条目画廊" width="440"> |
 
-  ![漫画故事列表](assets/img/website-screenshot/comics-list.png)
-
-- **漫画故事 · 系列分类**
-
-  ![漫画故事分类](assets/img/website-screenshot/comics-categories.png)
-
-- **图书系列**
-
-  ![图书系列](assets/img/website-screenshot/books.png)
-
-- **角色浏览**
-
-  ![角色浏览](assets/img/website-screenshot/characters.png)
-
-- **条目画廊**（按封面浏览全部条目）
-
-  ![条目画廊](assets/img/website-screenshot/gallery.png)
-
-- **管理后台 · 系统信息**
-
-  ![管理后台系统信息](assets/img/website-screenshot/admin-system-info.png)
+| 管理后台 · 系统信息 |
+| :---: |
+| <img src="assets/img/website-screenshot/admin-system-info.webp" alt="管理后台系统信息" width="560"> |
 
 ## 关于本站
 
