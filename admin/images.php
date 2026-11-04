@@ -65,6 +65,8 @@ $covGallery = count($IMG_FILES) ? round(count($GALLERY_FILES) * 100 / count($IMG
 $savings = ($srcTotalBytes > 0) ? round(($thumbBytes + $galleryBytes) * 100 / $srcTotalBytes) : 0;
 
 admin_head('图片与缩略图', 'images'); ?>
+<link rel="stylesheet" href="/shared-admin/assets/css/admin-image-manager.css">
+<script src="/shared-admin/assets/js/admin-drag-sort.js"></script>
 
 <div class="row g-3 mb-4">
     <div class="col-xl-3 col-md-6">
@@ -106,6 +108,34 @@ admin_head('图片与缩略图', 'images'); ?>
         </button>
     </form>
     <span class="text-secondary small">缺失 thumb: <?= count($missingThumb) ?> · 缺失 gallery: <?= count($missingGallery) ?> · 全量重跑也是幂等的，已存在的会跳过</span>
+</div>
+
+<!-- 可视化图片网格（标准 image-manager 组件，支持拖拽 / 星标 / 删除前端演示） -->
+<div class="content-card p-3 mb-4">
+    <div class="d-flex align-items-center justify-content-between mb-2 flex-wrap gap-2">
+        <h3 class="h6 mb-0 fw-bold"><i data-feather="grid" class="me-1"></i> 图片网格浏览（拖拽可重排，★ 设封面，× 删除）</h3>
+        <span class="text-secondary small">显示前 <b id="gridShownCount"><?= min(72, count($IMG_FILES)) ?></b> / <?= count($IMG_FILES) ?> 张
+            <?php if (count($IMG_FILES) > 72): ?>
+            <button type="button" class="btn btn-outline btn-sm ms-2" id="gridShowAll">显示全部</button>
+            <?php endif; ?>
+        </span>
+    </div>
+    <div class="admin-image-grid" id="hbImageGrid">
+        <?php $i = 0; foreach ($IMG_FILES as $f):
+            $stem = pathinfo($f, PATHINFO_FILENAME);
+            $hasThumb = isset($thumbMap[$stem]);
+            $thumbUrl = $hasThumb ? '/content/images/thumb/' . rawurlencode($stem) . '.webp' : '/content/images/' . rawurlencode($stem) . '.webp';
+            $i++; $hidden = $i > 72; ?>
+            <div class="admin-image-item<?= $hidden ? ' grid-extra' : '' ?>" data-image-id="<?= h($stem) ?>"<?= $hidden ? ' style="display:none"' : '' ?>>
+                <img src="<?= h($thumbUrl) ?>" alt="<?= h($stem) ?>" loading="lazy">
+                <?php if (!$hasThumb): ?><div class="admin-image-star-badge" style="background:#c0392b">!</div><?php endif; ?>
+                <div class="admin-image-actions">
+                    <button type="button" class="admin-image-action-btn star" title="设为封面" onclick="hbGridAction(this,'star')">★</button>
+                    <button type="button" class="admin-image-action-btn delete" title="删除" onclick="hbGridAction(this,'delete')">×</button>
+                </div>
+            </div>
+        <?php endforeach; ?>
+    </div>
 </div>
 
 <?php if ($bigOnes): ?>
@@ -151,5 +181,45 @@ admin_head('图片与缩略图', 'images'); ?>
         <li>新增原图后，点上方按钮或执行 <code>python tools/build_thumbs.py --apply</code> 即可补全。</li>
     </ul>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    if (window.AdminImageDragSort) {
+        new AdminImageDragSort('hbImageGrid', {
+            onReorder: function (order) {
+                if (window.AdminUtils) AdminUtils.showMessage('已重排 ' + order.length + ' 张（演示，未持久化）', 'info');
+            }
+        });
+    }
+    var showAll = document.getElementById('gridShowAll');
+    if (showAll) {
+        showAll.addEventListener('click', function () {
+            document.querySelectorAll('.grid-extra').forEach(function (el) {
+                el.style.display = '';
+            });
+            var total = document.querySelectorAll('#hbImageGrid .admin-image-item').length;
+            document.getElementById('gridShownCount').textContent = total;
+            showAll.style.display = 'none';
+        });
+    }
+});
+function hbGridAction(btn, kind) {
+    var item = btn.closest('.admin-image-item');
+    if (kind === 'star') {
+        document.querySelectorAll('#hbImageGrid .admin-image-item').forEach(function (el) {
+            el.classList.remove('is-thumbnail');
+            var b = el.querySelector('.admin-image-action-btn.star');
+            if (b) b.classList.remove('active');
+        });
+        item.classList.add('is-thumbnail');
+        btn.classList.add('active');
+        if (window.AdminUtils) AdminUtils.showMessage('已设封面：' + item.dataset.imageId + '（演示，未持久化）', 'info');
+    } else if (kind === 'delete') {
+        if (confirm('确定删除 ' + item.dataset.imageId + ' 吗？（演示，不会真删文件）')) {
+            item.remove();
+        }
+    }
+}
+</script>
 
 <?php admin_foot();
