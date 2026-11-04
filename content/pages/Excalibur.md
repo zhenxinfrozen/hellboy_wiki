@@ -1,4 +1,4 @@
-![Excalibur2.jpg](/content/images/Excalibur2.jpg)
+![Excalibur2.jpg](/content/images/Excalibur2.webp)
 Excalibur2.jpg
 
 **Excalibur** was the legendary sword wielded by King Arthur. After the death of Arthur the sword returns hundreds of years later. It is drawn from stone by Arthur's descendant, and the rightful king of Britain, [Hellboy](/entry/Hellboy%20%28character%29).

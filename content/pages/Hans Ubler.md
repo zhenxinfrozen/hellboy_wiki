@@ -1,4 +1,4 @@
-![Hans Ubler](/content/images/Scan0001.jpg)
+![Hans Ubler](/content/images/Scan0001.webp)
 
 **Hans Ubler** was a German nightclub owner and exhibitionist.
 

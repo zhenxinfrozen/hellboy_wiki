@@ -1,4 +1,4 @@
-![The Corpse](/content/images/The_Corpse_%28one-shot_edition%29.jpg)
+![The Corpse](/content/images/The_Corpse_%28one-shot_edition%29.webp)
 
 This relatively short story about Hellboy, a baby and a corpse, would become one of [Mignola's](/entry/Mike%20Mignola) favorites. Although seemingly a standalone story when first published, it has since become a major catalyst for events in *Hellboy* especially in *[Darkness Calls](/entry/Darkness%20Calls)* and *[The Wild Hunt](/entry/The%20Wild%20Hunt)*.
 

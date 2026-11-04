@@ -6,7 +6,7 @@ This short story was originally published in the pages of *Dark Horse Maverick: 
 
 ## Synopsis
 
-![The_Solid_Objects.jpg](/content/images/The_Solid_Objects.jpg)The Magician reveals to his best friend, the Snake, that he overextended himself by making three geometric shapes ("the Solid Objects") disappear in order to be named "The Greatest Magician in the World" by a monkey king. However, he has not made the Solid Objects disappear permanently, and when they return the Magician will die. The Magician and the Snake spend their last years together enjoying themselves. Ultimately, the Solid Objects return and the Magician passes, and is mourned by his friend, the Snake.
+![The_Solid_Objects.jpg](/content/images/The_Solid_Objects.webp)The Magician reveals to his best friend, the Snake, that he overextended himself by making three geometric shapes ("the Solid Objects") disappear in order to be named "The Greatest Magician in the World" by a monkey king. However, he has not made the Solid Objects disappear permanently, and when they return the Magician will die. The Magician and the Snake spend their last years together enjoying themselves. Ultimately, the Solid Objects return and the Magician passes, and is mourned by his friend, the Snake.
 
 ## Story within a Story
 

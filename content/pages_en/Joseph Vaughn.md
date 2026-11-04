@@ -1,4 +1,4 @@
-**![](/content/images/JosephVaughn.jpeg)Joseph Vaughn** was a field agent for the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense). 
+**![](/content/images/JosephVaughn.webp)Joseph Vaughn** was a field agent for the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense). 
 
 ## History
 

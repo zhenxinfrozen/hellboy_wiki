@@ -1,4 +1,4 @@
-![J·H·奥唐纳教授的转变](/content/images/TransformationODonnell01.jpg)
+![J·H·奥唐纳教授的转变](/content/images/TransformationODonnell01.webp)
 
 ***《J·H·奥唐纳教授的转变》***（The Transformation of J.H. O'Donnell）是一部单篇漫画（one-shot），于 2012 年 5 月出版。
 
@@ -12,7 +12,7 @@
 
 ## 画廊
 
-![](/content/images/TransformationODonnell01.jpg)
+![](/content/images/TransformationODonnell01.webp)
 
  \#1
 

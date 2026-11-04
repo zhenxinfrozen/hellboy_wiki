@@ -1,4 +1,4 @@
-![Dagda](/content/images/Dagda.jpg)
+![Dagda](/content/images/Dagda.webp)
 
 **Dagda** was the most prominent fairy king of the Daoine Sidhe, and the last High King of the Tuatha De Danann, the old gods of Ireland.
 

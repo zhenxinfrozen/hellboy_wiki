@@ -1,4 +1,4 @@
-![](/content/images/Servants%20of%20the%20Left%20Hand.jpg)
+![](/content/images/Servants%20of%20the%20Left%20Hand.webp)
 
 **左手仆从**(Servants of the Left Hand)是一个生活在地下的类人生物种族。
 

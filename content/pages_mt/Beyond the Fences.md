@@ -18,19 +18,19 @@
 
 除特别注明外，封面均由 [Paolo Rivera](/entry/Paolo_Rivera) 绘制。
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3.webp)
 
 |*1953* \#3
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3a.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3a.webp)
 
 |*1953* \#3 变体封面
 由 [David Mack](/entry/David_Mack) 绘制
 
-![](/content/images/Hellboy_and_the_BPRD_1953_4.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_4.webp)
 
 |*1953* \#4
 
-![](/content/images/Hellboy_and_the_BPRD_1953_5.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_5.webp)
 
 |*1953* \#5

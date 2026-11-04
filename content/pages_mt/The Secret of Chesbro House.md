@@ -25,14 +25,14 @@
 第 \#2 期  
 [Matt Smith](/entry/Matt_Smith) 变体封面
 
-![Issue #1<br>Ben Stenbeck variant](/content/images/The%20Secret%20of%20Chesbro%20House%201%20Stenbeck.jpg)
+![Issue #1<br>Ben Stenbeck variant](/content/images/The%20Secret%20of%20Chesbro%20House%201%20Stenbeck.webp)
 
 |Issue #1<br>Ben Stenbeck variant
 
-![第 #2 期](/content/images/The%20Secret%20of%20Chesbro%20House%202%20McManus.jpg)
+![第 #2 期](/content/images/The%20Secret%20of%20Chesbro%20House%202%20McManus.webp)
 
 |第 #2 期
 
-![Issue #2<br>Matt Smith variant](/content/images/The%20Secret%20of%20Chesbro%20House%202%20Smith.jpg)
+![Issue #2<br>Matt Smith variant](/content/images/The%20Secret%20of%20Chesbro%20House%202%20Smith.webp)
 
 |Issue #2<br>Matt Smith variant

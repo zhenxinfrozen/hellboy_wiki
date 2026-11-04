@@ -1,4 +1,4 @@
-![Arnie_wald.jpg](/content/images/Arnie_wald.jpg)
+![Arnie_wald.jpg](/content/images/Arnie_wald.webp)
 Arnie_wald.jpg
 
 **Arnold "Arnie" Wald** was an influential mob-boss during the 1930's. He has plans to acquire ground currently used by tenement dwellers and their homes that will rise in value as the city seeks a place to build a freeway in a few years.

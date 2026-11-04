@@ -42,55 +42,55 @@ Windows 版在 GameRankings 上的评分为 11.50%。《美国官方 PlayStation
 ## 画廊
 
 
-![Hellboy: Asylum Seeker PS cover.](/content/images/Hellboy%20-%20Asylum%20Seeker%20Coverart.png)
+![Hellboy: Asylum Seeker PS cover.](/content/images/Hellboy%20-%20Asylum%20Seeker%20Coverart.webp)
 
 |Hellboy: Asylum Seeker PS cover.
 
-![Hellboy: Asylum Seeker PS another cover.](/content/images/Hellboy%20asylum%20seeker%20ps.png)
+![Hellboy: Asylum Seeker PS another cover.](/content/images/Hellboy%20asylum%20seeker%20ps.webp)
 
 |Hellboy: Asylum Seeker PS another cover.
 
-![](/content/images/Unnamed%20priest%20ghost.png)
+![](/content/images/Unnamed%20priest%20ghost.webp)
 
 |
 
-![](/content/images/Unnamed%20sphinx-like%20monster.png)
+![](/content/images/Unnamed%20sphinx-like%20monster.webp)
 
 |
 
-![](/content/images/Unnamed%20frog-like%20monster.png)
+![](/content/images/Unnamed%20frog-like%20monster.webp)
 
 |
 
-![](/content/images/Monk.png)
+![](/content/images/Monk.webp)
 
 |
 
-![](/content/images/Unnamed%20knight%20king.png)
+![](/content/images/Unnamed%20knight%20king.webp)
 
 |
 
-![](/content/images/Unnamed%20worker.png)
+![](/content/images/Unnamed%20worker.webp)
 
 |
 
-![](/content/images/Unnamed%20worm-like%20monster.png)
+![](/content/images/Unnamed%20worm-like%20monster.webp)
 
 |
 
-![](/content/images/Unnamed%20three-legged%20creature.png)
+![](/content/images/Unnamed%20three-legged%20creature.webp)
 
 |
 
-![](/content/images/Unnamed%20giant%20worm-like%20monster.png)
+![](/content/images/Unnamed%20giant%20worm-like%20monster.webp)
 
 |
 
-![](/content/images/Unnamed%20monster%20baby.png)
+![](/content/images/Unnamed%20monster%20baby.webp)
 
 |
 
-![](/content/images/Unnamed%20hell%20giant%20monster.png)
+![](/content/images/Unnamed%20hell%20giant%20monster.webp)
 
 |
 ### 封面

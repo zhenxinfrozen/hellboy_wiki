@@ -37,31 +37,31 @@
 *《卡门·红爪：  
 兽腹之中》* \#4
 
-![Carmen Red Claw:<br />Belly of the Beast #1](/content/images/Belly%20of%20the%20Beast%201.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #1](/content/images/Belly%20of%20the%20Beast%201.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #1
 
-![Carmen Red Claw:<br />Belly of the Beast #2](/content/images/Belly%20of%20the%20Beast%202.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #2](/content/images/Belly%20of%20the%20Beast%202.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #2
 
-![Carmen Red Claw:<br />Belly of the Beast #3](/content/images/Belly%20of%20the%20Beast%203.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #3](/content/images/Belly%20of%20the%20Beast%203.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #3
 
-![Carmen Red Claw:<br />Belly of the Beast #4](/content/images/Belly%20of%20the%20Beast%204.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #4](/content/images/Belly%20of%20the%20Beast%204.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #4
 
-![Carmen Red Claw:<br />Belly of the Beast #2<br>variant cover by Jake Parker](/content/images/Belly%20of%20the%20Beast%202%20Parker.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #2<br>variant cover by Jake Parker](/content/images/Belly%20of%20the%20Beast%202%20Parker.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #2<br>variant cover by Jake Parker
 
-![Carmen Red Claw:<br />Belly of the Beast #3<br>variant cover by Tonci Zonjic](/content/images/Belly%20of%20the%20Beast%203%20Zonjic.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #3<br>variant cover by Tonci Zonjic](/content/images/Belly%20of%20the%20Beast%203%20Zonjic.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #3<br>variant cover by Tonci Zonjic
 
-![Carmen Red Claw:<br />Belly of the Beast #4<br>variant cover by Benjamin Schipper](/content/images/Belly%20of%20the%20Beast%204%20Schipper.jpg)
+![Carmen Red Claw:<br />Belly of the Beast #4<br>variant cover by Benjamin Schipper](/content/images/Belly%20of%20the%20Beast%204%20Schipper.webp)
 
 |Carmen Red Claw:<br />Belly of the Beast #4<br>variant cover by Benjamin Schipper
 ### 变体封面

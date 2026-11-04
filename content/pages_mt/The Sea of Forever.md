@@ -31,14 +31,14 @@
 
 第 \#4 期
 
-![第 #2 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%202%20Bergting.jpg)
+![第 #2 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%202%20Bergting.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%203%20Bergting.jpg)
+![第 #3 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%203%20Bergting.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%204%20Bergting.jpg)
+![第 #4 期](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%204%20Bergting.webp)
 
 |第 #4 期

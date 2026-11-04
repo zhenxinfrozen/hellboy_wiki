@@ -13,7 +13,7 @@
 
 [迈克·米格诺拉](/entry/Mike_Mignola) 与[戴夫·斯图尔特](/entry/Dave_Stewart)绘制变体封面
 
-![Cover by Jill Thompson](/content/images/Hellboy%20Beasts%20of%20Burden%20-%20Thompson.jpg)
+![Cover by Jill Thompson](/content/images/Hellboy%20Beasts%20of%20Burden%20-%20Thompson.webp)
 
 |Cover by Jill Thompson
 ## 外部链接

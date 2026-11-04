@@ -1,4 +1,4 @@
-![](/content/images/Hammerheads.jpg)
+![](/content/images/Hammerheads.webp)
 
 The **Hammerheads** are one of the most prominent species to arise in the wake of the coming apocalypse.  They first appeared after a volcanic eruption near Houston, likely the awakening of an unnamed Ogdru Hem.
 

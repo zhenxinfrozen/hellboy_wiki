@@ -74,7 +74,7 @@ Republic Pictures 拍摄了两部各十二集的系列片。第一部《幽灵�
 
 ## 其他媒体
 
-![](/content/images/1051731-1040587_lobster_johnson_super_super.jpg)
+![](/content/images/1051731-1040587_lobster_johnson_super_super.webp)
 大螯虾出现在未能投拍的《幽灵之螯》预告片段中。
 
 - 大螯虾强生在第二部[地狱男爵动画版](/entry/Hellboy_Animated)电影《[铁血惊魂](/entry/Blood_and_Iron)》中短暂客串，出现在一段闪回场景里，展现地狱男爵的诞生以及 [Malcolm Frost](/entry/Malcolm_Frost)对这个怪物的反应。

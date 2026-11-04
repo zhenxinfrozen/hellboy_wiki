@@ -1,4 +1,4 @@
-![Sledgehammer 44 (story)](/content/images/Sledgehammer%2044%201.jpg)
+![Sledgehammer 44 (story)](/content/images/Sledgehammer%2044%201.webp)
 
 ## Publication History
 

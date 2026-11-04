@@ -6,13 +6,13 @@
 
 After Langdon Everett Caul quit sailing under [Elihu Cavendish](/entry/Elihu_Cavendish), he settled down in Littleport, Rhode Island and built a mansion. It took him around eight years to finish (1853-1861). Once it was done, Langdon married Edith, who was a local girl. On February 22, 1865, Langdon was reported missing. Edith did not respond well, allegedly going mad and throwing herself into the ocean a month after her husband failed to return home. Her body was never recovered.
 
-![](/content/images/Edith1.png)
+![](/content/images/Edith1.webp)
 
 Years later, Abe goes looking into his past, after a near-death experience reminds him he once was Langdon Everett Caul. He and Kate travel to Littleport, where a woman at a library is able to give them details about Langdon and his wife, as well as give Abe a picture of Edith herself.
 
 Abe returns to the Caul house, and Edith's ghost tries to persuade him to stay with her. Abe experiences an illusion of his old life as Langdon, in the house he built, with Edith holding him, as a storm rages outside- threatening to topple the Caul house into the sea. Eventually, Abe forces her to uncover a mirror and face the truth. The illusion fades to the sun shining once again, and Edith's spirit fades away.
 
-![](/content/images/Edith3.png)
+![](/content/images/Edith3.webp)
 
 It is never said that Edith ever left Littleport, as she grew up, married, and died there.
 

@@ -9,7 +9,7 @@ At the end of [*Koshchei in Hell* \#1](/entry/Koshchei_in_Hell), when Koshchei d
 ## Gallery
 
 
-![Gamori caught in the act of trying to kill Hellboy by Astaroth](/content/images/Hellboy%20Gamori%20clip.png)
+![Gamori caught in the act of trying to kill Hellboy by Astaroth](/content/images/Hellboy%20Gamori%20clip.webp)
 
 |Gamori caught in the act of trying to kill Hellboy by Astaroth
 ## Sources

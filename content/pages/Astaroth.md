@@ -1,4 +1,4 @@
-![Astaroth](/content/images/Astaroth%20002.jpg)
+![Astaroth](/content/images/Astaroth%20002.webp)
 
 **Astaroth** was a demon and a Grand-Duke of Hell. As [Hellboy](/entry/Hellboy%20%28character%29)'s paternal uncle, he was also one of his oldest antagonists.
 

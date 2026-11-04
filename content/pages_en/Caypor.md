@@ -1,4 +1,4 @@
-![](/content/images/Caypor.png)
+![](/content/images/Caypor.webp)
 
 The Caypor is a Brazilian demon which inhabits the border of the rain forest, and protects children by frightening them away from the dangers within. It was featured in the novel *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_(prose_novel))*.
 

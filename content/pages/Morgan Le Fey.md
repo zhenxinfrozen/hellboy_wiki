@@ -1,4 +1,4 @@
-![Morgan Le Fey](/content/images/Morgan%20Le%20Fay.png)
+![Morgan Le Fey](/content/images/Morgan%20Le%20Fay.webp)
 
 **Morgan Le Fay** was [King Arthur](/entry/King%20Arthur)'s half-sister, and the mother of his bastard son, Mordred.
 

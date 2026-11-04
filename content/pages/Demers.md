@@ -1,4 +1,4 @@
-![Demers](/content/images/Demers%20%28by%20John%20Severin%29.jpg)
+![Demers](/content/images/Demers%20%28by%20John%20Severin%29.webp)
 
 Agent **Demers** is a [B.P.R.D.](/entry/B.P.R.D.) operative and minor character appearing in [*B.P.R.D.: War on Frogs* \#2](/entry/War%20on%20Frogs).
 

@@ -1,4 +1,4 @@
-![](/content/images/Troll%20Market%20Barber%20Render.jpg)
+![](/content/images/Troll%20Market%20Barber%20Render.webp)
 
 **克朗尼巨魔（Cronie Troll）** 是 [巨魔](/entry/Troll) 的一个亚种。
 

@@ -1,4 +1,4 @@
-![](/content/images/FrontPage-Koshchei.png)
+![](/content/images/FrontPage-Koshchei.webp)
 
 ***Koshchei*** is a line of comic books about the character [Koshchei](/entry/Koshchei_(character)). It is a spinoff of the *[Hellboy](/entry/Hellboy_(series))* series.
 
@@ -10,7 +10,7 @@
 
 In December 2021, *[Sir Edward Grey: Acheron](/entry/Acheron_(story))* teased a second *Koshchei* miniseries for 2022, *[Koshchei in Hell](/entry/Koshchei_in_Hell)*.
 
-![](/content/images/Koshchei%20the%20Deathless%20in%20Hell%20teaser.jpg)
+![](/content/images/Koshchei%20the%20Deathless%20in%20Hell%20teaser.webp)
 
 ## Collections
 

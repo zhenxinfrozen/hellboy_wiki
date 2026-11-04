@@ -35,18 +35,18 @@ Art Baltazar 与 Franco 回归《小小地狱男爵》！地狱男爵、亚伯�
 
 平装合订本
 
-![第 #1 期](/content/images/IttyBittyHB2Cover1.jpg)
+![第 #1 期](/content/images/IttyBittyHB2Cover1.webp)
 
 |第 #1 期
 
-![第 #2 期](/content/images/IttyBittyHB2Cover2.jpg)
+![第 #2 期](/content/images/IttyBittyHB2Cover2.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/IttyBittyHB2Cover3.jpg)
+![第 #3 期](/content/images/IttyBittyHB2Cover3.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/IttyBittyHB2Cover4.jpg)
+![第 #4 期](/content/images/IttyBittyHB2Cover4.webp)
 
 |第 #4 期

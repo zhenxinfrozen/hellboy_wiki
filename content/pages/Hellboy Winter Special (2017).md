@@ -1,4 +1,4 @@
-![Hellboy Winter Special (2017)](/content/images/Hellboy%20Winter%20Special%20%282017%29.jpg)
+![Hellboy Winter Special (2017)](/content/images/Hellboy%20Winter%20Special%20%282017%29.webp)
 
 A comic special containing three stories. This comic is the Hellboy Universe debut of Tim Sale, Michael Walsh, Chris Roberson, and Chelsea Cain.
 

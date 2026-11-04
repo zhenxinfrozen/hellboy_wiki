@@ -1,4 +1,4 @@
-![Angel of Death](/content/images/Angel_of_death.jpg)
+![Angel of Death](/content/images/Angel_of_death.webp)
 
 The **Angel of Death** is a personification of [Hellboy](/entry/Hellboy%20%28character%29)'s personal death, having claimed to always be present at the crossroads in the half demon's life where he may die. The most distinctive feature of the Angel is that its eyes are on its wings, rather than on its skeletal face.
 

@@ -1,5 +1,5 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/Hellboy%20T-Rex.jpg)
+![](/content/images/Hellboy%20T-Rex.webp)
 
 **Dinosaurs** are prehistoric reptiles that inhabited the Earth long before humans appeared.

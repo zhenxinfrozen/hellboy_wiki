@@ -1,4 +1,4 @@
-![Mohlomi](/content/images/Mohlomi.jpg)
+![Mohlomi](/content/images/Mohlomi.webp)
 
 **Mohlomi** is an African witch doctor who is assumed to be dead over 200 years. Yet he is still alive and looks about 60 years old. He gave [Hellboy](/entry/Hellboy) a little bell in *Hellboy: [The Third Wish](/entry/The%20Third%20Wish)* \#1 to protect him from evil.
 

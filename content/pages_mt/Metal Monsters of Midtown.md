@@ -20,7 +20,7 @@
 
 ## 画廊
 
-![](/content/images/Metal_Monsters_of_Midtown_1.jpg)
+![](/content/images/Metal_Monsters_of_Midtown_1.webp)
 
  \#1
 

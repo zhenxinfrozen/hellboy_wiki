@@ -1,4 +1,4 @@
-![异象、幻梦与垂钓](/content/images/Abe_Sapien_14.jpg)
+![异象、幻梦与垂钓](/content/images/Abe_Sapien_14.webp)
 
 《**异象、幻梦与垂钓**》（Visions, Dreams, and Fishin'）是一个单期完结篇章，2014 年 7 月推出，由麦克斯·菲乌马拉（Max Fiumara）作画。
 
@@ -8,6 +8,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_14.jpg)
+![](/content/images/Abe_Sapien_14.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

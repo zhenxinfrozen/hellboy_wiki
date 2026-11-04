@@ -1,4 +1,4 @@
-![Morgan Kaler](/content/images/Kaler.jpg)
+![Morgan Kaler](/content/images/Kaler.webp)
 
 **Morgan Kaler** was a man living in Utah in 1880s, appearing in the Witchfinder story *[Lost and Gone Forever](/entry/Lost%20and%20Gone%20Forever)*.
 

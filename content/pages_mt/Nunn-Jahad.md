@@ -29,23 +29,23 @@
 
 纳恩-贾哈德被约翰·克劳斯摧毁。
 
-![](/content/images/BPRD%20136.jpg)
+![](/content/images/BPRD%20136.webp)
 
 |
 
-![](/content/images/NunnJahad.jpeg)
+![](/content/images/NunnJahad.webp)
 
 |
 
-![Revenge on Anum & the watchers for imprisoned him and his six siblings](/content/images/NunnJahadVsWatchers.jpeg)
+![Revenge on Anum & the watchers for imprisoned him and his six siblings](/content/images/NunnJahadVsWatchers.webp)
 
 |Revenge on Anum & the watchers for imprisoned him and his six siblings
 
-![](/content/images/NunnJahadKillsWatcher.jpeg)
+![](/content/images/NunnJahadKillsWatcher.webp)
 
 |
 
-![Nunn-Jahad destroyed by Johann Kraus.](/content/images/NunnJahadDestruction.jpeg)
+![Nunn-Jahad destroyed by Johann Kraus.](/content/images/NunnJahadDestruction.webp)
 
 |Nunn-Jahad destroyed by Johann Kraus.
 ## 登场

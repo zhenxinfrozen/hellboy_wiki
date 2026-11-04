@@ -20,7 +20,7 @@ After Hellboy leaves, he accompanies Reverend Watts to take care of the witches 
 
 ### [The Return of Effie Kolb](/entry/The_Return_of_Effie_Kolb)
 
-![](/content/images/Tom_Ferrell_%28old%29.jpg) Watts dies soon afterwards, leaving the church property to Tom. He rebuilds with the help of some local lads, he decides not to make it a church since he isn't a preacher. Tom later moves into the building and gains a reputation as a witch doctor. People occasionally visit him with requests or to hear the tale of his fight against Witkins and see the shovel.
+![](/content/images/Tom_Ferrell_%28old%29.webp) Watts dies soon afterwards, leaving the church property to Tom. He rebuilds with the help of some local lads, he decides not to make it a church since he isn't a preacher. Tom later moves into the building and gains a reputation as a witch doctor. People occasionally visit him with requests or to hear the tale of his fight against Witkins and see the shovel.
 
 Well into his later years, Tom takes in [Sara May Blackburn](/entry/Sara_May_Blackburn) when she is kicked out by her parents for mistaking her precognitive abilities for witchcraft.
 

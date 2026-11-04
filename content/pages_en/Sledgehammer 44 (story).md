@@ -16,6 +16,6 @@ Outgunned and outnumbered by an army of Nazis, a group of GIs must band together
 
 ## Gallery
 
-![](/content/images/Sledgehammer_44_1.jpg)
+![](/content/images/Sledgehammer_44_1.webp)
 
-![](/content/images/Sledgehammer_44_2.jpg)
+![](/content/images/Sledgehammer_44_2.webp)

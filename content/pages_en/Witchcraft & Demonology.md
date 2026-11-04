@@ -6,4 +6,4 @@ Gallery artist [Santiago Caruso](/entry/Santiago_Caruso) presents the history of
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_30.jpg)
+![](/content/images/Abe_Sapien_30.webp)

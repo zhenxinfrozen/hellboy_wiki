@@ -1,4 +1,4 @@
-![Hellboy versus the Aztec Mummy](/content/images/DHP7.jpg)
+![Hellboy versus the Aztec Mummy](/content/images/DHP7.webp)
 
 ## Publication History
 

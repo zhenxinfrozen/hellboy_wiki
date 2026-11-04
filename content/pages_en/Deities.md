@@ -82,7 +82,7 @@ The Greek Olympians
 
 ### Coatlicue
 
-![](/content/images/Coatlicue.jpeg)
+![](/content/images/Coatlicue.webp)
 
 Coatlicue was an Aztec deity, who was described as the great mother and a snake goddess of the moon. She was only mentioned and seen in a vision within [Abe Sapien: The Shape of Things to Come](/entry/The_Shape_of_Things_to_Come) within the context of Mesoamerican creation and eschatology, so whether she actually exists is unknown.
 
@@ -90,7 +90,7 @@ She might have been an Ogdru Hem, since [Vucub Caquix](/entry/Vucub_Caquix) and 
 
 ### Dagon
 
-![](/content/images/DagonTablet.jpeg)
+![](/content/images/DagonTablet.webp)
 
 Dagon was a Philistine deity of fertility and in fact was a demon, who was mentioned in [The Spanish Bride](/entry/The_Spanish_Bride). He was likely turned into a demon, as the Philistines were enemies of the ancient Israelites and as a possible reference to Paradise Lost.
 
@@ -100,7 +100,7 @@ Dagon has often been depicted as a fish-man (similar to [Oannes](/entry/Atum)), 
 
 ### Durga
 
-![](/content/images/Durga.jpeg)
+![](/content/images/Durga.webp)
 
 Durga is the Hindu goddess of motherhood as well as victory of good over evil. She was depicted in her classical form within an issue of [Occult Intelligence](/entry/Occult_Intelligence).
 
@@ -108,7 +108,7 @@ He name has been also referenced by exorcists, such as [Ota Benga](/entry/Ota_Be
 
 ### Horus
 
-![](/content/images/BetterImageOfHorus.jpeg)
+![](/content/images/BetterImageOfHorus.webp)
 
 **Horus** was an Egyptian deity of kingship and the sky. He was notably referenced in the story The House of Sebek, where he was both mentioned and seen as a statue.
 
@@ -118,7 +118,7 @@ Whether Horus actually exists in any form within the Mignola-verse is unknown, b
 
 ### Odin
 
-![](/content/images/HellboyMistakenForOdin.jpeg)
+![](/content/images/HellboyMistakenForOdin.webp)
 
 Odin was one of the old norse deities and the father of [Thor](/entry/Thor).
 
@@ -130,7 +130,7 @@ As Hellboy was in in [Hell](/entry/Hell), his uncle [Astaroth](/entry/Astaroth) 
 
 ### Osiris
 
-![](/content/images/OsirisStatue.jpeg)
+![](/content/images/OsirisStatue.webp)
 
 Osiris was the Egyptian god of the underworld, fertility and kingship, who was also the father of Horus.
 

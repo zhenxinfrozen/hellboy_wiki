@@ -1,4 +1,4 @@
-![](/content/images/Front%20Page%20-%20Sarah%20Jewell.png)
+![](/content/images/Front%20Page%20-%20Sarah%20Jewell.webp)
 
 ## Stories Published
 

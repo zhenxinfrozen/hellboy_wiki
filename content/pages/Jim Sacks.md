@@ -1,4 +1,4 @@
-![Jim Sacks](/content/images/Jim_Sacks.jpg)
+![Jim Sacks](/content/images/Jim_Sacks.webp)
 
 **Jim Sacks** was the lab assistant of Professor [Kyriakos Gallaragas](/entry/Kyriakos%20Gallaragas) and the recipient of the [Vril Energy Suit](/entry/Vril%20Energy%20Suit).
 

@@ -2,7 +2,7 @@
 
 ## 概述
 
-![](/content/images/BPRD%20Salton-Hem%20Breathspawn.png)
+![](/content/images/BPRD%20Salton-Hem%20Breathspawn.webp)
 
 在[《恐惧之王》](/entry/King_of_Fear_(story))中，[伊丽莎白·舍曼](/entry/Elizabeth_Sherman)摧毁了[黑焰](/entry/The_Black_Flame_(character))的军队之后，这头生物从海洋中爬出。
 

@@ -1,4 +1,4 @@
-![Be careful with what you put into your mouth.](/content/images/Magichorsecollar.jpg)The Magic horse's bit and bridal is a cursed item encountered by Hellboy and [Tom Ferrell](/entry/Tom%20Ferrell) in [The Crooked Man](/entry/The%20Crooked%20Man). [Effie Kolb](/entry/Effie%20Kolb) had put this on Tom's father and literally rode him to death.
+![Be careful with what you put into your mouth.](/content/images/Magichorsecollar.webp)The Magic horse's bit and bridal is a cursed item encountered by Hellboy and [Tom Ferrell](/entry/Tom%20Ferrell) in [The Crooked Man](/entry/The%20Crooked%20Man). [Effie Kolb](/entry/Effie%20Kolb) had put this on Tom's father and literally rode him to death.
 
 Tom kept the bit though and when the opportunity presented itself put it on the vile woman as a punishment for her crimes.
 

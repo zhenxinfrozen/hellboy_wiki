@@ -1,4 +1,4 @@
-![](/content/images/Hyperborea.jpeg)
+![](/content/images/Hyperborea.webp)
 
 **海伯利亚的黄金之民（Golden People of Hyperborea）**是人类的第一个种族。
 

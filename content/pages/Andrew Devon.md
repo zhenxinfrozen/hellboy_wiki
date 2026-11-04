@@ -1,4 +1,4 @@
-![Andrew Devon](/content/images/Devon.png)
+![Andrew Devon](/content/images/Devon.webp)
 
 **Andrew Devon** is a former professor of modern and medieval languages from Cambridge. While growing up in St. Louis, Missouri, his interest in the supernatural was piqued when he read [Kate Corrigan's](/entry/Kate%20Corrigan) study of a demonic possession in Azerbaijan.
 

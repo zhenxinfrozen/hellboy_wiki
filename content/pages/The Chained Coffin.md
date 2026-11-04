@@ -1,4 +1,4 @@
-![The Chained Coffin](/content/images/Dark_Horse_Presents_100-2.jpg)
+![The Chained Coffin](/content/images/Dark_Horse_Presents_100-2.webp)
 
 ## Publication History
 

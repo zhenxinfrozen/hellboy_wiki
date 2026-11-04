@@ -28,37 +28,37 @@ All covers by [Mike Huddleston](/entry/Mike_Huddleston) unless otherwise credite
 
  \#1
 
-![](/content/images/Rasputin-TVotD1_Mignola.jpg)
+![](/content/images/Rasputin-TVotD1_Mignola.webp)
 
  \#1
 (Mike Mignola variant)
 
  \#2
 
-![](/content/images/Rasputin-TVotD2_Manchess.jpg)
+![](/content/images/Rasputin-TVotD2_Manchess.webp)
 
  \#2
 ([Gregory Manchess](/entry/Gregory_Manchess) variant)
 
-![](/content/images/Rasputin-TVotD3.jpg)
+![](/content/images/Rasputin-TVotD3.webp)
 
  \#3
 
-![](/content/images/Rasputin-TVotD3_Francavilla.jpg)
+![](/content/images/Rasputin-TVotD3_Francavilla.webp)
 
  \#3
 ([Francesco Francavilla](/entry/Francesco_Francavilla) variant)
 
-![](/content/images/Rasputin-TVotD4.jpg)
+![](/content/images/Rasputin-TVotD4.webp)
 
  \#4
 
-![](/content/images/Rasputin-TVotD4_DelRey.jpg)
+![](/content/images/Rasputin-TVotD4_DelRey.webp)
 
  \#4
 (Vanesa R. Del Rey variant)
 
-![](/content/images/Rasputin-TVotD5.jpg)
+![](/content/images/Rasputin-TVotD5.webp)
 
  \#5
 

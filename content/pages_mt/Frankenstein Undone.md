@@ -66,26 +66,26 @@
 *《未竟的弗兰肯斯坦》* 平装合订本封面  
 作者：Mike Mignola
 
-![第 #1 期](/content/images/FrankensteinUndone%201.jpg)
+![第 #1 期](/content/images/FrankensteinUndone%201.webp)
 
 |第 #1 期
 
-![第 #4 期](/content/images/FrankensteinUndone%204%20Stenbeck.jpg)
+![第 #4 期](/content/images/FrankensteinUndone%204%20Stenbeck.webp)
 
 |第 #4 期
 
-![Issue #4<br>variant by Sanford Greene](/content/images/FrankensteinUndone%204%20Greene.jpg)
+![Issue #4<br>variant by Sanford Greene](/content/images/FrankensteinUndone%204%20Greene.webp)
 
 |Issue #4<br>variant by Sanford Greene
 
-![第 #5 期](/content/images/FrankensteinUndone%205%20Stenbeck.jpg)
+![第 #5 期](/content/images/FrankensteinUndone%205%20Stenbeck.webp)
 
 |第 #5 期
 
-![Issue #5<br>variant by Geof Darrow](/content/images/FrankensteinUndone%205%20Darrow.jpg)
+![Issue #5<br>variant by Geof Darrow](/content/images/FrankensteinUndone%205%20Darrow.webp)
 
 |Issue #5<br>variant by Geof Darrow
 
-![Frankenstein Undone TPB cover<br>by Mike Mignola](/content/images/Frankenstein%20Undone%20Trade.jpg)
+![Frankenstein Undone TPB cover<br>by Mike Mignola](/content/images/Frankenstein%20Undone%20Trade.webp)
 
 |Frankenstein Undone TPB cover<br>by Mike Mignola

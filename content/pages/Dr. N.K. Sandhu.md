@@ -1,4 +1,4 @@
-![Dr. N.K. Sandhu](/content/images/N.K.%20Sandhu.jpg)
+![Dr. N.K. Sandhu](/content/images/N.K.%20Sandhu.webp)
 
 **Dr. N.K. Sandhu**was an British Indian that acted as a scientific advisor for the [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense)
 

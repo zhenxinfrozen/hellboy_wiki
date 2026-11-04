@@ -19,15 +19,15 @@ In demonology Bifrons is also an Earl of Hell, with sixty legions of demons und
 ## Gallery
 
 
-![](/content/images/Bifrons4.jpeg)
+![](/content/images/Bifrons4.webp)
 
 |
 
-![](/content/images/Bifrons3.jpeg)
+![](/content/images/Bifrons3.webp)
 
 |
 
-![Yomayel summons Bifrons](/content/images/Bifrons.jpeg)
+![Yomayel summons Bifrons](/content/images/Bifrons.webp)
 
 |Yomayel summons Bifrons
 ## Appearances

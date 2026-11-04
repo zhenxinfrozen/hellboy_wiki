@@ -1,4 +1,4 @@
-![The_Foundry.png](/content/images/The_Foundry.png) The **Foundry** was a para-military organization under the authority of the British Empire during the reign of Queen Victoria in the late 1800s.
+![The_Foundry.png](/content/images/The_Foundry.webp) The **Foundry** was a para-military organization under the authority of the British Empire during the reign of Queen Victoria in the late 1800s.
 
 ## Background
 

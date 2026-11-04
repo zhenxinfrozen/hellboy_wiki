@@ -16,11 +16,11 @@
 
 ## 封面画廊
 
-![](/content/images/Hellboy_Winter_Special_%282018%29.jpg)
+![](/content/images/Hellboy_Winter_Special_%282018%29.webp)
 
-![](/content/images/Hellboy_Winter_Special_%282018%29_Ba.jpg)
+![](/content/images/Hellboy_Winter_Special_%282018%29_Ba.webp)
 
-![](/content/images/Hellboy_Winter_Special_%282018%29_Moon.jpg)
+![](/content/images/Hellboy_Winter_Special_%282018%29_Moon.webp)
 
 ## 参考资料
 

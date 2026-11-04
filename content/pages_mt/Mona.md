@@ -1,4 +1,4 @@
-![](/content/images/Mona_.jpeg)**莫娜（Mona）**是一枚受昂兰人崇拜的水晶卵。借助它的力量，这件器物能够控制哈勒姆霍尔特（Hallam Halt）周围的水域。只有昂兰人的邪教首领"米尔"（the Mere）才获准接触莫娜。后来真相揭开，它其实是[奥格德鲁·赫姆](/entry/Ogdru_Hem)之一[Istra-Hem](/entry/Istra-Hem)的容器。
+![](/content/images/Mona_.webp)**莫娜（Mona）**是一枚受昂兰人崇拜的水晶卵。借助它的力量，这件器物能够控制哈勒姆霍尔特（Hallam Halt）周围的水域。只有昂兰人的邪教首领"米尔"（the Mere）才获准接触莫娜。后来真相揭开，它其实是[奥格德鲁·赫姆](/entry/Ogdru_Hem)之一[Istra-Hem](/entry/Istra-Hem)的容器。
 
 ## 历史
 

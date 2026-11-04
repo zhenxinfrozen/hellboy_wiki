@@ -12,6 +12,6 @@
 
 ## 画廊
 
-![Lost Lives](/content/images/Abe%20Sapien%2015.jpg)
+![Lost Lives](/content/images/Abe%20Sapien%2015.webp)
 
 |Lost Lives

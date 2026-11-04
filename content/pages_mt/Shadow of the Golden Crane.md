@@ -37,14 +37,14 @@
 
 第 \#4 期
 
-![第 #2 期](/content/images/Shadow%20of%20the%20Golden%20Crane%202.jpg)
+![第 #2 期](/content/images/Shadow%20of%20the%20Golden%20Crane%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Shadow%20of%20the%20Golden%20Crane%203.jpg)
+![第 #3 期](/content/images/Shadow%20of%20the%20Golden%20Crane%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Shadow%20of%20the%20Golden%20Crane%204.jpg)
+![第 #4 期](/content/images/Shadow%20of%20the%20Golden%20Crane%204.webp)
 
 |第 #4 期

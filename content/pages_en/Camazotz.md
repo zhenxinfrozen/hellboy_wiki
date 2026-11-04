@@ -11,7 +11,7 @@ Abe Sapien battled a creature once that might have been the ancient deity.
 
 Esteban, the luchador who took the identity of Camazotz
 
-![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.jpeg)
+![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.webp)
 
 |Esteban/Camazotz is killed by Hellboy
 ## Apperance

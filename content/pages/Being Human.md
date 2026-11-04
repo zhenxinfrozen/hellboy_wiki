@@ -1,4 +1,4 @@
-![生而为人](/content/images/Being_Human.jpg)
+![生而为人](/content/images/Being_Human.webp)
 
 《**生而为人**》（Being Human）是一个以[地狱男爵](/entry/Hellboy_(character))与[罗杰](/entry/Roger)为主角的任务回忆故事。
 

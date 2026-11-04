@@ -1,4 +1,4 @@
-![Special_Intelligence_Directorate.png](/content/images/Special_Intelligence_Directorate.png) The **Special Intelligence Directorate** was a British organization tasked with monitoring paranormal activity.
+![Special_Intelligence_Directorate.png](/content/images/Special_Intelligence_Directorate.webp) The **Special Intelligence Directorate** was a British organization tasked with monitoring paranormal activity.
 
 ## Background
 

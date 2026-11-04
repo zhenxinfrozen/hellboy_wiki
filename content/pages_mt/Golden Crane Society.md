@@ -1,4 +1,4 @@
-![](/content/images/Golden_Crane_Society.png) **金鹤会（Golden Crane Society）**是一个扎根于中国的秘密秘术社团。
+![](/content/images/Golden_Crane_Society.webp) **金鹤会（Golden Crane Society）**是一个扎根于中国的秘密秘术社团。
 
 ## 历史
 

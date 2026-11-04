@@ -9,11 +9,11 @@
 
 ### 单期
 
-![](/content/images/Krampusnacht_AdamHughes.jpg)
+![](/content/images/Krampusnacht_AdamHughes.webp)
 
 |《地狱男爵：坎卜斯之夜》（Hellboy: Krampusnacht）
 
-![](/content/images/TheSevenWivesClub_AdamHughes.jpg)
+![](/content/images/TheSevenWivesClub_AdamHughes.webp)
 
 |《地狱男爵与 B.P.R.D.：七妻俱乐部》（Hellboy and the B.P.R.D.: The Seven Wives Club）
 

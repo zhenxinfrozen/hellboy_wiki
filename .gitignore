@@ -26,3 +26,10 @@ Thumbs.db
 # ===== 打包产物 =====
 *.tar.gz
 *.zip
+
+# ===== 图片：content/images/ 根目录只留 webp（老格式本地备份在仓库外）=====
+# thumb/ 与 gallery/ 子目录的派生 webp 仍入库
+/content/images/*.jpg
+/content/images/*.jpeg
+/content/images/*.png
+/content/images/*.gif

@@ -1,4 +1,4 @@
-![](/content/images/Vasilisa_.jpeg) **瓦西丽莎（Vasilisa）**是[摩根勒菲（Morgan Le Fey）](/entry/Morgan_Le_Fey)城堡里的一名侍女。
+![](/content/images/Vasilisa_.webp) **瓦西丽莎（Vasilisa）**是[摩根勒菲（Morgan Le Fey）](/entry/Morgan_Le_Fey)城堡里的一名侍女。
 
 ## 历史
 

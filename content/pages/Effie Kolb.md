@@ -1,4 +1,4 @@
-![Effiekolb.jpg](/content/images/Effiekolb.jpg)
+![Effiekolb.jpg](/content/images/Effiekolb.webp)
 Ugly as sin doesn't always apply it seems
 
 Effie Kolb was the right-hand woman, chief supporter and main witch of [Miser Witkins](/entry/Jeremiah%20Witkins).
@@ -13,7 +13,7 @@ Effie Kolb worked as a recruiter for the Crooked Man over the years, bringing ma
 
 Her most prominent power is her retained youthfulness, she looks to be in her teens, but is at the end revealed to be much, much older. It is possible she crafted the [Magic horse's bit](/entry/Magic%20horse%27s%20bit), with or without the aid of the Crooked Man.
 
-![Effieold.jpg](/content/images/Effieold.jpg)
+![Effieold.jpg](/content/images/Effieold.webp)
 The ugly truth.
 
 ### Personality

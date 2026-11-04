@@ -10,7 +10,7 @@ Living legends Mike Mignola, Stan Sakai, and Jaime Hernandez all contribute to t
 
 ## Gallery
 
-![](/content/images/DHP36.jpg)
+![](/content/images/DHP36.webp)
 
 |*Dark Horse Presents* \#36
 cover by Ben Stenbeck

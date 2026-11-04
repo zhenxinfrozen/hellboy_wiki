@@ -11,6 +11,6 @@ Steve Mannion 封面
 
 Mike Mignola 变体封面
 
-![Steve Mannion cover](/content/images/Fearless%20Dawn%20Meets%20Hellboy%20Manion.jpg)
+![Steve Mannion cover](/content/images/Fearless%20Dawn%20Meets%20Hellboy%20Manion.webp)
 
 |Steve Mannion cover

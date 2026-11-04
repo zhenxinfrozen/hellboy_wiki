@@ -1,4 +1,4 @@
-![](/content/images/Mr.%20Wink.jpg)
+![](/content/images/Mr.%20Wink.webp)
 
 洞穴巨魔是强壮而愚笨的生物。努阿达王子 (Prince Nuada)在寻找黄金军团时，曾把温克 (Wink)当作帮手。不过洞穴巨魔在机械方面颇有头脑。
 

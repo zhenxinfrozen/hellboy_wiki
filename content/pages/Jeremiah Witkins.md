@@ -1,4 +1,4 @@
-![A thoroughly crooked man, Jeremiah Witkins.](/content/images/Jeremiahwitkins.jpg) **Jeremiah Witkins**, a.k.a. **The Crooked Man** is the main villain of the [Hellboy](/entry/Hellboy) [story of the same name](/entry/The%20Crooked%20Man).
+![A thoroughly crooked man, Jeremiah Witkins.](/content/images/Jeremiahwitkins.webp) **Jeremiah Witkins**, a.k.a. **The Crooked Man** is the main villain of the [Hellboy](/entry/Hellboy) [story of the same name](/entry/The%20Crooked%20Man).
 
 ## History
 
@@ -16,7 +16,7 @@ Hellboy and Ferrell then went to Witkins's house in the Hurricane, and found him
 
 ## Appearance
 
-![Witkins' demonic form.](/content/images/Miserdevil.jpg) In life, Jeremiah Witkins was a tall Caucasian male, with long sideburns, one blinded eye and a grin that was anything but friendly, his crooked nature marking him physically. After his death and pact with the Devil, Witkins became a misshapen crab-like creature with multiple eyes that projects an image of his original form that is a more crooked with his head lolling to the side, slack-jawed with several teeth missing, a deathly pale cast to his flesh and his sideburns even more fuzz-like.
+![Witkins' demonic form.](/content/images/Miserdevil.webp) In life, Jeremiah Witkins was a tall Caucasian male, with long sideburns, one blinded eye and a grin that was anything but friendly, his crooked nature marking him physically. After his death and pact with the Devil, Witkins became a misshapen crab-like creature with multiple eyes that projects an image of his original form that is a more crooked with his head lolling to the side, slack-jawed with several teeth missing, a deathly pale cast to his flesh and his sideburns even more fuzz-like.
 
 ## Powers and abilities
 

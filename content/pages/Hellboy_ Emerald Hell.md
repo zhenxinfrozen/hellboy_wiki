@@ -1,4 +1,4 @@
-![Hellboy: Emerald Hell](/content/images/Hellboy%20-%20Emerald%20Hell%20%28Novel%20Cover%29.jpg)
+![Hellboy: Emerald Hell](/content/images/Hellboy%20-%20Emerald%20Hell%20%28Novel%20Cover%29.webp)
 
 ***Hellboy: The Dragon Pool*** is the sixth *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
 

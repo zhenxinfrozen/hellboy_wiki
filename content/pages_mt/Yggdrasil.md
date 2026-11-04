@@ -7,7 +7,7 @@
 
 世界树下的拉斯普廷。
 
-![Rasputin at the World Tree.](/content/images/RasputinAtYggdrasil.jpeg)
+![Rasputin at the World Tree.](/content/images/RasputinAtYggdrasil.webp)
 
 |Rasputin at the World Tree.
 ## 趣闻

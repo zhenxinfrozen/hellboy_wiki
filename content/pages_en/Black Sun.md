@@ -14,7 +14,7 @@ Separated from the rest of the BPRD, Hellboy finds himself in the company of a f
 
 Covers by [Mike Huddleston](/entry/Mike_Huddleston).
 
-![](/content/images/The_Black_Sun_1.jpg)
+![](/content/images/The_Black_Sun_1.webp)
 
 |*1954: Black Sun* \#1
 

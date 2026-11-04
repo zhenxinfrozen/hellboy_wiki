@@ -35,31 +35,31 @@
 
 第 \#4 期
 
-![第 #2 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202.jpg)
+![第 #2 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203.jpg)
+![第 #3 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204.jpg)
+![第 #4 期](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204.webp)
 
 |第 #4 期
 
-![Issue #1 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%201%20variant.jpg)
+![Issue #1 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%201%20variant.webp)
 
 |Issue #1 variant cover
 
-![Issue #2 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202%20variant.jpg)
+![Issue #2 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202%20variant.webp)
 
 |Issue #2 variant cover
 
-![Issue #3 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203%20variant.jpg)
+![Issue #3 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203%20variant.webp)
 
 |Issue #3 variant cover
 
-![Issue #4 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204%20variant.jpg)
+![Issue #4 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204%20variant.webp)
 
 |Issue #4 variant cover
 ### 变体封面

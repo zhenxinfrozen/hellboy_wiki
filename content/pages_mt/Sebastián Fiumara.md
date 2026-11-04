@@ -19,63 +19,63 @@
 
 ### 《亚伯·塞皮恩》各期
 
-![](/content/images/Dark_and_Terrible_1.jpg)
+![](/content/images/Dark_and_Terrible_1.webp)
 
-![](/content/images/Dark_And_Terrible_2.jpg)
+![](/content/images/Dark_And_Terrible_2.webp)
 
-![](/content/images/Dark_and_Terrible_3.jpg)
+![](/content/images/Dark_and_Terrible_3.webp)
 
-![](/content/images/Abe_Sapien_12.jpg)
+![](/content/images/Abe_Sapien_12.webp)
 
-![](/content/images/Abe_Sapien_13.jpg)
+![](/content/images/Abe_Sapien_13.webp)
 
-![](/content/images/Abe_Sapien_14.jpg)
+![](/content/images/Abe_Sapien_14.webp)
 
-![](/content/images/Abe_Sapien_15.jpg)
+![](/content/images/Abe_Sapien_15.webp)
 
-![](/content/images/Abe_Sapien_16.jpg)
+![](/content/images/Abe_Sapien_16.webp)
 
-![](/content/images/Abe_Sapien_17.jpg)
+![](/content/images/Abe_Sapien_17.webp)
 
-![](/content/images/Abe_Sapien_32.jpg)
+![](/content/images/Abe_Sapien_32.webp)
 
-![](/content/images/Abe_Sapien_34.jpg)
+![](/content/images/Abe_Sapien_34.webp)
 
-![](/content/images/Abe_Sapien_35.jpg)
+![](/content/images/Abe_Sapien_35.webp)
 
-![](/content/images/Abe_Sapien_36.jpg)
+![](/content/images/Abe_Sapien_36.webp)
 
 ### 《亚伯·塞皮恩》合订本
 
-![](/content/images/Abe_Sapien_Trade05.jpg)
+![](/content/images/Abe_Sapien_Trade05.webp)
 
-![](/content/images/Abe_Sapien_Trade06.jpg)
+![](/content/images/Abe_Sapien_Trade06.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
-![](/content/images/Abe_Sapien_Trade08.jpg)
+![](/content/images/Abe_Sapien_Trade08.webp)
 
-![](/content/images/Abe_Sapien_Trade09.jpg)
+![](/content/images/Abe_Sapien_Trade09.webp)
 
-![](/content/images/Omnibus_Abe_DaT_1.jpg)
+![](/content/images/Omnibus_Abe_DaT_1.webp)
 
 |《亚伯·塞皮恩：黑暗而可怖——第 1 卷》（Abe Sapien: Dark and Terrible – Volume 1）（大全集版）
 
-![](/content/images/Omnibus_Abe_DaT_2.jpg)
+![](/content/images/Omnibus_Abe_DaT_2.webp)
 
 |《亚伯·塞皮恩：黑暗而可怖——第 2 卷》（Abe Sapien: Dark and Terrible – Volume 2）（大全集版）
 
-![](/content/images/Omnibus_Abe_Drowning.jpg)
+![](/content/images/Omnibus_Abe_Drowning.webp)
 
 |《亚伯·塞皮恩：溺亡及其他故事》（Abe Sapien: The Drowning and Other Stories）（大全集版）
 
 ### 其他
 
-![](/content/images/Hellboy_Winter_Special_%282017%29.jpg)
+![](/content/images/Hellboy_Winter_Special_%282017%29.webp)
 
 |《地狱男爵冬季特刊》（Hellboy Winter Special）（2017）
 
-![](/content/images/The_Devil_You_Know_6.jpg)
+![](/content/images/The_Devil_You_Know_6.webp)
 
 |《B.P.R.D.：你所知的恶魔》（B.P.R.D.: The Devil You Know）第 6 期（与 [Max Fiumara](/entry/Max_Fiumara) 合作）
 

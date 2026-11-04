@@ -1,4 +1,4 @@
-![](/content/images/SaintLeonardWorm.jpeg)
+![](/content/images/SaintLeonardWorm.webp)
 
 **圣伦纳德之龙**（Saint Leonard Wyrm）曾是一条栖息在英格兰的[龙](/entry/Dragons)。
 

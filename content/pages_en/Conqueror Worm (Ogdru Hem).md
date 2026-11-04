@@ -37,7 +37,7 @@ The Conqueror Worm had similar abilities to [Sadu-Hem](/entry/Sadu-Hem), which h
 
 ## Gallery
 
-![](/content/images/Conqueror_Worm_4.jpg)
+![](/content/images/Conqueror_Worm_4.webp)
 
 ## Trivia
 

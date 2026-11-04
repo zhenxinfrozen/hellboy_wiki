@@ -1,4 +1,4 @@
-![Hellboy II: The Golden Army](/content/images/HellboyIIMoviePoster.jpg)
+![Hellboy II: The Golden Army](/content/images/HellboyIIMoviePoster.webp)
 
 ***Hellboy II: The Golden Army*** is a sequel to the 2004 movie *[Hellboy](/entry/Hellboy%20%282004%20film%29)*. Universal Pictures finances and distributes the film, which has a target release date for July 11, 2008. The Film is Rated PG-13 for sequences of Sci-fi action and violence and some language.
 

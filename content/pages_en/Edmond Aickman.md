@@ -21,7 +21,7 @@ Holding her father's dead body, Pernilla reflected that she had many happy memor
 ## Gallery
 
 
-![A photo of an young Edmond Aikman.](/content/images/EdmondAickman2.jpeg)
+![A photo of an young Edmond Aikman.](/content/images/EdmondAickman2.webp)
 
 |A photo of an young Edmond Aikman.
 ## Trivia

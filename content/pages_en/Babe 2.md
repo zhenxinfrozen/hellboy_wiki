@@ -22,7 +22,7 @@ At the story's conclusion, Hellboy relates what took place to the Danger Unlimit
 
 ## Trivia
 
-![](/content/images/Babe2%20HB.jpg)
+![](/content/images/Babe2%20HB.webp)
 
 - This story is one of several crossovers between Dark Horse Comics' [Legend](/entry/Dark_Horse_Comics) creators. John Byrne, Art Adams, and [Mike Mignola](/entry/Mike_Mignola) initially planned for their comics to take place in a shared universe. Though these plans were soon abandoned, several of their early issues feature overlapping characters and scenarios.
   - The Shrewmanoid returns from Adams's *Monkeyman and O'Brien*; the two title characters appear in a flashback panel.

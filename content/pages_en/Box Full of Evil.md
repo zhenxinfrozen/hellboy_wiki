@@ -86,11 +86,11 @@ The exact date of this story is never stated. It must take place after *[The Rig
 
 Covers by [Mike Mignola](/entry/Mike_Mignola).
 
-![](/content/images/Box_Full_of_Evil_1.jpg)
+![](/content/images/Box_Full_of_Evil_1.webp)
 
  \#1
 
-![](/content/images/Box_Full_of_Evil_2.jpg)
+![](/content/images/Box_Full_of_Evil_2.webp)
 
  \#2
 

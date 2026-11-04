@@ -12,25 +12,25 @@
 
 ### 《地狱男爵》（*Hellboy*）各期
 
-![](/content/images/The_Bones_of_Giants_1.png)
+![](/content/images/The_Bones_of_Giants_1.webp)
 
 |《地狱男爵：
 巨人之骨》（*Hellboy:
 The Bones of Giants*）\#1
 
-![](/content/images/The_Bones_of_Giants_2.jpg)
+![](/content/images/The_Bones_of_Giants_2.webp)
 
 |《地狱男爵：
 巨人之骨》（*Hellboy:
 The Bones of Giants*）\#2
 
-![](/content/images/The_Bones_of_Giants_3.jpg)
+![](/content/images/The_Bones_of_Giants_3.webp)
 
 |《地狱男爵：
 巨人之骨》（*Hellboy:
 The Bones of Giants*）\#3
 
-![](/content/images/The_Bones_of_Giants_4.jpg)
+![](/content/images/The_Bones_of_Giants_4.webp)
 
 |《地狱男爵：
 巨人之骨》（*Hellboy:
@@ -38,23 +38,23 @@ The Bones of Giants*）\#4
 
 ### 《少年地狱男爵》（*Young Hellboy*）各期
 
-![](/content/images/The_Hidden_Land_1.jpg)
+![](/content/images/The_Hidden_Land_1.webp)
 
 《隐秘之地》（The Hidden Land）* \#1
 
-![](/content/images/The_Hidden_Land_2.jpg)
+![](/content/images/The_Hidden_Land_2.webp)
 
 《隐秘之地》（The Hidden Land）* \#2
 
-![](/content/images/The_Hidden_Land_3.jpg)
+![](/content/images/The_Hidden_Land_3.webp)
 
 《隐秘之地》（The Hidden Land）* \#3
 
-![](/content/images/The_Hidden_Land_4.jpg)
+![](/content/images/The_Hidden_Land_4.webp)
 
 《隐秘之地》（The Hidden Land）* \#4
 
-![](/content/images/Assault_on_Castle_Death_1.jpg)
+![](/content/images/Assault_on_Castle_Death_1.webp)
 
 《突袭死亡城堡》（Assault on Castle Death）* \#1
 
@@ -62,29 +62,29 @@ The Bones of Giants*）\#4
 
 《突袭死亡城堡》（Assault on Castle Death）* \#3
 
-![](/content/images/Assault_on_Castle_Death_4.jpg)
+![](/content/images/Assault_on_Castle_Death_4.webp)
 
 《突袭死亡城堡》（Assault on Castle Death）* \#4
 
 ### 《恋爱中的地狱男爵》（*Hellboy in Love*）各期
 
-![](/content/images/Hellboy_in_Love_1.jpg)
+![](/content/images/Hellboy_in_Love_1.webp)
 
 *《哥布林之夜》（Goblin Night）（第 1 部分）
 
-![](/content/images/Hellboy_in_Love_2.jpg)
+![](/content/images/Hellboy_in_Love_2.webp)
 
 *《哥布林之夜》（Goblin Night）（第 2 部分）
 
-![](/content/images/Hellboy_in_Love_3.jpg)
+![](/content/images/Hellboy_in_Love_3.webp)
 
 *《影子剧场》（Shadow Theater）（第 1 部分）
 
-![](/content/images/Hellboy_in_Love_4.jpg)
+![](/content/images/Hellboy_in_Love_4.webp)
 
 *《影子剧场》（Shadow Theater）（第 2 部分）
 
-![](/content/images/Hellboy_in_Love_5.jpg)
+![](/content/images/Hellboy_in_Love_5.webp)
 
 *《通往一切的钥匙》（The Key to It All）
 

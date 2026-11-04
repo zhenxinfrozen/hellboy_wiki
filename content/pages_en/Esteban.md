@@ -21,7 +21,7 @@ After returning to the area in 1982, Hellboy related Estaban's story to [Abe Sap
 
 Esteban reveals his transformation
 
-![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.jpeg)
+![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.webp)
 
 |Esteban/Camazotz is killed by Hellboy
 ## Apperance

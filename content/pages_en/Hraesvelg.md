@@ -1,4 +1,4 @@
-![](/content/images/HraesvelgByMattSmith.jpg)
+![](/content/images/HraesvelgByMattSmith.webp)
 
 **Hraesvelg** is a monstrous, two-headed frost giant from Norse mythology.
 

@@ -22,7 +22,7 @@
 
 ## 趣闻
 
-![](/content/images/Babe2%20HB.jpg)
+![](/content/images/Babe2%20HB.webp)
 
 - 这个故事是 Dark Horse Comics 旗下 [Legend](/entry/Dark_Horse_Comics) 创作者之间的若干联动作品之一。John Byrne、Art Adams 和[迈克·米格诺拉](/entry/Mike_Mignola)最初曾计划让各自的漫画发生在同一个共享宇宙中。尽管这些计划很快被放弃，他们早期的几期漫画中仍出现了彼此重叠的角色和情节。
   - 鼩鼱怪出自 Adams 的《Monkeyman and O'Brien》，在本故事中回归；那部作品的两位主角在一格闪回画面中登场。

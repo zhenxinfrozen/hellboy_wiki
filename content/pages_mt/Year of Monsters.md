@@ -10,21 +10,21 @@
 
 ## 画廊
 
-![](/content/images/The_Burning_Hand_1b.jpg)
+![](/content/images/The_Burning_Hand_1b.webp)
 
  期刊：
 [*《龙虾约翰逊：燃烧之手》（Lobster Johnson: The Burning Hand）* #1](/entry/The_Burning_Hand)
 
-![](/content/images/The_Long_Death_001b.jpg)
+![](/content/images/The_Long_Death_001b.webp)
 
  期刊：
 [*《B.P.R.D.：人间地狱——漫长的死亡》（B.P.R.D.: Hell on Earth—The Long Death）* #1](/entry/The_Long_Death)
 
-![](/content/images/The_Pickens_County_Horror_001b.jpg)
+![](/content/images/The_Pickens_County_Horror_001b.webp)
 
 [*《B.P.R.D.：人间地狱——皮肯斯县惊魂》（B.P.R.D.: Hell on Earth—The Pickens County Horror）* #1](/entry/The_Pickens_County_Horror)
 
-![](/content/images/The_Burning_Hand_4b.jpg)
+![](/content/images/The_Burning_Hand_4b.webp)
 
  期刊：
 [*《龙虾约翰逊：燃烧之手》* #4](/entry/The_Burning_Hand)
@@ -36,34 +36,34 @@
 *《巴尔的摩：莱斯科瓦尔医生的解药》（Baltimore: Doctor Leskovar's Remedy）* #1
 （不属于地狱男爵宇宙的作品）
 
-![](/content/images/The_Devil%27s_Engine_003b.jpg)
+![](/content/images/The_Devil%27s_Engine_003b.webp)
 
  期刊：
 [*《B.P.R.D.：人间地狱——恶魔的引擎》（B.P.R.D.: Hell on Earth—The Devil's Engine）* #3](/entry/The_Devil%27s_Engine)
 
-![](/content/images/Return_of_the_Master_1b.jpg)
+![](/content/images/Return_of_the_Master_1b.webp)
 
  期刊：
 [*《B.P.R.D.：人间地狱——主人归来》（B.P.R.D.: Hell on Earth—The Return of the Master）* #1](/entry/The_Return_of_the_Master)
 
-![](/content/images/Caput_Mortuum_Variant.jpg)
+![](/content/images/Caput_Mortuum_Variant.webp)
 
 [*《龙虾约翰逊：Caput Mortuum》*](/entry/Caput_Mortuum)
 
-![](/content/images/1948_1a.jpg)
+![](/content/images/1948_1a.webp)
 
 [*《B.P.R.D.：1948》* #1](/entry/1948)
 
-![](/content/images/Return_of_the_Master_4b.jpg)
+![](/content/images/Return_of_the_Master_4b.webp)
 
  期刊：
 [*《B.P.R.D.：人间地狱——主人归来 #4》*](/entry/The_Return_of_the_Master)
 
-![](/content/images/Hellboy_in_Hell_1a.jpg)
+![](/content/images/Hellboy_in_Hell_1a.webp)
 
  期刊：
 [*《地狱男爵在地狱》* #1](/entry/Hellboy_in_Hell_%28first_story_arc%29)
 
-![](/content/images/A_Year_of_Monsters.jpg)
+![](/content/images/A_Year_of_Monsters.webp)
 
 [《怪兽之年》（A Year of Monsters）](/entry/A_Year_of_Monsters)

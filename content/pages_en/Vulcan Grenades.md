@@ -1,4 +1,4 @@
-![](/content/images/Hellboy-Vulcan-65-Hand-Grenades-1.jpg)
+![](/content/images/Hellboy-Vulcan-65-Hand-Grenades-1.webp)
 
 **Vulcan Grenades** are oversized grenades depicted in the film *[Hellboy](/entry/Hellboy_(2004_film))* (2004).
 

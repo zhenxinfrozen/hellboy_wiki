@@ -58,7 +58,7 @@ The film was shot 6 days a week for 130 days, Mondays through Saturdays without 
 
 ## Trivia
 
-![](/content/images/Whitman_m1.jpg)
+![](/content/images/Whitman_m1.webp)
 [M1 Garands](/entry/%3AFile%3AM1_garand.jpg) wielded by Allied forces
 
 - During the opening sequence of the film, Sgt. Whitman and several other soldiers use M1 Garands.
@@ -90,11 +90,11 @@ The film was shot 6 days a week for 130 days, Mondays through Saturdays without 
 
 ## Gallery
 
-![](/content/images/HellboyMoviePoster.jpg)
+![](/content/images/HellboyMoviePoster.webp)
 
-![](/content/images/Hellboy-2004--Ron-Perlman.jpg)
+![](/content/images/Hellboy-2004--Ron-Perlman.webp)
 
-![](/content/images/Hellboy_novelization_cover.jpg)
+![](/content/images/Hellboy_novelization_cover.webp)
 
 ### Trailers
 

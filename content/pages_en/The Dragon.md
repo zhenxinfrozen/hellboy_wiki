@@ -11,6 +11,6 @@ The two would meet again under dire circumstances. Koshchei tricked by the [Baba
 ## Gallery
 
 
-![The Dragon in his true form.](/content/images/Thedragon.jpg)
+![The Dragon in his true form.](/content/images/Thedragon.webp)
 
 |The Dragon in his true form.

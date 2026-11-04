@@ -35,7 +35,7 @@ According to [Beelzebub](/entry/Beelzebub), Pluto had power to reignite Hell's p
 
 PlutoCloseupByMikeMignola.jpg
 
-![](/content/images/PlutoCloseupByMikeMignola.jpg)
+![](/content/images/PlutoCloseupByMikeMignola.webp)
 
 |
 ## References

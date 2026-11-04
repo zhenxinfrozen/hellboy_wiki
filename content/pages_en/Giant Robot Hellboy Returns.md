@@ -28,14 +28,14 @@ Issue \#2
 variant cover by James Harren  
 colors by Dave Stewart
 
-![Issue #1<br/>variant cover by Ben Stenbeck](/content/images/GiantRobotHellboyReturns%201%20Stenbeck.jpg)
+![Issue #1<br/>variant cover by Ben Stenbeck](/content/images/GiantRobotHellboyReturns%201%20Stenbeck.webp)
 
 |Issue #1<br/>variant cover by Ben Stenbeck
 
-![Issue #2<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboyReturns%202%20Fegredo.jpg)
+![Issue #2<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboyReturns%202%20Fegredo.webp)
 
 |Issue #2<br/>cover by Duncan Fegredo
 
-![Issue #2<br/>variant cover by James Harren<br/>colors by Dave Stewart](/content/images/GiantRobotHellboyReturns%202%20Harren.jpg)
+![Issue #2<br/>variant cover by James Harren<br/>colors by Dave Stewart](/content/images/GiantRobotHellboyReturns%202%20Harren.webp)
 
 |Issue #2<br/>variant cover by James Harren<br/>colors by Dave Stewart

@@ -1,4 +1,4 @@
-![Hellboy: Unnatural Selection](/content/images/Hellboy%20-%20Unnatural%20Selection%20%28Novel%20Cover%29.jpg)
+![Hellboy: Unnatural Selection](/content/images/Hellboy%20-%20Unnatural%20Selection%20%28Novel%20Cover%29.webp)
 
 ***Hellboy: Unnatural Selection*** is the fourth *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
 

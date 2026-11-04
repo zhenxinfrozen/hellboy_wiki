@@ -15,6 +15,6 @@
 
 ## Gallery
 
-![Rasputin: The Voice of the Dragon #2 Variant](/content/images/Rasputin-TVotD2%20Manchess.jpg)
+![Rasputin: The Voice of the Dragon #2 Variant](/content/images/Rasputin-TVotD2%20Manchess.webp)
 
 |Rasputin: The Voice of the Dragon #2 Variant

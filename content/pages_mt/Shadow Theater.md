@@ -21,6 +21,6 @@
 *《地狱男爵恋爱中》* \#4
 *《影子剧场》*（第二部分）
 
-![Hellboy in Love #4<br />Shadow Theater (Part 2)](/content/images/Hellboy%20in%20Love%204.jpg)
+![Hellboy in Love #4<br />Shadow Theater (Part 2)](/content/images/Hellboy%20in%20Love%204.webp)
 
 |Hellboy in Love #4<br />Shadow Theater (Part 2)

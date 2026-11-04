@@ -31,22 +31,22 @@ Koshchei retells his final encounters with the Baba Yaga, and he and Hellboy par
 ## Gallery
 
 
-![Issue #2](/content/images/Koshchei%20the%20Deathless%202.jpg)
+![Issue #2](/content/images/Koshchei%20the%20Deathless%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Koshchei%20the%20Deathless%203.jpg)
+![Issue #3](/content/images/Koshchei%20the%20Deathless%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Koshchei%20the%20Deathless%204.jpg)
+![Issue #4](/content/images/Koshchei%20the%20Deathless%204.webp)
 
 |Issue #4
 
-![Issue #5](/content/images/Koshchei%20the%20Deathless%205.jpg)
+![Issue #5](/content/images/Koshchei%20the%20Deathless%205.webp)
 
 |Issue #5
 
-![Issue #6](/content/images/Koshchei%20the%20Deathless%206.jpg)
+![Issue #6](/content/images/Koshchei%20the%20Deathless%206.webp)
 
 |Issue #6

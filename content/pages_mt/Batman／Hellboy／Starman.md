@@ -47,7 +47,7 @@
 
 第 \#2 期
 
-![第 #2 期](/content/images/Batman%20Hellboy%20Starman%202.jpg)
+![第 #2 期](/content/images/Batman%20Hellboy%20Starman%202.webp)
 
 |第 #2 期
 ## 外部链接

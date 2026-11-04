@@ -21,7 +21,7 @@ Pernilla 抱着父亲的尸体回想，父亲给她留下了许多快乐回忆�
 ## 画廊
 
 
-![A photo of an young Edmond Aikman.](/content/images/EdmondAickman2.jpeg)
+![A photo of an young Edmond Aikman.](/content/images/EdmondAickman2.webp)
 
 |A photo of an young Edmond Aikman.
 ## 趣闻

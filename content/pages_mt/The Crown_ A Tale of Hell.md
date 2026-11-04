@@ -25,14 +25,14 @@
 *《王冠：地狱故事》* \#2  
 变体封面：Bruno Seelig
 
-![The Crown: A Tale of Hell #1<br />by Warwick Johnson-Cadwell](/content/images/The%20Crown%201%20Johnson-Cadwell.jpg)
+![The Crown: A Tale of Hell #1<br />by Warwick Johnson-Cadwell](/content/images/The%20Crown%201%20Johnson-Cadwell.webp)
 
 |The Crown: A Tale of Hell #1<br />by Warwick Johnson-Cadwell
 
-![The Crown: A Tale of Hell #2<br />by Warwick Johnson-Cadwell](/content/images/The%20Crown%202%20Johnson-Cadwell.jpg)
+![The Crown: A Tale of Hell #2<br />by Warwick Johnson-Cadwell](/content/images/The%20Crown%202%20Johnson-Cadwell.webp)
 
 |The Crown: A Tale of Hell #2<br />by Warwick Johnson-Cadwell
 
-![The Crown: A Tale of Hell #2<br />variant by Bruno Seelig](/content/images/The%20Crown%202%20Seelig.jpg)
+![The Crown: A Tale of Hell #2<br />variant by Bruno Seelig](/content/images/The%20Crown%202%20Seelig.webp)
 
 |The Crown: A Tale of Hell #2<br />variant by Bruno Seelig

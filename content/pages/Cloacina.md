@@ -1,4 +1,4 @@
-![Cloacina](/content/images/Cloacina.jpg)
+![Cloacina](/content/images/Cloacina.webp)
 
 **Cloacina** is the Roman goddess of canal and the patron deity of Venice.
 

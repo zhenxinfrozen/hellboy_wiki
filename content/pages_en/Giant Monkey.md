@@ -19,6 +19,6 @@ Hellboy, who had traveled to the past, tricked him by showing [Sanchez's](/entry
 ## Gallery
 
 
-![The Giant Monkey's monk form.](/content/images/Giant%20monkey%20normal%20form.png)
+![The Giant Monkey's monk form.](/content/images/Giant%20monkey%20normal%20form.webp)
 
 |The Giant Monkey's monk form.

@@ -1,4 +1,4 @@
-![栅栏之外](/content/images/Hellboy_and_the_BPRD_1953_3.jpg)
+![栅栏之外](/content/images/Hellboy_and_the_BPRD_1953_3.webp)
 
 《**栅栏之外**》（Beyond the Fences）是一个三期故事，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，保罗·里维拉（Paolo Rivera）与乔·里维拉（Joe Rivera）作画。它是构成《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1953》的数个故事之一。
 
@@ -20,19 +20,19 @@
 
 除特别注明外，封面均由 [保罗·里维拉](/entry/Paolo_Rivera)（Paolo Rivera）绘制。
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3.webp)
 
 《1953》第 3 期
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3a.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3a.webp)
 
 《1953》第 3 期变体封面，[大卫·麦克](/entry/David_Mack)（David Mack）绘
 
-![](/content/images/Hellboy_and_the_BPRD_1953_4.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_4.webp)
 
 《1953》第 4 期
 
-![](/content/images/Hellboy_and_the_BPRD_1953_5.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_5.webp)
 
 《1953》第 5 期
 

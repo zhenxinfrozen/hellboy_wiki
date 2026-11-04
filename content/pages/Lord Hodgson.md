@@ -1,4 +1,4 @@
-![Lord Hodgson](/content/images/Lord%20Hodgson.png)
+![Lord Hodgson](/content/images/Lord%20Hodgson.webp)
 
 **Lord Hodgson** was the leader of the [Oannes Society](/entry/Oannes%20Society) during the 19th century.
 

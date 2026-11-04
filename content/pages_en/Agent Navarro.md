@@ -10,7 +10,7 @@ Agent Navarro is with Roger during their mission outside of Raith, Ontario, when
 
 ## Personality
 
-![](/content/images/Navarro%20gush.png)
+![](/content/images/Navarro%20gush.webp)
 
 Agent Navarro is very vocal about his opinions while on the field, not afraid to complain about or comment on the circumstances he's in. Despite this, Agent Navarro does not balk from an assignment, and serves the BPRD loyally and with enthusiasm. Navarro is naturally curious, sometimes more than he is cautious.
 

@@ -1,4 +1,4 @@
-![Bradley](/content/images/Lt.%20Bradley%20%28%20by%20John%20Severin%29.jpg)
+![Bradley](/content/images/Lt.%20Bradley%20%28%20by%20John%20Severin%29.webp)
 
 **Lieutenant Bradley** is a [B.P.R.D.](/entry/B.P.R.D.) agent who appeared in [*War on Frogs* \#2](/entry/War%20on%20Frogs).
 

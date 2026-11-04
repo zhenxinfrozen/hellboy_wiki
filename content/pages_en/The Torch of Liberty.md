@@ -14,7 +14,7 @@ Later, the Torch gave Hellboy [a large single-shot pistol](/entry/Hellboy%27s_gu
 
 ### John Byrne
 
-![The Torch as seen in *Danger Unlimited*.](/content/images/Torch-of-liberty-DU2.jpg) Torch of Liberty was created by [John Byrne](/entry/John_Byrne) and featured in the backup story to *Danger Unlimited* \#1–4 (February–May 1994); he (along with Hellboy) makes a cameo appearance in the fourth issue. The Torch was also featured in the self-titled *Torch of Liberty Special* (January 1995).
+![The Torch as seen in *Danger Unlimited*.](/content/images/Torch-of-liberty-DU2.webp) Torch of Liberty was created by [John Byrne](/entry/John_Byrne) and featured in the backup story to *Danger Unlimited* \#1–4 (February–May 1994); he (along with Hellboy) makes a cameo appearance in the fourth issue. The Torch was also featured in the self-titled *Torch of Liberty Special* (January 1995).
 
 Born in Illinois in 1915, Paul Gibney adopted the mantle of the Torch of Liberty in 1941.[4] The comic stories reveal his origin as a soldier in World War II Europe, brought to great heights through trauma in combat.
 
@@ -28,7 +28,7 @@ See also: [Dark Horse Comics § Legend](/entry/Dark_Horse_Comics)
 
 In the days of [Dark Horse Comics](/entry/Dark_Horse_Comics)' Legend imprint, [John Byrne](/entry/John_Byrne) (*Next Men*/*Danger Unlimited*), Art Adams (*Monkeyman and O'Brien*), and [Mike Mignola](/entry/Mike_Mignola) (*Hellboy*) planned for their creations to partially exist in a shared universe. One result of this was the Torch of Liberty's appearance in *Hellboy: Seed of Destruction*. However, Mignola recalls that the trio realized early on that this was a problematic idea, too difficult to coordinate between the three of them, and it was better that they each manage their own series independently.[5]
 
-![](/content/images/Hellboy-Incident--Torch-comparison.jpg)
+![](/content/images/Hellboy-Incident--Torch-comparison.webp)
 Comparison of the Torch's prominent presence in <em>[Seed of Destruction](/entry/Seed_of_Destruction)</em> #1 (left) and his minimized depiction in <em>[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.): [1952](/entry/1952)</em> #1 (right)
 
 The Torch's appearance in *Seed of Destruction* is an artifact of these abandoned shared universe plans; he has not made a notable reappearance in the series since. Later depictions of the Hellboy Incident tend to minimize or wholly omit his presence at the event. The Torch also goes unmentioned in supplemental materials such as *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*.

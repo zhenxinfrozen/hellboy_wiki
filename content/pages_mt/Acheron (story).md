@@ -19,15 +19,15 @@
 *《爱德华·格雷爵士：阿刻戎》*  
 [Ben Stenbeck](/entry/Ben_Stenbeck) 绘制封面
 
-![Sir Edward Grey: Acheron<br />Mike Mignola's pencils](/content/images/Acheron%20Mignola%20pencils.jpg)
+![Sir Edward Grey: Acheron<br />Mike Mignola's pencils](/content/images/Acheron%20Mignola%20pencils.webp)
 
 |Sir Edward Grey: Acheron<br />Mike Mignola's pencils
 
-![Sir Edward Grey: Acheron<br />Mike Mignola's inks](/content/images/Acheron%20Mignola%20inks.jpg)
+![Sir Edward Grey: Acheron<br />Mike Mignola's inks](/content/images/Acheron%20Mignola%20inks.webp)
 
 |Sir Edward Grey: Acheron<br />Mike Mignola's inks
 
-![Sir Edward Grey: Acheron<br />cover by Ben Stenbeck](/content/images/Acheron%20Stenbeck.jpg)
+![Sir Edward Grey: Acheron<br />cover by Ben Stenbeck](/content/images/Acheron%20Stenbeck.webp)
 
 |Sir Edward Grey: Acheron<br />cover by Ben Stenbeck
 ## 内容

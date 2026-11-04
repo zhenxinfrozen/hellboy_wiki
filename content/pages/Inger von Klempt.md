@@ -1,4 +1,4 @@
-![Inger von Klempt](/content/images/Inger.jpg)
+![Inger von Klempt](/content/images/Inger.webp)
 
 **Inger von Klempt** was the granddaughter of [Herman von Klempt](/entry/Herman%20von%20Klempt).
 

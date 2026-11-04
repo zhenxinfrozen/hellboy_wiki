@@ -1,6 +1,6 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/Monster-Sized%20Hellboy.jpg)
+![](/content/images/Monster-Sized%20Hellboy.webp)
 
 Monster-Sized Hellboy is an oversized hardcover book that collects the contents of the four numbered [Hellboy](/entry/Hellboy_(series)) [Omnibus Editions](/entry/Omnibus_Editions) (Seed of Destruction, Strange Places, The Wild Hunt and Hellboy in Hell). The book doesn't include the supplementary material (sketchbook sections), or any of the Hellboy stories set before [Seed of Destruction](/entry/Seed_of_Destruction), excluding the contents of [The Complete Short Stories](/entry/Omnibus_Editions) omnibuses and both of the untitled "World's Greatest Paranormal Investigator" promo stories form [San Diego Comic Con](/entry/World's_Greatest_Paranormal_Investigator_(SDCC)) and the [Comic Buyer's Guide](/entry/Trade_Collections) (typically collected with Seed of Destruction). It was released on November 1st, 2023.
 

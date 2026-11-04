@@ -21,7 +21,7 @@ Main covers by Michael Avon Oeming
 
 Issue \#1
 
-![Issue #1<br>by Dave Johnson](/content/images/Ghost%20of%20a%20Ghost%201%20Johnson.jpg)
+![Issue #1<br>by Dave Johnson](/content/images/Ghost%20of%20a%20Ghost%201%20Johnson.webp)
 
 |Issue #1<br>by Dave Johnson
 ### Variant Covers

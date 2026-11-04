@@ -12,13 +12,13 @@ The Last Elemental has been kept safe in its passive seed-like form by the self-
 
 ### Nuada's return
 
-![](/content/images/Forest_elemental_seed.jpg) The seed is first seen in the movie as Nuada places it in a - presumably self-made - [Goblin](/entry/Goblin), egg-shaped container. He is informed of [Mr. Wink's](/entry/Mr._Wink) death and takes the seed outside to confront Hellboy and his team. Once there, the prince unleashes the seed after ordering it to kill Hellboy, despite his sister urging him not to do it. The seed then proceeds to hop towards a water source and falls into a drainage canal.
+![](/content/images/Forest_elemental_seed.webp) The seed is first seen in the movie as Nuada places it in a - presumably self-made - [Goblin](/entry/Goblin), egg-shaped container. He is informed of [Mr. Wink's](/entry/Mr._Wink) death and takes the seed outside to confront Hellboy and his team. Once there, the prince unleashes the seed after ordering it to kill Hellboy, despite his sister urging him not to do it. The seed then proceeds to hop towards a water source and falls into a drainage canal.
 
 Entering water, the seed begins to instantly germinate and in just a few minutes, the giant elemental creature bursts out into the streets, causing havoc to the area by breaking vehicles and buildings, attempting to kill any nearby humans.
 
 The creature's rampage was short however, as Hellboy managed to easily dispose of it in just three shots from the high-caliber shotgun called '[Big Baby](/entry/Big_Baby)', after being goaded by prince Nuada into doing so.
 
-After dying, the creature's 'blood' flooded the street, and began to instantly bloom into lush grass. The creature's 'head' likewise bloomed into a giant flower and began spreading floating plant seeds. ![](/content/images/Dead_forest_elemental.jpg)
+After dying, the creature's 'blood' flooded the street, and began to instantly bloom into lush grass. The creature's 'head' likewise bloomed into a giant flower and began spreading floating plant seeds. ![](/content/images/Dead_forest_elemental.webp)
 
 ## Powers and Abilities
 

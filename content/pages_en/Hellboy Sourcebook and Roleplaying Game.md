@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20Sourcebook%20and%20Roleplaying%20Game.jpg)
+![](/content/images/Hellboy%20Sourcebook%20and%20Roleplaying%20Game.webp)
 
 The ***Hellboy Sourcebook and Roleplaying Game*** was written by Phil Masters and Jonathan Woodward and published by Steve Jackson Games. It was a tabletop roleplaying game built on the Generic Universal Role Playing System (GURPS), Third Edition, focusing on the Lite ruleset.
 

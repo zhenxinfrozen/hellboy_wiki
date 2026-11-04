@@ -31,14 +31,14 @@ Covers by Michael Avon Oeming
 
 Issue \#1
 
-![Issue #2](/content/images/Shadow%20of%20the%20Golden%20Crane%202.jpg)
+![Issue #2](/content/images/Shadow%20of%20the%20Golden%20Crane%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Shadow%20of%20the%20Golden%20Crane%203.jpg)
+![Issue #3](/content/images/Shadow%20of%20the%20Golden%20Crane%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Shadow%20of%20the%20Golden%20Crane%204.jpg)
+![Issue #4](/content/images/Shadow%20of%20the%20Golden%20Crane%204.webp)
 
 |Issue #4

@@ -9,10 +9,10 @@ The comic book tells the bedtime story that young Hellboy's adoptive father, Tre
 
 cover A
 
-![cover B](/content/images/Hellboy-%20Golden%20Army%20B.jpg)
+![cover B](/content/images/Hellboy-%20Golden%20Army%20B.webp)
 
 |cover B
 
-![cover C](/content/images/Hellboy%20Golden%20Army%20C.jpg)
+![cover C](/content/images/Hellboy%20Golden%20Army%20C.webp)
 
 |cover C

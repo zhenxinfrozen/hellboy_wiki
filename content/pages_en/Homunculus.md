@@ -1,4 +1,4 @@
-![](/content/images/Homunculi%20001.PNG)
+![](/content/images/Homunculi%20001.webp)
 
 A **homunculus** is an artificial human being created from blood and herbs, and stewed in manure.
 

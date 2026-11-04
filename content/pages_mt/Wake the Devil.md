@@ -163,21 +163,21 @@
 
 封面由[迈克·米格诺拉](/entry/Mike_Mignola)绘制。
 
-![](/content/images/Wake_the_Devil_1.jpg)
+![](/content/images/Wake_the_Devil_1.webp)
 
  第 1 期
 
  第 2 期
 
-![](/content/images/Wake_the_Devil_3.jpg)
+![](/content/images/Wake_the_Devil_3.webp)
 
  第 3 期
 
-![](/content/images/Wake_the_Devil_4.jpg)
+![](/content/images/Wake_the_Devil_4.webp)
 
  第 4 期
 
-![](/content/images/Wake_the_Devil_5.jpg)
+![](/content/images/Wake_the_Devil_5.webp)
 
  第 5 期
 

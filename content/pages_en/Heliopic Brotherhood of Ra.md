@@ -1,4 +1,4 @@
-![](/content/images/HBR.png) ![](/content/images/HeliopicBrotherhoodOfRa.jpeg)The **Heliopic Brotherhood of Ra** was a secret society dedicated to preserve ancient and secret knowledge.
+![](/content/images/HBR.webp) ![](/content/images/HeliopicBrotherhoodOfRa.webp)The **Heliopic Brotherhood of Ra** was a secret society dedicated to preserve ancient and secret knowledge.
 
 ## History
 

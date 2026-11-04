@@ -1,4 +1,4 @@
-![Crimson Lotus (story)](/content/images/Crimson%20Lotus%201.jpg)
+![Crimson Lotus (story)](/content/images/Crimson%20Lotus%201.webp)
 
 ***Crimson Lotus*** is a five-issue miniseries about [Yumiko Daimio](/entry/Yumiko%20Daimio). It is [Mindy Lee](/entry/Mindy%20Lee)'s Hellboy Universe debut.
 

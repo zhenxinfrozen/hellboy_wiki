@@ -23,7 +23,7 @@
 
 埃斯特万／卡马佐茨死于地狱男爵之手
 
-![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.jpeg)
+![Esteban/Camazotz is killed by Hellboy](/content/images/CamazotzEstebanHellboy.webp)
 
 |Esteban/Camazotz is killed by Hellboy
 ## 登场

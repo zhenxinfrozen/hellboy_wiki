@@ -32,13 +32,13 @@ All of the stories in this collection are interconnected via shared characters a
 
 ## Artist's Edition
 
-![](/content/images/Mike-Mignolas-The-Amazing-Screw-On-Head-and-Other-Curious-Objects-Artists-Edition-cover.jpg)
+![](/content/images/Mike-Mignolas-The-Amazing-Screw-On-Head-and-Other-Curious-Objects-Artists-Edition-cover.webp)
 
 In 2016, IDW published *Mike Mignola's The Amazing Screw on Head and Other Curious Objects: Artist's Edition*. This oversized book features Mignola's inks, uncolored (half the stories are unlettered as well), at the size they were originally drawn.
 
 In addition to all the content from the previous collection, the *Artist's Edition* also includes Mignola's contributions to [*The Goon* \#7](/entry/The_Goon_7) (which featured [Hellboy](/entry/Hellboy_(character))), as well as "Rusty Razorclam: President of Neptune", a story drawn by Mignola from *Dark Horse Presents \#107*.
 
-![](/content/images/The%20Amazing%20Screw-On%20Head%2020th%20Anniversary%20Edition.jpg)
+![](/content/images/The%20Amazing%20Screw-On%20Head%2020th%20Anniversary%20Edition.webp)
 
 ## 20th Anniversary Edition
 

@@ -1,4 +1,4 @@
-![Adolf Hitler](/content/images/Adolf_Hitler.jpg)
+![Adolf Hitler](/content/images/Adolf_Hitler.webp)
 
 **Adolf Hitler** was the leader of the Nazi party and later Nazi Germany. It was with his approval that many of the Doomsday projects of the Third Reich were either given approval or set to the wayside.
 

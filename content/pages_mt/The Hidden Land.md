@@ -54,34 +54,34 @@
 第 \#4 期  
 变体封面作者：Anthony Carpenter
 
-![Issue #1<br>Variant cover by Mike Mignola<br>with Dave Stewart](/content/images/The%20Hidden%20Land%201%20Mignola.jpg)
+![Issue #1<br>Variant cover by Mike Mignola<br>with Dave Stewart](/content/images/The%20Hidden%20Land%201%20Mignola.webp)
 
 |Issue #1<br>Variant cover by Mike Mignola<br>with Dave Stewart
 
-![Issue #1<br>Variant cover by Craig Rousseau<br>(Forbidden Planet and Jetpack Comics exclusive)](/content/images/The%20Hidden%20Land%201%20Rousseau.jpg)
+![Issue #1<br>Variant cover by Craig Rousseau<br>(Forbidden Planet and Jetpack Comics exclusive)](/content/images/The%20Hidden%20Land%201%20Rousseau.webp)
 
 |Issue #1<br>Variant cover by Craig Rousseau<br>(Forbidden Planet and Jetpack Comics exclusive)
 
-![Issue #2<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%202.jpg)
+![Issue #2<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%202.webp)
 
 |Issue #2<br>Cover by Matt Smith
 
-![Issue #2<br>Variant cover by Rachele Aragno](/content/images/The%20Hidden%20Land%202%20Aragno.jpg)
+![Issue #2<br>Variant cover by Rachele Aragno](/content/images/The%20Hidden%20Land%202%20Aragno.webp)
 
 |Issue #2<br>Variant cover by Rachele Aragno
 
-![Issue #3<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%203.jpg)
+![Issue #3<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%203.webp)
 
 |Issue #3<br>Cover by Matt Smith
 
-![Issue #3<br>Variant cover by Wylie Beckert](/content/images/The%20Hidden%20Land%203%20Beckert.jpg)
+![Issue #3<br>Variant cover by Wylie Beckert](/content/images/The%20Hidden%20Land%203%20Beckert.webp)
 
 |Issue #3<br>Variant cover by Wylie Beckert
 
-![Issue #4<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%204.jpg)
+![Issue #4<br>Cover by Matt Smith](/content/images/The%20Hidden%20Land%204.webp)
 
 |Issue #4<br>Cover by Matt Smith
 
-![Issue #4<br>Variant cover by Anthony Carpenter](/content/images/The%20Hidden%20Land4%20Carpenter.jpg)
+![Issue #4<br>Variant cover by Anthony Carpenter](/content/images/The%20Hidden%20Land4%20Carpenter.webp)
 
 |Issue #4<br>Variant cover by Anthony Carpenter

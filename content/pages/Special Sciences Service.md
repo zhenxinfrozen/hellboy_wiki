@@ -1,4 +1,4 @@
-![SSS_Logo.png](/content/images/SSS_Logo.png) The **Special Sciences Service** (S.S.S.) is a Russian organization tasked with protecting the Soviet Union (and later the Russian Federation) from occult, paranormal, and supernatural threats. The S.S.S. made its first appearance in *[B.P.R.D.: 1946](/entry/1946)* and has since become a major part of the [*Hell on Earth* story cycle](/entry/Hell_on_Earth_(story_cycle)))
+![SSS_Logo.png](/content/images/SSS_Logo.webp) The **Special Sciences Service** (S.S.S.) is a Russian organization tasked with protecting the Soviet Union (and later the Russian Federation) from occult, paranormal, and supernatural threats. The S.S.S. made its first appearance in *[B.P.R.D.: 1946](/entry/1946)* and has since become a major part of the [*Hell on Earth* story cycle](/entry/Hell_on_Earth_(story_cycle)))
 
 ## History
 

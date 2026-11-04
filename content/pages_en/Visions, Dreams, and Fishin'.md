@@ -6,4 +6,4 @@ Abe tries to find out what’s haunting the young woman he’s traveling with, w
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_14.jpg)
+![](/content/images/Abe_Sapien_14.webp)

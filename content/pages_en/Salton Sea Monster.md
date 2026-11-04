@@ -2,7 +2,7 @@
 
 ## Overview
 
-![](/content/images/BPRD%20Salton-Hem%20Breathspawn.png)
+![](/content/images/BPRD%20Salton-Hem%20Breathspawn.webp)
 
 This creature crawled out of the ocean during [King of Fear](/entry/King_of_Fear_(story)), after [Elizabeth Sherman](/entry/Elizabeth_Sherman) destroyed the [Black Flame's](/entry/The_Black_Flame_(character)) forces.
 

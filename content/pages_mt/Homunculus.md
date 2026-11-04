@@ -1,4 +1,4 @@
-![](/content/images/Homunculi%20001.PNG)
+![](/content/images/Homunculi%20001.webp)
 
 **何蒙库鲁兹（homunculus，人造人）**是用血液与草药制成、再置于粪肥中煨制而成的人造人类。
 

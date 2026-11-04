@@ -47,10 +47,10 @@
 
 约姆雅尔，与贝雷斯和西特利在一起
 
-![Yomyael, alongside Beleth and Sytry](/content/images/YomyaelBelethSytry.jpeg)
+![Yomyael, alongside Beleth and Sytry](/content/images/YomyaelBelethSytry.webp)
 
 |Yomyael, alongside Beleth and Sytry
 
-![](/content/images/The%20Third%20Demon.png)
+![](/content/images/The%20Third%20Demon.webp)
 
 |

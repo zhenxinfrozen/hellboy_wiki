@@ -1,4 +1,4 @@
-![](/content/images/Hellboy2Soundtrack.jpg)
+![](/content/images/Hellboy2Soundtrack.webp)
 
 2008 年 7 月 15 日，Varèse Sarabande 为 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 发行了一张原声专辑。原创配乐由 Danny Elfman 作曲。
 

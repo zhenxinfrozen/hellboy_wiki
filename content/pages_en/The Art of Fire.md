@@ -19,6 +19,6 @@ All covers by Alex Nieto.
 
 *Hellboy in Love: The Art of Fire* \#2
 
-![Hellboy in Love: The Art of Fire #2](/content/images/Art%20of%20Fire%202.jpg)
+![Hellboy in Love: The Art of Fire #2](/content/images/Art%20of%20Fire%202.webp)
 
 |Hellboy in Love: The Art of Fire #2

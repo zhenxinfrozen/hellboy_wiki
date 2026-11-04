@@ -69,8 +69,8 @@
 
 封面由 [Mike Mignola](/entry/Mike_Mignola) 绘制。
 
-![](/content/images/Almost_Colossus_1.jpg)
+![](/content/images/Almost_Colossus_1.webp)
 
-![](/content/images/Almost_Colossus_2.jpg)
+![](/content/images/Almost_Colossus_2.webp)
 
 [pt-br:Almost Colossus](/entry/pt-br%3AAlmost_Colossus)

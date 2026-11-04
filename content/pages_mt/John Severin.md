@@ -9,6 +9,6 @@
 
 ## 画廊
 
-![Lost and Gone Forever #1 Variant](/content/images/Lost%20and%20Gone%20Forever%20Variant.jpg)
+![Lost and Gone Forever #1 Variant](/content/images/Lost%20and%20Gone%20Forever%20Variant.webp)
 
 |Lost and Gone Forever #1 Variant

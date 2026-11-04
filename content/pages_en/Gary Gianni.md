@@ -6,7 +6,7 @@
 
 ## Cover Art
 
-![](/content/images/Into_the_Silent_Sea_-_Gianni_%28Flesk%29.jpg)
+![](/content/images/Into_the_Silent_Sea_-_Gianni_%28Flesk%29.webp)
 
 Studio Edition](/entry/Into_the_Silent_Sea)
 

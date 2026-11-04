@@ -1,4 +1,4 @@
-**![](/content/images/Shonchin.jpeg)雄钦（Shonchin）**是一位来自[极北族人](/entry/Hyperboreans)时代的古老 T'shethuan 萨满，一直存活到了 21 世纪。
+**![](/content/images/Shonchin.webp)雄钦（Shonchin）**是一位来自[极北族人](/entry/Hyperboreans)时代的古老 T'shethuan 萨满，一直存活到了 21 世纪。
 
 ## 历史
 

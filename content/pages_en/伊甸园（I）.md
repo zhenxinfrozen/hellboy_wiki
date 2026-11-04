@@ -10,4 +10,4 @@ Abe's journey takes a new turn as he meets a twisted couple in this rural horror
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_12.jpg)
+![](/content/images/Abe_Sapien_12.webp)

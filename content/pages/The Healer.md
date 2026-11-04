@@ -1,4 +1,4 @@
-![治疗者](/content/images/Abe_Sapien_13.jpg)
+![治疗者](/content/images/Abe_Sapien_13.webp)
 
 《**治疗者**》（The Healer）是一个单期完结篇章，2014 年 6 月推出，由塞巴斯蒂安·菲乌马拉（Sebastián Fiumara）作画。
 
@@ -8,6 +8,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_13.jpg)
+![](/content/images/Abe_Sapien_13.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

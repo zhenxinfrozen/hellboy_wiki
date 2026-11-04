@@ -1,4 +1,4 @@
-![](/content/images/The_Foundry.png) **铸造厂（Foundry）**是 19 世纪末维多利亚女王统治时期、隶属大英帝国管辖的一个准军事组织。
+![](/content/images/The_Foundry.webp) **铸造厂（Foundry）**是 19 世纪末维多利亚女王统治时期、隶属大英帝国管辖的一个准军事组织。
 
 ## 背景
 

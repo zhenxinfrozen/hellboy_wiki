@@ -1,4 +1,4 @@
-![](/content/images/Hellboy_Animated_Movies.jpg) ***地狱男爵动画版（Hellboy Animated）*** 是两部原创的直接发行 DVD 的动画电影以及一系列配套漫画。《[风暴之剑（Sword of Storms）](/entry/Hellboy_Animated%3A_Sword_of_Storms)》和《[血与铁（Blood & Iron）](/entry/Hellboy_Animated%3A_Blood_%26_Iron)》是在[迈克·米格诺拉](/entry/Mike_Mignola)和[吉尔莫·德尔·托罗](/entry/Guillermo_del_Toro)的认可下制作的。曾计划制作第三部电影，但后来已被放弃。
+![](/content/images/Hellboy_Animated_Movies.webp) ***地狱男爵动画版（Hellboy Animated）*** 是两部原创的直接发行 DVD 的动画电影以及一系列配套漫画。《[风暴之剑（Sword of Storms）](/entry/Hellboy_Animated%3A_Sword_of_Storms)》和《[血与铁（Blood & Iron）](/entry/Hellboy_Animated%3A_Blood_%26_Iron)》是在[迈克·米格诺拉](/entry/Mike_Mignola)和[吉尔莫·德尔·托罗](/entry/Guillermo_del_Toro)的认可下制作的。曾计划制作第三部电影，但后来已被放弃。
 
 ## 配音阵容
 

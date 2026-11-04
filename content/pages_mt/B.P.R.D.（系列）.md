@@ -1,4 +1,4 @@
-![](/content/images/Front_Page_-_BPRD.png) ***B.P.R.D.*** 是一系列关于[超自然调查防御署（Bureau for Paranormal Research and Defense）](/entry/Bureau_for_Paranormal_Research_and_Defense)这一组织的漫画书。它是《[地狱男爵（Hellboy）](/entry/Hellboy_%28series%29)》系列的衍生作。
+![](/content/images/Front_Page_-_BPRD.webp) ***B.P.R.D.*** 是一系列关于[超自然调查防御署（Bureau for Paranormal Research and Defense）](/entry/Bureau_for_Paranormal_Research_and_Defense)这一组织的漫画书。它是《[地狱男爵（Hellboy）](/entry/Hellboy_%28series%29)》系列的衍生作。
 
 ## 出版历史
 

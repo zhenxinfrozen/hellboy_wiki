@@ -13,6 +13,6 @@
 
 *《地狱男爵与超自然调查防御署：尼沃拉的怪物》变体封面，作者 Nicolas Nemiri*
 
-![Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri](/content/images/Hellboy%20and%20the.jpg)
+![Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri](/content/images/Hellboy%20and%20the.webp)
 
 |Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri

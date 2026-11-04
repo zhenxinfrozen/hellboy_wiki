@@ -1,4 +1,4 @@
-![](/content/images/Merfolk.png)
+![](/content/images/Merfolk.webp)
 
 **人鱼（Merfolk）**是一个栖息于海底的水生类人种族。
 

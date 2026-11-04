@@ -43,30 +43,30 @@
 第 \#4 期变体封面  
 作者：Victor Bizar Gómez
 
-![Issue #1 variant cover<br />by Christopher Mitten](/content/images/The%20Sword%20of%20Hyperborea%201%20Mitten.jpg)
+![Issue #1 variant cover<br />by Christopher Mitten](/content/images/The%20Sword%20of%20Hyperborea%201%20Mitten.webp)
 
 |Issue #1 variant cover<br />by Christopher Mitten
 
-![第 #2 期](/content/images/The%20Sword%20of%20Hyperborea%202.jpg)
+![第 #2 期](/content/images/The%20Sword%20of%20Hyperborea%202.webp)
 
 |第 #2 期
 
-![Issue #2 variant cover<br />by Yishan Li](/content/images/The%20Sword%20of%20Hyperborea%202%20Li.jpg)
+![Issue #2 variant cover<br />by Yishan Li](/content/images/The%20Sword%20of%20Hyperborea%202%20Li.webp)
 
 |Issue #2 variant cover<br />by Yishan Li
 
-![第 #3 期](/content/images/The%20Sword%20of%20Hyperborea%203.jpg)
+![第 #3 期](/content/images/The%20Sword%20of%20Hyperborea%203.webp)
 
 |第 #3 期
 
-![Issue #3 variant cover<br />by Jesse Lonergan](/content/images/The%20Sword%20of%20Hyperborea%203%20Lonergan.jpg)
+![Issue #3 variant cover<br />by Jesse Lonergan](/content/images/The%20Sword%20of%20Hyperborea%203%20Lonergan.webp)
 
 |Issue #3 variant cover<br />by Jesse Lonergan
 
-![第 #4 期](/content/images/The%20Sword%20of%20Hyperborea%204.jpg)
+![第 #4 期](/content/images/The%20Sword%20of%20Hyperborea%204.webp)
 
 |第 #4 期
 
-![Issue #4 variant cover<br />by Victor Bizar Gómez](/content/images/The%20Sword%20of%20Hyperborea%204%20Gomez.jpg)
+![Issue #4 variant cover<br />by Victor Bizar Gómez](/content/images/The%20Sword%20of%20Hyperborea%204%20Gomez.webp)
 
 |Issue #4 variant cover<br />by Victor Bizar Gómez

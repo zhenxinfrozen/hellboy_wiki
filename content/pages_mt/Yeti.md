@@ -1,6 +1,6 @@
 **雪人（Yeti，又译耶提）**是一个生活在世界北部地区的种族。
 
-![](/content/images/Yeti.jpg)
+![](/content/images/Yeti.webp)
 
 ## 背景
 

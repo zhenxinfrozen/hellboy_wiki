@@ -1,4 +1,4 @@
-![Balam](/content/images/Balam.jpg)
+![Balam](/content/images/Balam.webp)
 
 **Balam**was a Marquis of Hell and a knight in the Order of the Fly.
 

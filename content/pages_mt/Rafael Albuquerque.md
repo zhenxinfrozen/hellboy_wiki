@@ -2,19 +2,19 @@
 
 ## 封面作画
 
-![](/content/images/Lake_of_Fire_2.jpg)
+![](/content/images/Lake_of_Fire_2.webp)
 
-![](/content/images/Lake_of_Fire_3.jpg)
+![](/content/images/Lake_of_Fire_3.webp)
 
-![](/content/images/Lake_of_Fire_4.jpg)
+![](/content/images/Lake_of_Fire_4.webp)
 
-![](/content/images/Lake_of_Fire_5.jpg)
+![](/content/images/Lake_of_Fire_5.webp)
 
-![](/content/images/The_Reign_of_the_Black_Flame_1.jpg)
+![](/content/images/The_Reign_of_the_Black_Flame_1.webp)
 
-![](/content/images/The_Reign_of_the_Black_Flame_3.jpg)
+![](/content/images/The_Reign_of_the_Black_Flame_3.webp)
 
-![](/content/images/The_Reign_of_the_Black_Flame_4.jpg)
+![](/content/images/The_Reign_of_the_Black_Flame_4.webp)
 
 ## 外部链接
 

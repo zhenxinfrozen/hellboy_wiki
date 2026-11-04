@@ -14,8 +14,8 @@ And Paul Grist (*Kane*, *Jack Staff*) joins the team for a 1950s *Hellboy* story
 
 ## Gallery
 
-![](/content/images/Hellboy_Winter_Special_%282017%29.jpg)
+![](/content/images/Hellboy_Winter_Special_%282017%29.webp)
 
-![](/content/images/Hellboy_Winter_Special_%282017%29_Geof_Darrow_front.jpg)
+![](/content/images/Hellboy_Winter_Special_%282017%29_Geof_Darrow_front.webp)
 
-![](/content/images/Hellboy_Winter_Special_%282017%29_Geof_Darrow_back.jpg)
+![](/content/images/Hellboy_Winter_Special_%282017%29_Geof_Darrow_back.webp)

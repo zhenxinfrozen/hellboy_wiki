@@ -31,10 +31,10 @@
 
 第 \#3 期
 
-![第 #2 期](/content/images/The%20Serpent%20in%20the%20Garden%202.jpg)
+![第 #2 期](/content/images/The%20Serpent%20in%20the%20Garden%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/The%20Serpent%20in%20the%20Garden%203.jpg)
+![第 #3 期](/content/images/The%20Serpent%20in%20the%20Garden%203.webp)
 
 |第 #3 期

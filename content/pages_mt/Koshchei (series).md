@@ -1,4 +1,4 @@
-![](/content/images/FrontPage-Koshchei.png)
+![](/content/images/FrontPage-Koshchei.webp)
 
 ***《不死者科西切》***是围绕角色[不死者科西切](/entry/Koshchei_(character))展开的一系列漫画书，是*[《地狱男爵》](/entry/Hellboy_(series))*系列的衍生作品。
 
@@ -10,7 +10,7 @@
 
 2021 年 12 月，*[《爱德华·格雷爵士：阿刻戎》](/entry/Acheron_(story))*预告了第二部 *Koshchei* 满篇连载将于 2022 年推出，即*[《科西切在地狱》](/entry/Koshchei_in_Hell)*。
 
-![](/content/images/Koshchei%20the%20Deathless%20in%20Hell%20teaser.jpg)
+![](/content/images/Koshchei%20the%20Deathless%20in%20Hell%20teaser.webp)
 
 ## 合订本
 

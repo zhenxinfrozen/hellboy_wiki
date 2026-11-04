@@ -1,4 +1,4 @@
-![Hellboy Gets Married](/content/images/DHP31.jpg)
+![Hellboy Gets Married](/content/images/DHP31.webp)
 
 ## Publication History
 

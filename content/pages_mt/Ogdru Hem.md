@@ -72,27 +72,27 @@
 
 扎拉-赫姆
 
-![Sadu-Hem](/content/images/Sadu-Hem.png)
+![Sadu-Hem](/content/images/Sadu-Hem.webp)
 
 |Sadu-Hem
 
-![Salton Sea Monster](/content/images/SaltonSeaMonster.jpeg)
+![Salton Sea Monster](/content/images/SaltonSeaMonster.webp)
 
 |Salton Sea Monster
 
-![](/content/images/BPRD%20123.jpg)
+![](/content/images/BPRD%20123.webp)
 
 |
 
-![](/content/images/The%20Devil%20You%20Know%2012.jpg)
+![](/content/images/The%20Devil%20You%20Know%2012.webp)
 
 |
 
-![](/content/images/ZaraHem.jpeg)
+![](/content/images/ZaraHem.webp)
 
 |
 
-![](/content/images/Sadu%20hem%20resurrection..jpg)
+![](/content/images/Sadu%20hem%20resurrection..webp)
 
 |
 ## 相似生物

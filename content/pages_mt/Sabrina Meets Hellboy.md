@@ -8,15 +8,15 @@
 
 Robert Hack 已将他为这个故事创作的铅笔稿、墨线稿和上色稿分享到了自己的 DeviantArt 页面。
 
-![铅笔稿](/content/images/SabrinaPencils.jpg)
+![铅笔稿](/content/images/SabrinaPencils.webp)
 
 |铅笔稿
 
-![墨线稿](/content/images/SabrinaInks.jpg)
+![墨线稿](/content/images/SabrinaInks.webp)
 
 |墨线稿
 
-![上色稿](/content/images/SabrinaArt.jpg)
+![上色稿](/content/images/SabrinaArt.webp)
 
 |上色稿
 

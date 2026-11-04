@@ -1,4 +1,4 @@
-![Lazar-Doing-Some-Magic.jpg](/content/images/Lazar-Doing-Some-Magic.jpg) **Dr. Lazar** was a research technician working for the [Special Sciences Service](/entry/Special%20Sciences%20Service).  While working for the S.S.S. Lazar became infected by the spirit of an Ogdru Hem.
+![Lazar-Doing-Some-Magic.jpg](/content/images/Lazar-Doing-Some-Magic.webp) **Dr. Lazar** was a research technician working for the [Special Sciences Service](/entry/Special%20Sciences%20Service).  While working for the S.S.S. Lazar became infected by the spirit of an Ogdru Hem.
 
 ## [Russia](/entry/Russia)
 

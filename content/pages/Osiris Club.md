@@ -1,4 +1,4 @@
-![Osiris_Club_The_Wild_Hunt.png](/content/images/Osiris_Club_The_Wild_Hunt.png) The **Osiris Club** is a secret society founded in 1866 and branched separately from the [Heliopic Brotherhood of Ra](/entry/Heliopic%20Brotherhood%20of%20Ra).
+![Osiris_Club_The_Wild_Hunt.png](/content/images/Osiris_Club_The_Wild_Hunt.webp) The **Osiris Club** is a secret society founded in 1866 and branched separately from the [Heliopic Brotherhood of Ra](/entry/Heliopic%20Brotherhood%20of%20Ra).
 
 ## History
 

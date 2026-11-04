@@ -1,4 +1,4 @@
-![Baba Yaga's Feast](/content/images/Baba_Yaga%27s_Feast_title.jpg)
+![Baba Yaga's Feast](/content/images/Baba_Yaga%27s_Feast_title.webp)
 
 A short tale of [the Baba Yaga](/entry/Baba%20Yaga%20%28character%29).
 

@@ -17,7 +17,7 @@
 &#10;
 万圣节特别刊
 1997 年 10 月 15 日
-![](/content/images/HellboyJuniorSpecial.jpg)
+![](/content/images/HellboyJuniorSpecial.webp)
 BILL WRAY
 《蛆啊蛆，到处都是蛆》
 Bill Wray
@@ -44,7 +44,7 @@ Mike Mignola
 
 1
 1999 年 10 月 20 日
-![](/content/images/HellboyJunior1.jpg)
+![](/content/images/HellboyJunior1.webp)
 BILL WRAY
 《神奇蘑菇之旅》
 Bill Wray
@@ -61,7 +61,7 @@ Mike Mignola
 
 2
 1999 年 11 月 17 日
-![](/content/images/HellboyJunior2.jpg)
+![](/content/images/HellboyJunior2.webp)
 HILARY BARTA
 《糖果之痛之屋》
 Bill Wray
@@ -91,7 +91,7 @@ Mike Mignola
 &#10;
 《少年地狱男爵》
 2004 年 1 月 21 日
-![](/content/images/HellboyJuniorTPB.jpg)
+![](/content/images/HellboyJuniorTPB.webp)
 BILL WRAY
 
 <li>《少年地狱男爵万圣节特别刊》</li>

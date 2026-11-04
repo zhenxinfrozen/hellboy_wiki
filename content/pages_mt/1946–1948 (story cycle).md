@@ -14,12 +14,12 @@
 
 *1946–1948* 最初与其他 B.P.R.D. 故事一起被收录进[平装合订本](/entry/TPB)，但当时未使用该故事循环的标题。
 
-![](/content/images/BPRD_1940s_Trade_Collections.jpg)
+![](/content/images/BPRD_1940s_Trade_Collections.webp)
 
 三本 <em>B.P.R.D.</em> 40 年代平装合订本。
 
 该系列于 2015 年 6 月被收录进一部[合集版（omnibus edition）](/entry/Omnibus_Editions)。
 
-![](/content/images/Omnibus_BPRD_1946-1947-1948.jpg)
+![](/content/images/Omnibus_BPRD_1946-1947-1948.webp)
 
 合集版。

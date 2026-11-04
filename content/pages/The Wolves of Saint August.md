@@ -1,4 +1,4 @@
-![The Wolves of Saint August](/content/images/Dark_Horse_Presents_88.jpg)
+![The Wolves of Saint August](/content/images/Dark_Horse_Presents_88.webp)
 
 This story helped to expand the Hellboy world, introduced [Kate Corrigan](/entry/Kate%20Corrigan), a [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) consultant, and names Dr. Izar Hoffman who would appear other Hellboy stories.
 

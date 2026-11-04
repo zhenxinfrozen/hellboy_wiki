@@ -82,7 +82,7 @@
 
 ### 科阿特利库埃
 
-![](/content/images/Coatlicue.jpeg)
+![](/content/images/Coatlicue.webp)
 
 科阿特利库埃（Coatlicue）是一位阿兹特克神祇，被描述为伟大的母神、月亮的蛇女神。她只在[《亚伯·塞皮恩：未来之形》（Abe Sapien: The Shape of Things to Come）](/entry/The_Shape_of_Things_to_Come)中、于中美洲创世论与末世论的语境下被提及并在幻象中出现，因此她是否真实存在尚属未知。
 
@@ -90,7 +90,7 @@
 
 ### 大衮
 
-![](/content/images/DagonTablet.jpeg)
+![](/content/images/DagonTablet.webp)
 
 大衮（Dagon）是非利士人的丰饶之神，实际上是一个恶魔，在[《西班牙新娘》（The Spanish Bride）](/entry/The_Spanish_Bride)中被提及。他很可能是被贬为恶魔的，因为非利士人是古以色列人的敌人，这也可能是在向《失乐园》致敬。
 
@@ -100,7 +100,7 @@
 
 ### 杜尔迦
 
-![](/content/images/Durga.jpeg)
+![](/content/images/Durga.webp)
 
 杜尔迦（Durga）是印度教中司掌母性、以及善战胜恶之胜利的女神。在[《神秘学情报》（Occult Intelligence）](/entry/Occult_Intelligence)的某一期中，她以其经典形象出现。
 
@@ -108,7 +108,7 @@
 
 ### 荷鲁斯
 
-![](/content/images/BetterImageOfHorus.jpeg)
+![](/content/images/BetterImageOfHorus.webp)
 
 **荷鲁斯（Horus）**是埃及司掌王权与天空的神祇。他在《索贝克之屋》（The House of Sebek）这个故事中被着重提及，既被人提到，也以雕像的形象出现。
 
@@ -118,7 +118,7 @@
 
 ### 奥丁
 
-![](/content/images/HellboyMistakenForOdin.jpeg)
+![](/content/images/HellboyMistakenForOdin.webp)
 
 奥丁是古老的北欧神祇之一，是[托尔](/entry/Thor)之父。
 
@@ -130,7 +130,7 @@
 
 ### 奥西里斯
 
-![](/content/images/OsirisStatue.jpeg)
+![](/content/images/OsirisStatue.webp)
 
 奥西里斯（Osiris）是埃及的冥界、丰饶与王权之神，也是荷鲁斯之父。
 

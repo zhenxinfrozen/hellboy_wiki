@@ -5,7 +5,7 @@ In [Hellboy](/entry/Hellboy_(series)), the tree is a real structure which the fa
 ## Gallery
 
 
-![Rasputin at the World Tree.](/content/images/RasputinAtYggdrasil.jpeg)
+![Rasputin at the World Tree.](/content/images/RasputinAtYggdrasil.webp)
 
 |Rasputin at the World Tree.
 ## Trivia

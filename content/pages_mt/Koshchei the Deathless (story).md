@@ -31,22 +31,22 @@
 ## 图集
 
 
-![第 #2 期](/content/images/Koshchei%20the%20Deathless%202.jpg)
+![第 #2 期](/content/images/Koshchei%20the%20Deathless%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Koshchei%20the%20Deathless%203.jpg)
+![第 #3 期](/content/images/Koshchei%20the%20Deathless%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Koshchei%20the%20Deathless%204.jpg)
+![第 #4 期](/content/images/Koshchei%20the%20Deathless%204.webp)
 
 |第 #4 期
 
-![第 #5 期](/content/images/Koshchei%20the%20Deathless%205.jpg)
+![第 #5 期](/content/images/Koshchei%20the%20Deathless%205.webp)
 
 |第 #5 期
 
-![第 #6 期](/content/images/Koshchei%20the%20Deathless%206.jpg)
+![第 #6 期](/content/images/Koshchei%20the%20Deathless%206.webp)
 
 |第 #6 期

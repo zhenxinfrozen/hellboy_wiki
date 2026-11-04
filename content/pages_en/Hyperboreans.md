@@ -1,4 +1,4 @@
-![](/content/images/Hyperborea.jpeg)
+![](/content/images/Hyperborea.webp)
 
 The **Golden People of Hyperborea** were the first race of man.
 

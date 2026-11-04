@@ -6,7 +6,7 @@
 
 幸运的是，乔治·沃什布鲁克（George Washbook）手持[圣剑](/entry/Excalibur)，率领英格兰的亡灵贵族迎击怪物大军，将他们歼灭。与此同时，[地狱男爵](/entry/Hellboy_(character))与妮缪/奥古·桀哈交战，击败了巨龙，但自己也在此役中殒命。[沃尔德王](/entry/King_Vold_(character))也出现在战场上。
 
-![](/content/images/Vigrid.jpeg)
+![](/content/images/Vigrid.webp)
 
 尽管正义的一方取得了胜利，这却只是终结时代的开端：战役之后，[奥格德鲁·赫姆](/entry/Ogdru_Hem)开始大量涌现，大不列颠的大部分领土从地图上被抹去。
 

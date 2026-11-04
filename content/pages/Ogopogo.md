@@ -1,4 +1,4 @@
-![Ogopogo](/content/images/Ogopogo.jpg)
+![Ogopogo](/content/images/Ogopogo.webp)
 
 **Ogopogo** is a lake monster that inhabited Okanagan Lake in present day British Columbia.
 

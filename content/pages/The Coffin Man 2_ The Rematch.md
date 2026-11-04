@@ -1,4 +1,4 @@
-![The Coffin Man 2: The Rematch](/content/images/DHP200.jpg)
+![The Coffin Man 2: The Rematch](/content/images/DHP200.webp)
 
 ## Publication History
 

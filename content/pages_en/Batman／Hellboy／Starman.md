@@ -45,7 +45,7 @@ Batman bids farewell as Hellboy and Starman board Bruce Wayne’s private jet fo
 Issue \#1
 Issue \#2
 
-![Issue #2](/content/images/Batman%20Hellboy%20Starman%202.jpg)
+![Issue #2](/content/images/Batman%20Hellboy%20Starman%202.webp)
 
 |Issue #2
 ## External Links

@@ -10,4 +10,4 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_12.jpg)
+![](/content/images/Abe_Sapien_12.webp)

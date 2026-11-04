@@ -2,7 +2,7 @@
 
 ## Background
 
-![Ox-Head_and_Horse-Face2.png](/content/images/Ox-Head_and_Horse-Face2.png) Ox-Head and Horse are servants of the Demon King of Hell, and bring spirits to him for judgement. Their purpose is to fetch Hell Spirits that have gone astray, wandering the Earth.
+![Ox-Head_and_Horse-Face2.png](/content/images/Ox-Head_and_Horse-Face2.webp) Ox-Head and Horse are servants of the Demon King of Hell, and bring spirits to him for judgement. Their purpose is to fetch Hell Spirits that have gone astray, wandering the Earth.
 
 ## History
 

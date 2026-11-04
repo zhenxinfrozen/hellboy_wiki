@@ -24,10 +24,10 @@
 
 栖身于深渊中的普鲁托。
 
-![Creatures in the Abyss.](/content/images/Abyss%20creatures.png)
+![Creatures in the Abyss.](/content/images/Abyss%20creatures.webp)
 
 |Creatures in the Abyss.
 
-![Ditto.](/content/images/Abyss%20creatures2.png)
+![Ditto.](/content/images/Abyss%20creatures2.webp)
 
 |Ditto.

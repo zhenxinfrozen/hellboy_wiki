@@ -9,6 +9,6 @@
 
 Battled, and though the Ogdru Hem spirit **Vucub Caquix**
 
-![Battled, and though the Ogdru Hem spirit Vucub Caquix](/content/images/VucubCaquix%20.jpeg)
+![Battled, and though the Ogdru Hem spirit Vucub Caquix](/content/images/VucubCaquix%20.webp)
 
 |Battled, and though the Ogdru Hem spirit Vucub Caquix

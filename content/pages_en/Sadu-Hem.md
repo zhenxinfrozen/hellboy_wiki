@@ -50,11 +50,11 @@ As a monstrous entity Its own body and abilities, particularly its biological ma
 ## Gallery
 
 
-![Sadu-Hem was being Imprisoned while Rasputin remained in a trance near the statue until the arrival of Professor Trevor Bruttenholm and the Cavendish exploration party.](/content/images/Sadu-Hem.png)
+![Sadu-Hem was being Imprisoned while Rasputin remained in a trance near the statue until the arrival of Professor Trevor Bruttenholm and the Cavendish exploration party.](/content/images/Sadu-Hem.webp)
 
 |Sadu-Hem was being Imprisoned while Rasputin remained in a trance near the statue until the arrival of Professor Trevor Bruttenholm and the Cavendish exploration party.
 
-![Sadu-Hem in a colossal form and an army of frog-monsters to get vengeance on humanity in The Devil You Know:Ragna Rok](/content/images/Sadu%20hem%20resurrection..jpg)
+![Sadu-Hem in a colossal form and an army of frog-monsters to get vengeance on humanity in The Devil You Know:Ragna Rok](/content/images/Sadu%20hem%20resurrection..webp)
 
 |Sadu-Hem in a colossal form and an army of frog-monsters to get vengeance on humanity in The Devil You Know:Ragna Rok
 ## Trivia

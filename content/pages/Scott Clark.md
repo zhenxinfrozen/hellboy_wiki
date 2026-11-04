@@ -1,4 +1,4 @@
-![Scott Clark](/content/images/Scan0003.jpg)
+![Scott Clark](/content/images/Scan0003.webp)
 
 **Scott Clark** was a [B.P.R.D.](/entry/B.P.R.D.) Field Agent that participated in the search for [Vladimir Giurescu](/entry/Vladimir%20Giurescu)'s castle.
 

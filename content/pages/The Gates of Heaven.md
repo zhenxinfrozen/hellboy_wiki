@@ -1,4 +1,4 @@
-![The Gates of Heaven](/content/images/The_Gates_of_Heaven_1_DIsraeli.jpg)
+![The Gates of Heaven](/content/images/The_Gates_of_Heaven_1_DIsraeli.webp)
 
 ***The Gates of Heaven*** is a five-issue miniseries written by [Mike Mignola](/entry/Mike%20Mignola) and [Chris Roberson](/entry/Chris%20Roberson) with [D’Israeli](/entry/D%E2%80%99Israeli) on art duties.[1]
 

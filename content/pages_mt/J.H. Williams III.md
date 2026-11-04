@@ -14,6 +14,6 @@
 
 ## 画廊
 
-![Hellboy: Weird Tales #5](/content/images/Hellboy%20Weird%20Tales%205.jpg)
+![Hellboy: Weird Tales #5](/content/images/Hellboy%20Weird%20Tales%205.webp)
 
 |Hellboy: Weird Tales #5

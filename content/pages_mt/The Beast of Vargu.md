@@ -21,6 +21,6 @@
 后作
 罗姆人的隐秘神祇
 
-![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.jpg)
+![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.webp)
 
 |Duncan Fegredo cover

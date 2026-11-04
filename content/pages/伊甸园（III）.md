@@ -1,4 +1,4 @@
-![伊甸园（III）](/content/images/Abe_Sapien_35.jpg)
+![伊甸园（III）](/content/images/Abe_Sapien_35.webp)
 
 《**伊甸园（III）**》（The Garden (III)）是一个单期完结故事，由麦克斯·菲乌马拉（Max Fiumara）作画。
 
@@ -8,6 +8,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_35.jpg)
+![](/content/images/Abe_Sapien_35.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

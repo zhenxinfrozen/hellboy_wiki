@@ -1,4 +1,4 @@
-![](/content/images/ToothFairy.jpg)
+![](/content/images/ToothFairy.webp)
 
 *"All these things do is eat, eat, then poop, then eat again"*
 

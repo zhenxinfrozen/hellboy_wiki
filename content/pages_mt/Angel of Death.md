@@ -13,7 +13,7 @@
 
 The_angel_of_death.jpg
 
-![](/content/images/The%20angel%20of%20death.jpg)
+![](/content/images/The%20angel%20of%20death.webp)
 
 |
 ## 趣闻

@@ -19,10 +19,10 @@
 
 ## 画廊
 
-![The Soul of Venice](/content/images/Soul%20of%20Venice.jpg)
+![The Soul of Venice](/content/images/Soul%20of%20Venice.webp)
 
 |The Soul of Venice
 
-![The Land of the Dead (Variant)](/content/images/Abe%20Sapien%208%20variant.jpg)
+![The Land of the Dead (Variant)](/content/images/Abe%20Sapien%208%20variant.webp)
 
 |The Land of the Dead (Variant)

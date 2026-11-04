@@ -4,7 +4,7 @@
 
 ### 惩罚阿扎尔
 
-![](/content/images/MolochInHell.jpg)
+![](/content/images/MolochInHell.webp)
 
 [阿扎尔](/entry/Azzael)把[毁灭之右手](/entry/Right_Hand_of_Doom)安到了[他的儿子](/entry/Hellboy_(character))身上，地狱的众多亲王为此震怒，摩洛克便是其中之一，他们派[毁灭天使](/entry/Angels_of_Destruction)去摧毁他的城堡。
 

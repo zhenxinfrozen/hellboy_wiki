@@ -1,4 +1,4 @@
-![](/content/images/Athane.png) **巫术匕首（Athame）**传统上是一种巫术仪式中使用的黑柄小刀。
+![](/content/images/Athane.webp) **巫术匕首（Athame）**传统上是一种巫术仪式中使用的黑柄小刀。
 
 ## 背景
 

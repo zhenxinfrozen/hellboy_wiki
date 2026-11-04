@@ -1,4 +1,4 @@
-![](/content/images/Giant.jpeg)
+![](/content/images/Giant.webp)
 
 The **Giants** were a race of large humanoids that once walked the Earth.
 

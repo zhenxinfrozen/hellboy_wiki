@@ -1,4 +1,4 @@
-![](/content/images/Vasilisa_.jpeg) **Vasilisa** was a handmaiden in [Morgan Le Fey](/entry/Morgan_Le_Fey)'s castle.
+![](/content/images/Vasilisa_.webp) **Vasilisa** was a handmaiden in [Morgan Le Fey](/entry/Morgan_Le_Fey)'s castle.
 
 ## History
 

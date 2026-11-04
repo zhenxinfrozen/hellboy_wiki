@@ -1,4 +1,4 @@
-![](/content/images/TheSecretFire.jpeg) ***秘火（The Secret Fire）***，又称 ***Flamma Reconditus***，是一份埃及文献的希腊文译本，公元 700 年由伊尼-赫里特（Ini-Herit）写于沉没之城梅诺西斯（Menouthis）。伊尼-赫里特声称，他破译了由魔法师赫尔墨斯·特利斯墨吉斯忒斯（Hermes Trismegistus，即"三重伟大的赫尔墨斯"）镌刻的一版翡翠石板——传说中 Lucifer 被逐出天堂时从他头上坠落的那块传奇之石。
+![](/content/images/TheSecretFire.webp) ***秘火（The Secret Fire）***，又称 ***Flamma Reconditus***，是一份埃及文献的希腊文译本，公元 700 年由伊尼-赫里特（Ini-Herit）写于沉没之城梅诺西斯（Menouthis）。伊尼-赫里特声称，他破译了由魔法师赫尔墨斯·特利斯墨吉斯忒斯（Hermes Trismegistus，即"三重伟大的赫尔墨斯"）镌刻的一版翡翠石板——传说中 Lucifer 被逐出天堂时从他头上坠落的那块传奇之石。
 
 石板上十三行文字的意义与含义几个世纪以来令众神秘学者百思不解；伊尼-赫里特的版本自称是"对宇宙机械之运作、天体之性质与功能、金属之嬗变、以及生命之创造与重构的真实记录"。
 

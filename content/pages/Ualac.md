@@ -1,4 +1,4 @@
-![Ualac](/content/images/Ualac%20001.jpg)
+![Ualac](/content/images/Ualac%20001.webp)
 
 **Ualac** is a minor demon who appears in the Hellboy story: "[Box Full of Evil](/entry/Box%20Full%20of%20Evil)."
 

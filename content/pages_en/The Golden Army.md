@@ -6,7 +6,7 @@ It was commissioned by King [Balor](/entry/Balor) during the first wars against 
 
 ## History
 
-![](/content/images/Golden_Army_Fight.jpg) The Golden Army came into being countless ages ago, when a Master [Goblin blacksmith](/entry/Goblin_%28Bethmoran%29) suggested to [King Balor](/entry/King_Balor) of the [Elves](/entry/Elves) that to defeat mankind, they would need an army capable of destroying them utterly, if not to do so, then as a threat. With his son [Nuada](/entry/Nuada) convincing him to allow it, Balor commissioned the Golden Army's creation along with the only means to activate and control them: the mythical [Crown of Bethmora](/entry/Crown_of_Bethmora). However, as Balor learned too late from watching the complete destruction of the opposing humans, the Golden Army were incapable of both mercy and remorse, and as such held nothing back in combat. The Golden army did not distinguish between friend or foe—they had no pity for the weak, the feeble, the young or the elderly. They simply destroyed wherever they roamed, leaving countless corpses in their wake.
+![](/content/images/Golden_Army_Fight.webp) The Golden Army came into being countless ages ago, when a Master [Goblin blacksmith](/entry/Goblin_%28Bethmoran%29) suggested to [King Balor](/entry/King_Balor) of the [Elves](/entry/Elves) that to defeat mankind, they would need an army capable of destroying them utterly, if not to do so, then as a threat. With his son [Nuada](/entry/Nuada) convincing him to allow it, Balor commissioned the Golden Army's creation along with the only means to activate and control them: the mythical [Crown of Bethmora](/entry/Crown_of_Bethmora). However, as Balor learned too late from watching the complete destruction of the opposing humans, the Golden Army were incapable of both mercy and remorse, and as such held nothing back in combat. The Golden army did not distinguish between friend or foe—they had no pity for the weak, the feeble, the young or the elderly. They simply destroyed wherever they roamed, leaving countless corpses in their wake.
 
 The sight of this carnage convinced Balor to forge a truce with the thoroughly cowed humans, and as part of that truce, he ordered the crown broken into three pieces: two for the Elves to hold and one for Mankind to protect, while the Golden Army itself was deactivated and sealed away in [Bethmora](/entry/Bethmora), located in Northern Ireland, before the city was ravaged by disease.
 
@@ -42,10 +42,10 @@ The Golden Army eventually repaired itself, and surrounded Hellboy, Liz, Abe, an
 
 ## Gallery
 
-![](/content/images/Golden_army.jpg)
+![](/content/images/Golden_army.webp)
 
-![](/content/images/Golden_army_creation.jpg)
+![](/content/images/Golden_army_creation.webp)
 
-![](/content/images/Golden_Army_back.png)
+![](/content/images/Golden_Army_back.webp)
 
-![](/content/images/Golden_Army.jpg)
+![](/content/images/Golden_Army.webp)

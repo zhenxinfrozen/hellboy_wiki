@@ -1,4 +1,4 @@
-![Tony Masso's Finest Hour](/content/images/Dhp_09_001.jpg)
+![Tony Masso's Finest Hour](/content/images/Dhp_09_001.webp)
 
 心生疑窦  
 

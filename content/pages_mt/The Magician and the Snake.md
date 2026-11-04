@@ -14,7 +14,7 @@
 
 ## 实体之物的含义
 
-![](/content/images/The_Solid_Objects.jpg)
+![](/content/images/The_Solid_Objects.webp)
 
 实体之物的含义被刻意保持模糊，任由解读。不过，在接受 Le Commis des Comics 采访时，[米格诺拉](/entry/Mike_Mignola)确实阐述了实体之物对他而言意味着什么：
 

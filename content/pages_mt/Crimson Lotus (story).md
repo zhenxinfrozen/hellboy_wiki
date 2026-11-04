@@ -30,12 +30,12 @@
 
 封面由 [通奇·宗伊奇](/entry/Tonci_Zonjic) 绘制。
 
-![](/content/images/Crimson_Lotus_1.jpg)
+![](/content/images/Crimson_Lotus_1.webp)
 
-![](/content/images/Crimson_Lotus_2.jpg)
+![](/content/images/Crimson_Lotus_2.webp)
 
-![](/content/images/Crimson_Lotus_3.jpg)
+![](/content/images/Crimson_Lotus_3.webp)
 
-![](/content/images/Crimson_Lotus_4.jpg)
+![](/content/images/Crimson_Lotus_4.webp)
 
-![](/content/images/Crimson_Lotus_5.jpg)
+![](/content/images/Crimson_Lotus_5.webp)

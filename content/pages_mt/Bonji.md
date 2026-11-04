@@ -1,4 +1,4 @@
-![](/content/images/ThirdRace.jpg)
+![](/content/images/ThirdRace.webp)
 
 **邦吉人（Bonji）**是新的人类种族，又称 **鱼智人（Ichthyo Sapiens）**，他们自称 **第一先民（First People）**；在人类文明覆灭一千年后，他们成为了地球上的优势物种。
 

@@ -1,4 +1,4 @@
-![Urgo-Hem](/content/images/Urgo-hem.png)
+![Urgo-Hem](/content/images/Urgo-hem.webp)
 
 **Urgo-Hem** was one of the 369 Ogdru Hem, the children of the [Ogdru Jahad](/entry/Ogdru%20Jahad).
 

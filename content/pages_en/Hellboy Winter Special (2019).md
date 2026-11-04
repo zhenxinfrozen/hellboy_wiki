@@ -21,10 +21,10 @@ Hellboy Winter Special 2019
 Cover by [Mike Mignola](/entry/Mike_Mignola)  
 with [Dave Stewart](/entry/Dave_Stewart)
 
-![braithwood boogam](/content/images/braithwood%20boogam.jpg)
+![braithwood boogam](/content/images/braithwood%20boogam.webp)
 
 |braithwood boogam
 
-![tobok the miser](/content/images/tobok%20the%20miser%20%282%29.jpg)
+![tobok the miser](/content/images/tobok%20the%20miser%20%282%29.webp)
 
 |tobok the miser

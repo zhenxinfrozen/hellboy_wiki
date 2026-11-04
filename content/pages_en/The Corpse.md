@@ -4,7 +4,7 @@
 
 Most of *The Corpse* was originally serialized as two-page installments in [Capital City Distribution](/entry/wikipedia%3ACapital_City_Distribution)'s *Advance Comics* catalog. *Advance Comics* was not a traditional comic book, rather largely a catalog of comic books, graphic novels, toys, and other merchandise that was sent by the distributor to comic book shops;[1] stories like *The Corpse* were used as a value-add for the publication.
 
-![Introduction to *The Corpse* in *Advance Comics* \#75.](/content/images/The_Corpse_Intro.png) *The Corpse* ran in *Advance Comics* issues \#75-82, from March through October of 1995. Though an introduction to the story printed in *Advance Comics* \#75 referred to it as a story "told in twelve parts",[2] only eight two-page installments ended up being published within the pages of the catalog. Then in January of 1996, the entire story was collected with a new opening page and an eight-page conclusion (the four missing two-page "parts"), in the one-shot *Hellboy: The Corpse and [the Iron Shoes](/entry/the_Iron_Shoes).*
+![Introduction to *The Corpse* in *Advance Comics* \#75.](/content/images/The_Corpse_Intro.webp) *The Corpse* ran in *Advance Comics* issues \#75-82, from March through October of 1995. Though an introduction to the story printed in *Advance Comics* \#75 referred to it as a story "told in twelve parts",[2] only eight two-page installments ended up being published within the pages of the catalog. Then in January of 1996, the entire story was collected with a new opening page and an eight-page conclusion (the four missing two-page "parts"), in the one-shot *Hellboy: The Corpse and [the Iron Shoes](/entry/the_Iron_Shoes).*
 
 ### Re-releases and adaptations
 

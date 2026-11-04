@@ -41,30 +41,30 @@ Issue \#2 variant cover
 Issue \#3 variant cover
 Issue \#4 variant cover
 
-![Issue #2](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202.jpg)
+![Issue #2](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203.jpg)
+![Issue #3](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204.jpg)
+![Issue #4](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204.webp)
 
 |Issue #4
 
-![Issue #1 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%201%20variant.jpg)
+![Issue #1 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%201%20variant.webp)
 
 |Issue #1 variant cover
 
-![Issue #2 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202%20variant.jpg)
+![Issue #2 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%202%20variant.webp)
 
 |Issue #2 variant cover
 
-![Issue #3 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203%20variant.jpg)
+![Issue #3 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%203%20variant.webp)
 
 |Issue #3 variant cover
 
-![Issue #4 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204%20variant.jpg)
+![Issue #4 variant cover](/content/images/Miss%20Truesdale%20and%20the%20Rise%20of%20Man%204%20variant.webp)
 
 |Issue #4 variant cover

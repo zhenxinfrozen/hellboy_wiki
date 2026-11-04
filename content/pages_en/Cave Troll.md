@@ -1,4 +1,4 @@
-![](/content/images/Mr.%20Wink.jpg)
+![](/content/images/Mr.%20Wink.webp)
 
 Cave trolls are strong dimwitted creatures. Prince Nuada used Wink as a helper when he looked for the golden army. Cave Trolls have mechanic smarts though.
 

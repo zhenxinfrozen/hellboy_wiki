@@ -1,4 +1,4 @@
-![](/content/images/Front_Page_-_Witchfinder.png) ***Sir Edward Grey: Witchfinder***is a line of comic books about the character [Sir Edward Grey](/entry/Sir_Edward_Grey). It is a spinoff of the*[Hellboy](/entry/Hellboy_%28series%29)'' series. The series is more commonly referred to as simply***Witchfinder**''.
+![](/content/images/Front_Page_-_Witchfinder.webp) ***Sir Edward Grey: Witchfinder***is a line of comic books about the character [Sir Edward Grey](/entry/Sir_Edward_Grey). It is a spinoff of the*[Hellboy](/entry/Hellboy_%28series%29)'' series. The series is more commonly referred to as simply***Witchfinder**''.
 
 ## Publication History
 

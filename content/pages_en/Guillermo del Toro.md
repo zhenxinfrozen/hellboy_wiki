@@ -10,7 +10,7 @@ He has also been referred to in the series. According to the comics, he was rumo
 
 Guillermo del Toro makes a cameo in the B.P.R.D. comic, [Killing Ground](/entry/Killing_Ground), in the B.P.R.D. Directory:
 
-![](/content/images/Bprd_directory.png)
+![](/content/images/Bprd_directory.webp)
 Bprd_directory.png
 
 (Leftmost column, 7th name down).

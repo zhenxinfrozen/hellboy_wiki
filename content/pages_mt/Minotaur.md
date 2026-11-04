@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20Minotaur.png)
+![](/content/images/Hellboy%20Minotaur.webp)
 
 **弥诺陶洛斯（Minotaur）** 是来自希腊的怪物，外形如同一只直立行走、长着蹄子的公牛。
 

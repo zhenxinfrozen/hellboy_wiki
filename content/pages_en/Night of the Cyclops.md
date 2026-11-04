@@ -15,7 +15,7 @@ by Olivier Vatine
 Night of the Cyclops*  
 by Mike Mignola and Dave Stewart
 
-![Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart](/content/images/Night%20of%20the%20Cyclops%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart](/content/images/Night%20of%20the%20Cyclops%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart
 ## Content

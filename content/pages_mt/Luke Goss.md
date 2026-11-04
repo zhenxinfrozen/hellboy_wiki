@@ -1,4 +1,4 @@
-![](/content/images/Luke-Goss-240x300.jpg)
+![](/content/images/Luke-Goss-240x300.webp)
 Luke-Goss-240x300.jpg
 
 演员／制片人／编剧／音乐人

@@ -40,30 +40,30 @@ by Jesse Lonergan
 Issue \#4 variant cover  
 by Victor Bizar Gómez
 
-![Issue #1 variant cover<br />by Christopher Mitten](/content/images/The%20Sword%20of%20Hyperborea%201%20Mitten.jpg)
+![Issue #1 variant cover<br />by Christopher Mitten](/content/images/The%20Sword%20of%20Hyperborea%201%20Mitten.webp)
 
 |Issue #1 variant cover<br />by Christopher Mitten
 
-![Issue #2](/content/images/The%20Sword%20of%20Hyperborea%202.jpg)
+![Issue #2](/content/images/The%20Sword%20of%20Hyperborea%202.webp)
 
 |Issue #2
 
-![Issue #2 variant cover<br />by Yishan Li](/content/images/The%20Sword%20of%20Hyperborea%202%20Li.jpg)
+![Issue #2 variant cover<br />by Yishan Li](/content/images/The%20Sword%20of%20Hyperborea%202%20Li.webp)
 
 |Issue #2 variant cover<br />by Yishan Li
 
-![Issue #3](/content/images/The%20Sword%20of%20Hyperborea%203.jpg)
+![Issue #3](/content/images/The%20Sword%20of%20Hyperborea%203.webp)
 
 |Issue #3
 
-![Issue #3 variant cover<br />by Jesse Lonergan](/content/images/The%20Sword%20of%20Hyperborea%203%20Lonergan.jpg)
+![Issue #3 variant cover<br />by Jesse Lonergan](/content/images/The%20Sword%20of%20Hyperborea%203%20Lonergan.webp)
 
 |Issue #3 variant cover<br />by Jesse Lonergan
 
-![Issue #4](/content/images/The%20Sword%20of%20Hyperborea%204.jpg)
+![Issue #4](/content/images/The%20Sword%20of%20Hyperborea%204.webp)
 
 |Issue #4
 
-![Issue #4 variant cover<br />by Victor Bizar Gómez](/content/images/The%20Sword%20of%20Hyperborea%204%20Gomez.jpg)
+![Issue #4 variant cover<br />by Victor Bizar Gómez](/content/images/The%20Sword%20of%20Hyperborea%204%20Gomez.webp)
 
 |Issue #4 variant cover<br />by Victor Bizar Gómez

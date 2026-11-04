@@ -18,6 +18,6 @@
 
 ## 画廊
 
-![Hellboy and the B.P.R.D.: Professor Harvey Is Gone cover by Giuseppe Manunta](/content/images/ProfessorHarveyIsGone%20Manunta.jpg)
+![Hellboy and the B.P.R.D.: Professor Harvey Is Gone cover by Giuseppe Manunta](/content/images/ProfessorHarveyIsGone%20Manunta.webp)
 
 |Hellboy and the B.P.R.D.: Professor Harvey Is Gone cover by Giuseppe Manunta

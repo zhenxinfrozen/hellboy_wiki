@@ -1,4 +1,4 @@
-![](/content/images/Hunping.png) A **hunping** is a Chinese vessel in which a dead person's soul resides after being judged worthy to escape punishment in the afterlife.
+![](/content/images/Hunping.webp) A **hunping** is a Chinese vessel in which a dead person's soul resides after being judged worthy to escape punishment in the afterlife.
 
 ## Description
 

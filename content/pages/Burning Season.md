@@ -1,4 +1,4 @@
-![燃烧季节](/content/images/Burning_Season.jpg)
+![燃烧季节](/content/images/Burning_Season.webp)
 
 《**燃烧季节**》（Burning Season）是《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1955》的一个单期完结篇章，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，保罗·里维拉（Paolo Rivera）与乔·里维拉（Joe Rivera）作画。
 

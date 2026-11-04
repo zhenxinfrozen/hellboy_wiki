@@ -4,7 +4,7 @@
 
 《弗兰肯斯坦：新世界》于 2022 年 5 月 17 日公布。这个故事最初的灵感来自 [Ben Stenbeck](/entry/Ben_Stenbeck) 为纪录片《迈克·米格诺拉：绘制怪物》（Mike Mignola: Drawing Monsters）的 Kickstarter 众筹达成的一个追加目标所画的一幅画，画面中 Frankenstein 手持固定在长杖上的海伯利亚之刃。
 
-![](/content/images/Stenbecks%20Mignola%20characters.jpg)
+![](/content/images/Stenbecks%20Mignola%20characters.webp)
 
 ## 剧情简介
 

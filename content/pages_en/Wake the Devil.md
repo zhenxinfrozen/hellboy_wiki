@@ -163,21 +163,21 @@ Though not explicit, *Wake the Devil* seems to take place in 1997;[1] *[Hellboy:
 
 Covers by [Mike Mignola](/entry/Mike_Mignola).
 
-![](/content/images/Wake_the_Devil_1.jpg)
+![](/content/images/Wake_the_Devil_1.webp)
 
  \#1
 
  \#2
 
-![](/content/images/Wake_the_Devil_3.jpg)
+![](/content/images/Wake_the_Devil_3.webp)
 
  \#3
 
-![](/content/images/Wake_the_Devil_4.jpg)
+![](/content/images/Wake_the_Devil_4.webp)
 
  \#4
 
-![](/content/images/Wake_the_Devil_5.jpg)
+![](/content/images/Wake_the_Devil_5.webp)
 
  \#5
 

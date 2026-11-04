@@ -24,19 +24,19 @@
 
 ## 画廊
 
-![](/content/images/City_of_the_Dead_1.jpg)
+![](/content/images/City_of_the_Dead_1.webp)
 
 第 1 期
 
-![](/content/images/City_of_the_Dead_2.jpg)
+![](/content/images/City_of_the_Dead_2.webp)
 
 第 2 期
 
-![](/content/images/City_of_the_Dead_3.jpg)
+![](/content/images/City_of_the_Dead_3.webp)
 
 第 3 期
 
-![](/content/images/City_of_the_Dead_4.jpg)
+![](/content/images/City_of_the_Dead_4.webp)
 
 第 4 期
 

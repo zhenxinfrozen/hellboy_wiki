@@ -1,4 +1,4 @@
-![Ratatosk](/content/images/Ratatosk.png)
+![Ratatosk](/content/images/Ratatosk.webp)
 
 **Ratatosk** is a squirrel from Norse mythology said to run up and down the world tree, Yggdrasil.
 

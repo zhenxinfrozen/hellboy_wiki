@@ -6,7 +6,7 @@
 
 19 世纪中叶，Martin Gilfryd 是大英博物馆埃及学部的首席策展人。后来，凭借其职位和与埃及学的关系，他与[Heliopic Brotherhood of Ra](/entry/Heliopic_Brotherhood_of_Ra)扯上了关系。然而，Gilfryd 身上一种野心勃勃的狂热使兄弟会对他疏远。
 
-![](/content/images/Martingilfryd.jpg)
+![](/content/images/Martingilfryd.webp)
 Martin Gilfryd
 
 1859 年，活着的木乃伊[潘雅](/entry/Panya_%28character%29)被解开裹尸布后，Gilfryd 结识了她，并频繁追问她奇迹般复活的经过，而她总是不自在地拒绝回答。由于 Gilfryd 与潘雅的社交往来，兄弟会对他极为警惕，最终永久将他开除出组织。不久之后，Gilfryd 陷入一段潦倒时期，成为神秘学者[古斯塔夫·施特罗布尔](/entry/Gustav_Strobl)的弟子，从他那里学习黑魔法。但贪婪与狂热驱使 Gilfryd 杀死了恩师，随后他被伦敦当局抓获，于 1867 年 5 月 18 日被送入贝德兰姆皇家医院。1879 年，猎巫人[爱德华·格雷](/entry/Edward_Grey)爵士联系了 Gilfryd，他需要 Gilfryd 帮忙阻止一只复活的 Hyperborean 生物。怪物被杀之后，Gilfryd 试图逃跑，却惊悚地撞上古斯塔夫·施特罗布尔的鬼魂；鬼魂嘲讽地说，Gilfryd 根本驾驭不了他教给他的魔法。Gilfryd 在胁迫下昏厥过去，被送回牢房。
@@ -35,6 +35,6 @@ Martin Gilfryd
 
 ## 画廊
 
-![](/content/images/Memnanprojection.jpg)
+![](/content/images/Memnanprojection.webp)
 
-![](/content/images/Memnan2.jpg)
+![](/content/images/Memnan2.webp)

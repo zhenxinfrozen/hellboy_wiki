@@ -30,12 +30,12 @@ Caught between a deadly company of Japanese soldiers and the deadlier Crimson Lo
 
 Covers by [Tonci Zonjic](/entry/Tonci_Zonjic).
 
-![](/content/images/Crimson_Lotus_1.jpg)
+![](/content/images/Crimson_Lotus_1.webp)
 
-![](/content/images/Crimson_Lotus_2.jpg)
+![](/content/images/Crimson_Lotus_2.webp)
 
-![](/content/images/Crimson_Lotus_3.jpg)
+![](/content/images/Crimson_Lotus_3.webp)
 
-![](/content/images/Crimson_Lotus_4.jpg)
+![](/content/images/Crimson_Lotus_4.webp)
 
-![](/content/images/Crimson_Lotus_5.jpg)
+![](/content/images/Crimson_Lotus_5.webp)

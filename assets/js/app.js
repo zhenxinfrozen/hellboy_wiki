@@ -110,9 +110,10 @@
     if (!imgs.length) return;
     idx = (i + imgs.length) % imgs.length;
     var im = imgs[idx];
-    bigImg.src = im.getAttribute('src');
+    var full = im.getAttribute('data-full') || im.getAttribute('src');
+    bigImg.src = full;
     bigImg.alt = im.alt || '';
-    openEl.href = im.getAttribute('src');
+    openEl.href = full;
     var cap = im.parentNode.querySelector('figcaption');
     capEl.textContent = cap ? cap.textContent : (im.alt || '');
     box.classList.add('open');

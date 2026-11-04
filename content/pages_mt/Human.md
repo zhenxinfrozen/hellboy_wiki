@@ -24,18 +24,18 @@
 
 ## 画廊
 
-![](/content/images/Eddy.jpg)
+![](/content/images/Eddy.webp)
 
 |
 
-![](/content/images/Gordon.jpg)
+![](/content/images/Gordon.webp)
 
 |
 
-![](/content/images/Arnie%20wald.jpg)
+![](/content/images/Arnie%20wald.webp)
 
 |
 
-![](/content/images/Massimo%20face.jpg)
+![](/content/images/Massimo%20face.webp)
 
 |

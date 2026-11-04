@@ -28,37 +28,37 @@
 
  \#1
 
-![](/content/images/Rasputin-TVotD1_Mignola.jpg)
+![](/content/images/Rasputin-TVotD1_Mignola.webp)
 
  \#1
 （迈克·米格诺拉变体版）
 
  \#2
 
-![](/content/images/Rasputin-TVotD2_Manchess.jpg)
+![](/content/images/Rasputin-TVotD2_Manchess.webp)
 
  \#2
 （[格雷戈里·曼切斯](/entry/Gregory_Manchess)变体版）
 
-![](/content/images/Rasputin-TVotD3.jpg)
+![](/content/images/Rasputin-TVotD3.webp)
 
  \#3
 
-![](/content/images/Rasputin-TVotD3_Francavilla.jpg)
+![](/content/images/Rasputin-TVotD3_Francavilla.webp)
 
  \#3
 （[弗朗切斯科·弗兰卡维拉](/entry/Francesco_Francavilla)变体版）
 
-![](/content/images/Rasputin-TVotD4.jpg)
+![](/content/images/Rasputin-TVotD4.webp)
 
  \#4
 
-![](/content/images/Rasputin-TVotD4_DelRey.jpg)
+![](/content/images/Rasputin-TVotD4_DelRey.webp)
 
  \#4
 （Vanesa R. Del Rey 变体版）
 
-![](/content/images/Rasputin-TVotD5.jpg)
+![](/content/images/Rasputin-TVotD5.webp)
 
  \#5
 

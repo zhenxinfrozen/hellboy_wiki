@@ -1,4 +1,4 @@
-![](/content/images/SaintLeonardWorm.jpeg)
+![](/content/images/SaintLeonardWorm.webp)
 
 The **Saint Leonard Wyrm** was a [dragon](/entry/Dragons) that resided in England.
 

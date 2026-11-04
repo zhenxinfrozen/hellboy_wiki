@@ -8,6 +8,6 @@ An unusual ghost hunt leads Hellboy to a spectral monkey with a message for a gr
 
 Cover by [Mike Huddleston](/entry/Mike_Huddleston).
 
-![](/content/images/The_Unreasoning_Beast.jpg)
+![](/content/images/The_Unreasoning_Beast.webp)
 
 |*The Unreasoning Beast*

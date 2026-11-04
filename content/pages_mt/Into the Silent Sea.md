@@ -2,7 +2,7 @@
 
 ## 出版历史
 
-![](/content/images/The_Storm_-_Silent_Sea_flashback_panel.jpg)Mignola 特意把这个故事留给 Gary Gianni：他在[《地狱男爵：山雨欲来》第1期](/entry/The_Storm)中画了一格，画中地狱男爵提到了一个尚未讲述的故事。
+![](/content/images/The_Storm_-_Silent_Sea_flashback_panel.webp)Mignola 特意把这个故事留给 Gary Gianni：他在[《地狱男爵：山雨欲来》第1期](/entry/The_Storm)中画了一格，画中地狱男爵提到了一个尚未讲述的故事。
 
 Gianni 获得了想做什么就做什么的自由。他和 Mignola 通过反复碰撞想法共同编写故事，直到情节敲定，然后由 Gianni 撰写剧本，Mignola 修订剧本以使地狱男爵的对白准确无误。[1]
 

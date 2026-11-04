@@ -4,7 +4,7 @@
 
 ## 黑胡子在地狱男爵中
 
-![](/content/images/Blackbeardalive.jpg)
+![](/content/images/Blackbeardalive.webp)
 
 爱德华·蒂奇是个令人闻风丧胆的海盗，拥有一些超自然力量。他是故事[《乘船下海之人》](/entry/They_That_Go_Down_to_the_Sea_in_Ships)的主要反派。一个有通灵天赋的男人在一家古董店里发现了他的头骨，便谋杀了店主，企图通过协助并号令这个恐怖海盗来牟利。
 

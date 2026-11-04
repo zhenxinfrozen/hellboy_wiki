@@ -1,4 +1,4 @@
-![](/content/images/Caypor.png)
+![](/content/images/Caypor.webp)
 
 **卡伊波尔（Caypor）**是一种巴西恶魔，栖息在雨林的边缘地带，以把孩子们吓跑、使其远离林中危险的方式保护他们。它登场于小说*[《地狱男爵：巨人之骨》](/entry/Hellboy__The_Bones_of_Giants_(prose_novel))*。
 

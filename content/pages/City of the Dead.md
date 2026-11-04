@@ -1,4 +1,4 @@
-![City of the Dead](/content/images/City_of_the_Dead_1.jpg)
+![City of the Dead](/content/images/City_of_the_Dead_1.webp)
 
 ***City of the Dead*** is a five-issue miniseries written by [Mike Mignola](/entry/Mike%20Mignola) and [Chris Roberson](/entry/Chris%20Roberson) with [Ben Stenbeck](/entry/Ben%20Stenbeck) on art duties and [Julián Totino Tedesco](/entry/Juli%C3%A1n%20Totino%20Tedesco) on covers.
 

@@ -1,4 +1,4 @@
-![](/content/images/Ako_Quantum_Systems.png) **Ako Quantum Systems** was a top-secret quantum research institute funded by the Japanese government.
+![](/content/images/Ako_Quantum_Systems.webp) **Ako Quantum Systems** was a top-secret quantum research institute funded by the Japanese government.
 
 ## History
 

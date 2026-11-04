@@ -16,7 +16,7 @@
 
 ### 《地狱男爵与 B.P.R.D.：土星回归》（*Hellboy and the B.P.R.D.: Saturn Returns*）
 
-![](/content/images/Saturn_Returns_1.jpg)
+![](/content/images/Saturn_Returns_1.webp)
 
  \#1
 
@@ -24,7 +24,7 @@
 
 ### 《女巫猎手：黑暗统治》（*Witchfinder: The Reign of Darkness*）
 
-![](/content/images/The_Reign_of_Darkness_1_Mitten.jpg)
+![](/content/images/The_Reign_of_Darkness_1_Mitten.webp)
 
  \#
 

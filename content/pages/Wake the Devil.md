@@ -1,4 +1,4 @@
-![Wake the Devil](/content/images/Wake_the_Devil_1.jpg)
+![Wake the Devil](/content/images/Wake_the_Devil_1.webp)
 
 ***Wake the Devil*** was the second *[Hellboy](/entry/Hellboy%20%28series%29)* miniseries. It picks up where *[Seed of Destruction](/entry/Seed%20of%20Destruction)* left off, at a castle in Norway. The story follows the continuing plans of the Nazi occultists as they attempt to resurrect a vampire. It introduced readers to [Vladimir Giurescu](/entry/Vladimir%20Giurescu), [the Baba Yaga](/entry/Baba%20Yaga%20%28character%29), [Hecate](/entry/Hecate), future [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) member [Roger](/entry/Roger) and (very briefly) [Sir Edward Grey](/entry/Sir%20Edward%20Grey).
 

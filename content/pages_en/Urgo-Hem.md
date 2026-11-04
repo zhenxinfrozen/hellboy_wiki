@@ -16,11 +16,11 @@ Urgo-Hem is a large aquatic, eyeless serpent-like creature, with sharp crustacea
 
 ## Gallery
 
-![](/content/images/UrgoHemSerpent.jpeg)
+![](/content/images/UrgoHemSerpent.webp)
 
  in *The Island*
 
-![](/content/images/UrgoHemItaly.jpeg)
+![](/content/images/UrgoHemItaly.webp)
 
  Hem in Ragna Rok
 

@@ -1,4 +1,4 @@
-![B.P.R.D. 标志](/content/images/Bprdlogos-000.jpg) **超自然调查防御署（Bureau for Paranormal Research and Defense）**（**B.P.R.D.**）是一个肩负保护美国乃至全世界、抵御秘术、超自然与超自然现象之责的组织。它长期雇用数名拥有"超常天赋"的人员，其中包括[地狱男爵](/entry/Hellboy_%28character%29)。
+![B.P.R.D. 标志](/content/images/Bprdlogos-000.webp) **超自然调查防御署（Bureau for Paranormal Research and Defense）**（**B.P.R.D.**）是一个肩负保护美国乃至全世界、抵御秘术、超自然与超自然现象之责的组织。它长期雇用数名拥有"超常天赋"的人员，其中包括[地狱男爵](/entry/Hellboy_%28character%29)。
 
 B.P.R.D. 最早登场于*[《地狱男爵》](/entry/Hellboy_%28series%29)*漫画，在第一个故事线*[《毁灭之芽》](/entry/Seed_of_Destruction)*中作为地狱男爵及其同事们效力的组织被引入。2001 年出版的*[《征服之虫》](/entry/Conqueror_Worm_%28story%29)*故事线结尾，地狱男爵退出了防御署；此后不久，独立的*[《B.P.R.D.》](/entry/B.P.R.D._%28series%29)*系列以故事线*[《空心地球》](/entry/Hollow_Earth)*开始出版。《地狱男爵》与《B.P.R.D.》两套漫画此后并行连载，两边发生的事件互相呼应。相关系列*[《地狱男爵与 B.P.R.D.》](/entry/Hellboy_and_the_B.P.R.D.)*则讲述地狱男爵在 20 世纪 50 年代初任外勤探员的岁月。
 
@@ -22,7 +22,7 @@ B.P.R.D. 是一个知名且受人尊敬的组织，与大多数国家的政府�
 
 ## 探员
 
-![](/content/images/Agents.png)
+![](/content/images/Agents.webp)
 几位著名的 BPRD 探员。从左到右：[约翰·克劳斯](/entry/Johann_Kraus)、[丽兹·舍曼](/entry/Liz_Sherman)、[亚伯·塞皮恩](/entry/Abe_Sapien)、[罗杰](/entry/Roger)、[凯特·考瑞根](/entry/Kate_Corrigan)。
 
 ### 超常天赋探员

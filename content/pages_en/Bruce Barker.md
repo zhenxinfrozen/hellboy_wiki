@@ -1,4 +1,4 @@
-![](/content/images/MV5BZGEyODRlNzItNTE2Ny00MzM5LWIyMzMtZWNlMTAzZmExMDNjXkEyXkFqcGdeQXVyMTkyMTc5MzA%40.%20V1%20.jpg)
+![](/content/images/MV5BZGEyODRlNzItNTE2Ny00MzM5LWIyMzMtZWNlMTAzZmExMDNjXkEyXkFqcGdeQXVyMTkyMTc5MzA%40.%20V1%20.webp)
 
 While born in the Continental US, Bruce Barker grew up in rural Alaska. In 2001, after a long career as a DJ and commercial producer in Radio, Bruce shifted his full-time focus to voiceover, opening the LA-based video/audio production company RightAfterThis.com.
 

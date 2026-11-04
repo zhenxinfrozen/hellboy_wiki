@@ -1,4 +1,4 @@
-![](/content/images/ToothFairy.jpg)
+![](/content/images/ToothFairy.webp)
 
 *"这些东西就会吃、吃、拉，然后接着吃"*
 

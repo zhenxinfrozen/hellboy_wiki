@@ -10,7 +10,7 @@
 
 ## 画廊
 
-![](/content/images/DHP36.jpg)
+![](/content/images/DHP36.webp)
 
 《Dark Horse Presents》第 36 期
 封面作者 Ben Stenbeck

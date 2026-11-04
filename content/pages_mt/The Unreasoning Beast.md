@@ -8,6 +8,6 @@
 
 封面作者 [Mike Huddleston](/entry/Mike_Huddleston)。
 
-![](/content/images/The_Unreasoning_Beast.jpg)
+![](/content/images/The_Unreasoning_Beast.webp)
 
 |*The Unreasoning Beast*

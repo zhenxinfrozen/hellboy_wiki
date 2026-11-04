@@ -1,6 +1,6 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/The%20Snake.jpg)
+![](/content/images/The%20Snake.webp)
 
 **The Snake** is a character that first apppeared in the short story *[The Magician and the Snake](/entry/The_Magician_and_the_Snake)* as one of the titular characters. It has since appeared in arcs of *[Hellboy in Hell](/entry/Hellboy_in_Hell_(series))* and *[Koshchei](/entry/Koshchei_(series))*.
 

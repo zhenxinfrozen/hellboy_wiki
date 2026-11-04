@@ -14,7 +14,7 @@ Hellboy comes to the aid of a young girl whose ghost hunt goes wrong, and a visi
 
 Mike Mignola variant cover
 
-![Adam Hughes cover](/content/images/TheSevenWivesClub%20AdamHughes.jpg)
+![Adam Hughes cover](/content/images/TheSevenWivesClub%20AdamHughes.webp)
 
 |Adam Hughes cover
 ## External Links

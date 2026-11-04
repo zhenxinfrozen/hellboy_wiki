@@ -4,7 +4,7 @@
 
 《尸体》的大部分内容最初以每次两页的形式连载于 [Capital City Distribution](/entry/wikipedia%3ACapital_City_Distribution) 的《Advance Comics》目录中。《Advance Comics》并不是一本传统的漫画书，而主要是一本漫画、图像小说、玩具和其他周边商品的目录，由发行商寄给各家漫画店；[1] 像《尸体》这样的故事被用作该出版物的增值内容。
 
-![《Advance Comics》第 75 期中《尸体》的引言。](/content/images/The_Corpse_Intro.png) 《尸体》连载于《Advance Comics》第 75–82 期，时间从 1995 年 3 月到 10 月。尽管《Advance Comics》第 75 期刊登的故事引言称这是一个"分十二部分讲述"的故事，[2] 但最终在该目录中只发表了八期、每期两页的连载。随后在 1996 年 1 月，整个故事被结集，增加了一页新的开篇和八页的结局（即缺失的四个两页"部分"），收录在单刊《Hellboy: The Corpse and [the Iron Shoes](/entry/the_Iron_Shoes)》中。
+![《Advance Comics》第 75 期中《尸体》的引言。](/content/images/The_Corpse_Intro.webp) 《尸体》连载于《Advance Comics》第 75–82 期，时间从 1995 年 3 月到 10 月。尽管《Advance Comics》第 75 期刊登的故事引言称这是一个"分十二部分讲述"的故事，[2] 但最终在该目录中只发表了八期、每期两页的连载。随后在 1996 年 1 月，整个故事被结集，增加了一页新的开篇和八页的结局（即缺失的四个两页"部分"），收录在单刊《Hellboy: The Corpse and [the Iron Shoes](/entry/the_Iron_Shoes)》中。
 
 ### 再版与改编
 

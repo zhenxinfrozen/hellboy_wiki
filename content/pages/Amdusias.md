@@ -1,4 +1,4 @@
-![Amdusias](/content/images/Amdusias.jpg)
+![Amdusias](/content/images/Amdusias.webp)
 
 **Amdusias** was a Greater Duke of Hell.
 

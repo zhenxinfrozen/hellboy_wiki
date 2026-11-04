@@ -1,4 +1,4 @@
-![](/content/images/Ragnarok_logo.jpg)
+![](/content/images/Ragnarok_logo.webp)
 拉格纳洛克计划标志。
 
 **拉格纳洛克计划（Project Ragna Rok）**是一个由[格里高利·拉斯普廷](/entry/Grigori_Rasputin)领导的纳粹神秘学计划，以北欧神话中那场终局之战命名，旨在制造一件末日武器，以期结束第二次世界大战、为纳粹德国带来胜利。

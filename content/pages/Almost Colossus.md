@@ -1,4 +1,4 @@
-![Almost Colossus](/content/images/Almost%20Colossus%201.jpg)
+![Almost Colossus](/content/images/Almost%20Colossus%201.webp)
 
 *Almost Colossus* picks up eight days after *[Wake the Devil](/entry/Wake%20the%20Devil)*, and focuses on the homunculus brought to life by Liz.
 

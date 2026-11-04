@@ -16,6 +16,6 @@
 
 1st Edition
 
-![Direct Market Exclusive Edition](/content/images/Hellboy%20Artist%27s%20Edition%20Vol%202-%20DM%20Edition.jpg)
+![Direct Market Exclusive Edition](/content/images/Hellboy%20Artist%27s%20Edition%20Vol%202-%20DM%20Edition.webp)
 
 |Direct Market Exclusive Edition

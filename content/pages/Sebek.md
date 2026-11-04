@@ -1,4 +1,4 @@
-![Sebek](/content/images/Sebek.jpg)
+![Sebek](/content/images/Sebek.webp)
 
 **Sebek** is the Egyptian crocodile god.
 

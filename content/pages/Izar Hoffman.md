@@ -1,4 +1,4 @@
-![Izar Hoffman](/content/images/Bprd%20Izar%20Hoffman%20%28by%20Ben%20Stenbeck%29.jpg)
+![Izar Hoffman](/content/images/Bprd%20Izar%20Hoffman%20%28by%20Ben%20Stenbeck%29.webp)
 
 Dr. **Izar Hoffman** is a [B.P.R.D.](/entry/B.P.R.D.) agent and psychic. He is irst mentioned in the final panels of *[The Wolves of Saint August](/entry/The%20Wolves%20of%20Saint%20August)*, Hoffman made his first on panel appearance in *[B.P.R.D.: The Ectoplasmic Man](/entry/The%20Ectoplasmic%20Man)*.
 

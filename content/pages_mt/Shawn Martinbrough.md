@@ -14,6 +14,6 @@
 
 ## 画廊
 
-![Secret Nature](/content/images/Secret%20Nature.jpg)
+![Secret Nature](/content/images/Secret%20Nature.webp)
 
 |Secret Nature

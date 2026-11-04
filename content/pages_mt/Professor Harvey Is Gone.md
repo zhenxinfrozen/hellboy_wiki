@@ -17,6 +17,6 @@
 *《地狱男爵与超自然调查防御署：哈维教授不见了》*  
 Nirvana Comics 独家变体封面：Ben Stenbeck
 
-![Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck](/content/images/ProfessorHarveyIsGone%20Stenbeck.jpg)
+![Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck](/content/images/ProfessorHarveyIsGone%20Stenbeck.webp)
 
 |Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck

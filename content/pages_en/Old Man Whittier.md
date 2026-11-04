@@ -15,6 +15,6 @@ by Gabriel Hernández Walta
 Old Man Whittier*  
 by Mike Mignola and Dave Stewart
 
-![Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart](/content/images/Old%20Man%20Whittier%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart](/content/images/Old%20Man%20Whittier%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart

@@ -9,6 +9,6 @@
 
 与奥格德鲁·赫姆的邪灵 **乌库布·卡奎克斯（Vucub Caquix）** 交战
 
-![Battled, and though the Ogdru Hem spirit Vucub Caquix](/content/images/VucubCaquix%20.jpeg)
+![Battled, and though the Ogdru Hem spirit Vucub Caquix](/content/images/VucubCaquix%20.webp)
 
 |Battled, and though the Ogdru Hem spirit Vucub Caquix

@@ -1,4 +1,4 @@
-![](/content/images/Zinco_Corporation.png)The **Zinco Corporation** is a massive, globe-spanning organization with resources, equipment, money, and political connections all across the world.
+![](/content/images/Zinco_Corporation.webp)The **Zinco Corporation** is a massive, globe-spanning organization with resources, equipment, money, and political connections all across the world.
 
 ## History
 

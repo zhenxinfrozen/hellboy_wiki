@@ -1,4 +1,4 @@
-![Bud Waller](/content/images/Bud%20Waller.jpg)
+![Bud Waller](/content/images/Bud%20Waller.webp)
 
 **Bud Waller** was a [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) Field Agent.
 

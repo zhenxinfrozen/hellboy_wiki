@@ -6,4 +6,4 @@ Haunted by guilt over the staggering death toll in Arizona, Abe vows to never le
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_13.jpg)
+![](/content/images/Abe_Sapien_13.webp)

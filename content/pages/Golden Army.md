@@ -1,8 +1,8 @@
 *关于 2008 年电影、其原声专辑与宣传漫画，见[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)、[《地狱男爵2：黄金军团》（原声）](/entry/Hellboy_II__The_Golden_Army_%28soundtrack%29)与[《黄金军团》（宣传漫画）](/entry/The_Golden_Army_(promo))。*
 
-![](/content/images/Golden%20Army%20back.png)
+![](/content/images/Golden%20Army%20back.webp)
 
-![](/content/images/Golden%20Army.jpg)
+![](/content/images/Golden%20Army.webp)
 
 **黄金军团**（Golden Army）是一支由"七十个七十"——即 4,900 个——机器人般的机械战士组成的军队，由[哥布林](/entry/Goblin)、[巨魔](/entry/Troll)与[精灵](/entry/Elf)在对抗[人类](/entry/Human)的[战争](/entry/War)中打造。
 

@@ -1,4 +1,4 @@
-![A Christmas Underground](/content/images/Hellboy_Christmas_Special.jpg)
+![A Christmas Underground](/content/images/Hellboy_Christmas_Special.webp)
 
 ## Publication History
 

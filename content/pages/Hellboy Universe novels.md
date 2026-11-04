@@ -18,7 +18,7 @@ In addition to [the comics](/entry/Hellboy%20%28series%29), the Hellboy Universe
 <td><p>Christopher Golden<br />
 <em>with illustrations by</em><br />
 Mike Mignola</p></td>
-<td><p>![Hellboy_-_The_Lost_Army_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Lost_Army_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_The_Lost_Army_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Lost_Army_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="even">
 <td><p><em><a href="Hellboy:_The_Bones_of_Giants" title="wikilink">Hellboy: The Bones of Giants</a></em></p></td>
@@ -26,61 +26,61 @@ Mike Mignola</p></td>
 <td><p>Christopher Golden<br />
 <em>with illustrations by</em><br />
 Mike Mignola</p></td>
-<td><p>![Hellboy_-_The_Bones_of_Giants_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Bones_of_Giants_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_The_Bones_of_Giants_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Bones_of_Giants_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="Hellboy:_On_Earth_as_it_is_in_Hell" title="wikilink">Hellboy: On Earth as it is in Hell</a></em></p></td>
 <td><p>September, 2005</p></td>
 <td><p>Brian Hodge</p></td>
-<td><p>![Hellboy_-_On_Earth_as_It_Is_in_Hell_(Novel_Cover).jpg](/content/images/Hellboy_-_On_Earth_as_It_Is_in_Hell_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_On_Earth_as_It_Is_in_Hell_(Novel_Cover).jpg](/content/images/Hellboy_-_On_Earth_as_It_Is_in_Hell_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="even">
 <td><p><em><a href="Hellboy:_Unnatural_Selection" title="wikilink">Hellboy: Unnatural Selection</a></em></p></td>
 <td><p>March, 2006</p></td>
 <td><p>Tim Lebbon</p></td>
-<td><p>![Hellboy_-_Unnatural_Selection_(Novel_Cover).jpg](/content/images/Hellboy_-_Unnatural_Selection_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_Unnatural_Selection_(Novel_Cover).jpg](/content/images/Hellboy_-_Unnatural_Selection_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="Hellboy:_The_God_Machine" title="wikilink">Hellboy: The God Machine</a></em></p></td>
 <td><p>July, 2006</p></td>
 <td><p>Thomas E. Sniegoski</p></td>
-<td><p>![Hellboy_-_The_God_Machine_(Novel_Cover).jpg](/content/images/Hellboy_-_The_God_Machine_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_The_God_Machine_(Novel_Cover).jpg](/content/images/Hellboy_-_The_God_Machine_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="even">
 <td><p><em><a href="Hellboy:_The_Dragon_Pool" title="wikilink">Hellboy: The Dragon Pool</a></em></p></td>
 <td><p>March, 2007</p></td>
 <td><p>Christopher Golden</p></td>
-<td><p>![Hellboy_-_The_Dragon_Pool_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Dragon_Pool_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_The_Dragon_Pool_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Dragon_Pool_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="Hellboy:_Emerald_Hell" title="wikilink">Hellboy: Emerald Hell</a></em></p></td>
 <td><p>February 13, 2008</p></td>
 <td><p>Tom Piccirilli</p></td>
-<td><p>![Hellboy_-_Emerald_Hell_(Novel_Cover).jpg](/content/images/Hellboy_-_Emerald_Hell_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_Emerald_Hell_(Novel_Cover).jpg](/content/images/Hellboy_-_Emerald_Hell_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="even">
 <td><p><em><a href="Hellboy:_The_All-Seeing_Eye" title="wikilink">Hellboy: The All-Seeing Eye</a></em></p></td>
 <td><p>October 22, 2008</p></td>
 <td><p>Mark Morris</p></td>
-<td><p>![Hellboy_-_The_All-Seeing_Eye_(Novel_Cover).jpg](/content/images/Hellboy_-_The_All-Seeing_Eye_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td><p>![Hellboy_-_The_All-Seeing_Eye_(Novel_Cover).jpg](/content/images/Hellboy_-_The_All-Seeing_Eye_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="Hellboy:_The_Fire_Wolves" title="wikilink">Hellboy: The Fire Wolves</a></em></p></td>
 <td><p>April 1, 2009</p></td>
 <td><p>Tim Lebbon</p></td>
-<td><p>![Hellboy_-_The_Fire_Wolves_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Fire_Wolves_%28Novel_Cover%29.jpg)<em>by</em> Duncan Fegredo</p></td>
+<td><p>![Hellboy_-_The_Fire_Wolves_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Fire_Wolves_%28Novel_Cover%29.webp)<em>by</em> Duncan Fegredo</p></td>
 </tr>
 <tr class="even">
 <td><p><em><a href="Lobster_Johnson:_The_Satan_Factory" title="wikilink">Lobster Johnson: The Satan Factory</a></em></p></td>
 <td><p>July 22, 2009</p></td>
 <td><p>Thomas E. Sniegoski</p></td>
-<td><p>![Lobster_Johnson_-_The_Satan_Factory_(Novel_Cover).jpg](/content/images/Lobster_Johnson_-_The_Satan_Factory_%28Novel_Cover%29.jpg)<em>by</em> Gregory Manchess</p></td>
+<td><p>![Lobster_Johnson_-_The_Satan_Factory_(Novel_Cover).jpg](/content/images/Lobster_Johnson_-_The_Satan_Factory_%28Novel_Cover%29.webp)<em>by</em> Gregory Manchess</p></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="Hellboy:_The_Ice_Wolves" title="wikilink">Hellboy: The Ice Wolves</a></em></p></td>
 <td><p>September 30, 2009</p></td>
 <td><p>Mark Chadbourn</p></td>
-<td><p>![Hellboy_-_The_Ice_Wolves_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Ice_Wolves_%28Novel_Cover%29.jpg)<em>by</em> Duncan Fegredo</p></td>
+<td><p>![Hellboy_-_The_Ice_Wolves_(Novel_Cover).jpg](/content/images/Hellboy_-_The_Ice_Wolves_%28Novel_Cover%29.webp)<em>by</em> Duncan Fegredo</p></td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +103,7 @@ The antholgy collections were all edited by Christopher Golden.
 <tr class="odd">
 <td rowspan="14"><p><em><a href="Hellboy:_Odd_Jobs" title="wikilink">Hellboy:<br />
 Odd Jobs</a></em></p></td>
-<td rowspan="14"><p>![Hellboy_-_Odd_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td rowspan="14"><p>![Hellboy_-_Odd_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 <td rowspan="14"><p>December 15, 1999</p></td>
 <td><p><em>Medusa's Revenge</em></p></td>
 <td><p>Yvonne Navarro</p></td>
@@ -165,7 +165,7 @@ Odd Jobs</a></em></p></td>
 <tr class="odd">
 <td rowspan="16"><p><em><a href="Hellboy:_Odder_Jobs" title="wikilink">Hellboy:<br />
 Odder Jobs</a></em></p></td>
-<td rowspan="16"><p>![Hellboy_-_Odder_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td rowspan="16"><p>![Hellboy_-_Odder_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 <td rowspan="16"><p>October 6, 2004</p></td>
 <td><p><em>The Brotherhood of the Gun</em></p></td>
 <td><p>Frank Darabont</p></td>
@@ -235,7 +235,7 @@ Odder Jobs</a></em></p></td>
 <tr class="odd">
 <td rowspan="14"><p><em><a href="Hellboy:_Oddest_Jobs" title="wikilink">Hellboy:<br />
 Oddest Jobs</a></em></p></td>
-<td rowspan="14"><p>![Hellboy_-_Oddest_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.jpg)<em>by</em> Mike Mignola</p></td>
+<td rowspan="14"><p>![Hellboy_-_Oddest_Jobs_(Novel_Cover).jpg](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.webp)<em>by</em> Mike Mignola</p></td>
 <td rowspan="14"><p>July 9, 2008</p></td>
 <td><p><em>Jiving with Shadows and Dragons and Long, Black Trains</em></p></td>
 <td><p>Joe R. Lansdale</p></td>
@@ -296,7 +296,7 @@ Oddest Jobs</a></em></p></td>
 <tr class="odd">
 <td rowspan="16"><p><em><a href="Hellboy:_An_Assortment_of_Horrors" title="wikilink">Hellboy:<br />
 An Assortment of Horrors</a></em></p></td>
-<td rowspan="16"><p>![Hellboy_-_An_Assortment_of_Horrors.jpg](/content/images/Hellboy_-_An_Assortment_of_Horrors.jpg)<em>by</em> Mike Mignola</p></td>
+<td rowspan="16"><p>![Hellboy_-_An_Assortment_of_Horrors.jpg](/content/images/Hellboy_-_An_Assortment_of_Horrors.webp)<em>by</em> Mike Mignola</p></td>
 <td rowspan="16"><p>August 16, 2017</p></td>
 <td><p><em>The Promised Smile</em></p></td>
 <td><p>Rio Youers</p></td>

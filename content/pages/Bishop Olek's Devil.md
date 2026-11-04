@@ -1,4 +1,4 @@
-![奥莱克主教的恶魔](/content/images/FCBD.jpg)
+![奥莱克主教的恶魔](/content/images/FCBD.webp)
 
 《**奥莱克主教的恶魔**》（Bishop Olek's Devil）是一部短篇故事，作为《[1946](/entry/1946)》迷你系列的前传，二者出自同一创作团队。它首次引入了霍华德·伊顿博士（Dr. Howard Eaton）这一角色——日后他与特雷弗·布鲁滕霍尔姆教授一同成为 [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) 的创始成员。
 

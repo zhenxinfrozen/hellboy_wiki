@@ -1,4 +1,4 @@
-![How Koshchei Became Deathless](/content/images/Wild_Hunt_2.jpg)
+![How Koshchei Became Deathless](/content/images/Wild_Hunt_2.webp)
 
 The origin of [Koshchei](/entry/Koshchei) the deathless is revealed.
 

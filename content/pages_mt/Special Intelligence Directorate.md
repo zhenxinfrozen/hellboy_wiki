@@ -1,4 +1,4 @@
-![](/content/images/Special_Intelligence_Directorate.png) **特别情报局（Special Intelligence Directorate）**是英国一个负责监测超自然活动的组织。
+![](/content/images/Special_Intelligence_Directorate.webp) **特别情报局（Special Intelligence Directorate）**是英国一个负责监测超自然活动的组织。
 
 ## 背景
 

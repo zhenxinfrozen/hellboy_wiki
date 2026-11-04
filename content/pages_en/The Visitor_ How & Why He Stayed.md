@@ -24,16 +24,16 @@ After decades of living as a man the Visitor has a chance to return to his peopl
 
 ## Gallery
 
-![](/content/images/HowAndWhyHeStayed1.jpg)
+![](/content/images/HowAndWhyHeStayed1.webp)
 
  \#1
 
-![](/content/images/HowAndWhyHeStayed1_ComicsPRO.jpg)
+![](/content/images/HowAndWhyHeStayed1_ComicsPRO.webp)
 
  \#1
 ComicsPRO variant
 
-![](/content/images/HowAndWhyHeStayed2.jpg)
+![](/content/images/HowAndWhyHeStayed2.webp)
 
  \#2
 

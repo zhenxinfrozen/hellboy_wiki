@@ -6,7 +6,7 @@
 
 According to the beliefs of the magical realm, humans and the races of elves, goblins, ogres, fairies, trolls, and other creatures once lived in harmony. The greed of humanity, however, caused a great desire for conquest in them and they warred against the mystical woodland creatures. King Balor (Prince Nuada's father), who ruled the elves and the magical races, watched his people undergo slaughter at the hands of the humans. Nuada likely participated in the battles and, as seen at the beginning of the film *Hellboy II: The Golden Army*, bears many scars on his back and shoulders from battling for the protection of his kind.
 
-![](/content/images/Golden_army_creation.jpg)
+![](/content/images/Golden_army_creation.webp)
 The newly created Army
 
 One day, a master goblin blacksmith came to King Balor to offer the construction of a mechanical army -- [the Golden Army](/entry/the_Golden_Army). Nuada persuaded his father to accept the offer. The Golden Army then butchered the humans, not dividing innocent from warrior or male from female or adult from child. The destruction, Balor realized, surpassed what the humans had done to them. Horrified by this massacre, the King sealed the Golden Army away and declared a truce with humanity by dividing the [magic crown](/entry/Crown_of_Bethmora) controlling [them](/entry/The_Golden_Army) into three pieces; keeping two for the elves and giving one to humanity.
@@ -17,24 +17,24 @@ Nuada was enraged by this act, believing not only that the humans could not be t
 
 Nuada trod the earth pondering his own life and watching the lives of man and magical creature. The prince saw mankind slaughter one another in the name of greed and watched all the other magical races receded into obscurity. Resolved that he must end the silent destruction of the magical world and sensing that the planet was reaching a crossroads leading to destruction (in the movie novelization Nuada references that the wiser humans have sensed the need to act as well, possibly commenting on the fact he was aware of environmentalist activity, but was not impressed enough with it to find humans worth saving at all). He decided to reclaim the Golden Army and do what should have been done centuries before.
 
-![](/content/images/Step_one.jpg)
+![](/content/images/Step_one.webp)
 Nuada reveals his intentions
 
 The prince tracked the crown until, centuries later, he followed it into an auction house to steal it. He then proceeded to kill the entire attendance of the auction by releasing a swarm of [Tooth Fairies](/entry/Tooth_Fairies) and leaving behind two markings that would symbolize to humanity that he had declared war. He went to his father's palace and revealed his intention to re-awaken the Golden Army and wage war on the human world. He pointed out the humans' commercialization, conquest, and 'rape' of the world. He knew that the magical races will fade and points out that they are already living in squalor and have nowhere else to go. Then the king, willing to resign themselves to such a fate years before relocating to the Americas, decided to have his son executed. Nuada, heartbroken (knowing that his father is also killing his innocent twin sister, Nuala), then killed all the guards in the room, before impaling his father. He wept momentarily and claimed his father's piece of the crown, then turned around, but his sister was gone along with the last crown piece.
 
-![](/content/images/Nuada_shocked.jpg)
+![](/content/images/Nuada_shocked.webp)
 Nuada learns of Mr. Wink's death
 
 While preparing an odd seed of life in a mechanical holder (Nuada was apparently versed in goblin machinery and tinkering), Nuada heard from a two-headed creature that his servant [Mr. Wink](/entry/Mr._Wink) was defeated by Hellboy. Furious, Nuada came up to the surface to kill Hellboy and unleash the seed into a forest god that would purge the area of humans and their buildings. When Hellboy aims to destroy the 'forest god' or 'forest elemental', Nuada taunted him to either spare or kill the towering tree, for it was the last of its kind. He said Hellboy had more in common with the magical beings than the humans. The forest spirit was killed and Nuada disappeared as his sister, still bearing her own crown piece and determined to keep her brother from succeeding, followed along with Hellboy and the BPRD agents around him, specifically [Abraham Sapien](/entry/Abraham_Sapien).
 
-![](/content/images/Royal_siblings.jpg)
+![](/content/images/Royal_siblings.webp)
 Nuada found his sister
 
 Nuada tracked his sister to [BPRD](/entry/Bureau_for_Paranormal_Research_and_Defense) headquarters. She attempted to burn the map leading to Bethmoora that would give him the secret location of the Golden Army. However, Nuada revealed that the real map was on the canister she obtained, not the paper map as she had presumed. Hellboy tried to fight the bellicose prince, but is thoroughly thrashed and mortally wounded by the cunning Nuada. He wounded the demon with a shard of his magical silver spear (apparently the reason for his film-based epithet, Silverlance). He took his sister, demanding to Abe Sapien, with whom Nuala had become very fond and tender, to give him the last piece of the crown since it remained hidden in the BPRD library.
 
 ### Final confrontation
 
-![](/content/images/Prince_nuada.jpg)
+![](/content/images/Prince_nuada.webp)
 Challenge accepted
 
 He vanished with Nuala and traveled to the [resting place](/entry/Bethmora) of the Golden Army. Fearing for Nuala's life, Abe and the others followed to Ireland where Hellboy was healed. To the dismay of the others, Abe had brought the last piece of the crown and gave it willingly to Nuada. Hellboy, a prince of sorts himself, challenged Nuada's right to the crown in a duel (Nuala reminded her brother that the demon was considered royalty in Sheol).

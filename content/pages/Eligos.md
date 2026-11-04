@@ -1,4 +1,4 @@
-![Eligos](/content/images/Eligos%20001.jpg)
+![Eligos](/content/images/Eligos%20001.webp)
 
 **Eligos** was a demon, a duke, and a knight of the Order of the Fly. He used to command sixty of Hell's legions, but after his defeat at [Hellboy's](/entry/Hellboy%20%28character%29) hands on the bridge of [Morgan Le Fey](/entry/Morgan%20Le%20Fey)'s castle during the events of *[The Wild Hunt](/entry/The%20Wild%20Hunt)*, he was stripped of his rank and power, and cast down into the pit.
 

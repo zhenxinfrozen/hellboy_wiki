@@ -1,6 +1,6 @@
 *本条目仍是一个小作品（stub）。你可以帮助地狱男爵维基扩充它。*
 
-![](/content/images/The%20Snake.jpg)
+![](/content/images/The%20Snake.webp)
 
 **蛇（The Snake）**是一个角色，首次登场于短篇故事 *[《魔术师与蛇》](/entry/The_Magician_and_the_Snake)*，是标题所指的两位角色之一。此后它又在 *[《地狱男爵在地狱》](/entry/Hellboy_in_Hell_(series))* 与 *[《不死者科西切》](/entry/Koshchei_(series))* 的故事线中登场。
 

@@ -21,6 +21,6 @@
 *《恋爱中的地狱男爵》* \#2  
 *《哥布林之夜》*（第二部分）
 
-![Hellboy in Love #2<br />Goblin Night (Part 2)](/content/images/Hellboy%20in%20Love%202.jpg)
+![Hellboy in Love #2<br />Goblin Night (Part 2)](/content/images/Hellboy%20in%20Love%202.webp)
 
 |Hellboy in Love #2<br />Goblin Night (Part 2)

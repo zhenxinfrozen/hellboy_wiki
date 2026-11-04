@@ -6,7 +6,7 @@
 
 ### Legend（传奇）
 
-![](/content/images/Legend.jpg)
+![](/content/images/Legend.webp)
 
 1994 年，黑马漫画推出了“Legend”出版厂牌。受 Malibu Comics 旗下 Image 的启发，Legend 专注于创作者自有版权的作品，推介一批知名漫画创作者的原创系列。米格诺拉的《地狱男爵》成为该厂牌最早的刊物之一。其他 Legend 创作者包括 [约翰·伯恩（John Byrne）](/entry/John_Byrne)、亚特·亚当斯（Art Adams）、弗兰克·米勒（Frank Miller）、戴夫·吉本斯（Dave Gibbons）和杰夫·达罗（Geof Darrow）。
 

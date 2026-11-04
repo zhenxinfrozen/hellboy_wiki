@@ -1,4 +1,4 @@
-![](/content/images/ManticoreVsSarahJewell.jpeg)
+![](/content/images/ManticoreVsSarahJewell.webp)
 
 The **manticore** is a type of monster from Persian mythology.
 

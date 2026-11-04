@@ -25,14 +25,14 @@ All covers by [Sebastián Fiumara](/entry/Sebasti%C3%A1n_Fiumara).
 
 Issue \#1
 
-![Issue #2](/content/images/Time%20Out%20of%20Mind%202.jpg)
+![Issue #2](/content/images/Time%20Out%20of%20Mind%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Time%20Out%20of%20Mind%203.jpg)
+![Issue #3](/content/images/Time%20Out%20of%20Mind%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Time%20Out%20of%20Mind%204.jpg)
+![Issue #4](/content/images/Time%20Out%20of%20Mind%204.webp)
 
 |Issue #4

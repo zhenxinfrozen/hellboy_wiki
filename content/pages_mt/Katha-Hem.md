@@ -29,6 +29,6 @@
 
 Katha-Hem.png
 
-![](/content/images/Katha-Hem.png)
+![](/content/images/Katha-Hem.webp)
 
 |

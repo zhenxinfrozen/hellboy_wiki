@@ -44,24 +44,24 @@ Hellboy helps the ghost of Rasputin be a more convincing ghost.
 
 ## Gallery
 
-![](/content/images/Itty_Bitty_Hellboy_1.jpg)
+![](/content/images/Itty_Bitty_Hellboy_1.webp)
 
-![](/content/images/Itty_Bitty_Hellboy_1_Variant.jpg)
+![](/content/images/Itty_Bitty_Hellboy_1_Variant.webp)
 
  \#1 variant
 
-![](/content/images/Itty_Bitty_Hellboy_2.jpg)
+![](/content/images/Itty_Bitty_Hellboy_2.webp)
 
-![](/content/images/Itty_Bitty_Hellboy_4.jpg)
+![](/content/images/Itty_Bitty_Hellboy_4.webp)
 
  \#4
 
-![](/content/images/Itty_Bitty_Hellboy_5.jpg)
+![](/content/images/Itty_Bitty_Hellboy_5.webp)
 
  \#5
 
-![](/content/images/Itty_Bitty_Hellboy.jpg)
+![](/content/images/Itty_Bitty_Hellboy.webp)
 
-![](/content/images/Halloween_ComicFest_Itty_Bitty_Hellboy.jpg)
+![](/content/images/Halloween_ComicFest_Itty_Bitty_Hellboy.webp)
 
-![](/content/images/Free_Comic_Book_Day_2014_-_All_Ages.png)
+![](/content/images/Free_Comic_Book_Day_2014_-_All_Ages.webp)

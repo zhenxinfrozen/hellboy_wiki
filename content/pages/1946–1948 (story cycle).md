@@ -14,12 +14,12 @@
 
 *1946–1948* was originally collected in [trade paperbacks](/entry/TPB) without the cycle title, alongside other B.P.R.D. stories.
 
-![BPRD_1940s_Trade_Collections.jpg](/content/images/BPRD_1940s_Trade_Collections.jpg)
+![BPRD_1940s_Trade_Collections.jpg](/content/images/BPRD_1940s_Trade_Collections.webp)
 670 px|center|The three <em>B.P.R.D.</em> 1940s trade paperbacks.
 
 The series was collected in an [omnibus edition](/entry/B.P.R.D.%20Omnibus%20Editions) in June 2015.
 
-![Omnibus_BPRD_1946-1947-1948.jpg](/content/images/Omnibus_BPRD_1946-1947-1948.jpg)
+![Omnibus_BPRD_1946-1947-1948.jpg](/content/images/Omnibus_BPRD_1946-1947-1948.webp)
 220 px|center|The omnibus edition.
 
 **Category:Comics**

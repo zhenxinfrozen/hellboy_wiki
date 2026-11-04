@@ -1,4 +1,4 @@
-![Broken Vessels](/content/images/Broken_Vessels_-_Title_Panel.jpg)
+![Broken Vessels](/content/images/Broken_Vessels_-_Title_Panel.webp)
 
 This short story originally appeared in the *[Hellboy Winter Special](/entry/Hellboy%20Winter%20Special)*. It is the Hellboy Universe debut of Tim Sale. The story focuses on [Gall Dennar](/entry/Gall%20Dennar) in prehistoric times. It is the only Hellboy universe story which does not fall under a specific title as it has not been collected or tied to any other stories.
 

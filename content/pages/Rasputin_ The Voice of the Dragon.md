@@ -1,4 +1,4 @@
-![Rasputin: The Voice of the Dragon](/content/images/Rasputin-TVotD1_Mignola.jpg)
+![Rasputin: The Voice of the Dragon](/content/images/Rasputin-TVotD1_Mignola.webp)
 
 ***Rasputin: The Voice of the Dragon*** is a five-issue miniseries written by Mike Mignola and Chris Roberson with art by Christopher Mitten.
 

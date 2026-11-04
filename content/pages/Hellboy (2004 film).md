@@ -22,9 +22,9 @@ In 1944, Russian mystic [Grigori Rasputin](/entry/Grigori%20Rasputin) works with
 
 ## Trivia
 
-![M1_garand.jpg](/content/images/M1_garand.jpg)  
+![M1_garand.jpg](/content/images/M1_garand.webp)  
 During the opening sequence of the film, Sgt. Whitman and several other soldiers use M1 Garands.  
-![Whitman_m1.jpg](/content/images/Whitman_m1.jpg)
+![Whitman_m1.jpg](/content/images/Whitman_m1.webp)
 
 ## References
 

@@ -1,4 +1,4 @@
-![](/content/images/Front%20Page%20-%20Miss%20Truesdale.png)
+![](/content/images/Front%20Page%20-%20Miss%20Truesdale.webp)
 
 ***《特鲁兹代尔小姐》***（Miss Truesdale）是一系列漫画，围绕角色[玛格丽特·特鲁兹代尔](/entry/Margaret_Truesdale)（Margaret Truesdale）——一位与拉神赫利奥皮斯兄弟会（Heliopic Brotherhood of Ra）有所牵连的维多利亚时代女性——以及[阿努姆·亚萨](/entry/Anum_Yassa)（Anum Yassa）——一名许珀耳玻瑞亚角斗士——展开，讲述他们两人的命运如何交织在一起。它是*[《地狱男爵》](/entry/Hellboy_(series))*系列的衍生作品，探寻地狱男爵宇宙的历史。
 

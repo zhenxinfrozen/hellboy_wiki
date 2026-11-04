@@ -1,4 +1,4 @@
-![](/content/images/Cedu-Barra.jpg)
+![](/content/images/Cedu-Barra.webp)
 
 塞杜-巴拉（Cedu-Barra）是一位[海伯利亚人](/entry/Hyperboreans)巫师，也是秘火（Secret Fire）的祭司。
 

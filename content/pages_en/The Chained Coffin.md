@@ -26,7 +26,7 @@ In the letter to Abe, Hellboy mentions the events at Cavenish Hall (in *[Seed of
 
 The black and white version included a brief mention of Dr. Robert Carson, a character created by [John Byrne](/entry/John_Byrne) from *Danger Unlimited*. Doc Carson's appearance was part of a plan for an Adams-Byrne-Mignola shared universe. However, Doc Carson was removed for the color version when it was collected in *[Hellboy – Volume 3: The Chained Coffin and Others](/entry/Trade_Collections)*, in August 1998; by this point, the shared universe plans had been abandoned.
 
-![](/content/images/The_Chained_Coffin_changes.jpg)
+![](/content/images/The_Chained_Coffin_changes.webp)
 The_Chained_Coffin_changes.jpg
 
 ***Left:** Black and white 1995 version

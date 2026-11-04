@@ -1,4 +1,4 @@
-![Angus Weir](/content/images/Angus%20Weir.png)
+![Angus Weir](/content/images/Angus%20Weir.webp)
 
 **Angus Weir** was an early 19th century warlock who sold his soul, but then sought to cheat his masters in Hell. In 1813, on All Hallows' Eve, the lords of Hell sent a horde of demons to snatch up Weir and his house from off the coast of Scotland, and brought it to Acheron. Weir did not survived the trip, but with his dying breath he renounced all his evil works and begged that he be forgiven and inscribed magical wards which barred any demon and creature of Hell from ever entering his home.
 

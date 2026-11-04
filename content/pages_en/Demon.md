@@ -1,6 +1,6 @@
 *For the Injustice 2 guest appearance, see [Demon (Injustice)](/entry/Demon_(Injustice)).*
 
-![](/content/images/Demonkind.jpeg)
+![](/content/images/Demonkind.webp)
 
 Lucifer, Astaroth, Beelzebub… Attend me now and I will have no fear of the bottomless pit…. for thou art with me… Lilith, Queen of Shadows, walks at my right hand… Belial and his legions at my back… Azael and all his legions before me… Sammael, who tempted Eve in Paradise, is with me… Leraje, who sows discord between nations, he is with me… Sallos, who enflames the hearts of men, he is with me… Labolas, author of bloodshed and manslaughter, he is with me… Focalor, who commands the winds and sea, to drown men and wreck ships, he and all his legions are with me… I will be exalted until the heights of Pandemonium, city of flies… And I will exalted on the Earth… for thou art with me.
 

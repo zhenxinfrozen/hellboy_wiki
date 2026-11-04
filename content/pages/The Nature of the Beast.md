@@ -1,4 +1,4 @@
-![The Nature of the Beast](/content/images/DHP_151.jpg)
+![The Nature of the Beast](/content/images/DHP_151.webp)
 
 [Hellboy](/entry/Hellboy) is sent to slay a dragon.
 

@@ -18,11 +18,11 @@
 
 ## 画廊
 
-![](/content/images/Wink.jpg)
+![](/content/images/Wink.webp)
 
  与牙仙们在一起。
 
-![](/content/images/Wink_014.JPG)
+![](/content/images/Wink_014.webp)
 
 ## 趣闻
 

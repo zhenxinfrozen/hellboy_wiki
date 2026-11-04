@@ -4,7 +4,7 @@
 
 Effie is the first witch [Tom Ferrell](/entry/Tom_Ferrell) ever met, having taught Tom about the pleasures of female companionship along with tricking him into forming a pact with her master Witkins, whose sorcery maintains her youthful appearance. When Tom returns to Virginia in 1958, Effie taunts him, revealing that she turned his elderly father into a horse with a magic bridle, then rode him until he died of exhaustion. During the standoff between Witkins and Tom at the old church in "The Hurricane", Effie dances seductively among Wikins's minions, inviting Tom to embrace the dark side, and her, once again.
 
-After Witkins is finally destroyed, Tom and Hellboy find Effie skulking outside his mansion, her body now reflecting its true age. Feeble and helpless, she pleads for mercy, but receives little from Tom, who forces the magic bridle into her mouth, turning her into a nag. To add insult to injury, [Hellboy](/entry/Hellboy_%28character%29) paints a warning on Effie's side to keep people away from her, thus ensuring that the bridle will never be removed, and she will spend the rest of her known life as a nag. ![](/content/images/Effie_Kolb_%28returned%29.jpg)
+After Witkins is finally destroyed, Tom and Hellboy find Effie skulking outside his mansion, her body now reflecting its true age. Feeble and helpless, she pleads for mercy, but receives little from Tom, who forces the magic bridle into her mouth, turning her into a nag. To add insult to injury, [Hellboy](/entry/Hellboy_%28character%29) paints a warning on Effie's side to keep people away from her, thus ensuring that the bridle will never be removed, and she will spend the rest of her known life as a nag. ![](/content/images/Effie_Kolb_%28returned%29.webp)
 
 ### [The Return of Effie Kolb](/entry/The_Return_of_Effie_Kolb)
 
@@ -14,7 +14,7 @@ By 1967, Effie has returned, having through unknown methods removed the bridle, 
 
 Effie Kolb worked as a recruiter for the Crooked Man over the years, bringing many women to witchcraft and their souls to her master. Aside from having vast knowledge of witchcraft she exhibited the ability to ride a horse (actually Tom's transformed father) against his will, leap from his back to a great height and evade Hellboy's gunfire.
 
-![](/content/images/Effieold.jpg)
+![](/content/images/Effieold.webp)
 The ugly truth.|164x164px
 
 Her most prominent power is her retained youthfulness, she looks to be in her teens, but is at the end revealed to be much, much older. It is possible she crafted the [Magic horse's bit](/entry/Magic_horse%27s_bit), with or without the aid of the Crooked Man.

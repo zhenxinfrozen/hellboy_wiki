@@ -1,4 +1,4 @@
-![Bprdlogos-000.jpg](/content/images/Bprdlogos-000.jpg) The **Bureau for Paranormal Research and Defense** (the **B.P.R.D.** or **BPRD**) is an organization charged with protecting America and the world from the occult, paranormal and supernatural. It retains the services of several supernatural persons, including [Hellboy](/entry/Hellboy%20%28character%29). The BPRD originally appeared in the *Hellboy* comics but has also been featured in many stories under the *BPRD* title.
+![Bprdlogos-000.jpg](/content/images/Bprdlogos-000.webp) The **Bureau for Paranormal Research and Defense** (the **B.P.R.D.** or **BPRD**) is an organization charged with protecting America and the world from the occult, paranormal and supernatural. It retains the services of several supernatural persons, including [Hellboy](/entry/Hellboy%20%28character%29). The BPRD originally appeared in the *Hellboy* comics but has also been featured in many stories under the *BPRD* title.
 
 ## History
 
@@ -16,7 +16,7 @@ The B.P.R.D. has recently become an international organization with support from
 
 ## Agents
 
-![Agents.png](/content/images/Agents.png)
+![Agents.png](/content/images/Agents.webp)
 Some notable BPRD agents. Left to right: <a href="Johann_Kraus" title="wikilink">Johann Kraus</a>, <a href="Liz_Sherman" title="wikilink">Liz Sherman</a>, <a href="Abe_Sapien" title="wikilink">Abe Sapien</a>, <a href="Roger" title="wikilink">Roger</a>, <a href="Kate_Corrigan" title="wikilink">Kate Corrigan</a>.
 
 ### Enhanced Talents Agents

@@ -47,30 +47,30 @@
 第 \#4 期变体封面  
 作者：A.H. Szabla
 
-![Issue #1 variant cover<br/>by Vanesa Del Rey](/content/images/Castle%20Full%20of%20Blackbirds%20Del%20Rey%20variant.jpg)
+![Issue #1 variant cover<br/>by Vanesa Del Rey](/content/images/Castle%20Full%20of%20Blackbirds%20Del%20Rey%20variant.webp)
 
 |Issue #1 variant cover<br/>by Vanesa Del Rey
 
-![第 #2 期](/content/images/Castle%20Full%20of%20Blackbirds%202.jpg)
+![第 #2 期](/content/images/Castle%20Full%20of%20Blackbirds%202.webp)
 
 |第 #2 期
 
-![Issue #2 variant cover<br/>by Marianna Strychowska](/content/images/Castle%20Full%20of%20Blackbirds%202%20Strychowska.jpg)
+![Issue #2 variant cover<br/>by Marianna Strychowska](/content/images/Castle%20Full%20of%20Blackbirds%202%20Strychowska.webp)
 
 |Issue #2 variant cover<br/>by Marianna Strychowska
 
-![第 #3 期](/content/images/Castle%20Full%20of%20Blackbirds%203.jpg)
+![第 #3 期](/content/images/Castle%20Full%20of%20Blackbirds%203.webp)
 
 |第 #3 期
 
-![Issue #3 variant cover<br/>by Evangeline Gallagher](/content/images/Castle%20Full%20of%20Blackbirds%203%20Gallagher.jpg)
+![Issue #3 variant cover<br/>by Evangeline Gallagher](/content/images/Castle%20Full%20of%20Blackbirds%203%20Gallagher.webp)
 
 |Issue #3 variant cover<br/>by Evangeline Gallagher
 
-![第 #4 期](/content/images/Castle%20Full%20of%20Blackbirds%204.jpg)
+![第 #4 期](/content/images/Castle%20Full%20of%20Blackbirds%204.webp)
 
 |第 #4 期
 
-![Issue #4 variant cover<br/>by A.H. Szabla](/content/images/Castle%20Full%20of%20Blackbirds%204%20Szabla.jpg)
+![Issue #4 variant cover<br/>by A.H. Szabla](/content/images/Castle%20Full%20of%20Blackbirds%204%20Szabla.webp)
 
 |Issue #4 variant cover<br/>by A.H. Szabla

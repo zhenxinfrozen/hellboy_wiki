@@ -8,6 +8,6 @@ A missing group of teens in Oregon’s backwoods leads [Hellboy](/entry/Hellboy_
 
 Cover by [Shawn Martinbrough](/entry/Shawn_Martinbrough).
 
-![](/content/images/Secret_Nature.jpg)
+![](/content/images/Secret_Nature.webp)
 
 |*Secret Nature*

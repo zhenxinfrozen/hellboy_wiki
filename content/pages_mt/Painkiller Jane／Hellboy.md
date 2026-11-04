@@ -11,6 +11,6 @@
 
 *变体封面作者：Joe Quesada*
 
-![variant cover by Joe Quesada](/content/images/Painkiller%20Jane%20Hellboy.png)
+![variant cover by Joe Quesada](/content/images/Painkiller%20Jane%20Hellboy.webp)
 
 |variant cover by Joe Quesada

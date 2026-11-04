@@ -21,15 +21,15 @@
 
 约姆雅尔召唤比弗隆斯
 
-![](/content/images/Bifrons4.jpeg)
+![](/content/images/Bifrons4.webp)
 
 |
 
-![](/content/images/Bifrons3.jpeg)
+![](/content/images/Bifrons3.webp)
 
 |
 
-![Yomayel summons Bifrons](/content/images/Bifrons.jpeg)
+![Yomayel summons Bifrons](/content/images/Bifrons.webp)
 
 |Yomayel summons Bifrons
 ## 登场

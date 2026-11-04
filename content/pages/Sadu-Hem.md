@@ -1,4 +1,4 @@
-![Sadu-Hem](/content/images/Sadu-Hem%20002.png)
+![Sadu-Hem](/content/images/Sadu-Hem%20002.webp)
 
 The **Sadu-Hem** was one of the 369 Ogdru Hem, the children of the [Ogdru Jahad](/entry/Ogdru%20Jahad).
 

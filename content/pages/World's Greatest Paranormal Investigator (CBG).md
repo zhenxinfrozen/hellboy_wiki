@@ -1,4 +1,4 @@
-![World's Greatest Paranormal Investigator (CBG)](/content/images/CBG.jpg)
+![World's Greatest Paranormal Investigator (CBG)](/content/images/CBG.webp)
 
 ## Publication History
 

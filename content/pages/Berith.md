@@ -1,4 +1,4 @@
-![Berith](/content/images/Berith.jpg)
+![Berith](/content/images/Berith.webp)
 
 **Berith** was a demon that attempted to cross in the mortal world through a human host.
 

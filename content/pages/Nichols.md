@@ -1,4 +1,4 @@
-![Nichols](/content/images/Nichols.jpg)
+![Nichols](/content/images/Nichols.webp)
 
 Agent **Nichols** is a field agent for the [B.P.R.D.](/entry/Bureau%20for%20Paranormal%20Research%20and%20Defense) He has been with the Bureau since the [Nebraska incident](/entry/Katha-Hem) in March 2006. He was trained by veteran Bureau member [Pauline Raskin](/entry/Pauline%20Raskin) .
 

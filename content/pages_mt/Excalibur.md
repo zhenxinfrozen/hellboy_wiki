@@ -1,4 +1,4 @@
-![](/content/images/Excalibur2.jpg)
+![](/content/images/Excalibur2.webp)
 Excalibur2.jpg
 
 **王者之剑（Excalibur）**是[亚瑟王](/entry/King_Arthur)所持的传说之剑。亚瑟死后，这把剑在数百年后重见天日。亚瑟的后裔、不列颠名正言顺的国王——[地狱男爵](/entry/Hellboy_%28character%29)——将它从石头中拔了出来。

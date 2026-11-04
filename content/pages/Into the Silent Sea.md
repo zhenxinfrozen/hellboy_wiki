@@ -2,7 +2,7 @@
 
 ## Publication History
 
-![The_Storm_-_Silent_Sea_flashback_panel.jpg](/content/images/The_Storm_-_Silent_Sea_flashback_panel.jpg)Mignola deliberately set aside this story for Gary Gianni when he drew a panel in [*Hellboy: The Storm* \#1](/entry/The%20Storm) which featured Hellboy referring to a story that hadn't been told yet.
+![The_Storm_-_Silent_Sea_flashback_panel.jpg](/content/images/The_Storm_-_Silent_Sea_flashback_panel.webp)Mignola deliberately set aside this story for Gary Gianni when he drew a panel in [*Hellboy: The Storm* \#1](/entry/The%20Storm) which featured Hellboy referring to a story that hadn't been told yet.
 
 Gianni was given the freedom to do whatever he wanted. He and Mignola co-wrote the story by bouncing ideas back and forth until the plot was nailed down, then Gianni scripted it and Mignola revised the script to get Hellboy's dialogue right.[1]
 

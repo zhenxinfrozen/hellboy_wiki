@@ -1,4 +1,4 @@
-![](/content/images/Merfolk.png)
+![](/content/images/Merfolk.webp)
 
 The **Merfolk** are a race of aquatic humanoids that live beneath the seas.
 

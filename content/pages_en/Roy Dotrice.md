@@ -1,4 +1,4 @@
-![](/content/images/Roy%203-2004.jpg)
+![](/content/images/Roy%203-2004.webp)
 
 Roy Dotrice (1923-2017) was the celebrated actor who portrayed King Balor in Hellboy 2: The Golden Army. He was born on Guernsey, served with the R.A.F. and spent nearly three years as a prisoner of war in a German prison camp during WWII.
 

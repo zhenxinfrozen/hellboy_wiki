@@ -22,10 +22,10 @@ Although the [Ogdru Jahad](/entry/Ogdru_Jahad) were often spoken of as residing 
 
 Pluto residing in the Abyss.
 
-![Creatures in the Abyss.](/content/images/Abyss%20creatures.png)
+![Creatures in the Abyss.](/content/images/Abyss%20creatures.webp)
 
 |Creatures in the Abyss.
 
-![Ditto.](/content/images/Abyss%20creatures2.png)
+![Ditto.](/content/images/Abyss%20creatures2.webp)
 
 |Ditto.

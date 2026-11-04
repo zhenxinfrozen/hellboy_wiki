@@ -1,4 +1,4 @@
-![Perun](/content/images/Perun%20001.png)
+![Perun](/content/images/Perun%20001.webp)
 
 **Perun** was an ancient god of Slavic Mythology who acted as its highest god and lord of the Slavic Pantheon. He acted as God of Lightning and Thunder.
 

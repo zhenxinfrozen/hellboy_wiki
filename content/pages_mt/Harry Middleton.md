@@ -20,11 +20,11 @@
 
 ## 画廊
 
-![](/content/images/Hellboy1953.jpg)
+![](/content/images/Hellboy1953.webp)
 
 （左）1953年与布鲁姆在一起[14]
 
-![](/content/images/Middleton.jpg)
+![](/content/images/Middleton.webp)
 
  送给地狱男爵一把 M1911 手枪。[15]
 

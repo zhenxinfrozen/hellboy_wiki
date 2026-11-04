@@ -1,4 +1,4 @@
-![Corafisher.jpg](/content/images/Corafisher.jpg) **Cora Fisher** was an inhabitant of the area near The Hurricane in the Appalachian mountains who had grown up with [Tom Ferrell](/entry/Tom%20Ferrell) and had married her childhood sweetheart.
+![Corafisher.jpg](/content/images/Corafisher.webp) **Cora Fisher** was an inhabitant of the area near The Hurricane in the Appalachian mountains who had grown up with [Tom Ferrell](/entry/Tom%20Ferrell) and had married her childhood sweetheart.
 
 Sadly enough, after losing both her husband and children she was tempted into becoming a witch (presumably by [Effie Kolb](/entry/Effie%20Kolb)) in service to [The Crooked Man](/entry/Jeremiah%20Witkins).
 

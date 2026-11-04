@@ -1,4 +1,4 @@
-![Noh monkey](/content/images/Noh_monkey.jpg)
+![Noh monkey](/content/images/Noh_monkey.webp)
 
 Very little is known about this creature, not even its real name. The creature is somehow connected to [Ben Daimio](/entry/Ben%20Daimio) and to his grandmother, the [Crimson Lotus](/entry/Crimson%20Lotus) and has been shown to posses the ability to mimic the voice of others.
 

@@ -1,4 +1,4 @@
-![](/content/images/Oannes_Society.png) **奥安尼斯学会（Oannes Society）**是从[拉神赫利奥皮斯兄弟会](/entry/Heliopic_Brotherhood_of_Ra)中分裂出来的一个团体，由该组织的前成员组成，他们相信神祇[阿图姆](/entry/Atum)起源于海洋。
+![](/content/images/Oannes_Society.webp) **奥安尼斯学会（Oannes Society）**是从[拉神赫利奥皮斯兄弟会](/entry/Heliopic_Brotherhood_of_Ra)中分裂出来的一个团体，由该组织的前成员组成，他们相信神祇[阿图姆](/entry/Atum)起源于海洋。
 
 ## 历史
 

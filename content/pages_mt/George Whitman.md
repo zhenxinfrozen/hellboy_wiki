@@ -6,7 +6,7 @@
 
 ## 其他媒体
 
-![](/content/images/George_Whitman.jpg)
+![](/content/images/George_Whitman.webp)
  Agnus Maclnnes 饰演乔治·惠特曼
 
 - 乔治·惠特曼登场于*[《地狱男爵》](/entry/Hellboy_%28film%29)*，由 Agnus Maclnnes 饰演；他是一名陆军中士，率领军方突袭特隆汉姆修道院废墟。他的任务是破坏拉斯普廷的仪式、击败纳粹部队。

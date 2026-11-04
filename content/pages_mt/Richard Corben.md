@@ -22,30 +22,30 @@
 
 ## 画廊
 
-![Hellboy: Makoma #2](/content/images/Makoma%202.jpg)
+![Hellboy: Makoma #2](/content/images/Makoma%202.webp)
 
 |Hellboy: Makoma #2
 
-![Hellboy: The Crooked Man #1](/content/images/The%20Crooked%20Man%201.jpg)
+![Hellboy: The Crooked Man #1](/content/images/The%20Crooked%20Man%201.webp)
 
 |Hellboy: The Crooked Man #1
 
-![Hellboy: The Crooked Man #2](/content/images/The%20Crooked%20Man%202.jpg)
+![Hellboy: The Crooked Man #2](/content/images/The%20Crooked%20Man%202.webp)
 
 |Hellboy: The Crooked Man #2
 
-![Hellboy: The Crooked Man #3](/content/images/The%20Crooked%20Man%203.jpg)
+![Hellboy: The Crooked Man #3](/content/images/The%20Crooked%20Man%203.webp)
 
 |Hellboy: The Crooked Man #3
 
-![Hellboy in Mexico](/content/images/In%20Mexico.jpg)
+![Hellboy in Mexico](/content/images/In%20Mexico.webp)
 
 |Hellboy in Mexico
 
-![Hellboy: Double Feature of Evil](/content/images/Double%20Evil.jpg)
+![Hellboy: Double Feature of Evil](/content/images/Double%20Evil.webp)
 
 |Hellboy: Double Feature of Evil
 
-![Hellboy: Being Human](/content/images/Being%20Human.jpg)
+![Hellboy: Being Human](/content/images/Being%20Human.webp)
 
 |Hellboy: Being Human

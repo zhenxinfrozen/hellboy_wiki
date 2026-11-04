@@ -60,26 +60,26 @@ variant by Geof Darrow
 *Frankenstein Undone* TPB cover  
 by Mike Mignola
 
-![Issue #1](/content/images/FrankensteinUndone%201.jpg)
+![Issue #1](/content/images/FrankensteinUndone%201.webp)
 
 |Issue #1
 
-![Issue #4](/content/images/FrankensteinUndone%204%20Stenbeck.jpg)
+![Issue #4](/content/images/FrankensteinUndone%204%20Stenbeck.webp)
 
 |Issue #4
 
-![Issue #4<br>variant by Sanford Greene](/content/images/FrankensteinUndone%204%20Greene.jpg)
+![Issue #4<br>variant by Sanford Greene](/content/images/FrankensteinUndone%204%20Greene.webp)
 
 |Issue #4<br>variant by Sanford Greene
 
-![Issue #5](/content/images/FrankensteinUndone%205%20Stenbeck.jpg)
+![Issue #5](/content/images/FrankensteinUndone%205%20Stenbeck.webp)
 
 |Issue #5
 
-![Issue #5<br>variant by Geof Darrow](/content/images/FrankensteinUndone%205%20Darrow.jpg)
+![Issue #5<br>variant by Geof Darrow](/content/images/FrankensteinUndone%205%20Darrow.webp)
 
 |Issue #5<br>variant by Geof Darrow
 
-![Frankenstein Undone TPB cover<br>by Mike Mignola](/content/images/Frankenstein%20Undone%20Trade.jpg)
+![Frankenstein Undone TPB cover<br>by Mike Mignola](/content/images/Frankenstein%20Undone%20Trade.webp)
 
 |Frankenstein Undone TPB cover<br>by Mike Mignola

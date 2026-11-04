@@ -3,22 +3,22 @@
 ## Gallery
 
 
-![](/content/images/Steel%20Hawk%20File.jpg)
+![](/content/images/Steel%20Hawk%20File.webp)
 
 |
 
-![](/content/images/Steel%20Hawks%20Stuff.jpg)
+![](/content/images/Steel%20Hawks%20Stuff.webp)
 
 |
 
-![](/content/images/Steel%20Hawk%20Sledgehammer.jpg)
+![](/content/images/Steel%20Hawk%20Sledgehammer.webp)
 
 |
 
-![](/content/images/Steel%20Hawk%20and%20H.jpg)
+![](/content/images/Steel%20Hawk%20and%20H.webp)
 
 |
 
-![](/content/images/Steel%20Hawk%20Punched.jpg)
+![](/content/images/Steel%20Hawk%20Punched.webp)
 
 |

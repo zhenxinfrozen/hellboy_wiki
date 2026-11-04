@@ -1,4 +1,4 @@
-![](/content/images/GarmByMattSmith.jpg)
+![](/content/images/GarmByMattSmith.webp)
 
 **Garm**, the hound of Gnipahellir, is a monster from Norse mythology.
 

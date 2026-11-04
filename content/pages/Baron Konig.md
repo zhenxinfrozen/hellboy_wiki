@@ -1,4 +1,4 @@
-![Baron Konig](/content/images/Baron_Konig.jpg)
+![Baron Konig](/content/images/Baron_Konig.webp)
 
 **Baron Konig** was a vampire that [Trevor Bruttenholm](/entry/Trevor%20Bruttenholm) encountered in 1946. Unlike other vampires, Konig transforms not into a bat, but into a white owl.
 

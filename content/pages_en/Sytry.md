@@ -1,4 +1,4 @@
-![](/content/images/Sytry.jpeg)
+![](/content/images/Sytry.webp)
 
 **Sytry** was a high-ranking [demon](/entry/Demon).
 

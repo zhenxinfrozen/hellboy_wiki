@@ -1,4 +1,4 @@
-![Heads](/content/images/Drums_of_the_Dead.jpg)
+![Heads](/content/images/Drums_of_the_Dead.webp)
 
 Hellboy travels Japan, and deals with Demons.
 

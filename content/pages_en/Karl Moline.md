@@ -9,6 +9,6 @@
 
 ## Gallery
 
-![The Dead Remembered #1 Variant](/content/images/The%20Dead%20Remembered%2001b.jpg)
+![The Dead Remembered #1 Variant](/content/images/The%20Dead%20Remembered%2001b.webp)
 
 |The Dead Remembered #1 Variant

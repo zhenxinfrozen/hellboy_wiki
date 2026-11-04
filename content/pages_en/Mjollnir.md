@@ -1,4 +1,4 @@
-![](/content/images/Mjollnir.jpeg)
+![](/content/images/Mjollnir.webp)
 
 **Mjollnir** (or **Mjölnir**) was the hammer of [Thor](/entry/Thor) of the Aesir.
 

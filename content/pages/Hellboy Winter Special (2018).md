@@ -1,4 +1,4 @@
-![Hellboy Winter Special (2018)](/content/images/Hellboy%20Winter%20Special%20%282018%29.jpg)
+![Hellboy Winter Special (2018)](/content/images/Hellboy%20Winter%20Special%20%282018%29.webp)
 
 **Hellboy Winter Special (2018)** is an upcoming December 2018 anthology special featuring three stories.
 

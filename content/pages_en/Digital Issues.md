@@ -60,7 +60,7 @@ Release Date
 Collects
 
 &#10;
-![](/content/images/Digital%20-%20Hellboy%20-%20Coffin%20Baba.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Coffin%20Baba.webp)
 Hellboy:
 The Chained Coffin /
 The Baba Yaga
@@ -69,7 +69,7 @@ April 4, 2011
 <li>The Chained Coffin</li>
 <li>The Baba Yaga</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Pancakes%20Nature%20Vold%20Heads.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Pancakes%20Nature%20Vold%20Heads.webp)
 Hellboy:
 The Nature of the Beast
 and Others
@@ -80,7 +80,7 @@ April 26, 2011
 <li>King Vold</li>
 <li>Heads</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Doom.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Doom.webp)
 Hellboy:
 The Right Hand of Doom
 and Others
@@ -90,7 +90,7 @@ April 26, 2011
 <li>The Vârcolac</li>
 <li>The Right Hand of Doom</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Prague%20Carp.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Prague%20Carp.webp)
 Hellboy:
 The Vampire of Prague /
 Dr. Carp's Experiment
@@ -99,7 +99,7 @@ May 4, 2011
 <li>The Vampire of Prague</li>
 <li>Dr. Carp's Experiment</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Troll%20Penanggalan%20Hydra.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Troll%20Penanggalan%20Hydra.webp)
 Hellboy:
 The Troll Witch
 and Others
@@ -109,7 +109,7 @@ May 4, 2011
 <li>The Penanggalan</li>
 <li>The Hydra and the Lion</li>
 
-![](/content/images/Casualties.jpeg)
+![](/content/images/Casualties.webp)
 B.P.R.D.:
 Casualties
 July, 2011 (Retailer Exclusive)
@@ -117,7 +117,7 @@ March 1, 2012 (DH Digital)
 
 <li>Casualties</li>
 
-![](/content/images/Revival%20War%20on%20Frogs%205.jpg)
+![](/content/images/Revival%20War%20on%20Frogs%205.webp)
 B.P.R.D.:
 War on Frogs #5
 October 5, 2011

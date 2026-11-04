@@ -1,4 +1,4 @@
-![Bruno Karhu](/content/images/Bruno%20Karhu.jpg)
+![Bruno Karhu](/content/images/Bruno%20Karhu.webp)
 
 **Bruno Karhu** is a German police inspector who was romantically involved with [Dr. Kate Corrigan](/entry/Kate%20Corrigan). He was scheduled to meet her in England in *[An Unmarked Grave](/entry/An%20Unmarked%20Grave)*, but instead broke off their romantic relationship via phone from Munich.
 

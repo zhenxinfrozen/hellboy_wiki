@@ -11,6 +11,6 @@ Later, an imminent eclipse of the moon offered the Nohox Kanis another chance en
 ## Gallery
 
 
-![](/content/images/Nohox%20kanis.png)
+![](/content/images/Nohox%20kanis.webp)
 
 |

@@ -6,7 +6,7 @@
 
 Memnan Saa was originally Martin Gilfryd, a head curator of the British Museum's Egyptology Department during the mid-nineteenth century. He later became associated with the [Heliopic Brotherhood of Ra](/entry/Heliopic%20Brotherhood%20of%20Ra), which is mostly due to his position and connections with Egyptology that the Brotherhood was interested when it was popular at the time. But Gilfryd possessed an ambitious mania that alienated the Brotherhood.
 
-![Martingilfryd.jpg](/content/images/Martingilfryd.jpg)
+![Martingilfryd.jpg](/content/images/Martingilfryd.webp)
 Martin Gilfryd
 
 Gilfryd met [Panya](/entry/Panya) the living mummy after she was unwrapped in 1859 and frequently asked her about her miraculous resurrection in which she uncomfortably declined to answer him. Because of Gilfryd's social contact with Panya, the Brotherhood grown very wary of Gilfryd and consequently banned him from their society forever. Not much later Gilfryd entered a rough period and became a disciple of occultist [Gustav Strobl](/entry/Gustav%20Strobl), who taught him the dark arts. But filled with greed and mania, Gilfryd killed his mentor and was subsequently caught by the London authorities and sentenced to Bedlam Royal Hospital in May 18th, 1867. In 1879, Gilfryd was contacted by Witchfinder Sir [Edward Grey](/entry/Edward%20Grey), who needed his help in stopping a resurrected Hyperborean creature. After the creature was killed, Gilfryd attempted to flee, but was shockingly confronted by the ghost of Gustav Strobl, who mockingly told him that Gilfryd was incapable in harnessing the magic that he had taught him. Gilfryd then fell unconscious out of duress and was returned to his cell.

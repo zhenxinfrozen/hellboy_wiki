@@ -1,4 +1,4 @@
-![](/content/images/Hunping.png) **魂瓶（hunping）**是一种中国容器，死者的灵魂在被判定有资格免受来世惩罚之后，便寄居于其中。
+![](/content/images/Hunping.webp) **魂瓶（hunping）**是一种中国容器，死者的灵魂在被判定有资格免受来世惩罚之后，便寄居于其中。
 
 ## 描述
 

@@ -1,4 +1,4 @@
-![隐秘天性](/content/images/Secret_Nature.jpg)
+![隐秘天性](/content/images/Secret_Nature.webp)
 
 《**隐秘天性**》（Secret Nature）是《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1955》的一个单期完结篇章，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，肖恩·马丁布拉夫（Shawn Martinbrough）作画。
 
@@ -10,7 +10,7 @@
 
 封面由 [肖恩·马丁布拉夫](/entry/Shawn_Martinbrough)（Shawn Martinbrough）绘制。
 
-![](/content/images/Secret_Nature.jpg)
+![](/content/images/Secret_Nature.webp)
 
 《隐秘天性》
 

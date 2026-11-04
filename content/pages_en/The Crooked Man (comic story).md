@@ -48,7 +48,7 @@ As they head back to the church, Hellboy finds Effie. Without the Crooked Man, s
 
 ## Film Adaptation
 
-> ![](/content/images/Hellboy-%20The%20Crooked%20Man%20logo.jpg)
+> ![](/content/images/Hellboy-%20The%20Crooked%20Man%20logo.webp)
 >
 > *Main article: [Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_(film))*
 

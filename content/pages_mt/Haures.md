@@ -3,11 +3,11 @@
 ## 画廊
 
 
-![](/content/images/TheLastKnightofSaintHagan%20Concept5.jpg)
+![](/content/images/TheLastKnightofSaintHagan%20Concept5.webp)
 
 |
 
-![](/content/images/TheLastKnightofSaintHagan2.jpg)
+![](/content/images/TheLastKnightofSaintHagan2.webp)
 
 |
 ## 趣闻

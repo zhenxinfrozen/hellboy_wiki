@@ -20,7 +20,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="odd">
 <td rowspan="4"><p>1</p></td>
 <td rowspan="4"><p>February 26, 2003</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_1.jpg](/content/images/Hellboy_Weird_Tales_1.jpg)<span style="font-size: 75%;"><a href="John_Cassaday" title="wikilink">JOHN CASSADAY</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_1.jpg](/content/images/Hellboy_Weird_Tales_1.webp)<span style="font-size: 75%;"><a href="John_Cassaday" title="wikilink">JOHN CASSADAY</a></span></p></td>
 <td><p><em><a href="Big-Top-Hell-Boy" title="wikilink">Big-Top-Hell-Boy</a></em></p></td>
 <td colspan="2"><p><a href="John_Cassaday" title="wikilink">John Cassaday</a></p></td>
 <td rowspan="4"><p><em>Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen</em> pin-up by <a href="TyRuben_Ellingson" title="wikilink">TyRuben Ellingson</a></p></td>
@@ -41,7 +41,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="odd">
 <td rowspan="5"><p>2</p></td>
 <td rowspan="5"><p>April 23, 2003</p></td>
-<td rowspan="5"><p>![Helboy_Weird_Tales_2.jpg](/content/images/Helboy_Weird_Tales_2.jpg)<span style="font-size: 75%;"><a href="Jason_Pearson" title="wikilink">JASON PEARSON</a></span></p></td>
+<td rowspan="5"><p>![Helboy_Weird_Tales_2.jpg](/content/images/Helboy_Weird_Tales_2.webp)<span style="font-size: 75%;"><a href="Jason_Pearson" title="wikilink">JASON PEARSON</a></span></p></td>
 <td><p><em><a href="Flight_Risk" title="wikilink">Flight Risk</a></em></p></td>
 <td><p><a href="Joe_Casey" title="wikilink">Joe Casey</a></p></td>
 <td><p><a href="Steve_Parkhouse" title="wikilink">Steve Parkhouse</a></p></td>
@@ -68,7 +68,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>3</p></td>
 <td rowspan="4"><p>June 25, 2003</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_3.jpg](/content/images/Hellboy_Weird_Tales_3.jpg)<span style="font-size: 75%;"><a href="Alex_Maleev" title="wikilink">ALEX MALEEV</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_3.jpg](/content/images/Hellboy_Weird_Tales_3.webp)<span style="font-size: 75%;"><a href="Alex_Maleev" title="wikilink">ALEX MALEEV</a></span></p></td>
 <td><p><em><a href="Still_Born" title="wikilink">Still Born</a></em></p></td>
 <td><p><a href="Matt_Hollingsworth" title="wikilink">Matt Hollingsworth</a> &amp; <a href="Alex_Maleev" title="wikilink">Alex Maleev</a></p></td>
 <td><p><a href="Alex_Maleev" title="wikilink">Alex Maleev</a></p></td>
@@ -92,7 +92,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>4</p></td>
 <td rowspan="4"><p>August 27, 2003</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_4.jpg](/content/images/Hellboy_Weird_Tales_4.jpg)<span style="font-size: 75%;"><a href="Leinil_Francis_Yu" title="wikilink">Leinil Francis Yu</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_4.jpg](/content/images/Hellboy_Weird_Tales_4.webp)<span style="font-size: 75%;"><a href="Leinil_Francis_Yu" title="wikilink">Leinil Francis Yu</a></span></p></td>
 <td><p><em><a href="The_Dread_Within" title="wikilink">The Dread Within</a></em></p></td>
 <td colspan="2"><p><a href="Jason_Pearson" title="wikilink">Jason Pearson</a></p></td>
 <td rowspan="4"><p><em>Shred</em> pin-up by <a href="Rick_Cortes" title="wikilink">Rick Cortes</a></p></td>
@@ -114,7 +114,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>5</p></td>
 <td rowspan="4"><p>October 15, 2003</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_5.jpg](/content/images/Hellboy_Weird_Tales_5.jpg)<span style="font-size: 75%;"><a href="J.H._Williams_III" title="wikilink">J.H. WILLIAMS III</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_5.jpg](/content/images/Hellboy_Weird_Tales_5.webp)<span style="font-size: 75%;"><a href="J.H._Williams_III" title="wikilink">J.H. WILLIAMS III</a></span></p></td>
 <td><p><em><a href="Love_is_Scarier_than_Death" title="wikilink">Love is Scarier than Death</a></em></p></td>
 <td><p><a href="J.H._Williams_III" title="wikilink">J.H. Williams III</a> &amp; <a href="Haden_Blackman" title="wikilink">Haden Blackman</a></p></td>
 <td><p><a href="J.H._Williams_III" title="wikilink">J.H. Williams III</a></p></td>
@@ -136,7 +136,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>6</p></td>
 <td rowspan="4"><p>December 10, 2003</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_6.jpg](/content/images/Hellboy_Weird_Tales_6.jpg)<span style="font-size: 75%;"><a href="Frank_Cho" title="wikilink">FRANK CHO</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_6.jpg](/content/images/Hellboy_Weird_Tales_6.webp)<span style="font-size: 75%;"><a href="Frank_Cho" title="wikilink">FRANK CHO</a></span></p></td>
 <td><p><em><a href="Command_Performance" title="wikilink">Command Performance</a></em></p></td>
 <td><p><a href="Will_Pfeifer" title="wikilink">Will Pfeifer</a></p></td>
 <td><p><a href="P._Craig_Russell" title="wikilink">P. Craig Russell</a></p></td>
@@ -158,7 +158,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>7</p></td>
 <td rowspan="4"><p>February 11, 2004</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_7.jpg](/content/images/Hellboy_Weird_Tales_7.jpg)<span style="font-size: 75%;"><a href="Phil_Noto" title="wikilink">PHIL NOTO</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_7.jpg](/content/images/Hellboy_Weird_Tales_7.webp)<span style="font-size: 75%;"><a href="Phil_Noto" title="wikilink">PHIL NOTO</a></span></p></td>
 <td><p><em><a href="A_Love_Story" title="wikilink">A Love Story</a></em></p></td>
 <td><p><a href="Tommy_Lee_Edwards" title="wikilink">Tommy Lee Edwards</a></p></td>
 <td><p><a href="Tommy_Lee_Edwards" title="wikilink">Tommy Lee Edwards</a> with <a href="Don_Cameron" title="wikilink">Don Cameron</a></p></td>
@@ -180,7 +180,7 @@ The series ran for eight issues from February 2003 to April 2004, published on a
 <tr class="even">
 <td rowspan="4"><p>8</p></td>
 <td rowspan="4"><p>April 14, 2004</p></td>
-<td rowspan="4"><p>![Hellboy_Weird_Tales_8.jpg](/content/images/Hellboy_Weird_Tales_8.jpg)<span style="font-size: 75%;"><a href="Michael_W._Kaluta" title="wikilink">MICHAEL W. KALUTA</a></span></p></td>
+<td rowspan="4"><p>![Hellboy_Weird_Tales_8.jpg](/content/images/Hellboy_Weird_Tales_8.webp)<span style="font-size: 75%;"><a href="Michael_W._Kaluta" title="wikilink">MICHAEL W. KALUTA</a></span></p></td>
 <td><p><em><a href="Fifteen_Minutes..." title="wikilink">Fifteen Minutes...</a></em></p></td>
 <td colspan="2"><p><a href="Jill_Thompson" title="wikilink">Jill Thompson</a></p></td>
 <td rowspan="4"><p>Pin-up by <a href="Gary_Fields" title="wikilink">Gary Fields</a></p></td>
@@ -224,14 +224,14 @@ Each of the two trade paperbacks collect four sequential individual *Hellboy: We
 <td><p>1</p></td>
 <td><p><em>Hellboy Weird Tales: Volume 1</em></p></td>
 <td><p>December 17, 2003</p></td>
-<td><p>![Weird_Tales_Volume_1.jpg](/content/images/Weird_Tales_Volume_1.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
+<td><p>![Weird_Tales_Volume_1.jpg](/content/images/Weird_Tales_Volume_1.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
 <td><p><em>Hellboy Weird Tales</em> #1–4</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><em>Hellboy Weird Tales: Volume 2</em></p></td>
 <td><p>October 27, 2004</p></td>
-<td><p>![Weird_Tales_Volume_2.jpg](/content/images/Weird_Tales_Volume_2.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
+<td><p>![Weird_Tales_Volume_2.jpg](/content/images/Weird_Tales_Volume_2.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
 <td><p><em>Hellboy Weird Tales</em> #5–8</p></td>
 </tr>
 </tbody>
@@ -255,7 +255,7 @@ In addition to collection *Hellboy: Weird Tales* \#1–8, the *Hellboy: Weird Ta
 <tr class="odd">
 <td><p><em>Hellboy: Weird Tales</em></p></td>
 <td><p>November 26, 2014</p></td>
-<td><p>![Hellboy_Weird_Tales_(Hardcover).jpg](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
+<td><p>![Hellboy_Weird_Tales_(Hardcover).jpg](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span></p></td>
 <td><ul>
 <li><em>Hellboy Weird Tales</em> #1–8</li>
 <li><em><a href="How_Koshchei_Became_Deathless" title="wikilink">How Koshchei Became Deathless</a></em></li>

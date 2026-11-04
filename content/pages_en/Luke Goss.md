@@ -1,4 +1,4 @@
-![](/content/images/Luke-Goss-240x300.jpg)
+![](/content/images/Luke-Goss-240x300.webp)
 Luke-Goss-240x300.jpg
 
 Actor/Producer/Writer/Musician

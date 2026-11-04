@@ -1,4 +1,4 @@
-![](/content/images/Benaiah.jpeg)
+![](/content/images/Benaiah.webp)
 
 **Benaiah** was the greatest warrior of [King Solomon](/entry/King_Solomon), who notably captured the demon [Asmodeus](/entry/Asmodeus).
 

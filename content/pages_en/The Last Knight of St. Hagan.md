@@ -35,22 +35,22 @@ Issue \#1
 
 Issue \#2
 
-![Issue #3](/content/images/TheLastKnightofSaintHagan3.jpg)
+![Issue #3](/content/images/TheLastKnightofSaintHagan3.webp)
 
 |Issue #3
 
-![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept1.jpg)
+![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept1.webp)
 
 |Concept art by Andrea Mutti
 
-![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept2.jpg)
+![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept2.webp)
 
 |Concept art by Andrea Mutti
 
-![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept3.jpg)
+![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept3.webp)
 
 |Concept art by Andrea Mutti
 
-![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept4.jpg)
+![Concept art by Andrea Mutti](/content/images/TheLastKnightofSaintHagan%20Concept4.webp)
 
 |Concept art by Andrea Mutti

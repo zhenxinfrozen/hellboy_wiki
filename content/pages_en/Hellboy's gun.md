@@ -1,12 +1,12 @@
 *For the revolver wielded by [Hellboy in the 2004–2008 films](/entry/Hellboy_(2004%E2%80%932008_film_character)), see [The Samaritan](/entry/The_Samaritan).*
 
-![](/content/images/Seed%20of%20Destruction%201.jpg)
+![](/content/images/Seed%20of%20Destruction%201.webp)
 
 Several **guns** have been wielded by [Hellboy](/entry/Hellboy_(character)) across [the comic series](/entry/Hellboy_(series)), most prominently a single-shot handgun that he carried for a half-century.
 
 ## Single-shot pistol
 
-![](/content/images/Single-shot%20pistol.jpg)
+![](/content/images/Single-shot%20pistol.webp)
 
 Hellboy has most frequently been depicted with an oversized single-shot break-action pistol. This weapon was given to him by [the Torch of Liberty](/entry/The_Torch_of_Liberty); the Torch also instructed Hellboy in marksmanship. This gun was eventually lost somewhere at [the bottom of the ocean](/entry/The_Third_Wish), sometime after October 2002.
 
@@ -67,7 +67,7 @@ Hellboy's Zinco pistol misfires in dramatic fashion.
   - This holster is left unbuttoned, presumably for ease of access so he does not have to manipulate the button with his Right Hand.
 - In 1964, Hellboy shot out the [Baba Yaga](/entry/Baba_Yaga_(character))'s eye with his pistol, starting a grudge that would last for a half-century.
 
-![](/content/images/The%20Good%20Samaritan.png)
+![](/content/images/The%20Good%20Samaritan.webp)
 
 - The 2004 film *[Hellboy](/entry/Hellboy_(2004_film))* and its sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, depict [Hellboy](/entry/Hellboy_(2004%E2%80%932008_film_character)) wielding a distinctive, massive revolver called "[The Samaritan](/entry/The_Samaritan)". The popularity of the films, and this weapon in particular, have lead many to incorrectly assume that the name and/or design originate from or otherwise can be seen in the comics.
   - The Samaritan's design does share some minor similarities with the single-shot revolver from the comics (large size, carried in a leather U.S. holster, shortened lanyard attached to loop), but they are ultimately substantially different.

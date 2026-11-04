@@ -24,19 +24,19 @@ The Witchfinder returns to the secret chambers of London’s underground…
 
 ## Gallery
 
-![](/content/images/City_of_the_Dead_1.jpg)
+![](/content/images/City_of_the_Dead_1.webp)
 
  \#1
 
-![](/content/images/City_of_the_Dead_2.jpg)
+![](/content/images/City_of_the_Dead_2.webp)
 
  \#2
 
-![](/content/images/City_of_the_Dead_3.jpg)
+![](/content/images/City_of_the_Dead_3.webp)
 
  \#3
 
-![](/content/images/City_of_the_Dead_4.jpg)
+![](/content/images/City_of_the_Dead_4.webp)
 
  \#4
 

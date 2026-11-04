@@ -1,4 +1,4 @@
-![Vladimir Giurescu](/content/images/Giurescu.jpg)
+![Vladimir Giurescu](/content/images/Giurescu.webp)
 
 **Vladimir Giurescu** was a powerful vampire who was brought back to life by the goddess [Hecate](/entry/Hecate) in the Late Middle Ages. He worked with, and was ultimately betrayed, by the Nazis during World War II. After the Nazis killed him, he was restored to life and finally defeated by [Hellboy](/entry/Hellboy) in the 1990's.
 

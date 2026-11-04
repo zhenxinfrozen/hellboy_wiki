@@ -29,18 +29,18 @@ Covers by [Christopher Mitten](/entry/Christopher_Mitten)
 
 Issue \#1
 
-![Issue #2](/content/images/The%20House%20of%20Lost%20Horizons2.jpg)
+![Issue #2](/content/images/The%20House%20of%20Lost%20Horizons2.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/The%20House%20of%20Lost%20Horizons3.jpg)
+![Issue #3](/content/images/The%20House%20of%20Lost%20Horizons3.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/The%20House%20of%20Lost%20Horizons4.jpg)
+![Issue #4](/content/images/The%20House%20of%20Lost%20Horizons4.webp)
 
 |Issue #4
 
-![Issue #5](/content/images/The%20House%20of%20Lost%20Horizons5.jpg)
+![Issue #5](/content/images/The%20House%20of%20Lost%20Horizons5.webp)
 
 |Issue #5

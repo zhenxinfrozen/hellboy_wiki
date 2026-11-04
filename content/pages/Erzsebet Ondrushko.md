@@ -12,7 +12,7 @@ After abducting and murdering a village girl named Anna, Erzsebet was confronted
 
 Erzebet was the High Priestess of the Goddess [Hecate](/entry/Hecate) who gave her power in exchange for her service. Two of her servants plotted to resurrect her and restore her power by having her bathe in the blood of the estate owner who bought many of her possessions.
 
-Once she was resurrected she faced Professor Broom once more.![Erzsebet's powers restored.](/content/images/2406_4.jpg) With her powers restored she went as far as to mock the now old man. In response Broom said "Growing old is not the worse thing that could happen to a person." ![ImagesdyingErzebet.jpg](/content/images/ImagesdyingErzebet.jpg)She then starts screaming in pain and he reveals he poured holy water into her bath and High Priestess of Hecate dies once more.
+Once she was resurrected she faced Professor Broom once more.![Erzsebet's powers restored.](/content/images/2406_4.webp) With her powers restored she went as far as to mock the now old man. In response Broom said "Growing old is not the worse thing that could happen to a person." ![ImagesdyingErzebet.jpg](/content/images/ImagesdyingErzebet.webp)She then starts screaming in pain and he reveals he poured holy water into her bath and High Priestess of Hecate dies once more.
 
 ## Trivia
 

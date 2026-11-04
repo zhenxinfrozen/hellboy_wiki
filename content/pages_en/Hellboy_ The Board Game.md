@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20-%20The%20Board%20Game%20%28packaging%20art%29.jpg).jpg)
+![](/content/images/Hellboy%20-%20The%20Board%20Game%20%28packaging%20art%29.webp).jpg)
 
 ***Hellboy: The Board Game*** is a 2019 board game created by Mantic Games and designed by James M. Hewitt and Sophie Williams of Needy Cat Games. The project was first announced on January 5, 2018 with a press release about an upcoming April Kickstarter campaign for the game. As per the deal with Dark Horse, *[Hellboy](/entry/Hellboy_(series))* creator [Mike Mignola](/entry/Mike_Mignola) has final approval rights on all game aspects.
 

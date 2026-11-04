@@ -9,11 +9,11 @@
 
 ### Issues
 
-![](/content/images/Krampusnacht_AdamHughes.jpg)
+![](/content/images/Krampusnacht_AdamHughes.webp)
 
 |*Hellboy: Krampusnacht*
 
-![](/content/images/TheSevenWivesClub_AdamHughes.jpg)
+![](/content/images/TheSevenWivesClub_AdamHughes.webp)
 
 |*Hellboy and the B.P.R.D.: The Seven Wives Club*
 

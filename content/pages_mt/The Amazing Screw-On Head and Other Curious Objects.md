@@ -32,13 +32,13 @@
 
 ## 艺术家版
 
-![](/content/images/Mike-Mignolas-The-Amazing-Screw-On-Head-and-Other-Curious-Objects-Artists-Edition-cover.jpg)
+![](/content/images/Mike-Mignolas-The-Amazing-Screw-On-Head-and-Other-Curious-Objects-Artists-Edition-cover.webp)
 
 2016 年，IDW 出版了《迈克·米格诺拉的神奇螺丝头与其他奇物：艺术家版》(*Mike Mignola's The Amazing Screw on Head and Other Curious Objects: Artist's Edition*)。这本超大开本的书以米格诺拉最初作画的尺寸呈现其墨线稿，未上色（其中一半故事连文字排印也没有）。
 
 除了此前合集的全部内容外，*艺术家版*还收录了米格诺拉为[*《The Goon》*第 \#7 期](/entry/The_Goon_7)创作的内容（该期有[地狱男爵](/entry/Hellboy_(character))登场），以及一则由米格诺拉绘制、发表于 *《Dark Horse Presents》* 第 \#107 期的故事《Rusty Razorclam：海王星总统》。
 
-![](/content/images/The%20Amazing%20Screw-On%20Head%2020th%20Anniversary%20Edition.jpg)
+![](/content/images/The%20Amazing%20Screw-On%20Head%2020th%20Anniversary%20Edition.webp)
 
 ## 二十周年纪念版
 

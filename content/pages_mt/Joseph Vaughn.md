@@ -1,4 +1,4 @@
-**![](/content/images/JosephVaughn.jpeg)约瑟夫·沃恩（Joseph Vaughn）** 是[超自然调查防御署（Bureau for Paranormal Research and Defense）](/entry/Bureau_for_Paranormal_Research_and_Defense)的一名外勤探员。
+**![](/content/images/JosephVaughn.webp)约瑟夫·沃恩（Joseph Vaughn）** 是[超自然调查防御署（Bureau for Paranormal Research and Defense）](/entry/Bureau_for_Paranormal_Research_and_Defense)的一名外勤探员。
 
 ## 历史
 

@@ -6,7 +6,7 @@
 
 ## 封面作画
 
-![](/content/images/Into_the_Silent_Sea_-_Gianni_%28Flesk%29.jpg)
+![](/content/images/Into_the_Silent_Sea_-_Gianni_%28Flesk%29.webp)
 
 工作室版（Studio Edition）](/entry/Into_the_Silent_Sea)
 

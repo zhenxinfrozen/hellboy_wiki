@@ -16,11 +16,11 @@
 
 ## 画廊
 
-![](/content/images/UrgoHemSerpent.jpeg)
+![](/content/images/UrgoHemSerpent.webp)
 
  《岛屿》中的乌尔戈-赫姆
 
-![](/content/images/UrgoHemItaly.jpeg)
+![](/content/images/UrgoHemItaly.webp)
 
  诸神黄昏中的赫姆
 

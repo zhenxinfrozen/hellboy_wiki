@@ -12,4 +12,4 @@ Abe discovers parts of the biggest answers, withheld from him for decades by the
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_32.jpg)
+![](/content/images/Abe_Sapien_32.webp)

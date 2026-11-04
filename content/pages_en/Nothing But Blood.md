@@ -25,6 +25,6 @@ by Cyrille Pomès
 *Hellboy in Hell: Nothing But Blood* \#2  
 variant by Marc Riou
 
-![Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou](/content/images/Nothing%20But%20Blood%202%20Riou.jpg)
+![Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou](/content/images/Nothing%20But%20Blood%202%20Riou.webp)
 
 |Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou

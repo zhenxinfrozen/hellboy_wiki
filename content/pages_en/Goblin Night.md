@@ -21,6 +21,6 @@ All covers by Matt Smith.
 *Hellboy in Love* \#2  
 *Goblin Night* (Part 2)
 
-![Hellboy in Love #2<br />Goblin Night (Part 2)](/content/images/Hellboy%20in%20Love%202.jpg)
+![Hellboy in Love #2<br />Goblin Night (Part 2)](/content/images/Hellboy%20in%20Love%202.webp)
 
 |Hellboy in Love #2<br />Goblin Night (Part 2)

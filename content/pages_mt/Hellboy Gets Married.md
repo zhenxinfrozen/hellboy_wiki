@@ -2,10 +2,10 @@
 
 ## 画廊
 
-![](/content/images/DHP31.jpg)
+![](/content/images/DHP31.webp)
 
 《Dark Horse Presents》第 31 期
 
-![](/content/images/DHP32.jpg)
+![](/content/images/DHP32.webp)
 
 《Dark Horse Presents》第 32 期

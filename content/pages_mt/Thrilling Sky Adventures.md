@@ -31,31 +31,31 @@
 
 第 \#4 期
 
-![第 #2 期](/content/images/Thrilling%20Sky%20Adventures%202.jpg)
+![第 #2 期](/content/images/Thrilling%20Sky%20Adventures%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Thrilling%20Sky%20Adventures%203.jpg)
+![第 #3 期](/content/images/Thrilling%20Sky%20Adventures%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Thrilling%20Sky%20Adventures%204.jpg)
+![第 #4 期](/content/images/Thrilling%20Sky%20Adventures%204.webp)
 
 |第 #4 期
 
-![Issue #1<br>by David Hitchcock](/content/images/Thrilling%20Sky%20Adventures%201%20Hitchcock.jpg)
+![Issue #1<br>by David Hitchcock](/content/images/Thrilling%20Sky%20Adventures%201%20Hitchcock.webp)
 
 |Issue #1<br>by David Hitchcock
 
-![Issue #2<br>by Alice Darrow](/content/images/Thrilling%20Sky%20Adventures%202%20Darrow.jpg)
+![Issue #2<br>by Alice Darrow](/content/images/Thrilling%20Sky%20Adventures%202%20Darrow.webp)
 
 |Issue #2<br>by Alice Darrow
 
-![Issue #3<br>by Michael Cho](/content/images/Thrilling%20Sky%20Adventures%203%20Cho.jpg)
+![Issue #3<br>by Michael Cho](/content/images/Thrilling%20Sky%20Adventures%203%20Cho.webp)
 
 |Issue #3<br>by Michael Cho
 
-![Issue #4<br>by Ben Stenbeck](/content/images/Thrilling%20Sky%20Adventures%204%20Stenbeck.jpg)
+![Issue #4<br>by Ben Stenbeck](/content/images/Thrilling%20Sky%20Adventures%204%20Stenbeck.webp)
 
 |Issue #4<br>by Ben Stenbeck
 ### 变体封面

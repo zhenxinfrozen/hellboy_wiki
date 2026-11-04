@@ -1,4 +1,4 @@
-![Shax](/content/images/Shax.png)
+![Shax](/content/images/Shax.webp)
 
 **Shax** was a demon who held the rank of Great Marquis of Hell.
 

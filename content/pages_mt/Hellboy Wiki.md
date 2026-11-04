@@ -1,8 +1,8 @@
-![](/content/images/Hellboy%20Wiki.png)
+![](/content/images/Hellboy%20Wiki.webp)
 
   
 
-![](/content/images/Hellboy%202.jpg)
+![](/content/images/Hellboy%202.webp)
 
 **地狱男爵维基（Hellboy Wiki）**是一座协作式数据库，收录与[迈克·米格诺拉](/entry/Mike_Mignola)的***[《地狱男爵》](/entry/Hellboy_(series))***系列及其[相关作品](/entry/The_Hellboy_Universe_Comics)，以及它们在电影、小说、[游戏](/entry/Hellboy__The_Board_Game)等所有其他媒介中登场的一切内容。任何人都可以创建和编辑本站的页面，让我们共同打造一座全面的数据库。入门请务必查阅**[帮助页面](https://community.fandom.com/wiki/Help:Contents)**！
 
@@ -20,45 +20,45 @@
 |:-----------------|
 | 出版产品线 |
 
-![](/content/images/Front%20Page%20-%20Hellboy.png)
-![](/content/images/Front%20Page%20-%20Hellboy%20in%20Hell.png)
-![](/content/images/Front%20Page%20-%20Young%20Hellboy.png)
+![](/content/images/Front%20Page%20-%20Hellboy.webp)
+![](/content/images/Front%20Page%20-%20Hellboy%20in%20Hell.webp)
+![](/content/images/Front%20Page%20-%20Young%20Hellboy.webp)
 
-![](/content/images/Front%20Page%20-%20Hellboy%20in%20Love.png)
-![](/content/images/Front%20Page%20-%20Giant%20Robot%20Hellboy.png)
-![](/content/images/FrontPage-HellboyBPRD.png)
+![](/content/images/Front%20Page%20-%20Hellboy%20in%20Love.webp)
+![](/content/images/Front%20Page%20-%20Giant%20Robot%20Hellboy.webp)
+![](/content/images/FrontPage-HellboyBPRD.webp)
 
-![](/content/images/Front%20Page%20-%20BPRD.png)
-![](/content/images/Front%20Page%20-%20BPRD%20Hell%20on%20Earth.png)
-![](/content/images/FrontPage-BPRD-TheDevilYouKnow.png)
+![](/content/images/Front%20Page%20-%20BPRD.webp)
+![](/content/images/Front%20Page%20-%20BPRD%20Hell%20on%20Earth.webp)
+![](/content/images/FrontPage-BPRD-TheDevilYouKnow.webp)
 
-![](/content/images/Front%20Page%20-%20Abe%20Sapien.png)
-![](/content/images/Front%20Page%20-%20Lobster%20Johnson.png)
-![](/content/images/Front%20Page%20-%20Witchfinder.png)
+![](/content/images/Front%20Page%20-%20Abe%20Sapien.webp)
+![](/content/images/Front%20Page%20-%20Lobster%20Johnson.webp)
+![](/content/images/Front%20Page%20-%20Witchfinder.webp)
 
-![](/content/images/FrontPage-Frankenstein.png)
-![](/content/images/Front%20Page%20-%20Sledgehammer%2044.png)
-![](/content/images/FrontPage-RiseoftheBlackFlame.png)
+![](/content/images/FrontPage-Frankenstein.webp)
+![](/content/images/Front%20Page%20-%20Sledgehammer%2044.webp)
+![](/content/images/FrontPage-RiseoftheBlackFlame.webp)
 
-![](/content/images/FrontPage-TheVisitor.png)
-![](/content/images/FrontPage-Koshchei.png)
-![](/content/images/FrontPage-Rasputin.png)
+![](/content/images/FrontPage-TheVisitor.webp)
+![](/content/images/FrontPage-Koshchei.webp)
+![](/content/images/FrontPage-Rasputin.webp)
 
-![](/content/images/Front%20Page%20-%20Crimson%20Lotus.png)
-![](/content/images/Front%20Page%20-%20Sarah%20Jewell.png)
-![](/content/images/Front%20Page%20-%20Sword%20of%20Hyperborea.png)
+![](/content/images/Front%20Page%20-%20Crimson%20Lotus.webp)
+![](/content/images/Front%20Page%20-%20Sarah%20Jewell.webp)
+![](/content/images/Front%20Page%20-%20Sword%20of%20Hyperborea.webp)
 
-![](/content/images/Front%20Page%20-%20British%20Paranormal%20Society.png)
-![](/content/images/Front%20Page%20-%20Castle%20Full%20of%20Blackbirds.png)
-![](/content/images/Front%20Page%20-%20Miss%20Truesdale.png)
+![](/content/images/Front%20Page%20-%20British%20Paranormal%20Society.webp)
+![](/content/images/Front%20Page%20-%20Castle%20Full%20of%20Blackbirds.webp)
+![](/content/images/Front%20Page%20-%20Miss%20Truesdale.webp)
 
-![](/content/images/Front%20Page%20-%20Panya.png)
-![](/content/images/Front%20Page%20-%20The%20Serpent%20in%20the%20Garden.png)
-![](/content/images/Front%20Page%20-%20Golden%20Crane.png)
+![](/content/images/Front%20Page%20-%20Panya.webp)
+![](/content/images/Front%20Page%20-%20The%20Serpent%20in%20the%20Garden.webp)
+![](/content/images/Front%20Page%20-%20Golden%20Crane.webp)
 
-![](/content/images/FrontPage-CaptainHenry.png)
-![](/content/images/FrontPage-CarmenRedClaw.png)
-![](/content/images/FrontPage-TheCrown.png)
+![](/content/images/FrontPage-CaptainHenry.webp)
+![](/content/images/FrontPage-CarmenRedClaw.webp)
+![](/content/images/FrontPage-TheCrown.webp)
 
   
 
@@ -66,22 +66,22 @@
 |:-------------|
 | 出版物 |
 
-![](/content/images/Seed%20of%20Destruction%201.jpg)
+![](/content/images/Seed%20of%20Destruction%201.webp)
 <p>单行本</p>
-![](/content/images/BPRD%20Trade01.jpg)
+![](/content/images/BPRD%20Trade01.webp)
 <p>平装合订本</p>
-![](/content/images/Omnibus%20Abe%20Drowning.jpg)
+![](/content/images/Omnibus%20Abe%20Drowning.webp)
 <p>合辑本</p>
-![](/content/images/Hellboy%20in%20Hell%20Library.jpg)
+![](/content/images/Hellboy%20in%20Hell%20Library.webp)
 <p>图书馆典藏版</p>
 
-![](/content/images/Monster-Sized%20Hellboy.jpg)
+![](/content/images/Monster-Sized%20Hellboy.webp)
 <p>大全集版</p>
-![](/content/images/Lobster%20Johnson%20-%20The%20Satan%20Factory%20%28Novel%20Cover%29.jpg).jpg)
+![](/content/images/Lobster%20Johnson%20-%20The%20Satan%20Factory%20%28Novel%20Cover%29.webp).jpg)
 <p>文字故事</p>
-![](/content/images/The%20Goddess%20of%20Manhattan.jpg)
+![](/content/images/The%20Goddess%20of%20Manhattan.webp)
 <p>广播剧</p>
-![](/content/images/Hell%20Ink%20and%20Water%20Cover.jpg)
+![](/content/images/Hell%20Ink%20and%20Water%20Cover.webp)
 <p>画集</p>
 
   
@@ -90,20 +90,20 @@
 |:------|
 | 电影 |
 
-![](/content/images/HellboyMoviePoster.jpg)
+![](/content/images/HellboyMoviePoster.webp)
 《地狱男爵》（2004 电影）
-![](/content/images/Sword%20of%20Storms.jpg)
+![](/content/images/Sword%20of%20Storms.webp)
 《地狱男爵动画版：
 风暴之剑》
-![](/content/images/Blood%20%26%20Iron.jpg)
+![](/content/images/Blood%20%26%20Iron.webp)
 《地狱男爵动画版：
 铁血惊魂》
 
-![](/content/images/Hellboy%202%20poster.jpg)
+![](/content/images/Hellboy%202%20poster.webp)
 《地狱男爵 2：黄金军团》
-![](/content/images/Hellboy%202019%20Gun%20Poster.jpg)
+![](/content/images/Hellboy%202019%20Gun%20Poster.webp)
 《地狱男爵》（2019 电影）
-![](/content/images/Hellboy-%20The%20Crooked%20Man%20UK%20poster.jpeg)
+![](/content/images/Hellboy-%20The%20Crooked%20Man%20UK%20poster.webp)
 《地狱男爵：扭曲人》
 
   
@@ -124,7 +124,7 @@
 创作者
 
 &#10;
-![](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%20HC.jpg)
+![](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%20HC.webp)
 2026 年 7 月 21 日
 <p>《亨利船长与时间墓地》
 
@@ -140,7 +140,7 @@
 作画
 布鲁斯·齐克
 
-![](/content/images/Truesdale%20Trade02.jpg)
+![](/content/images/Truesdale%20Trade02.webp)
 2026 年 8 月 18 日
 <p>《特鲁斯代尔小姐与人类的崛起》
 
@@ -155,7 +155,7 @@
 作画
 Jesse Lonergan
 
-![](/content/images/Omnibus%20HU%20SecretHistories2.jpg)
+![](/content/images/Omnibus%20HU%20SecretHistories2.webp)
 2026 年 9 月 22 日
 <p>《地狱男爵宇宙：秘史——第二卷》
 
@@ -173,7 +173,7 @@ Leila Del Duca
 Andrea Mutti
 Ben Stenbeck
 
-![](/content/images/Carmen%20Redclaw%20HC1.jpg)
+![](/content/images/Carmen%20Redclaw%20HC1.webp)
 2026 年 9 月 29 日
 <p>《卡门·雷德克劳：巨兽之腹》
 

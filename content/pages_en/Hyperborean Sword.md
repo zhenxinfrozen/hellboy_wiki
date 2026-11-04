@@ -1,4 +1,4 @@
-![](/content/images/HyperboreanSword.jpg)
+![](/content/images/HyperboreanSword.webp)
 
 The **Hyperborean Sword** is a weapon with a long and storied history that continued well beyond its origins with the First Race of Man. It was most prominently in the possession of [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) agent [Ted Howards](/entry/Ted_Howards), who upon holding the blade was changed by a mysterious connection to a prehistoric human named [Gall Dennar](/entry/Gall_Dennar) who also wielded the sword. Though Howards' personality was now subsumed by Gall Dennar's experiences and memories, he wields the sword with vicious efficacy against the various hostile forces crawling over the apocalyptic Earth.
 

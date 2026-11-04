@@ -18,10 +18,10 @@
 
 封面由 [Mike Huddleston](/entry/Mike_Huddleston) 绘制。
 
-![](/content/images/Ghost_Moon_1.jpg)
+![](/content/images/Ghost_Moon_1.webp)
 
 |《1954: Ghost Moon》\#1
 
-![](/content/images/Ghost_Moon_2.jpg)
+![](/content/images/Ghost_Moon_2.webp)
 
 |《1954: Ghost Moon》\#2

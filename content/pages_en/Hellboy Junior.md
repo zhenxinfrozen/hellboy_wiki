@@ -17,7 +17,7 @@ Additional Materials
 &#10;
 Halloween Special
 October 15, 1997
-![](/content/images/HellboyJuniorSpecial.jpg)
+![](/content/images/HellboyJuniorSpecial.webp)
 BILL WRAY
 Maggots, Maggots, Everywhere
 Bill Wray
@@ -44,7 +44,7 @@ Mike Mignola
 
 1
 October 20, 1999
-![](/content/images/HellboyJunior1.jpg)
+![](/content/images/HellboyJunior1.webp)
 BILL WRAY
 Magical Mushroom Trip
 Bill Wray
@@ -61,7 +61,7 @@ Mike Mignola
 
 2
 November 17, 1999
-![](/content/images/HellboyJunior2.jpg)
+![](/content/images/HellboyJunior2.webp)
 HILARY BARTA
 The House of Candy Pain
 Bill Wray
@@ -91,7 +91,7 @@ Additional Materials
 &#10;
 Hellboy Junior
 January 21, 2004
-![](/content/images/HellboyJuniorTPB.jpg)
+![](/content/images/HellboyJuniorTPB.webp)
 BILL WRAY
 
 <li>Hellboy Junior Halloween Special</li>

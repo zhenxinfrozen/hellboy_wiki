@@ -31,31 +31,31 @@ All covers by Bruce Zick.
 
 *Captain Henry and the Graveyard of Time* \#4
 
-![Captain Henry and the Graveyard of Time #1](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%201.jpg)
+![Captain Henry and the Graveyard of Time #1](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%201.webp)
 
 |Captain Henry and the Graveyard of Time #1
 
-![Captain Henry and the Graveyard of Time #2](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%202.jpg)
+![Captain Henry and the Graveyard of Time #2](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%202.webp)
 
 |Captain Henry and the Graveyard of Time #2
 
-![Captain Henry and the Graveyard of Time #3](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%203.jpg)
+![Captain Henry and the Graveyard of Time #3](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%203.webp)
 
 |Captain Henry and the Graveyard of Time #3
 
-![Captain Henry and the Graveyard of Time #4](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%204.jpg)
+![Captain Henry and the Graveyard of Time #4](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%204.webp)
 
 |Captain Henry and the Graveyard of Time #4
 
-![Captain Henry and the Graveyard of Time #2<br>variant cover by Troy Nixey](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%202%20Nixey.jpg)
+![Captain Henry and the Graveyard of Time #2<br>variant cover by Troy Nixey](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%202%20Nixey.webp)
 
 |Captain Henry and the Graveyard of Time #2<br>variant cover by Troy Nixey
 
-![Captain Henry and the Graveyard of Time #3<br>variant cover by Ben Stenbeck](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%203%20Stenbeck.jpg)
+![Captain Henry and the Graveyard of Time #3<br>variant cover by Ben Stenbeck](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%203%20Stenbeck.webp)
 
 |Captain Henry and the Graveyard of Time #3<br>variant cover by Ben Stenbeck
 
-![Captain Henry and the Graveyard of Time #4<br>variant cover by Michael Kaluta](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%204%20Kaluta.jpg)
+![Captain Henry and the Graveyard of Time #4<br>variant cover by Michael Kaluta](/content/images/Captain%20Henry%20and%20the%20Graveyard%20of%20Time%204%20Kaluta.webp)
 
 |Captain Henry and the Graveyard of Time #4<br>variant cover by Michael Kaluta
 ### Variant covers

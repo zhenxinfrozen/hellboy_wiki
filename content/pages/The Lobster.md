@@ -44,7 +44,7 @@ After the Lobster recharged Roger via a lightning bolt, he is reduced to a skele
 
 ## Trivia
 
-![1051731-1040587_lobster_johnson_super_super.jpg](/content/images/1051731-1040587_lobster_johnson_super_super.jpg)
+![1051731-1040587_lobster_johnson_super_super.jpg](/content/images/1051731-1040587_lobster_johnson_super_super.webp)
 The Lobster appearing in a teaser of <em>The Phantom Claw</em>.
 
 - Lobster Johnson has a brief cameo in the second animated Hellboy film, *Blood and Iron* appearing during a flashback scene showing Hellboy's birth and [Malcolm Frost](/entry/Malcolm%20Frost)'s reaction to the creature. After the credits there is a teaser for the still unproduced third film *The Phantom Claw*, where he will assist Hellboy and [Kate Corrigan](/entry/Kate%20Corrigan) in battling the ghost of [Rasputin](/entry/Rasputin).

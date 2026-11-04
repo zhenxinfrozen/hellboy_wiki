@@ -28,7 +28,7 @@
 
 ## 演员阵容
 
-![](/content/images/Jack%20Kesy%202.jpg)
+![](/content/images/Jack%20Kesy%202.webp)
 
 - [Jack Kesy](/entry/Jack_Kesy) 饰 [地狱男爵](/entry/Hellboy_(character))
 - [Jefferson White](/entry/Jefferson_White) 饰 [汤姆·费雷尔](/entry/Tom_Ferrell)

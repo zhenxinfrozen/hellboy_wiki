@@ -44,30 +44,30 @@ by Evangeline Gallagher
 Issue \#4 variant cover  
 by A.H. Szabla
 
-![Issue #1 variant cover<br/>by Vanesa Del Rey](/content/images/Castle%20Full%20of%20Blackbirds%20Del%20Rey%20variant.jpg)
+![Issue #1 variant cover<br/>by Vanesa Del Rey](/content/images/Castle%20Full%20of%20Blackbirds%20Del%20Rey%20variant.webp)
 
 |Issue #1 variant cover<br/>by Vanesa Del Rey
 
-![Issue #2](/content/images/Castle%20Full%20of%20Blackbirds%202.jpg)
+![Issue #2](/content/images/Castle%20Full%20of%20Blackbirds%202.webp)
 
 |Issue #2
 
-![Issue #2 variant cover<br/>by Marianna Strychowska](/content/images/Castle%20Full%20of%20Blackbirds%202%20Strychowska.jpg)
+![Issue #2 variant cover<br/>by Marianna Strychowska](/content/images/Castle%20Full%20of%20Blackbirds%202%20Strychowska.webp)
 
 |Issue #2 variant cover<br/>by Marianna Strychowska
 
-![Issue #3](/content/images/Castle%20Full%20of%20Blackbirds%203.jpg)
+![Issue #3](/content/images/Castle%20Full%20of%20Blackbirds%203.webp)
 
 |Issue #3
 
-![Issue #3 variant cover<br/>by Evangeline Gallagher](/content/images/Castle%20Full%20of%20Blackbirds%203%20Gallagher.jpg)
+![Issue #3 variant cover<br/>by Evangeline Gallagher](/content/images/Castle%20Full%20of%20Blackbirds%203%20Gallagher.webp)
 
 |Issue #3 variant cover<br/>by Evangeline Gallagher
 
-![Issue #4](/content/images/Castle%20Full%20of%20Blackbirds%204.jpg)
+![Issue #4](/content/images/Castle%20Full%20of%20Blackbirds%204.webp)
 
 |Issue #4
 
-![Issue #4 variant cover<br/>by A.H. Szabla](/content/images/Castle%20Full%20of%20Blackbirds%204%20Szabla.jpg)
+![Issue #4 variant cover<br/>by A.H. Szabla](/content/images/Castle%20Full%20of%20Blackbirds%204%20Szabla.webp)
 
 |Issue #4 variant cover<br/>by A.H. Szabla

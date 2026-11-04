@@ -25,6 +25,6 @@ Cyrille Pomès 绘
 *《地狱男爵在地狱：唯有鲜血》* \#2
 变体封面，Marc Riou 绘
 
-![Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou](/content/images/Nothing%20But%20Blood%202%20Riou.jpg)
+![Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou](/content/images/Nothing%20But%20Blood%202%20Riou.webp)
 
 |Hellboy in Hell: Nothing But Blood #2<br />variant by Marc Riou

@@ -1,4 +1,4 @@
-![](/content/images/Osiris_Club_The_Wild_Hunt.png) **奥西里斯俱乐部（Osiris Club）**是一个成立于 1866 年的秘密社团，从[拉神赫利奥皮斯兄弟会](/entry/Heliopic_Brotherhood_of_Ra)中独立分支出来。
+![](/content/images/Osiris_Club_The_Wild_Hunt.webp) **奥西里斯俱乐部（Osiris Club）**是一个成立于 1866 年的秘密社团，从[拉神赫利奥皮斯兄弟会](/entry/Heliopic_Brotherhood_of_Ra)中独立分支出来。
 
 ## 历史
 

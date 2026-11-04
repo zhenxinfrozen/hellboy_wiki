@@ -15,22 +15,22 @@
 
 ## Gallery
 
-![Hellboy Weird Tales #3](/content/images/Hellboy%20Weird%20Tales%203.jpg)
+![Hellboy Weird Tales #3](/content/images/Hellboy%20Weird%20Tales%203.webp)
 
 |Hellboy Weird Tales #3
 
-![1952 #2](/content/images/Hellboy%20and%20the%20BPRD%202.jpg)
+![1952 #2](/content/images/Hellboy%20and%20the%20BPRD%202.webp)
 
 |1952 #2
 
-![1952 #3](/content/images/Hellboy%20and%20the%20BPRD%203.jpg)
+![1952 #3](/content/images/Hellboy%20and%20the%20BPRD%203.webp)
 
 |1952 #3
 
-![1952 #4](/content/images/Hellboy%20and%20the%20BPRD%204.jpg)
+![1952 #4](/content/images/Hellboy%20and%20the%20BPRD%204.webp)
 
 |1952 #4
 
-![1952 #5](/content/images/Hellboy%20and%20the%20BPRD%205.jpg)
+![1952 #5](/content/images/Hellboy%20and%20the%20BPRD%205.webp)
 
 |1952 #5

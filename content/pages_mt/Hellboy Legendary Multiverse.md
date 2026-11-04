@@ -1,4 +1,4 @@
-![](/content/images/HellboyMultiv.jpg)
+![](/content/images/HellboyMultiv.webp)
 
 地狱男爵在[《不义联盟 2》](/entry/Injustice_2)中拥有一个“传奇多重宇宙”。
 

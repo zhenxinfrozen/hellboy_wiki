@@ -44,15 +44,15 @@
 ## 封面画廊
 
 
-![Variant Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%20Variant%20Edition.jpg)
+![Variant Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%20Variant%20Edition.webp)
 
 |Variant Edition
 
-![2014 San Diego Comic Con Exclusive Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%20SDCC%20Edition.png)
+![2014 San Diego Comic Con Exclusive Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%20SDCC%20Edition.webp)
 
 |2014 San Diego Comic Con Exclusive Edition
 
-![2nd Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%202nd%20Edition%20cover.jpg)
+![2nd Edition](/content/images/Hellboy%20Artist%27s%20Edition%20-%202nd%20Edition%20cover.webp)
 
 |2nd Edition
 ## 包装

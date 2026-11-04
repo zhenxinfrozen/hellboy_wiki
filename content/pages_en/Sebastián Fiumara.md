@@ -19,63 +19,63 @@
 
 ### *Abe Sapien* issues
 
-![](/content/images/Dark_and_Terrible_1.jpg)
+![](/content/images/Dark_and_Terrible_1.webp)
 
-![](/content/images/Dark_And_Terrible_2.jpg)
+![](/content/images/Dark_And_Terrible_2.webp)
 
-![](/content/images/Dark_and_Terrible_3.jpg)
+![](/content/images/Dark_and_Terrible_3.webp)
 
-![](/content/images/Abe_Sapien_12.jpg)
+![](/content/images/Abe_Sapien_12.webp)
 
-![](/content/images/Abe_Sapien_13.jpg)
+![](/content/images/Abe_Sapien_13.webp)
 
-![](/content/images/Abe_Sapien_14.jpg)
+![](/content/images/Abe_Sapien_14.webp)
 
-![](/content/images/Abe_Sapien_15.jpg)
+![](/content/images/Abe_Sapien_15.webp)
 
-![](/content/images/Abe_Sapien_16.jpg)
+![](/content/images/Abe_Sapien_16.webp)
 
-![](/content/images/Abe_Sapien_17.jpg)
+![](/content/images/Abe_Sapien_17.webp)
 
-![](/content/images/Abe_Sapien_32.jpg)
+![](/content/images/Abe_Sapien_32.webp)
 
-![](/content/images/Abe_Sapien_34.jpg)
+![](/content/images/Abe_Sapien_34.webp)
 
-![](/content/images/Abe_Sapien_35.jpg)
+![](/content/images/Abe_Sapien_35.webp)
 
-![](/content/images/Abe_Sapien_36.jpg)
+![](/content/images/Abe_Sapien_36.webp)
 
 ### *Abe Sapien* collections
 
-![](/content/images/Abe_Sapien_Trade05.jpg)
+![](/content/images/Abe_Sapien_Trade05.webp)
 
-![](/content/images/Abe_Sapien_Trade06.jpg)
+![](/content/images/Abe_Sapien_Trade06.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
-![](/content/images/Abe_Sapien_Trade08.jpg)
+![](/content/images/Abe_Sapien_Trade08.webp)
 
-![](/content/images/Abe_Sapien_Trade09.jpg)
+![](/content/images/Abe_Sapien_Trade09.webp)
 
-![](/content/images/Omnibus_Abe_DaT_1.jpg)
+![](/content/images/Omnibus_Abe_DaT_1.webp)
 
 |*Abe Sapien: Dark and Terrible – Volume 1* (omnibus edition)
 
-![](/content/images/Omnibus_Abe_DaT_2.jpg)
+![](/content/images/Omnibus_Abe_DaT_2.webp)
 
 |*Abe Sapien: Dark and Terrible – Volume 2* (omnibus edition)
 
-![](/content/images/Omnibus_Abe_Drowning.jpg)
+![](/content/images/Omnibus_Abe_Drowning.webp)
 
 |*Abe Sapien: The Drowning and Other Stories* (omnibus edition)
 
 ### Others
 
-![](/content/images/Hellboy_Winter_Special_%282017%29.jpg)
+![](/content/images/Hellboy_Winter_Special_%282017%29.webp)
 
 |*Hellboy Winter Special* (2017)
 
-![](/content/images/The_Devil_You_Know_6.jpg)
+![](/content/images/The_Devil_You_Know_6.webp)
 
 |*B.P.R.D.: The Devil You Know* \#6 (with [Max Fiumara](/entry/Max_Fiumara))
 

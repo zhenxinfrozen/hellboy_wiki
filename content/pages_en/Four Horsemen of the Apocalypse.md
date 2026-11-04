@@ -21,7 +21,7 @@ Famine
 
 Death
 
-![War](/content/images/War%20the%20Horseman.png)
+![War](/content/images/War%20the%20Horseman.webp)
 
 |War
 ## Appearances

@@ -1,4 +1,4 @@
-![伊甸园（I）](/content/images/Abe_Sapien_12.jpg)
+![伊甸园（I）](/content/images/Abe_Sapien_12.webp)
 
 《**伊甸园（I）**》（The Garden (I)）是一个单期完结篇章，2014 年 5 月推出，由麦克斯·菲乌马拉（Max Fiumara）作画。
 
@@ -12,6 +12,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_12.jpg)
+![](/content/images/Abe_Sapien_12.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

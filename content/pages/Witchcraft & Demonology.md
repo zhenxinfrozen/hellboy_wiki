@@ -1,4 +1,4 @@
-![巫术与恶魔学](/content/images/Abe_Sapien_30.jpg)
+![巫术与恶魔学](/content/images/Abe_Sapien_30.webp)
 
 《**巫术与恶魔学**》（Witchcraft & Demonology）是一个关于[古斯塔夫·施特罗布尔](/entry/Gustav_Strobl)的回溯故事。
 
@@ -8,7 +8,7 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_30.jpg)
+![](/content/images/Abe_Sapien_30.webp)
 
 \#30
 

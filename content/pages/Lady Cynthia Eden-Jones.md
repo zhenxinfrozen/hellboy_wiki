@@ -1,4 +1,4 @@
-![Lady Cynthia Eden-Jones](/content/images/Eden-Jones.jpg)
+![Lady Cynthia Eden-Jones](/content/images/Eden-Jones.webp)
 
 **Lady Cynthia Eden-Jones** was a psychic and ally of Professor [Trevor Bruttenholm](/entry/Trevor%20Bruttenholm).
 

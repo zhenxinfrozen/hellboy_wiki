@@ -1,4 +1,4 @@
-![Unmensch](/content/images/Zirkus.jpg)
+![Unmensch](/content/images/Zirkus.webp)
 
 **Unmensch** was a cyborg Nazi in the service of [Ilsa Haupstein](/entry/Ilsa%20Haupstein).
 

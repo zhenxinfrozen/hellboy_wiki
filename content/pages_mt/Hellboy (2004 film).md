@@ -58,7 +58,7 @@
 
 ## 花絮
 
-![](/content/images/Whitman_m1.jpg)
+![](/content/images/Whitman_m1.webp)
 盟军士兵使用的 [M1 加兰德步枪](/entry/%3AFile%3AM1_garand.jpg)
 
 - 影片开场段落中，Whitman 中士和其他几名士兵使用的是 M1 加兰德步枪。
@@ -90,11 +90,11 @@
 
 ## 画廊
 
-![](/content/images/HellboyMoviePoster.jpg)
+![](/content/images/HellboyMoviePoster.webp)
 
-![](/content/images/Hellboy-2004--Ron-Perlman.jpg)
+![](/content/images/Hellboy-2004--Ron-Perlman.webp)
 
-![](/content/images/Hellboy_novelization_cover.jpg)
+![](/content/images/Hellboy_novelization_cover.webp)
 
 ### 预告片
 

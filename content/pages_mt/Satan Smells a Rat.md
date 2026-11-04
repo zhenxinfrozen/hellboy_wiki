@@ -10,4 +10,4 @@
 
 ## 画廊
 
-![](/content/images/Satan_Smells_a_Rat.jpg)
+![](/content/images/Satan_Smells_a_Rat.webp)

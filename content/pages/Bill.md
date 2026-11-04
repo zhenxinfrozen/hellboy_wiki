@@ -1,4 +1,4 @@
-![Bill](/content/images/Bill.jpg)
+![Bill](/content/images/Bill.webp)
 
 **Bill**was a member of [Lobster Johnson's](/entry/Lobster%20Johnson%20%28character%29) crew and served as demolition's expert and "tunnel rat".
 

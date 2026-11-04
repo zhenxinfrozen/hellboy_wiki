@@ -17,6 +17,6 @@
 
 ## 画廊
 
-![Hellboy: Weird Tales #1](/content/images/Hellboy%20Weird%20Tales%201.jpg)
+![Hellboy: Weird Tales #1](/content/images/Hellboy%20Weird%20Tales%201.webp)
 
 |Hellboy: Weird Tales #1

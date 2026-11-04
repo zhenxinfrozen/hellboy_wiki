@@ -1,4 +1,4 @@
-![](/content/images/HellboyMultiv.jpg)
+![](/content/images/HellboyMultiv.webp)
 
 Hellboy has a Legendary Multiverse in [Injustice 2](/entry/Injustice_2).
 

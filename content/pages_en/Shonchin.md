@@ -1,4 +1,4 @@
-**![](/content/images/Shonchin.jpeg)Shonchin** is an ancient T'shethuan shaman from the [Hyperborean](/entry/Hyperboreans) Age that survived well into the 21st century.
+**![](/content/images/Shonchin.webp)Shonchin** is an ancient T'shethuan shaman from the [Hyperborean](/entry/Hyperboreans) Age that survived well into the 21st century.
 
 ## History
 

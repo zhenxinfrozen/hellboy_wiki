@@ -1,4 +1,4 @@
-![Balor](/content/images/KingBalor.jpg)
+![Balor](/content/images/KingBalor.webp)
 
 **King Balor** is the legendary one-armed king of Elfland and ruler of all magical races (collectively known as 'the sons of the earth' or the Bethmoora Clan). The Golden Army was forged at his command as well as the crown accompanying it. Despite forming a truce with humanity, Balor lost the war to man's conquest and his son, Prince Nuada's, anger.
 

@@ -48,7 +48,7 @@ In January 2008, a 12-page promotional comic named *[The Golden Army](/entry/The
 
 ## Gallery
 
-![](/content/images/Hellboy_2_poster.jpg)
+![](/content/images/Hellboy_2_poster.webp)
 
 ## Trivia
 

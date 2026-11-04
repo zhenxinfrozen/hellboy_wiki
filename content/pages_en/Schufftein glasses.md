@@ -1,4 +1,4 @@
-![](/content/images/Schufftein%20glasses.jpg)
+![](/content/images/Schufftein%20glasses.webp)
 
 The **Schufftein glasses **were devices invented by Emil Schufftein in 1878. So far three pairs of the glasses were made, finding their way into the Smithsonian in Lot 336.
 

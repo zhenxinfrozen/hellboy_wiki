@@ -32,10 +32,10 @@ Mike Mignola 变体封面
 后续
 《七任妻子俱乐部》
 
-![第 #1 期](/content/images/Return%20of%20Effie%20Kolb%201.jpg)
+![第 #1 期](/content/images/Return%20of%20Effie%20Kolb%201.webp)
 
 |第 #1 期
 
-![第 #2 期](/content/images/Return%20of%20Effie%20Kolb%202.jpg)
+![第 #2 期](/content/images/Return%20of%20Effie%20Kolb%202.webp)
 
 |第 #2 期

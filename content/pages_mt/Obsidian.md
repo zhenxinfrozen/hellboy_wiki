@@ -19,6 +19,6 @@
 
 *《恋爱中的地狱男爵：黑曜石》* \#2
 
-![Hellboy in Love: Obsidian #2](/content/images/Obsidian%202.jpg)
+![Hellboy in Love: Obsidian #2](/content/images/Obsidian%202.webp)
 
 |Hellboy in Love: Obsidian #2

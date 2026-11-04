@@ -1,4 +1,4 @@
-![Goodbye Mister Tod](/content/images/GoodbyeMisterTod-TitlePanel.jpg)
+![Goodbye Mister Tod](/content/images/GoodbyeMisterTod-TitlePanel.webp)
 
 ## Publication History
 

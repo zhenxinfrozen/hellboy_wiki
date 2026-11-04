@@ -19,10 +19,10 @@ Cloacina was the Spirit of Venice and had a symbiotic connection with her city. 
 
 Cloacnia2.jpeg Cloacina3.jpeg
 
-![](/content/images/Cloacnia2.jpeg)
+![](/content/images/Cloacnia2.webp)
 
 |
 
-![](/content/images/Cloacina3.jpeg)
+![](/content/images/Cloacina3.webp)
 
 |

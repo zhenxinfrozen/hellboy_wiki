@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20Minotaur.png)
+![](/content/images/Hellboy%20Minotaur.webp)
 
 The **Minotaur** is a monster from Greece that resembles an upright bull on hooves.
 

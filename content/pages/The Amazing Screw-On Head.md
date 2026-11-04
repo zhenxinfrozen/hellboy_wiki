@@ -1,4 +1,4 @@
-![The Amazing Screw-On Head](/content/images/The_Amazing_Screw_On_Head.jpg)
+![The Amazing Screw-On Head](/content/images/The_Amazing_Screw_On_Head.webp)
 
 ***The Amazing Screw-On Head*** is a one-shot story written and drown by [Mike Mignola](/entry/Mike%20Mignola).
 

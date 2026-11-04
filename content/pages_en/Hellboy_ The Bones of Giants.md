@@ -82,18 +82,18 @@ While the original [*Hellboy: The Bones of Giants* prose novel](/entry/Hellboy__
 
 All covers are by [Matt Smith](/entry/Matt_Smith).
 
-![](/content/images/The_Bones_of_Giants_1.png)
+![](/content/images/The_Bones_of_Giants_1.webp)
 
  \#1
 
-![](/content/images/The_Bones_of_Giants_2.jpg)
+![](/content/images/The_Bones_of_Giants_2.webp)
 
  \#2
 
-![](/content/images/The_Bones_of_Giants_3.jpg)
+![](/content/images/The_Bones_of_Giants_3.webp)
 
  \#3
 
-![](/content/images/The_Bones_of_Giants_4.jpg)
+![](/content/images/The_Bones_of_Giants_4.webp)
 
  \#4

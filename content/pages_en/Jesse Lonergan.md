@@ -7,11 +7,11 @@
 ## Cover Art
 
 
-![Issue #1](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%201.jpg)
+![Issue #1](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%201.webp)
 
 |Issue #1
 
-![Issue #2](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202.jpg)
+![Issue #2](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202.webp)
 
 |Issue #2
 ### *Miss Truesdale and the Fall of Hyperborea*

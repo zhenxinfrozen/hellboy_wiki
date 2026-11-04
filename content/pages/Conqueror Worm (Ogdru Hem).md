@@ -1,4 +1,4 @@
-![Conqueror Worm (Ogdru Hem)](/content/images/Conqueror%20Worm%20%28creature%29.png)
+![Conqueror Worm (Ogdru Hem)](/content/images/Conqueror%20Worm%20%28creature%29.webp)
 
 *This article is about the Ogdru Hem. For the comic miniseries see*[Conqueror Worm (story)](/entry/Conqueror%20Worm%20%28story%29)*.*
 

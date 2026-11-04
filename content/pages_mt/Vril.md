@@ -1,4 +1,4 @@
-![](/content/images/Vril.jpg)
+![](/content/images/Vril.webp)
 
 **维利**(Vril)，又称 *Flamma Reconditus*、**秘火**(The Secret Fire)，乃是[上帝](/entry/God)本身的力量。
 

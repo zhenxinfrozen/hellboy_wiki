@@ -7,11 +7,11 @@
 ## Cover Art
 
 
-![Hellboy in Hell: Nothing But Blood #1](/content/images/Nothing%20But%20Blood%201%20Pomes.jpg)
+![Hellboy in Hell: Nothing But Blood #1](/content/images/Nothing%20But%20Blood%201%20Pomes.webp)
 
 |Hellboy in Hell: Nothing But Blood #1
 
-![Hellboy in Hell: Nothing But Blood #2](/content/images/Nothing%20But%20Blood%202%20Pomes.jpg)
+![Hellboy in Hell: Nothing But Blood #2](/content/images/Nothing%20But%20Blood%202%20Pomes.webp)
 
 |Hellboy in Hell: Nothing But Blood #2
 ### Issues

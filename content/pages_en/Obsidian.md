@@ -19,6 +19,6 @@ All covers by Alex Nieto.
 
 *Hellboy in Love: Obsidian* \#2
 
-![Hellboy in Love: Obsidian #2](/content/images/Obsidian%202.jpg)
+![Hellboy in Love: Obsidian #2](/content/images/Obsidian%202.webp)
 
 |Hellboy in Love: Obsidian #2

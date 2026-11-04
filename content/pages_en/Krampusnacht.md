@@ -10,29 +10,29 @@ This issue marks [Adam Hughes's](/entry/Adam_Hughes) debut on the Hellboy Univer
 
 *Hellboy: Krampusnacht* contains a section titled "Christmas Memories". It featured a collection of three pinups done in the style of photographs from Christmases of [Hellboy](/entry/Hellboy_%28character%29)'s past.
 
-![](/content/images/Christmas_1946.jpg)
+![](/content/images/Christmas_1946.webp)
 
 |"Christmas, 1946 - I got a [ Lobster Johnson](/entry/Lobster_Johnson_%28character%29) decoder ring!"
 
-![](/content/images/Christmas_1995.jpg)
+![](/content/images/Christmas_1995.webp)
 
 |"Christmas, 1995 - The year [ Abe](/entry/Abraham_Sapien) got drunk!"
 
-![](/content/images/Christmas_Alice.jpg)
+![](/content/images/Christmas_Alice.webp)
 
 |"[ Alice](/entry/Alice_Monaghan)"
 
 ## Gallery
 
-![](/content/images/Krampusnacht_AdamHughes.jpg)
+![](/content/images/Krampusnacht_AdamHughes.webp)
 
  Hughes cover
 
-![](/content/images/Krampusnacht_MikeMignola.jpg)
+![](/content/images/Krampusnacht_MikeMignola.webp)
 
  Mignola variant cover
 
-![](/content/images/Krampusnacht_Incentive.jpg)
+![](/content/images/Krampusnacht_Incentive.webp)
 
  variant cover
 

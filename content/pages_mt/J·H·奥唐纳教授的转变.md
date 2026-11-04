@@ -10,7 +10,7 @@
 
 ## 画廊
 
-![](/content/images/TransformationODonnell01.jpg)
+![](/content/images/TransformationODonnell01.webp)
 
  \#1
 

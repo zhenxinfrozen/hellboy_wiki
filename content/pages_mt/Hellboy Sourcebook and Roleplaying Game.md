@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20Sourcebook%20and%20Roleplaying%20Game.jpg)
+![](/content/images/Hellboy%20Sourcebook%20and%20Roleplaying%20Game.webp)
 
 ***《地狱男爵资料设定集与桌上角色扮演游戏》（Hellboy Sourcebook and Roleplaying Game）***由 Phil Masters 和 Jonathan Woodward 撰写，Steve Jackson Games 出版。这是一款基于泛用无界角色扮演系统（GURPS）第三版、以 Lite 精简规则为核心的桌上角色扮演游戏。
 

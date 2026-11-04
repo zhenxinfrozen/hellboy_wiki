@@ -1,4 +1,4 @@
-![Koku](/content/images/Koku.jpg)
+![Koku](/content/images/Koku.webp)
 
 **Koku** was a servant of [the Baba Yaga](/entry/Baba%20Yaga%20%28character%29) that takes the appearance of an short elderly Asian man with a mustache and tail.
 

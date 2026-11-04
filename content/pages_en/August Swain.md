@@ -1,4 +1,4 @@
-![](/content/images/August%20Swain.jpeg)
+![](/content/images/August%20Swain.webp)
 
 **August Swain** was a prominent member of the [Heliopic Brotherhood of Ra](/entry/Heliopic_Brotherhood_of_Ra) during the late nineteenth century, seemingly in charge of the Brotherhood's actions in London. On numerous occasions he met Sir [Edward Grey](/entry/Edward_Grey), including the 1879 investigation into the [Hyperborean](/entry/Hyperboreans) ghost affair. During this incident it is probable Swain ordered the death of a gentleman known as "the Captain" and the medium [Mary Wolf](/entry/Mary_Wolf), both allies of Sir Grey.
 

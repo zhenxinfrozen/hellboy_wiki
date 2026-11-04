@@ -4,17 +4,17 @@
 
 ### *Abe Sapien* issues
 
-![](/content/images/The_Haunted_Boy.jpg)
+![](/content/images/The_Haunted_Boy.webp)
 
-![](/content/images/Abyssal_Plain_1.jpg)
+![](/content/images/Abyssal_Plain_1.webp)
 
 |*Abe Sapien: The Abyssal Plain* \#1
 
-![](/content/images/Abyssal_Plain_02.jpg)
+![](/content/images/Abyssal_Plain_02.webp)
 
 |*Abe Sapien: The Abyssal Plain* \#2
 
-![](/content/images/The_Devil_Does_Not_Jest_1.jpg)
+![](/content/images/The_Devil_Does_Not_Jest_1.webp)
 
 |*Abe Sapien: The Devil Does Not Jest* \#1
 
@@ -22,15 +22,15 @@
 
 ### *B.P.R.D.: Hell on Earth* issues
 
-![](/content/images/Russia_001.jpg)
+![](/content/images/Russia_001.webp)
 
 |*B.P.R.D. Hell on Earth: Russia* \#1
 
-![](/content/images/Russia_002.jpg)
+![](/content/images/Russia_002.webp)
 
 |*B.P.R.D. Hell on Earth: Russia* \#2
 
-![](/content/images/Russia_003.jpg)
+![](/content/images/Russia_003.webp)
 
 |*B.P.R.D. Hell on Earth: Russia* \#3
 
@@ -38,53 +38,53 @@
 
 |*B.P.R.D. Hell on Earth: Russia* \#5
 
-![](/content/images/A_Cold_Day_in_Hell_1.jpg)
+![](/content/images/A_Cold_Day_in_Hell_1.webp)
 
-![](/content/images/A_Cold_Day_in_Hell_2.jpg)
+![](/content/images/A_Cold_Day_in_Hell_2.webp)
 
 |*B.P.R.D. Hell on Earth: A Cold Day in Hell* \#2
 
-![](/content/images/Wasteland_1.jpg)
+![](/content/images/Wasteland_1.webp)
 
-![](/content/images/Wasteland_2.jpg)
+![](/content/images/Wasteland_2.webp)
 
-![](/content/images/Wasteland_3.jpg)
+![](/content/images/Wasteland_3.webp)
 
 ### [*Lobster Johnson: The Burning Hand*](/entry/The_Burning_Hand)
 
-![](/content/images/The_Burning_Hand_1.jpg)
+![](/content/images/The_Burning_Hand_1.webp)
 
 |*Lobster Johnson: The Burning Hand* \#1
 
 |*Lobster Johnson: The Burning Hand* \#2
 
-![](/content/images/The_Burning_Hand_3.jpg)
+![](/content/images/The_Burning_Hand_3.webp)
 
 |*Lobster Johnson: The Burning Hand* \#3
 
-![](/content/images/The_Burning_Hand_4.jpg)
+![](/content/images/The_Burning_Hand_4.webp)
 
 |*Lobster Johnson: The Burning Hand* \#4
 
-![](/content/images/The_Burning_Hand_5.jpg)
+![](/content/images/The_Burning_Hand_5.webp)
 
 |*Lobster Johnson: The Burning Hand* \#5
 
 ### [*B.P.R.D.: 1948*](/entry/1948)
 
-![](/content/images/1948_1.jpg)
+![](/content/images/1948_1.webp)
 
 |*B.P.R.D.: 1948* \#1
 
-![](/content/images/1948_2.jpg)
+![](/content/images/1948_2.webp)
 
 |*B.P.R.D.: 1948* \#2
 
-![](/content/images/1948_3.jpg)
+![](/content/images/1948_3.webp)
 
 |*B.P.R.D.: 1948* \#3
 
-![](/content/images/1948_4.jpg)
+![](/content/images/1948_4.webp)
 
 |*B.P.R.D.: 1948* \#4
 

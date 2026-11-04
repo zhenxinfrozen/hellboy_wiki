@@ -1,4 +1,4 @@
-![Gamon](/content/images/Gamon.png)
+![Gamon](/content/images/Gamon.webp)
 
 **Gamon** was one of [Hellboy](/entry/Hellboy)'s elder brothers, the son of the demon [Azzael](/entry/Azzael), and nephew of [Astaroth](/entry/Astaroth). He and his brother [Lusk](/entry/Lusk) were tricked by Astaroth into fighting Hellboy for the [Right Hand of Doom](/entry/Right%20Hand%20of%20Doom).
 

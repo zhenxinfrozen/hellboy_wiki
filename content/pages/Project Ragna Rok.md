@@ -1,4 +1,4 @@
-![Ragnarok_logo.jpg](/content/images/Ragnarok_logo.jpg)
+![Ragnarok_logo.jpg](/content/images/Ragnarok_logo.webp)
 Project Ragna Rok logo.
 
 **Project Ragna Rok** was a Nazi occult project, headed by [Grigori Rasputin](/entry/Grigori%20Rasputin), named after the climactic event of Norse mythology that was aiming at creating a Doomsday weapon which could end World War II and bring about a victory for Nazi Germany.

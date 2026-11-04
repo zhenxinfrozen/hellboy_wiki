@@ -28,7 +28,7 @@
 
 - 《土星回归》第 \#3 期的封面，是迈克·米格诺拉为《蝙蝠侠：黑暗骑士传说——圣所》（Batman: Legends of the Dark Knight—Sanctum）绘制的封面的反转版本。
 
-![](/content/images/Sanctum%20tribute.jpg)
+![](/content/images/Sanctum%20tribute.webp)
 
 地狱男爵与超自然调查防御署出版顺序
 

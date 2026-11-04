@@ -26,7 +26,7 @@ In the ruins of the tunnel, Bobbie Jo finds the now-shrunken spider and recaptur
 
 ## Cast
 
-![](/content/images/Jack%20Kesy%202.jpg)
+![](/content/images/Jack%20Kesy%202.webp)
 
 - [Jack Kesy](/entry/Jack_Kesy) as [Hellboy](/entry/Hellboy_(character))
 - [Jefferson White](/entry/Jefferson_White) as [Tom Ferrell](/entry/Tom_Ferrell)

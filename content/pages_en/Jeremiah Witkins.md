@@ -16,7 +16,7 @@ Hellboy and Ferrell then went to Witkins's house in the Hurricane, and found him
 
 ## Appearance
 
-![Witkins's demonic form.](/content/images/Miserdevil.jpg) In life, Jeremiah Witkins was a tall Caucasian male, with long sideburns, one blinded eye and a grin that was anything but friendly, his crooked nature marking him physically. After his death and pact with the Devil, Witkins became a misshapen crab-like creature with multiple eyes that projects an image of his original form that is a more crooked with his head lolling to the side, slack-jawed with several teeth missing, a deathly pale cast to his flesh and his sideburns even more fuzz-like.
+![Witkins's demonic form.](/content/images/Miserdevil.webp) In life, Jeremiah Witkins was a tall Caucasian male, with long sideburns, one blinded eye and a grin that was anything but friendly, his crooked nature marking him physically. After his death and pact with the Devil, Witkins became a misshapen crab-like creature with multiple eyes that projects an image of his original form that is a more crooked with his head lolling to the side, slack-jawed with several teeth missing, a deathly pale cast to his flesh and his sideburns even more fuzz-like.
 
 ## Powers and abilities
 
@@ -24,7 +24,7 @@ As in life Jeremiah Witkins possessed in death his abilities to capitalize on mi
 
 ## Trivia
 
-![](/content/images/Mr-onselm-hellboy-crooked-man-2024-portrait-.png)
+![](/content/images/Mr-onselm-hellboy-crooked-man-2024-portrait-.webp)
 Mr. Onselm a.k.a. The Crooked Man portrayed by Martin Bassindale.
 
 - Miser Witkins was at least partially based off the old English children's rhyme "There was a crooked man".

@@ -1,4 +1,4 @@
-![我在彼处将会寻见什么？](/content/images/AndWhatShallIFindThere.jpg)
+![我在彼处将会寻见什么？](/content/images/AndWhatShallIFindThere.webp)
 
 《**我在彼处将会寻见什么？**》（And What Shall I Find There?）是一部短篇故事，时间线设定在特雷弗·布鲁滕霍尔姆的青年时代。
 

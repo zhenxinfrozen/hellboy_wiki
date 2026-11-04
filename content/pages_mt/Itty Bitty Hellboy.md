@@ -44,24 +44,24 @@
 
 ## 画廊
 
-![](/content/images/Itty_Bitty_Hellboy_1.jpg)
+![](/content/images/Itty_Bitty_Hellboy_1.webp)
 
-![](/content/images/Itty_Bitty_Hellboy_1_Variant.jpg)
+![](/content/images/Itty_Bitty_Hellboy_1_Variant.webp)
 
 第1期变体封面
 
-![](/content/images/Itty_Bitty_Hellboy_2.jpg)
+![](/content/images/Itty_Bitty_Hellboy_2.webp)
 
-![](/content/images/Itty_Bitty_Hellboy_4.jpg)
+![](/content/images/Itty_Bitty_Hellboy_4.webp)
 
 第4期
 
-![](/content/images/Itty_Bitty_Hellboy_5.jpg)
+![](/content/images/Itty_Bitty_Hellboy_5.webp)
 
 第5期
 
-![](/content/images/Itty_Bitty_Hellboy.jpg)
+![](/content/images/Itty_Bitty_Hellboy.webp)
 
-![](/content/images/Halloween_ComicFest_Itty_Bitty_Hellboy.jpg)
+![](/content/images/Halloween_ComicFest_Itty_Bitty_Hellboy.webp)
 
-![](/content/images/Free_Comic_Book_Day_2014_-_All_Ages.png)
+![](/content/images/Free_Comic_Book_Day_2014_-_All_Ages.webp)

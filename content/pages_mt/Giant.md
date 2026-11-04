@@ -1,4 +1,4 @@
-![](/content/images/Giant.jpeg)
+![](/content/images/Giant.webp)
 
 **巨人（Giants）**是一个曾行走于地球上的大型人形种族。
 

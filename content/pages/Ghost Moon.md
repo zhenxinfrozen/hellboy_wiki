@@ -1,4 +1,4 @@
-![鬼月](/content/images/Ghost_Moon_1.jpg)
+![鬼月](/content/images/Ghost_Moon_1.webp)
 
 《**鬼月**》（Ghost Moon）是《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1954》的一个篇章，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，布莱恩·楚里拉（Brian Churilla）作画。
 
@@ -20,11 +20,11 @@
 
 封面均由 [迈克·赫德尔斯顿](/entry/Mike_Huddleston)（Mike Huddleston）绘制。
 
-![](/content/images/Ghost_Moon_1.jpg)
+![](/content/images/Ghost_Moon_1.webp)
 
 《1954：鬼月》第 1 期
 
-![](/content/images/Ghost_Moon_2.jpg)
+![](/content/images/Ghost_Moon_2.webp)
 
 《1954：鬼月》第 2 期
 

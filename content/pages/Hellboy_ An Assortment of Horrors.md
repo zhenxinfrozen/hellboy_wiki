@@ -1,4 +1,4 @@
-![Hellboy: An Assortment of Horrors](/content/images/Hellboy_-_An_Assortment_of_Horrors.jpg)
+![Hellboy: An Assortment of Horrors](/content/images/Hellboy_-_An_Assortment_of_Horrors.webp)
 
 ***Hellboy: An Assortment of Horrors*** is the fourth anthology collecting non-chronological short stories written for the [*Hellboy* novel series](/entry/Hellboy%20Universe%20novels), based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola), who provided cover illustrations for each story.
 

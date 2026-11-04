@@ -18,10 +18,10 @@ This two-page back-up feature written and drawn by [Matt Strackbein](/entry/Matt
 
 Covers by [Mike Huddleston](/entry/Mike_Huddleston).
 
-![](/content/images/Ghost_Moon_1.jpg)
+![](/content/images/Ghost_Moon_1.webp)
 
 |*1954: Ghost Moon* \#1
 
-![](/content/images/Ghost_Moon_2.jpg)
+![](/content/images/Ghost_Moon_2.webp)
 
 |*1954: Ghost Moon* \#2

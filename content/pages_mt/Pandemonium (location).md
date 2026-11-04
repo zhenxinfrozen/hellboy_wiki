@@ -9,7 +9,7 @@
 
 地狱男爵第一次品尝煎饼时，万魔殿的恶魔们陷入恐慌。
 
-![](/content/images/Pandemonium2.jpeg)
+![](/content/images/Pandemonium2.webp)
 
 |
 ## 灵感来源

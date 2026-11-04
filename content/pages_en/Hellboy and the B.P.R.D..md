@@ -1,4 +1,4 @@
-![](/content/images/FrontPage-HellboyBPRD.png) ***Hellboy and the B.P.R.D.*** is a line of comic books following [Hellboy](/entry/Hellboy_%28character%29)'s career at the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense).
+![](/content/images/FrontPage-HellboyBPRD.webp) ***Hellboy and the B.P.R.D.*** is a line of comic books following [Hellboy](/entry/Hellboy_%28character%29)'s career at the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense).
 
 ## Publication History
 

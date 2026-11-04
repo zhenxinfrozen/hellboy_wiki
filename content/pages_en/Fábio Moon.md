@@ -16,23 +16,23 @@ Fábio Moon co-wrote the [*B.P.R.D.: Vampire* story cycle](/entry/Vampire_%28sto
 
 ## Cover Art
 
-![](/content/images/Vampire_1.jpg)
+![](/content/images/Vampire_1.webp)
 
 |*B.P.R.D.: Vampire* \#1
 
-![](/content/images/Vampire_2.jpg)
+![](/content/images/Vampire_2.webp)
 
 |*B.P.R.D.: Vampire* \#2
 
-![](/content/images/Vampire_3.jpg)
+![](/content/images/Vampire_3.webp)
 
 |*B.P.R.D.: Vampire* \#3
 
-![](/content/images/Vampire_4.jpg)
+![](/content/images/Vampire_4.webp)
 
 |*B.P.R.D.: Vampire* \#4
 
-![](/content/images/Vampire_5.jpg)
+![](/content/images/Vampire_5.webp)
 
 |*B.P.R.D.: Vampire* \#
 

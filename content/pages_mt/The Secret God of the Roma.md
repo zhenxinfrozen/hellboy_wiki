@@ -22,10 +22,10 @@
 后作
 《土星回归》
 
-![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.jpg)
+![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.webp)
 
 |Duncan Fegredo cover
 
-![Mike Mignola variant cover](/content/images/The%20Beast%20of%20Vargu%20Mignola.jpg)
+![Mike Mignola variant cover](/content/images/The%20Beast%20of%20Vargu%20Mignola.webp)
 
 |Mike Mignola variant cover

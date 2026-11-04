@@ -1,4 +1,4 @@
-![House of the Living Dead](/content/images/House%20of%20the%20Living%20Dead.jpg)
+![House of the Living Dead](/content/images/House%20of%20the%20Living%20Dead.webp)
 
 ## Publication History
 

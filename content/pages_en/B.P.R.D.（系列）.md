@@ -1,4 +1,4 @@
-![](/content/images/Front_Page_-_BPRD.png) ***B.P.R.D.*** is a line of comic books about the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) organisation. It is a spinoff of the *[Hellboy](/entry/Hellboy_%28series%29)* series.
+![](/content/images/Front_Page_-_BPRD.webp) ***B.P.R.D.*** is a line of comic books about the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) organisation. It is a spinoff of the *[Hellboy](/entry/Hellboy_%28series%29)* series.
 
 ## Publication History
 

@@ -1,4 +1,4 @@
-![Malcolm Frost](/content/images/Frost.jpg)
+![Malcolm Frost](/content/images/Frost.webp)
 
 **Malcolm Frost** was a paranormal expert who was present at the ["Hellboy Incident"](/entry/Seed%20of%20Destruction) and urged for the death of [Hellboy](/entry/Hellboy) due to his role in the end of the world.
 

@@ -1,4 +1,4 @@
-![](/content/images/Hammerheads.jpg)
+![](/content/images/Hammerheads.webp)
 
 **锤头兽**(Hammerheads)是末日降临之后崛起的最主要物种之一。它们首次出现于休斯敦附近的一次火山喷发之后，那很可能是一只未具名的奥格德鲁·赫姆苏醒所致。
 

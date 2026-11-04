@@ -1,4 +1,4 @@
-![](/content/images/Troll2.png)
+![](/content/images/Troll2.webp)
 
 **Trolls** are a mythical creature that appears in both Hellboy comics and [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 

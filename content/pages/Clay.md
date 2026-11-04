@@ -1,4 +1,4 @@
-![Clay](/content/images/Agent%20clay.jpg)
+![Clay](/content/images/Agent%20clay.webp)
 
 Agent Clay was a BPRD agent that debuted in the [first *Hellboy* film](/entry/Hellboy%20%28film%29), but has made no further appearances.
 

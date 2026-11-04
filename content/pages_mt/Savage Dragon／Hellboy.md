@@ -35,6 +35,6 @@ Das Kann Nicht Sein（这不可能）*
 
 *《野蛮龙／地狱男爵》*合订本
 
-![Savage Dragon Vol 1 #34:<br />Das Kann Nicht Sein (This Cannot Be)](/content/images/Savage%20Dragon%20Vol%201%2034.jpg)
+![Savage Dragon Vol 1 #34:<br />Das Kann Nicht Sein (This Cannot Be)](/content/images/Savage%20Dragon%20Vol%201%2034.webp)
 
 |Savage Dragon Vol 1 #34:<br />Das Kann Nicht Sein (This Cannot Be)

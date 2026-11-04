@@ -1,4 +1,4 @@
-![](/content/images/Front_Page_-_Witchfinder.png) ***《爱德华·格雷爵士：猎巫人》（Sir Edward Grey: Witchfinder）***是一系列围绕角色[爱德华·格雷爵士](/entry/Sir_Edward_Grey)展开的漫画。它是*[《地狱男爵》](/entry/Hellboy_%28series%29)*系列的衍生作品。该系列更常被简称为***《猎巫人》（Witchfinder）***。
+![](/content/images/Front_Page_-_Witchfinder.webp) ***《爱德华·格雷爵士：猎巫人》（Sir Edward Grey: Witchfinder）***是一系列围绕角色[爱德华·格雷爵士](/entry/Sir_Edward_Grey)展开的漫画。它是*[《地狱男爵》](/entry/Hellboy_%28series%29)*系列的衍生作品。该系列更常被简称为***《猎巫人》（Witchfinder）***。
 
 ## 出版历史
 

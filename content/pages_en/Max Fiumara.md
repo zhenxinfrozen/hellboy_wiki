@@ -19,79 +19,79 @@
 
 ### *Abe Sapien* issues
 
-![](/content/images/The_New_Race_of_Man_1.jpg)
+![](/content/images/The_New_Race_of_Man_1.webp)
 
-![](/content/images/The_New_Race_of_Man_1a.jpg)
+![](/content/images/The_New_Race_of_Man_1a.webp)
 
-![](/content/images/The_New_Race_of_Man_2.jpg)
+![](/content/images/The_New_Race_of_Man_2.webp)
 
-![](/content/images/The_Shape_of_Things_to_Come_1.jpg)
+![](/content/images/The_Shape_of_Things_to_Come_1.webp)
 
-![](/content/images/The_Shape_of_Things_to_Come_2.jpg)
+![](/content/images/The_Shape_of_Things_to_Come_2.webp)
 
-![](/content/images/Abe_Sapien_8.jpg)
+![](/content/images/Abe_Sapien_8.webp)
 
-![](/content/images/Abe_Sapien_9.jpg)
+![](/content/images/Abe_Sapien_9.webp)
 
-![](/content/images/Abe_Sapien_10.jpg)
+![](/content/images/Abe_Sapien_10.webp)
 
-![](/content/images/Abe_Sapien_11.jpg)
+![](/content/images/Abe_Sapien_11.webp)
 
-![](/content/images/Abe_Sapien_18.jpg)
+![](/content/images/Abe_Sapien_18.webp)
 
-![](/content/images/Abe_Sapien_19.jpg)
+![](/content/images/Abe_Sapien_19.webp)
 
-![](/content/images/Abe_Sapien_20.jpg)
+![](/content/images/Abe_Sapien_20.webp)
 
-![](/content/images/Abe_Sapien_21.jpg)
+![](/content/images/Abe_Sapien_21.webp)
 
-![](/content/images/Abe_Sapien_22.jpg)
+![](/content/images/Abe_Sapien_22.webp)
 
-![](/content/images/Abe_Sapien_24.jpg)
+![](/content/images/Abe_Sapien_24.webp)
 
-![](/content/images/Abe_Sapien_25.jpg)
+![](/content/images/Abe_Sapien_25.webp)
 
-![](/content/images/Abe_Sapien_26.jpg)
+![](/content/images/Abe_Sapien_26.webp)
 
-![](/content/images/Abe_Sapien_28.jpg)
+![](/content/images/Abe_Sapien_28.webp)
 
-![](/content/images/Abe_Sapien_29.jpg)
+![](/content/images/Abe_Sapien_29.webp)
 
-![](/content/images/Abe_Sapien_30.jpg)
+![](/content/images/Abe_Sapien_30.webp)
 
-![](/content/images/Abe_Sapien_31.jpg)
+![](/content/images/Abe_Sapien_31.webp)
 
 ### *Abe Sapien* collections
 
-![](/content/images/Abe_Sapien_Trade05.jpg)
+![](/content/images/Abe_Sapien_Trade05.webp)
 
-![](/content/images/Abe_Sapien_Trade06.jpg)
+![](/content/images/Abe_Sapien_Trade06.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
 ### Others
 
-![](/content/images/TransformationODonnell01.jpg)
+![](/content/images/TransformationODonnell01.webp)
 
 |*B.P.R.D.: Hell on Earth: The Transformation of J.H. O'Donnell*
 
-![](/content/images/The_Devil_You_Know_6.jpg)
+![](/content/images/The_Devil_You_Know_6.webp)
 
 |*B.P.R.D.: The Devil You Know* \#6 (with [Sebastián Fiumara](/entry/Sebasti%C3%A1n_Fiumara))
 
 |*B.P.R.D.: The Devil You Know* \#7
 
-![](/content/images/The_Devil_You_Know_8.jpg)
+![](/content/images/The_Devil_You_Know_8.webp)
 
 |*B.P.R.D.: The Devil You Know* \#8
 
-![](/content/images/The_Devil_You_Know_9.jpg)
+![](/content/images/The_Devil_You_Know_9.webp)
 
 |*B.P.R.D.: The Devil You Know* \#9
 
-![](/content/images/The_Devil_You_Know_10.jpg)
+![](/content/images/The_Devil_You_Know_10.webp)
 
 |*B.P.R.D.: The Devil You Know* \#10
 

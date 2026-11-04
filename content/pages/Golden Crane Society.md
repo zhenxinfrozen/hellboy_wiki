@@ -1,4 +1,4 @@
-![Golden_Crane_Society.png](/content/images/Golden_Crane_Society.png) The **Golden Crane Society** was a secret occult society based in China.
+![Golden_Crane_Society.png](/content/images/Golden_Crane_Society.webp) The **Golden Crane Society** was a secret occult society based in China.
 
 ## History
 

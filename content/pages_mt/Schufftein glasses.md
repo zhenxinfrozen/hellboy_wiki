@@ -1,4 +1,4 @@
-![](/content/images/Schufftein%20glasses.jpg)
+![](/content/images/Schufftein%20glasses.webp)
 
 **舒夫泰因眼镜（Schufftein glasses）**是埃米尔·舒夫泰因（Emil Schufftein）于 1878 年发明的装置。迄今为止这种眼镜共制作了三副，最终作为第 336 号藏品入藏史密森学会。
 

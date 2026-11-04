@@ -37,18 +37,18 @@
 
 第 \#5 期
 
-![第 #2 期](/content/images/The%20Silver%20Lantern%20Club%202.jpg)
+![第 #2 期](/content/images/The%20Silver%20Lantern%20Club%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/The%20Silver%20Lantern%20Club%203.jpg)
+![第 #3 期](/content/images/The%20Silver%20Lantern%20Club%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/The%20Silver%20Lantern%20Club%204.jpg)
+![第 #4 期](/content/images/The%20Silver%20Lantern%20Club%204.webp)
 
 |第 #4 期
 
-![第 #5 期](/content/images/The%20Silver%20Lantern%20Club%205.jpg)
+![第 #5 期](/content/images/The%20Silver%20Lantern%20Club%205.webp)
 
 |第 #5 期

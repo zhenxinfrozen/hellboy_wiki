@@ -16,23 +16,23 @@ Fábio Moon 与 Gabriel Bá、Mike Mignola 共同编写了[《B.P.R.D.：吸血�
 
 ## 封面作画
 
-![](/content/images/Vampire_1.jpg)
+![](/content/images/Vampire_1.webp)
 
 |《B.P.R.D.：吸血鬼》（B.P.R.D.: Vampire）第 1 期
 
-![](/content/images/Vampire_2.jpg)
+![](/content/images/Vampire_2.webp)
 
 |《B.P.R.D.：吸血鬼》（B.P.R.D.: Vampire）第 2 期
 
-![](/content/images/Vampire_3.jpg)
+![](/content/images/Vampire_3.webp)
 
 |《B.P.R.D.：吸血鬼》（B.P.R.D.: Vampire）第 3 期
 
-![](/content/images/Vampire_4.jpg)
+![](/content/images/Vampire_4.webp)
 
 |《B.P.R.D.：吸血鬼》（B.P.R.D.: Vampire）第 4 期
 
-![](/content/images/Vampire_5.jpg)
+![](/content/images/Vampire_5.webp)
 
 |《B.P.R.D.：吸血鬼》（B.P.R.D.: Vampire）\#
 

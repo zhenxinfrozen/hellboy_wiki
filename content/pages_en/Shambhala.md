@@ -21,7 +21,7 @@ With the Earth destroyed and being prepared for a new race of man, humanity will
 
 Humanity's future is underground
 
-![Humanity's  future is underground](/content/images/SanctiHyperberum2.jpeg)
+![Humanity's  future is underground](/content/images/SanctiHyperberum2.webp)
 
 |Humanity's  future is underground
 ## Inhabitans

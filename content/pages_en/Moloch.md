@@ -4,7 +4,7 @@
 
 ### Punishing Azzael
 
-![](/content/images/MolochInHell.jpg)
+![](/content/images/MolochInHell.webp)
 
 Moloch was one of the many princes of Hell angry at [Azzael](/entry/Azzael) for putting the [Right Hand of Doom](/entry/Right_Hand_of_Doom) on [his son](/entry/Hellboy_(character)), and send the [Angels of Destruction](/entry/Angels_of_Destruction) to destroy his castle.
 

@@ -1,4 +1,4 @@
-![](/content/images/Hellboy-Vulcan-65-Hand-Grenades-1.jpg)
+![](/content/images/Hellboy-Vulcan-65-Hand-Grenades-1.webp)
 
 **伏尔甘手雷（Vulcan Grenades）**是电影*[《地狱男爵》](/entry/Hellboy_(2004_film))*（2004年）中出现的超大号手雷。
 

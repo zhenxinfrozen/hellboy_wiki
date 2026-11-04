@@ -1,4 +1,4 @@
-![](/content/images/Sytry.jpeg)
+![](/content/images/Sytry.webp)
 
 **西迪**（Sytry）曾是一名高阶[恶魔](/entry/Demon)。
 

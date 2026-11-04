@@ -15,6 +15,6 @@ Gabriel Hernández Walta 作
 《惠蒂尔老头》*  
 Mike Mignola 与 Dave Stewart 作
 
-![Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart](/content/images/Old%20Man%20Whittier%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart](/content/images/Old%20Man%20Whittier%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br />Old Man Whittier<br />by Mike Mignola and Dave Stewart

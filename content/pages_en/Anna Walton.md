@@ -1,4 +1,4 @@
-![](/content/images/AnnaWalton.jpg)
+![](/content/images/AnnaWalton.webp)
 
 **Anna Walton** is a British actress who plays [Princess Nuala](/entry/Nuala) in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 

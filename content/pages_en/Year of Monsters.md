@@ -10,21 +10,21 @@ The following year, 2013, [Mignola's convention sketchbook](/entry/Sketchbooks),
 
 ## Gallery
 
-![](/content/images/The_Burning_Hand_1b.jpg)
+![](/content/images/The_Burning_Hand_1b.webp)
 
  Issue:
 [*Lobster Johnson: The Burning Hand* \#1](/entry/The_Burning_Hand)
 
-![](/content/images/The_Long_Death_001b.jpg)
+![](/content/images/The_Long_Death_001b.webp)
 
  Issue:
 [*B.P.R.D.: Hell on Earth—The Long Death* \#1](/entry/The_Long_Death)
 
-![](/content/images/The_Pickens_County_Horror_001b.jpg)
+![](/content/images/The_Pickens_County_Horror_001b.webp)
 
 [*B.P.R.D.: Hell on Earth—The Pickens County Horror* \#1](/entry/The_Pickens_County_Horror)
 
-![](/content/images/The_Burning_Hand_4b.jpg)
+![](/content/images/The_Burning_Hand_4b.webp)
 
  Issue:
 [*Lobster Johnson: The Burning Hand* \#4](/entry/The_Burning_Hand)
@@ -36,34 +36,34 @@ The following year, 2013, [Mignola's convention sketchbook](/entry/Sketchbooks),
 *Baltimore: Doctor Leskovar's Remedy* \#1
 (Not a Hellboy Universe title)
 
-![](/content/images/The_Devil%27s_Engine_003b.jpg)
+![](/content/images/The_Devil%27s_Engine_003b.webp)
 
  Issue:
 [*B.P.R.D.: Hell on Earth—The Devil's Engine* \#3](/entry/The_Devil%27s_Engine)
 
-![](/content/images/Return_of_the_Master_1b.jpg)
+![](/content/images/Return_of_the_Master_1b.webp)
 
  Issue:
 [*B.P.R.D.: Hell on Earth—The Return of the Master* \#1](/entry/The_Return_of_the_Master)
 
-![](/content/images/Caput_Mortuum_Variant.jpg)
+![](/content/images/Caput_Mortuum_Variant.webp)
 
 [*Lobster Johnson: Caput Mortuum*](/entry/Caput_Mortuum)
 
-![](/content/images/1948_1a.jpg)
+![](/content/images/1948_1a.webp)
 
 [*B.P.R.D.: 1948* \#1](/entry/1948)
 
-![](/content/images/Return_of_the_Master_4b.jpg)
+![](/content/images/Return_of_the_Master_4b.webp)
 
  Issue:
 [*B.P.R.D.: Hell on Earth—The Return of the Master \#4*](/entry/The_Return_of_the_Master)
 
-![](/content/images/Hellboy_in_Hell_1a.jpg)
+![](/content/images/Hellboy_in_Hell_1a.webp)
 
  Issue:
 [*Hellboy in Hell* \#1](/entry/Hellboy_in_Hell_%28first_story_arc%29)
 
-![](/content/images/A_Year_of_Monsters.jpg)
+![](/content/images/A_Year_of_Monsters.webp)
 
 [A Year of Monsters](/entry/A_Year_of_Monsters)

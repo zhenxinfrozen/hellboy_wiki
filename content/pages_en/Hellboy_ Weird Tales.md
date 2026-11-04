@@ -16,7 +16,7 @@ Additional Materials
 
 1
 February 26, 2003
-![](/content/images/Hellboy_Weird_Tales_1.jpg)<span style="font-size: 75%;">[JOHN CASSADAY](/entry/John_Cassaday)</span>
+![](/content/images/Hellboy_Weird_Tales_1.webp)<span style="font-size: 75%;">[JOHN CASSADAY](/entry/John_Cassaday)</span>
 <em>[Big-Top-Hell-Boy](/entry/Big-Top-Hell-Boy)</em>
 [John Cassaday](/entry/John_Cassaday)
 <em>Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen</em> pin-up by [TyRuben Ellingson](/entry/TyRuben_Ellingson)
@@ -33,7 +33,7 @@ February 26, 2003
 
 2
 April 23, 2003
-![](/content/images/Helboy_Weird_Tales_2.jpg)<span style="font-size: 75%;">[JASON PEARSON](/entry/Jason_Pearson)</span>
+![](/content/images/Helboy_Weird_Tales_2.webp)<span style="font-size: 75%;">[JASON PEARSON](/entry/Jason_Pearson)</span>
 <em>[Flight Risk](/entry/Flight_Risk)</em>
 [Joe Casey](/entry/Joe_Casey)
 [Steve Parkhouse](/entry/Steve_Parkhouse)
@@ -55,7 +55,7 @@ NA
 
 3
 June 25, 2003
-![](/content/images/Hellboy_Weird_Tales_3.jpg)<span style="font-size: 75%;">[ALEX MALEEV](/entry/Alex_Maleev)</span>
+![](/content/images/Hellboy_Weird_Tales_3.webp)<span style="font-size: 75%;">[ALEX MALEEV](/entry/Alex_Maleev)</span>
 <em>[Still Born](/entry/Still_Born)</em>
 [Matt Hollingsworth](/entry/Matt_Hollingsworth) &amp; [Alex Maleev](/entry/Alex_Maleev)
 [Alex Maleev](/entry/Alex_Maleev)
@@ -75,7 +75,7 @@ June 25, 2003
 
 4
 August 27, 2003
-![](/content/images/Hellboy_Weird_Tales_4.jpg)<span style="font-size: 75%;">[LEINIL FRANCIS YU](/entry/Leinil_Francis_Yu)</span>
+![](/content/images/Hellboy_Weird_Tales_4.webp)<span style="font-size: 75%;">[LEINIL FRANCIS YU](/entry/Leinil_Francis_Yu)</span>
 <em>[The Dread Within](/entry/The_Dread_Within)</em>
 [Jason Pearson](/entry/Jason_Pearson)
 <em>Shred</em> pin-up by [Rick Cortes](/entry/Rick_Cortes)
@@ -93,7 +93,7 @@ August 27, 2003
 
 5
 October 15, 2003
-![](/content/images/Hellboy_Weird_Tales_5.jpg)<span style="font-size: 75%;">[J.H. WILLIAMS III](/entry/J.H._Williams_III)</span>
+![](/content/images/Hellboy_Weird_Tales_5.webp)<span style="font-size: 75%;">[J.H. WILLIAMS III](/entry/J.H._Williams_III)</span>
 <em>[Love is Scarier than Death](/entry/Love_is_Scarier_than_Death)</em>
 [J.H. Williams III](/entry/J.H._Williams_III) &amp; [Haden Blackman](/entry/Haden_Blackman)
 [J.H. Williams III](/entry/J.H._Williams_III)
@@ -111,7 +111,7 @@ Pin-up by [Cameron Stewart](/entry/Cameron_Stewart)
 
 6
 December 10, 2003
-![](/content/images/Hellboy_Weird_Tales_6.jpg)<span style="font-size: 75%;">[FRANK CHO](/entry/Frank_Cho)</span>
+![](/content/images/Hellboy_Weird_Tales_6.webp)<span style="font-size: 75%;">[FRANK CHO](/entry/Frank_Cho)</span>
 <em>[Command Performance](/entry/Command_Performance)</em>
 [Will Pfeifer](/entry/Will_Pfeifer)
 [P. Craig Russell](/entry/P._Craig_Russell)
@@ -129,7 +129,7 @@ Pin-up by [Steve Purcell](/entry/Steve_Purcell)
 
 7
 February 11, 2004
-![](/content/images/Hellboy_Weird_Tales_7.jpg)<span style="font-size: 75%;">[PHIL NOTO](/entry/Phil_Noto)</span>
+![](/content/images/Hellboy_Weird_Tales_7.webp)<span style="font-size: 75%;">[PHIL NOTO](/entry/Phil_Noto)</span>
 <em>[A Love Story](/entry/A_Love_Story)</em>
 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards)
 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards) with [Don Cameron](/entry/Don_Cameron)
@@ -147,7 +147,7 @@ Pin-up by [Dave Stevens](/entry/Dave_Stevens)
 
 8
 April 14, 2004
-![](/content/images/Hellboy_Weird_Tales_8.jpg)<span style="font-size: 75%;">[MICHAEL W. KALUTA](/entry/Michael_W._Kaluta)</span>
+![](/content/images/Hellboy_Weird_Tales_8.webp)<span style="font-size: 75%;">[MICHAEL W. KALUTA](/entry/Michael_W._Kaluta)</span>
 <em>[Fifteen Minutes...](/entry/Fifteen_Minutes...)</em>
 [Jill Thompson](/entry/Jill_Thompson)
 Pin-up by [Gary Fields](/entry/Gary_Fields)
@@ -181,12 +181,12 @@ Material Collected
 
 <em>Hellboy Weird Tales: Volume 1</em>
 December 17, 2003
-![](/content/images/Weird_Tales_Volume_1.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Weird_Tales_Volume_1.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 <em>Hellboy Weird Tales</em> #1–4
 
 <em>Hellboy Weird Tales: Volume 2</em>
 October 27, 2004
-![](/content/images/Weird_Tales_Volume_2.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Weird_Tales_Volume_2.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 <em>Hellboy Weird Tales</em> #5–8
 
 </tbody>
@@ -208,7 +208,7 @@ Additional Material
 <em>Hellboy: Weird Tales</em><br />
 <span style="font-size: 75%;">(Hardcover)</span>
 November 26, 2014
-![](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.jpg) <span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.webp) <span style="font-size: 75%;">MIKE MIGNOLA</span>
 <ul>
 <li><em>Hellboy Weird Tales</em> #1–8</li>
 <li><em>[How Koshchei Became Deathless](/entry/How_Koshchei_Became_Deathless)</em></li>
@@ -219,7 +219,7 @@ Introduction by [Scott Allie](/entry/Scott_Allie)
 <em>Hellboy: Weird Tales</em><br />
 <span style="font-size: 75%;">(Paperback)</span>
 November 9, 2022
-![](/content/images/Hellboy_Weird_Tales_Omnibus_TPB.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_Weird_Tales_Omnibus_TPB.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 <ul>
 <li><em>Hellboy Weird Tales</em> #1–8<br />
 <span style="font-size: 75%;">(except "<em>Toy Soldier</em>")</span></li>

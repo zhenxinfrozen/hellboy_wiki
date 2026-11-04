@@ -14,6 +14,6 @@
 变体封面：[迈克·米格诺拉](/entry/Mike_Mignola)  
 上色：[戴夫·斯图尔特](/entry/Dave_Stewart)
 
-![Cover by Matt SMtih](/content/images/TheYuleCat%20Smith.jpg)
+![Cover by Matt SMtih](/content/images/TheYuleCat%20Smith.webp)
 
 |Cover by Matt SMtih

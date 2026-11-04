@@ -1,4 +1,4 @@
-![](/content/images/Front%20Page%20-%20Panya.png)
+![](/content/images/Front%20Page%20-%20Panya.webp)
 
 ## 收录故事
 

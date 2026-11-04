@@ -440,7 +440,22 @@ function slug_url(string $slug): string {
     return str_replace(['%28','%29','%3A','%27','%3B','%2F'], ['(',')',":","'",';','/'], $s);
 }
 function ent(string $t): string { return '/entry/' . slug_url(hb_slug_of($t)); }
-function img(string $f): string { return IMG . '/' . rawurlencode($f); }
+
+/** 派生图 URL：thumb=宽400卡片墙 / gallery=宽800正文画廊；文件不存在自动回退原图，避免 404 */
+function img_derived_url(string $f, string $sub): ?string {
+    $base = pathinfo($f, PATHINFO_FILENAME);
+    if ($base === '') return null;
+    $candidate = ROOT . '/content/images/' . $sub . '/' . $base . '.webp';
+    return is_file($candidate) ? ('/content/images/' . $sub . '/' . rawurlencode($base) . '.webp') : null;
+}
+/** 图片 URL。$scene: full=原图（灯箱/信息框封面）/ thumb=卡片墙 / gallery=正文画廊 */
+function img(string $f, string $scene = 'full'): string {
+    if ($scene === 'thumb' || $scene === 'gallery') {
+        $derived = img_derived_url($f, $scene);
+        if ($derived !== null) return $derived;
+    }
+    return IMG . '/' . rawurlencode($f);
+}
 
 // HONEST-LANG: 依据正文实际字符判定 zh/en/mixed，不看标题
 function detect_lang(string $md): string {
@@ -532,7 +547,30 @@ function md_html(string $md, int $tocOffset = 0): array {
     }, $html);
     $html = preg_replace('#<a href="(https?://[^"]+)"#', '<a href="$1" target="_blank" rel="noopener"', $html);
     $html = hb_gallery_group($html);
+    $html = hb_upgrade_body_images($html);
     return [$html, $toc];
+}
+
+/**
+ * 正文图片统一升级：src 切到 gallery 档 webp（若存在），data-full 挂原图 URL 供灯箱放大。
+ * 只处理站内 /content/images/ 图片；派生不存在时保留原 src、不加 data-full。
+ */
+function hb_upgrade_body_images(string $html): string {
+    $out = preg_replace_callback(
+        '~<img\b(?=[^>]*\ssrc="/content/images/)([^>]*?)\ssrc="(/content/images/([^"?#]+))([^>]*)>~i',
+        function ($m) {
+            $prefix = $m[1]; $fullUrl = $m[2]; $fname = rawurldecode($m[3]); $suffix = $m[4];
+            $derived = img_derived_url($fname, 'gallery');
+            $src = $derived ?? $fullUrl;
+            // 已带 data-full 不重复加
+            if (str_contains($prefix . $suffix, 'data-full=')) {
+                return '<img' . $prefix . ' src="' . e($src) . '"' . $suffix . '>';
+            }
+            return '<img' . $prefix . ' src="' . e($src) . '" data-full="' . e($fullUrl) . '"' . $suffix . '>';
+        },
+        $html
+    );
+    return is_string($out) ? $out : $html;
 }
 
 /* 纯图片自动收拢为响应式网格画廊。
@@ -764,9 +802,9 @@ function rail_toc(array $toc): string {
 function infobox_card(array $ib): string {
     if (!$ib['type']) return '';
     if (!empty($ib['image'])) {
-        $img = '<div class="ib-figure"><img src="'.img($ib['image']).'" alt="" loading="lazy"></div>';
+        $img = '<div class="ib-figure"><img src="'.img($ib['image'], 'gallery').'" alt="" loading="lazy"></div>';
     } else {
-        $img = '<div class="ib-figure is-placeholder"><img src="'.img('placeholder-bprd.png').'" alt="暂无图片" loading="lazy"></div>';
+        $img = '<div class="ib-figure is-placeholder"><img src="'.img('placeholder-bprd.webp').'" alt="暂无图片" loading="lazy"></div>';
     }
     $rows = '';
     foreach ($ib['rows'] as $r) {
@@ -790,22 +828,22 @@ function cats_html(array $cats): string {
 /* ---------- home: Wikipedia 门户还原 ---------- */
 function portal_series(): array {
     return [
-        ['Front Page - Hellboy.png','Hellboy (series)'],
-        ['FrontPage-HellboyBPRD.png','Hellboy and the B.P.R.D.'],
-        ['Front Page - Hellboy in Hell.png','Hellboy in Hell (series)'],
-        ['Front Page - BPRD.png','B.P.R.D. (series)'],
-        ['FrontPage-BPRD-TheDevilYouKnow.png','The Devil You Know (story cycle)'],
-        ['Front Page - BPRD Hell on Earth.png','Hell on Earth (story cycle)'],
-        ['Front Page - Abe Sapien.png','Abe Sapien (series)'],
-        ['Front Page - Witchfinder.png','Witchfinder'],
-        ['Front Page - Lobster Johnson.png','Lobster Johnson (series)'],
-        ['Front Page - Sledgehammer 44.png','Sledgehammer 44 (series)'],
-        ['FrontPage-RiseoftheBlackFlame.png','Rise of the Black Flame'],
-        ['FrontPage-FrankensteinUnderground.png','Frankenstein Underground'],
-        ['FrontPage-TheVisitor.png','The Visitor_ How & Why He Stayed'],
-        ['FrontPage-Koshchei.png','Koshchei the Deathless (story)'],
-        ['FrontPage-Rasputin.png','Rasputin_ The Voice of the Dragon'],
-        ['Front Page - Crimson Lotus.png','Crimson Lotus (story)'],
+        ['Front Page - Hellboy.webp','Hellboy (series)'],
+        ['FrontPage-HellboyBPRD.webp','Hellboy and the B.P.R.D.'],
+        ['Front Page - Hellboy in Hell.webp','Hellboy in Hell (series)'],
+        ['Front Page - BPRD.webp','B.P.R.D. (series)'],
+        ['FrontPage-BPRD-TheDevilYouKnow.webp','The Devil You Know (story cycle)'],
+        ['Front Page - BPRD Hell on Earth.webp','Hell on Earth (story cycle)'],
+        ['Front Page - Abe Sapien.webp','Abe Sapien (series)'],
+        ['Front Page - Witchfinder.webp','Witchfinder'],
+        ['Front Page - Lobster Johnson.webp','Lobster Johnson (series)'],
+        ['Front Page - Sledgehammer 44.webp','Sledgehammer 44 (series)'],
+        ['FrontPage-RiseoftheBlackFlame.webp','Rise of the Black Flame'],
+        ['FrontPage-FrankensteinUnderground.webp','Frankenstein Underground'],
+        ['FrontPage-TheVisitor.webp','The Visitor_ How & Why He Stayed'],
+        ['FrontPage-Koshchei.webp','Koshchei the Deathless (story)'],
+        ['FrontPage-Rasputin.webp','Rasputin_ The Voice of the Dragon'],
+        ['Front Page - Crimson Lotus.webp','Crimson Lotus (story)'],
     ];
 }
 function portal_chars(): array {
@@ -888,7 +926,7 @@ function render_home(Ctx $ctx): void {
     ob_start(); ?>
     <div class="crumbs">首页</div>
     <article class="portal">
-      <div class="portal-logo"><img src="<?= img('Hellboy_Wiki.png') ?>" alt="The Hellboy Wiki"></div>
+      <div class="portal-logo"><img src="<?= img('Hellboy_Wiki.webp') ?>" alt="The Hellboy Wiki"></div>
       <h1 class="portal-title">首页</h1>
 
       <p><b>地狱男爵中文维基</b> 收录和整理与<b>地狱男爵</b>（地狱小子、Hellboy）相关的所有中文信息，当前作为个人资料库的现代化阅读版重建。</p>
@@ -908,7 +946,7 @@ function render_home(Ctx $ctx): void {
       <h2 id="sec-series" class="portal-bar">核心漫画系列</h2>
       <div class="series-grid">
         <?php foreach ($series as [$file,$target]): ?>
-          <a class="series-cell" href="<?= ent($target) ?>"><img src="<?= img($file) ?>" alt="<?= e($target) ?>" loading="lazy"></a>
+          <a class="series-cell" href="<?= ent($target) ?>"><img src="<?= img($file, 'thumb') ?>" alt="<?= e($target) ?>" loading="lazy"></a>
         <?php endforeach; ?>
       </div>
 
@@ -928,7 +966,7 @@ function render_home(Ctx $ctx): void {
       <div class="char-icon-grid">
         <?php foreach ($charIcons as $ct): $cmeta = $ctx->meta($ct); $cname = $enHome ? $ctx->en_title($ct) : $ctx->zh_title($ct); ?>
           <a class="char-icon-cell" href="<?= ent($ct) ?>">
-            <?php if (!empty($cmeta['image'])): ?><img class="char-icon-thumb" src="<?= img($cmeta['image']) ?>" alt="" loading="lazy"><?php else: ?><span class="char-icon-thumb noimg"><?= e(mb_substr($cname,0,1,'UTF-8')) ?></span><?php endif; ?>
+            <?php if (!empty($cmeta['image'])): ?><img class="char-icon-thumb" src="<?= img($cmeta['image'], 'thumb') ?>" alt="" loading="lazy"><?php else: ?><span class="char-icon-thumb noimg"><?= e(mb_substr($cname,0,1,'UTF-8')) ?></span><?php endif; ?>
             <span class="char-icon-name"><?= e($cname) ?></span>
           </a>
         <?php endforeach; ?>
@@ -946,7 +984,7 @@ function render_home(Ctx $ctx): void {
         <div class="movie-row">
           <?php foreach ($mv as $mvItem): $mvLabel = $enHome ? $ctx->en_title($mvItem['title']) : $ctx->zh_title($mvItem['title']); ?>
             <a class="movie-cell" href="<?= ent($mvItem['title']) ?>">
-              <img src="<?= img($mvItem['img']) ?>" alt="<?= e($mvLabel) ?>" loading="lazy">
+              <img src="<?= img($mvItem['img'], 'thumb') ?>" alt="<?= e($mvLabel) ?>" loading="lazy">
               <span class="movie-name"><?= e($mvLabel) ?></span>
               <?php if ($enHome && $mvItem['year']): ?><span class="movie-year"><?= $mvItem['year'] ?></span><?php endif; ?>
             </a>
@@ -1043,7 +1081,7 @@ function render_browse(Ctx $ctx, string $g, string $s, string $cat = ''): void {
             <?php foreach ($core as $t): $m=$ctx->meta($t); $nm=$ctx->disp_title($t); ?>
               <li>
                 <a class="pcore-item" href="<?= ent($t) ?>">
-                  <?php if (!empty($m['image'])): ?><img class="pcore-thumb" src="<?= img($m['image']) ?>" alt="" loading="lazy"><?php else: ?><span class="pcore-thumb noimg"><?= e(mb_substr($nm,0,1,'UTF-8')) ?></span><?php endif; ?>
+                  <?php if (!empty($m['image'])): ?><img class="pcore-thumb" src="<?= img($m['image'], 'thumb') ?>" alt="" loading="lazy"><?php else: ?><span class="pcore-thumb noimg"><?= e(mb_substr($nm,0,1,'UTF-8')) ?></span><?php endif; ?>
                   <span class="pcore-name"><?= e($nm) ?></span>
                 </a>
               </li>
@@ -1107,8 +1145,8 @@ function render_browse(Ctx $ctx, string $g, string $s, string $cat = ''): void {
       <?php foreach ($items as $t): $ib=$enMode?$ctx->ib_for($t):$ctx->meta($t); $cardName=$ctx->disp_title($t); $dl0=strtoupper(substr(preg_replace('/^[^A-Za-z]+/','',hb_slug_of($t)),0,1)); $dl=($dl0===''?'#':$dl0); ?>
         <a class="entry-card" data-name="<?= e(mb_strtolower($cardName.' '.$t)) ?>" data-letter="<?= e($dl) ?>" href="<?= ent($t) ?>">
           <?php if (!empty($ib['image'])): ?>
-            <div class="card-thumb"><img src="<?= img($ib['image']) ?>" alt="" loading="lazy"></div>
-          <?php else: ?><div class="card-thumb is-placeholder"><img src="<?= img('placeholder-bprd.png') ?>" alt=""></div><?php endif; ?>
+            <div class="card-thumb"><img src="<?= img($ib['image'], 'thumb') ?>" alt="" loading="lazy"></div>
+          <?php else: ?><div class="card-thumb is-placeholder"><img src="<?= img('placeholder-bprd.webp') ?>" alt=""></div><?php endif; ?>
           <div class="card-meta">
             <span class="card-type"><?= e($ib['type_zh'] ?: tr($secName)) ?></span>
             <h3><?= e($cardName) ?></h3>
@@ -1166,8 +1204,8 @@ function render_gallery(Ctx $ctx): void {
           <?php foreach ($grp['items'] as $t): $ib=$enMode?$ctx->ib_for($t):$ctx->meta($t); $cardName=$ctx->disp_title($t); ?>
             <a class="entry-card" href="<?= ent($t) ?>">
               <?php if (!empty($ib['image'])): ?>
-                <div class="card-thumb"><img src="<?= img($ib['image']) ?>" alt="" loading="lazy"></div>
-              <?php else: ?><div class="card-thumb is-placeholder"><img src="<?= img('placeholder-bprd.png') ?>" alt=""></div><?php endif; ?>
+                <div class="card-thumb"><img src="<?= img($ib['image'], 'thumb') ?>" alt="" loading="lazy"></div>
+              <?php else: ?><div class="card-thumb is-placeholder"><img src="<?= img('placeholder-bprd.webp') ?>" alt=""></div><?php endif; ?>
               <div class="card-meta">
                 <span class="card-type"><?= e($ib['type_zh'] ?: ($enMode?'Entry':'条目')) ?></span>
                 <h3><?= e($cardName) ?></h3>
@@ -2303,7 +2341,7 @@ function render_portal_widgets(Ctx $ctx, string $html, string $secName, array $s
                 $m = $enMode ? $ctx->ib_for($t) : $ctx->meta($t);
                 $nm = $ctx->disp_title($t);
                 $coreHtml .= '<li><a class="pcore-item" href="'.ent($t).'"';
-                if (!empty($m['image'])) $coreHtml .= '><img class="pcore-thumb" src="'.img($m['image']).'" alt="" loading="lazy">';
+                if (!empty($m['image'])) $coreHtml .= '><img class="pcore-thumb" src="'.img($m['image'], 'thumb').'" alt="" loading="lazy">';
                 else $coreHtml .= '><span class="pcore-thumb noimg">'.e(mb_substr($nm,0,1,'UTF-8')).'</span>';
                 $coreHtml .= '<span class="pcore-name">'.e($nm).'</span></a></li>';
             }
@@ -2354,7 +2392,7 @@ function render_portal_widgets(Ctx $ctx, string $html, string $secName, array $s
     $azHtml .= '</div></section>';
 
     // 门户页头手写介绍区右浮插图（对齐 18100 旧版 Interior Artist 分类页）
-    $introImg = '<figure class="portal-introimg"><img src="'.img('Hellboy_-_The_First_20_Years_2014.png').'" alt="Hellboy - The First 20 Years (2014)"></figure>';
+    $introImg = '<figure class="portal-introimg"><img src="'.img('Hellboy_-_The_First_20_Years_2014.webp').'" alt="Hellboy - The First 20 Years (2014)"></figure>';
 
     return preg_replace_callback('#\s*<p>\{\{(core|subcats|az|introimg)\}\}</p>\s*#', function($m) use ($coreHtml,$subHtml,$azHtml,$introImg) {
         return ['core'=>$coreHtml,'subcats'=>$subHtml,'az'=>$azHtml,'introimg'=>$introImg][$m[1]];

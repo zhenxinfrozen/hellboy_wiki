@@ -1,4 +1,4 @@
-![Massimo](/content/images/Massimo_face.jpg)
+![Massimo](/content/images/Massimo_face.webp)
 
 **Massimo** (a.k.a. Max) was a member of [Lobster Johnson](/entry/Lobster%20Johnson)'s group of vigilantes. Though he only had one appearance and was summarily killed, It appears he was a valued member of the group.
 

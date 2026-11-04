@@ -10,7 +10,7 @@
 
 Guillermo del Toro 在 B.P.R.D. 漫画 [Killing Ground](/entry/Killing_Ground) 的 B.P.R.D. 名录里客串了一把：
 
-![](/content/images/Bprd_directory.png)
+![](/content/images/Bprd_directory.webp)
 Bprd_directory.png
 
 （最左边一列，从上往下第 7 个名字）。

@@ -12,6 +12,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_28.jpg)
+![](/content/images/Abe_Sapien_28.webp)
 
-![](/content/images/Abe_Sapien_29.jpg)
+![](/content/images/Abe_Sapien_29.webp)

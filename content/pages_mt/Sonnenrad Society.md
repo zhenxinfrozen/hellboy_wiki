@@ -1,4 +1,4 @@
-![](/content/images/Sonnenrad_Society.png)
+![](/content/images/Sonnenrad_Society.webp)
 Sonnenrad_Society.png
 
 **太阳轮学会（Sonnenrad Society）**（又称**黑太阳教团（Order of the Black Sun）**）是纳粹德国的秘术局之一。

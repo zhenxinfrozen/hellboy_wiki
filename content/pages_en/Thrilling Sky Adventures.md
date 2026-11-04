@@ -25,31 +25,31 @@ Main covers by [Craig Rousseau](/entry/Craig_Rousseau).
 
 Issue \#1
 
-![Issue #2](/content/images/Thrilling%20Sky%20Adventures%202.jpg)
+![Issue #2](/content/images/Thrilling%20Sky%20Adventures%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Thrilling%20Sky%20Adventures%203.jpg)
+![Issue #3](/content/images/Thrilling%20Sky%20Adventures%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Thrilling%20Sky%20Adventures%204.jpg)
+![Issue #4](/content/images/Thrilling%20Sky%20Adventures%204.webp)
 
 |Issue #4
 
-![Issue #1<br>by David Hitchcock](/content/images/Thrilling%20Sky%20Adventures%201%20Hitchcock.jpg)
+![Issue #1<br>by David Hitchcock](/content/images/Thrilling%20Sky%20Adventures%201%20Hitchcock.webp)
 
 |Issue #1<br>by David Hitchcock
 
-![Issue #2<br>by Alice Darrow](/content/images/Thrilling%20Sky%20Adventures%202%20Darrow.jpg)
+![Issue #2<br>by Alice Darrow](/content/images/Thrilling%20Sky%20Adventures%202%20Darrow.webp)
 
 |Issue #2<br>by Alice Darrow
 
-![Issue #3<br>by Michael Cho](/content/images/Thrilling%20Sky%20Adventures%203%20Cho.jpg)
+![Issue #3<br>by Michael Cho](/content/images/Thrilling%20Sky%20Adventures%203%20Cho.webp)
 
 |Issue #3<br>by Michael Cho
 
-![Issue #4<br>by Ben Stenbeck](/content/images/Thrilling%20Sky%20Adventures%204%20Stenbeck.jpg)
+![Issue #4<br>by Ben Stenbeck](/content/images/Thrilling%20Sky%20Adventures%204%20Stenbeck.webp)
 
 |Issue #4<br>by Ben Stenbeck
 ### Variant Covers

@@ -17,7 +17,7 @@ Vampir Sturm 计划由希姆莱提出，并于 1944 年 10 月获得[阿道夫·
 
 希特勒会见朱雷斯库。
 
-![Hitler meets Giurescu.](/content/images/ProjectVampirSturm.jpeg)
+![Hitler meets Giurescu.](/content/images/ProjectVampirSturm.webp)
 
 |Hitler meets Giurescu.
 ## 另请参见

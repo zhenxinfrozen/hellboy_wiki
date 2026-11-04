@@ -1,4 +1,4 @@
-![Hellboy: The All-Seeing Eye](/content/images/Hellboy%20-%20The%20All-Seeing%20Eye%20%28Novel%20Cover%29.jpg)
+![Hellboy: The All-Seeing Eye](/content/images/Hellboy%20-%20The%20All-Seeing%20Eye%20%28Novel%20Cover%29.webp)
 
 ***Hellboy: The All-Seeing Eye*** is the eighth *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
 

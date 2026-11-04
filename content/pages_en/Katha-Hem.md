@@ -29,6 +29,6 @@ Katha-Hem, like most Ogdru Hem, bear a resemblance to Great Old Ones from the Ct
 
 Katha-Hem.png
 
-![](/content/images/Katha-Hem.png)
+![](/content/images/Katha-Hem.webp)
 
 |

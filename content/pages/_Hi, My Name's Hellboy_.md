@@ -1,4 +1,4 @@
-!["Hi, My Name's Hellboy"](/content/images/Hi%2C_my_name%27s_Hellboy.jpg)
+!["Hi, My Name's Hellboy"](/content/images/Hi%2C_my_name%27s_Hellboy.webp)
 
 ***"Hi, my name's Hellboy"*** is a one-page promotional strip that advertised Hellboy and his upcoming stories.
 

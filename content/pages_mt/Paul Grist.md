@@ -15,14 +15,14 @@
 
 ## 画廊
 
-![The Visitor: How & Why He Stayed #3](/content/images/HowAndWhyHeStayed3.jpg)
+![The Visitor: How & Why He Stayed #3](/content/images/HowAndWhyHeStayed3.webp)
 
 |The Visitor: How & Why He Stayed #3
 
-![The Visitor: How & Why He Stayed #4](/content/images/HowAndWhyHeStayed4.jpg)
+![The Visitor: How & Why He Stayed #4](/content/images/HowAndWhyHeStayed4.webp)
 
 |The Visitor: How & Why He Stayed #4
 
-![The Visitor: How & Why He Stayed #5](/content/images/HowAndWhyHeStayed5.jpg)
+![The Visitor: How & Why He Stayed #5](/content/images/HowAndWhyHeStayed5.webp)
 
 |The Visitor: How & Why He Stayed #5

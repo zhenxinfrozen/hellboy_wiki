@@ -18,6 +18,6 @@ Variant cover by [Mike Mignola](/entry/Mike_Mignola) and [Dave Stewart](/entry/D
 
 ## Gallery
 
-![Cover by Jill Thompson](/content/images/Hellboy%20Beasts%20of%20Burden%20-%20Thompson.jpg)
+![Cover by Jill Thompson](/content/images/Hellboy%20Beasts%20of%20Burden%20-%20Thompson.webp)
 
 |Cover by Jill Thompson

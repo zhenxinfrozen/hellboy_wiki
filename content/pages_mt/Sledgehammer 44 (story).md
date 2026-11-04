@@ -16,6 +16,6 @@
 
 ## 画廊
 
-![](/content/images/Sledgehammer_44_1.jpg)
+![](/content/images/Sledgehammer_44_1.webp)
 
-![](/content/images/Sledgehammer_44_2.jpg)
+![](/content/images/Sledgehammer_44_2.webp)

@@ -82,7 +82,7 @@ He also huge appetite as he eats six meals a day.
 
   
 
-![](/content/images/Hellboy-Mignola.jpg)
+![](/content/images/Hellboy-Mignola.webp)
 
 Though the first film is a loose adaptation of *Seed of Destruction*, changes were made that maintained the spirit of the story while making it more compelling as a film narrative. These differences built up and grew more pronounced in the sequel (which is largely an original tale featuring distinct plot and characters), to the point where several prominent elements of Hellboy are wholly distinct from [his original comic depiction](/entry/Hellboy_(character)). The most notable differences include:
 
@@ -121,7 +121,7 @@ Other, relatively more minor, differences include smaller character attributes o
 
 ## Behind the scenes
 
-![](/content/images/RonPerlman.jpg)
+![](/content/images/RonPerlman.webp)
 
 Hellboy was portrayed by [Ron Perlman](/entry/Ron_Perlman).
 

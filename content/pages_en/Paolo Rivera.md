@@ -8,27 +8,27 @@
 ## Cover Art
 
 
-![Beyond the Fences #1](/content/images/Hellboy%20and%20the%20BPRD%201953%203.jpg)
+![Beyond the Fences #1](/content/images/Hellboy%20and%20the%20BPRD%201953%203.webp)
 
 |Beyond the Fences #1
 
-![Beyond the Fences #2](/content/images/Hellboy%20and%20the%20BPRD%201953%204.jpg)
+![Beyond the Fences #2](/content/images/Hellboy%20and%20the%20BPRD%201953%204.webp)
 
 |Beyond the Fences #2
 
-![Beyond the Fences #3](/content/images/Hellboy%20and%20the%20BPRD%201953%205.jpg)
+![Beyond the Fences #3](/content/images/Hellboy%20and%20the%20BPRD%201953%205.webp)
 
 |Beyond the Fences #3
 
-![Occult Intelligence #1](/content/images/Occult%20Intelligence%201.jpg)
+![Occult Intelligence #1](/content/images/Occult%20Intelligence%201.webp)
 
 |Occult Intelligence #1
 
-![Burning Season](/content/images/Burning%20Season.jpg)
+![Burning Season](/content/images/Burning%20Season.webp)
 
 |Burning Season
 
-![Hellboy and the B.P.R.D.: 1955](/content/images/Hellboy%20and%20the%20BPRD%201955%20Trade.jpg)
+![Hellboy and the B.P.R.D.: 1955](/content/images/Hellboy%20and%20the%20BPRD%201955%20Trade.webp)
 
 |Hellboy and the B.P.R.D.: 1955
 ### *Hellboy and the B.P.R.D.* Issues

@@ -1,4 +1,4 @@
-![Romulus Diovanni](/content/images/Romulus%20Diovanni.png)
+![Romulus Diovanni](/content/images/Romulus%20Diovanni.webp)
 
 **Romulus Diovanni** was a vampire count from 12th Century Italy.
 

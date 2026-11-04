@@ -25,14 +25,14 @@ All covers by [Peter Bergting](/entry/Peter_Bergting).
 
 Issue \#1
 
-![Issue #2](/content/images/Speed%20of%20Darkness%202.jpg)
+![Issue #2](/content/images/Speed%20of%20Darkness%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Speed%20of%20Darkness%203.jpg)
+![Issue #3](/content/images/Speed%20of%20Darkness%203.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Speed%20of%20Darkness%204.jpg)
+![Issue #4](/content/images/Speed%20of%20Darkness%204.webp)
 
 |Issue #4

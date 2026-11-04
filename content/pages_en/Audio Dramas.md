@@ -13,19 +13,19 @@ Cover
 Hellboy: A Plague of Wasps
 July 11, 2023
 Christopher Golden
-![](/content/images/A%20Plague%20of%20Wasps.jpg)
+![](/content/images/A%20Plague%20of%20Wasps.webp)
 MIKE MIGNOLA
 
 Lobster Johnson: The Proteus Club
 October 24, 2023
 Christopher Golden
-![](/content/images/The%20Proteus%20Club.jpg)
+![](/content/images/The%20Proteus%20Club.webp)
 MIKE MIGNOLA
 
 Hellboy and the B.P.R.D.: The Goddess of Manhattan
 September 10, 2024
 Christopher Golden and Thomas E. Sniegoski
-![](/content/images/The%20Goddess%20of%20Manhattan.jpg)
+![](/content/images/The%20Goddess%20of%20Manhattan.webp)
 MIKE MIGNOLA
 
 ## Canonicity and Chronology

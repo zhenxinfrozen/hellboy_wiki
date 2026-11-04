@@ -1,8 +1,8 @@
 *For the 2008 film, its soundtrack, and the promotional comic, see [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army), [Hellboy II: The Golden Army (soundtrack)](/entry/Hellboy_II__The_Golden_Army_%28soundtrack%29), and [The Golden Army (promo)](/entry/The_Golden_Army_(promo)).*
 
-![](/content/images/Golden%20Army%20back.png)
+![](/content/images/Golden%20Army%20back.webp)
 
-![](/content/images/Golden%20Army.jpg)
+![](/content/images/Golden%20Army.webp)
 
 The **Golden Army** is an army of "seventy times seventy" (4,900) robot-like mechanical soldiers created by [goblins](/entry/Goblin), [trolls](/entry/Troll) and [elves](/entry/Elf) in the [war](/entry/War) against [humans](/entry/Human).
 

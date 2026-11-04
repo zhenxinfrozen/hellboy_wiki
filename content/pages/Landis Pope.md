@@ -1,4 +1,4 @@
-![Landis Pope](/content/images/Tumblr%20mig38ujNS81qkhas3o1%201280.jpg)
+![Landis Pope](/content/images/Tumblr%20mig38ujNS81qkhas3o1%201280.webp)
 
 **Landis Pope** was the CEO of the [Zinco Corporation](/entry/Zinco%20Corporation) and the recent mantle of the [Black Flame](/entry/The%20Black%20Flame%20%28character%29).
 

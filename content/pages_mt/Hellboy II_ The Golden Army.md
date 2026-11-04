@@ -48,7 +48,7 @@ del Toro 曾计划拍摄第三部，但最终没有再推出任何续作。
 
 ## 画廊
 
-![](/content/images/Hellboy_2_poster.jpg)
+![](/content/images/Hellboy_2_poster.webp)
 
 ## 花絮
 

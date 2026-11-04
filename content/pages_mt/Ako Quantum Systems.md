@@ -1,4 +1,4 @@
-![](/content/images/Ako_Quantum_Systems.png) **阿科量子系统（Ako Quantum Systems）**是一家由日本政府资助的最高机密封量子研究所。
+![](/content/images/Ako_Quantum_Systems.webp) **阿科量子系统（Ako Quantum Systems）**是一家由日本政府资助的最高机密封量子研究所。
 
 ## 历史
 

@@ -82,18 +82,18 @@
 
 所有封面均由[马特·史密斯](/entry/Matt_Smith)绘制。
 
-![](/content/images/The_Bones_of_Giants_1.png)
+![](/content/images/The_Bones_of_Giants_1.webp)
 
  第 1 期
 
-![](/content/images/The_Bones_of_Giants_2.jpg)
+![](/content/images/The_Bones_of_Giants_2.webp)
 
  第 2 期
 
-![](/content/images/The_Bones_of_Giants_3.jpg)
+![](/content/images/The_Bones_of_Giants_3.webp)
 
  第 3 期
 
-![](/content/images/The_Bones_of_Giants_4.jpg)
+![](/content/images/The_Bones_of_Giants_4.webp)
 
  第 4 期

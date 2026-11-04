@@ -1,4 +1,4 @@
-!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.png) **撒玛利亚人（The Samaritan）**是 2004 年电影《[地狱男爵](/entry/Hellboy_%282004_film%29)》及其 2008 年续集《[黄金军团](/entry/Hellboy_II__The_Golden_Army)》中出现的一把武器。它是[地狱男爵](/entry/Hellboy_%282004%E2%80%932008_film_character%29)最钟爱的随身配枪。撒玛利亚人是一把由[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)打造的巨型转轮手枪，能够发射多种专用子弹来对付怪物。
+!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.webp) **撒玛利亚人（The Samaritan）**是 2004 年电影《[地狱男爵](/entry/Hellboy_%282004_film%29)》及其 2008 年续集《[黄金军团](/entry/Hellboy_II__The_Golden_Army)》中出现的一把武器。它是[地狱男爵](/entry/Hellboy_%282004%E2%80%932008_film_character%29)最钟爱的随身配枪。撒玛利亚人是一把由[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)打造的巨型转轮手枪，能够发射多种专用子弹来对付怪物。
 
 ## 武器规格
 

@@ -26,21 +26,21 @@
 
 封面作者 [D'Israeli](/entry/D%E2%80%99Israeli)。
 
-![](/content/images/The_Gates_of_Heaven_1_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_1_DIsraeli.webp)
 
 第 1 期
 
-![](/content/images/The_Gates_of_Heaven_2_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_2_DIsraeli.webp)
 
 第 2 期
 
-![](/content/images/The_Gates_of_Heaven_3_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_3_DIsraeli.webp)
 
 第 3 期
 
 第 4 期
 
-![](/content/images/The_Gates_of_Heaven_5_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_5_DIsraeli.webp)
 
 第 5 期
 

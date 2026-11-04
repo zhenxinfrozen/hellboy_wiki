@@ -1,4 +1,4 @@
-![](/content/images/HBR.png) ![](/content/images/HeliopicBrotherhoodOfRa.jpeg)**拉神赫利奥皮斯兄弟会（Heliopic Brotherhood of Ra）**是一个致力于保存古老秘密知识的秘密社团。
+![](/content/images/HBR.webp) ![](/content/images/HeliopicBrotherhoodOfRa.webp)**拉神赫利奥皮斯兄弟会（Heliopic Brotherhood of Ra）**是一个致力于保存古老秘密知识的秘密社团。
 
 ## 历史
 

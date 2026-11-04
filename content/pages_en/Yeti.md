@@ -1,6 +1,6 @@
 The **Yeti** are a race that live in the northern regions of the world.
 
-![](/content/images/Yeti.jpg)
+![](/content/images/Yeti.webp)
 
 ## Background
 

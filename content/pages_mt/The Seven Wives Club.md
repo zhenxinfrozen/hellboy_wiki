@@ -15,7 +15,7 @@ Adam Hughes 封面
 
 Mike Mignola 变体封面
 
-![Adam Hughes cover](/content/images/TheSevenWivesClub%20AdamHughes.jpg)
+![Adam Hughes cover](/content/images/TheSevenWivesClub%20AdamHughes.webp)
 
 |Adam Hughes cover
 ## 外部链接

@@ -1,4 +1,4 @@
-![](/content/images/Beleth.jpeg)
+![](/content/images/Beleth.webp)
 
 **Beleth** was a [demon](/entry/Demon) who was part of an evil trinity (alongside [Yomyael](/entry/Yomyael) and [Sytry](/entry/Sytry)).
 

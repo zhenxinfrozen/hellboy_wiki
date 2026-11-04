@@ -34,25 +34,25 @@ B.P.R.D. 抵达纽约，随即遭到由邪教徒转化而成的僵尸以及熟�
 
 除特别注明外，封面均由 [Max](/entry/Max_Fiumara) 与 [Sebastián Fiumara](/entry/Sebasti%C3%A1n_Fiumara) 绘制。
 
-![](/content/images/The_Devil_You_Know_6.jpg)
+![](/content/images/The_Devil_You_Know_6.webp)
 
  \#1
 
-![](/content/images/The_Devil_You_Know_6_Mignola.jpg)
+![](/content/images/The_Devil_You_Know_6_Mignola.webp)
 
  \#1 variant
 by [Mike Mignola](/entry/Mike_Mignola)
 
  \#2
 
-![](/content/images/The_Devil_You_Know_8.jpg)
+![](/content/images/The_Devil_You_Know_8.webp)
 
  \#3
 
-![](/content/images/The_Devil_You_Know_9.jpg)
+![](/content/images/The_Devil_You_Know_9.webp)
 
  \#4
 
-![](/content/images/The_Devil_You_Know_10.jpg)
+![](/content/images/The_Devil_You_Know_10.webp)
 
  \#5

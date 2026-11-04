@@ -1,4 +1,4 @@
-![](/content/images/ManticoreVsSarahJewell.jpeg)
+![](/content/images/ManticoreVsSarahJewell.webp)
 
 **蝎尾狮（曼提柯尔）**是波斯神话中的一种怪物。
 

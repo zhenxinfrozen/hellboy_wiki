@@ -29,10 +29,10 @@ The Return of Effie Kolb
 Followed by
 The Seven Wives Club
 
-![Issue #1](/content/images/Return%20of%20Effie%20Kolb%201.jpg)
+![Issue #1](/content/images/Return%20of%20Effie%20Kolb%201.webp)
 
 |Issue #1
 
-![Issue #2](/content/images/Return%20of%20Effie%20Kolb%202.jpg)
+![Issue #2](/content/images/Return%20of%20Effie%20Kolb%202.webp)
 
 |Issue #2

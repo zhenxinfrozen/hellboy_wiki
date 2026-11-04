@@ -1,4 +1,4 @@
-![](/content/images/KingSolomon%20.jpeg)
+![](/content/images/KingSolomon%20.webp)
 
 **King Solomon** was the wise king of the United Kingdom of Israel.
 

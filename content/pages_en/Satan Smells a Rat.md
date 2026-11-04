@@ -10,4 +10,4 @@ Someone is killing off skid row bums and dumping their corpses. The only one who
 
 ## Gallery
 
-![](/content/images/Satan_Smells_a_Rat.jpg)
+![](/content/images/Satan_Smells_a_Rat.webp)

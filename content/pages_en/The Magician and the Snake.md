@@ -14,7 +14,7 @@ Per [Mike Mignola](/entry/Mike_Mignola), *The Magician and the Snake* exists as 
 
 ## Meaning of the Solid Objects
 
-![](/content/images/The_Solid_Objects.jpg)
+![](/content/images/The_Solid_Objects.webp)
 The_Solid_Objects.jpg
 
 The meaning of the Solid Objects is deliberately left ambiguous and open to interpretation. However, in an interview with Le Commis des Comics, [Mignola](/entry/Mike_Mignola) did elaborate on what the Solid Objects mean to him:

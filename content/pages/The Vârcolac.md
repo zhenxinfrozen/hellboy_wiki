@@ -1,4 +1,4 @@
-![The Vârcolac](/content/images/The_Varcolac.jpg)
+![The Vârcolac](/content/images/The_Varcolac.webp)
 
 ## Publication History
 

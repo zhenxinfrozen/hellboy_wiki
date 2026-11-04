@@ -18,19 +18,19 @@ Man’s best friend becomes Hellboy’s worst nightmare in a Cold War–era miss
 
 Covers by [Paolo Rivera](/entry/Paolo_Rivera) unless otherwise stated.
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3.webp)
 
 |*1953* \#3
 
-![](/content/images/Hellboy_and_the_BPRD_1953_3a.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_3a.webp)
 
 |*1953* \#3 variant
 by [David Mack](/entry/David_Mack)
 
-![](/content/images/Hellboy_and_the_BPRD_1953_4.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_4.webp)
 
 |*1953* \#4
 
-![](/content/images/Hellboy_and_the_BPRD_1953_5.jpg)
+![](/content/images/Hellboy_and_the_BPRD_1953_5.webp)
 
 |*1953* \#5

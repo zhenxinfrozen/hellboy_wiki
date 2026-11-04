@@ -6,7 +6,7 @@ Since 1994, Dark Horse has published [Mike Mignola](/entry/Mike_Mignola)'s *[Hel
 
 ### Legend
 
-![](/content/images/Legend.jpg)
+![](/content/images/Legend.webp)
 
 In 1994, Dark Horse started the "Legend" imprint. Inspired by Malibu Comics' Image, Legend focused on creator-owned work, promoting original series by a stable of high-profile comic creators. Mignola's *Hellboy* became one of the imprint's first titles. Other Legend creators included [John Byrne](/entry/John_Byrne), Art Adams, Frank Miller, Dave Gibbons, and Geof Darrow.
 

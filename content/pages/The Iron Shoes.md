@@ -1,4 +1,4 @@
-![The Iron Shoes](/content/images/Hellboy_The_Corpse_and_the_Iron_Shoes.jpg)
+![The Iron Shoes](/content/images/Hellboy_The_Corpse_and_the_Iron_Shoes.webp)
 
 ## Publication History
 

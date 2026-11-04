@@ -1,6 +1,6 @@
 *For the Bethmoran goblin blacksmith, see [Goblin (Bethmoran)](/entry/Goblin_Master_Blacksmith_(Bethmoran)).*
 
-![](/content/images/Bethmoran%20goblin.jpg)
+![](/content/images/Bethmoran%20goblin.webp)
 
 **Goblins** are a mythical race of beings with green skin and horns.
 

@@ -10,29 +10,29 @@
 
 《地狱男爵：坎卜斯之夜》包含一个题为"圣诞回忆"的部分。其中收录了三幅以照片风格绘制的插画，仿佛是[地狱男爵](/entry/Hellboy_%28character%29)往昔圣诞节的照片。
 
-![](/content/images/Christmas_1946.jpg)
+![](/content/images/Christmas_1946.webp)
 
 "1946 年的圣诞节——我得到了一枚[龙虾约翰逊](/entry/Lobster_Johnson_%28character%29)解码器戒指！"
 
-![](/content/images/Christmas_1995.jpg)
+![](/content/images/Christmas_1995.webp)
 
 "1995 年的圣诞节——[亚伯](/entry/Abraham_Sapien)喝醉的那一年！"
 
-![](/content/images/Christmas_Alice.jpg)
+![](/content/images/Christmas_Alice.webp)
 
 "[爱丽丝](/entry/Alice_Monaghan)"
 
 ## 画廊
 
-![](/content/images/Krampusnacht_AdamHughes.jpg)
+![](/content/images/Krampusnacht_AdamHughes.webp)
 
  休斯封面
 
-![](/content/images/Krampusnacht_MikeMignola.jpg)
+![](/content/images/Krampusnacht_MikeMignola.webp)
 
  米格诺拉变体封面
 
-![](/content/images/Krampusnacht_Incentive.jpg)
+![](/content/images/Krampusnacht_Incentive.webp)
 
  激励变体封面
 

@@ -1,4 +1,4 @@
-![](/content/images/Front%20Page%20-%20Miss%20Truesdale.png)
+![](/content/images/Front%20Page%20-%20Miss%20Truesdale.webp)
 
 ***Miss Truesdale*** is a line of comic books about the character [Margaret Truesdale](/entry/Margaret_Truesdale), a Victorian woman with ties to the Heliopic Brotherhood of Ra, and [Anum Yassa](/entry/Anum_Yassa), a Hyperborean gladiator, and how their lives are connected. It is a spinoff of the *[Hellboy](/entry/Hellboy_(series))* series, exploring the history of the Hellboy Universe.
 

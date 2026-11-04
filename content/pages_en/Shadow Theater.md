@@ -21,6 +21,6 @@ All covers by Matt Smith.
 *Hellboy in Love* \#4  
 *Shadow Theater* (Part 2)
 
-![Hellboy in Love #4<br />Shadow Theater (Part 2)](/content/images/Hellboy%20in%20Love%204.jpg)
+![Hellboy in Love #4<br />Shadow Theater (Part 2)](/content/images/Hellboy%20in%20Love%204.webp)
 
 |Hellboy in Love #4<br />Shadow Theater (Part 2)

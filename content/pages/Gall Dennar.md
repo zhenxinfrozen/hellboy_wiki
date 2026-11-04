@@ -1,4 +1,4 @@
-![Gall Dennar](/content/images/Gall.jpg)
+![Gall Dennar](/content/images/Gall.webp)
 
 **Gall Dennar** was a prehistoric human and tribe leader.
 

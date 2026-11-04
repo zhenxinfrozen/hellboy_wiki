@@ -29,6 +29,6 @@
 后续
 《送行》
 
-![Hellboy and the B.P.R.D.:<br>Her Fatal Hour and The Sending<br>Mike Mignola variant cover](/content/images/Her%20Fatal%20Hour%20and%20The%20Sending%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br>Her Fatal Hour and The Sending<br>Mike Mignola variant cover](/content/images/Her%20Fatal%20Hour%20and%20The%20Sending%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br>Her Fatal Hour and The Sending<br>Mike Mignola variant cover

@@ -18,11 +18,11 @@ Following her to a nearby shop, Abe is soon attacked by Mr. Wink. Evading most o
 
 ## Gallery
 
-![](/content/images/Wink.jpg)
+![](/content/images/Wink.webp)
 
  with the tooth fairies.
 
-![](/content/images/Wink_014.JPG)
+![](/content/images/Wink_014.webp)
 
 ## Trivia
 

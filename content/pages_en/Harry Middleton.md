@@ -20,11 +20,11 @@ Following Hellboy's time at sea (as seen in *[The Island](/entry/The_Island)*), 
 
 ## Gallery
 
-![](/content/images/Hellboy1953.jpg)
+![](/content/images/Hellboy1953.webp)
 
  (left) with Broom in 1953[14]
 
-![](/content/images/Middleton.jpg)
+![](/content/images/Middleton.webp)
 
  presents Hellboy with an M1911 pistol.[15]
 

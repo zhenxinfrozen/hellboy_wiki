@@ -1,4 +1,4 @@
-![伊甸园（II）](/content/images/Abe_Sapien_28.jpg)
+![伊甸园（II）](/content/images/Abe_Sapien_28.webp)
 
 《**伊甸园（II）**》（The Garden (II)）是一个两期篇章，自 2015 年 11 月起推出。
 
@@ -14,8 +14,8 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_28.jpg)
+![](/content/images/Abe_Sapien_28.webp)
 
-![](/content/images/Abe_Sapien_29.jpg)
+![](/content/images/Abe_Sapien_29.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

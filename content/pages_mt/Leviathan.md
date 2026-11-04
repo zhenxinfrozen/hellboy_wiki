@@ -15,7 +15,7 @@
 
 LeviathanUnderWater.jpeg
 
-![](/content/images/LeviathanUnderWater.jpeg)
+![](/content/images/LeviathanUnderWater.webp)
 
 |
 ## 趣闻

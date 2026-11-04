@@ -26,21 +26,21 @@ Magic and science collide above London! The Witchfinder and his allies make a fi
 
 Covers by [D’Israeli](/entry/D%E2%80%99Israeli).
 
-![](/content/images/The_Gates_of_Heaven_1_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_1_DIsraeli.webp)
 
  \#1
 
-![](/content/images/The_Gates_of_Heaven_2_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_2_DIsraeli.webp)
 
  \#2
 
-![](/content/images/The_Gates_of_Heaven_3_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_3_DIsraeli.webp)
 
  \#3
 
  \#4
 
-![](/content/images/The_Gates_of_Heaven_5_DIsraeli.jpg)
+![](/content/images/The_Gates_of_Heaven_5_DIsraeli.webp)
 
  \#5
 

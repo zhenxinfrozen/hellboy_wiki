@@ -16,7 +16,7 @@
 
 1
 February 26, 2003
-![](/content/images/Hellboy_Weird_Tales_1.jpg)<span style="font-size: 75%;">[JOHN CASSADAY](/entry/John_Cassaday)</span>
+![](/content/images/Hellboy_Weird_Tales_1.webp)<span style="font-size: 75%;">[JOHN CASSADAY](/entry/John_Cassaday)</span>
 *[《大马戏团地狱男爵》（Big-Top-Hell-Boy）](/entry/Big-Top-Hell-Boy)*
 [John Cassaday](/entry/John_Cassaday)
 *《糖衣钢丝 feat. Karl Ruprect Kroenen 博士》（Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen）* pin-up 插画，作者 [TyRuben Ellingson](/entry/TyRuben_Ellingson)
@@ -33,7 +33,7 @@ February 26, 2003
 
 2
 April 23, 2003
-![](/content/images/Helboy_Weird_Tales_2.jpg)<span style="font-size: 75%;">[JASON PEARSON](/entry/Jason_Pearson)</span>
+![](/content/images/Helboy_Weird_Tales_2.webp)<span style="font-size: 75%;">[JASON PEARSON](/entry/Jason_Pearson)</span>
 *[《潜逃风险》（Flight Risk）](/entry/Flight_Risk)*
 [Joe Casey](/entry/Joe_Casey)
 [Steve Parkhouse](/entry/Steve_Parkhouse)
@@ -55,7 +55,7 @@ NA
 
 3
 June 25, 2003
-![](/content/images/Hellboy_Weird_Tales_3.jpg)<span style="font-size: 75%;">[ALEX MALEEV](/entry/Alex_Maleev)</span>
+![](/content/images/Hellboy_Weird_Tales_3.webp)<span style="font-size: 75%;">[ALEX MALEEV](/entry/Alex_Maleev)</span>
 *[《胎死腹中》（Still Born）](/entry/Still_Born)*
 [Matt Hollingsworth](/entry/Matt_Hollingsworth) &amp; [Alex Maleev](/entry/Alex_Maleev)
 [Alex Maleev](/entry/Alex_Maleev)
@@ -75,7 +75,7 @@ June 25, 2003
 
 4
 August 27, 2003
-![](/content/images/Hellboy_Weird_Tales_4.jpg)<span style="font-size: 75%;">[LEINIL FRANCIS YU](/entry/Leinil_Francis_Yu)</span>
+![](/content/images/Hellboy_Weird_Tales_4.webp)<span style="font-size: 75%;">[LEINIL FRANCIS YU](/entry/Leinil_Francis_Yu)</span>
 *[《内心恐惧》（The Dread Within）](/entry/The_Dread_Within)*
 [Jason Pearson](/entry/Jason_Pearson)
 *《碎裂》（Shred）* pin-up 插画，作者 [Rick Cortes](/entry/Rick_Cortes)
@@ -93,7 +93,7 @@ August 27, 2003
 
 5
 October 15, 2003
-![](/content/images/Hellboy_Weird_Tales_5.jpg)<span style="font-size: 75%;">[J.H. WILLIAMS III](/entry/J.H._Williams_III)</span>
+![](/content/images/Hellboy_Weird_Tales_5.webp)<span style="font-size: 75%;">[J.H. WILLIAMS III](/entry/J.H._Williams_III)</span>
 *[《爱比死亡更可怕》（Love is Scarier than Death）](/entry/Love_is_Scarier_than_Death)*
 [J.H. Williams III](/entry/J.H._Williams_III) &amp; [Haden Blackman](/entry/Haden_Blackman)
 [J.H. Williams III](/entry/J.H._Williams_III)
@@ -111,7 +111,7 @@ Pin-up 插画，作者 [Cameron Stewart](/entry/Cameron_Stewart)
 
 6
 December 10, 2003
-![](/content/images/Hellboy_Weird_Tales_6.jpg)<span style="font-size: 75%;">[FRANK CHO](/entry/Frank_Cho)</span>
+![](/content/images/Hellboy_Weird_Tales_6.webp)<span style="font-size: 75%;">[FRANK CHO](/entry/Frank_Cho)</span>
 *[《特别献演》（Command Performance）](/entry/Command_Performance)*
 [Will Pfeifer](/entry/Will_Pfeifer)
 [P. Craig Russell](/entry/P._Craig_Russell)
@@ -129,7 +129,7 @@ Pin-up 插画，作者 [Steve Purcell](/entry/Steve_Purcell)
 
 7
 February 11, 2004
-![](/content/images/Hellboy_Weird_Tales_7.jpg)<span style="font-size: 75%;">[PHIL NOTO](/entry/Phil_Noto)</span>
+![](/content/images/Hellboy_Weird_Tales_7.webp)<span style="font-size: 75%;">[PHIL NOTO](/entry/Phil_Noto)</span>
 *[《一则爱情故事》（A Love Story）](/entry/A_Love_Story)*
 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards)
 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards)，[Don Cameron](/entry/Don_Cameron) 协助
@@ -147,7 +147,7 @@ Pin-up 插画，作者 [Dave Stevens](/entry/Dave_Stevens)
 
 8
 April 14, 2004
-![](/content/images/Hellboy_Weird_Tales_8.jpg)<span style="font-size: 75%;">[MICHAEL W. KALUTA](/entry/Michael_W._Kaluta)</span>
+![](/content/images/Hellboy_Weird_Tales_8.webp)<span style="font-size: 75%;">[MICHAEL W. KALUTA](/entry/Michael_W._Kaluta)</span>
 *[《十五分钟……》（Fifteen Minutes...）](/entry/Fifteen_Minutes...)*
 [Jill Thompson](/entry/Jill_Thompson)
 Pin-up 插画，作者 [Gary Fields](/entry/Gary_Fields)
@@ -181,12 +181,12 @@ Pin-up 插画，作者 [Gary Fields](/entry/Gary_Fields)
 
 *《地狱男爵怪谈：第 1 卷》（Hellboy Weird Tales: Volume 1）*
 December 17, 2003
-![](/content/images/Weird_Tales_Volume_1.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Weird_Tales_Volume_1.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 *《地狱男爵怪谈》（Hellboy Weird Tales）* #1–4
 
 *《地狱男爵怪谈：第 2 卷》（Hellboy Weird Tales: Volume 2）*
 October 27, 2004
-![](/content/images/Weird_Tales_Volume_2.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Weird_Tales_Volume_2.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 *《地狱男爵怪谈》（Hellboy Weird Tales）* #5–8
 
 </tbody>
@@ -208,7 +208,7 @@ October 27, 2004
 *《地狱男爵：怪谈》（Hellboy: Weird Tales）*<br />
 <span style="font-size: 75%;">（精装）</span>
 November 26, 2014
-![](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.jpg) <span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_Weird_Tales_%28Hardcover%29.webp) <span style="font-size: 75%;">MIKE MIGNOLA</span>
 <ul>
 <li>*《地狱男爵怪谈》（Hellboy Weird Tales）* #1–8</li>
 <li>*[《柯希伊如何获得不死之身》（How Koshchei Became Deathless）](/entry/How_Koshchei_Became_Deathless)*</li>
@@ -219,7 +219,7 @@ November 26, 2014
 *《地狱男爵：怪谈》（Hellboy: Weird Tales）*<br />
 <span style="font-size: 75%;">（平装）</span>
 November 9, 2022
-![](/content/images/Hellboy_Weird_Tales_Omnibus_TPB.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_Weird_Tales_Omnibus_TPB.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 <ul>
 <li>*《地狱男爵怪谈》（Hellboy Weird Tales）* #1–8<br />
 <span style="font-size: 75%;">（不含"*《玩具士兵》（Toy Soldier）*"）</span></li>

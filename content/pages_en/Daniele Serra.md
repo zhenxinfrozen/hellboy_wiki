@@ -7,7 +7,7 @@
 ## Cover Art
 
 
-![Hellboy and the B.P.R.D.: The Ghost Ships of Labrador #2](/content/images/Image.jpg)
+![Hellboy and the B.P.R.D.: The Ghost Ships of Labrador #2](/content/images/Image.webp)
 
 |Hellboy and the B.P.R.D.: The Ghost Ships of Labrador #2
 ### Issues

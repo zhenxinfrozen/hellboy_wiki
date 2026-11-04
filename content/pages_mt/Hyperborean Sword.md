@@ -1,4 +1,4 @@
-![](/content/images/HyperboreanSword.jpg)
+![](/content/images/HyperboreanSword.webp)
 
 **海伯利亚之剑（Hyperborean Sword）**是一件拥有悠久而传奇历史的武器，其渊源远不止于它在人类第一种族手中的起源。它最著名的持有者是[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)探员[泰德·霍华德](/entry/Ted_Howards)：他一握住这柄剑刃，便因与一位同样曾挥舞此剑的史前人类——[加尔·登纳（Gall Dennar）](/entry/Gall_Dennar)——之间的神秘联系而发生了改变。尽管霍华德的人格如今已被加尔·登纳的经历与记忆所覆盖，他仍以凶悍凌厉的剑法，用这柄剑斩杀着在末日地球上横行的各路敌对势力。
 

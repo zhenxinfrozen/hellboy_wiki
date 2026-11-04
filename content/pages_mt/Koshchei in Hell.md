@@ -74,18 +74,18 @@
 
 *《科西切在地狱》* \#4
 
-![Koshchei in Hell #1<br />(SDCC 2023 variant)](/content/images/Koshchei%20in%20Hell%201%20SDCC.jpg)
+![Koshchei in Hell #1<br />(SDCC 2023 variant)](/content/images/Koshchei%20in%20Hell%201%20SDCC.webp)
 
 |Koshchei in Hell #1<br />(SDCC 2023 variant)
 
-![Koshchei in Hell #2](/content/images/Koshchei%20in%20Hell%202.jpg)
+![Koshchei in Hell #2](/content/images/Koshchei%20in%20Hell%202.webp)
 
 |Koshchei in Hell #2
 
-![Koshchei in Hell #3](/content/images/Koshchei%20in%20Hell%203.jpg)
+![Koshchei in Hell #3](/content/images/Koshchei%20in%20Hell%203.webp)
 
 |Koshchei in Hell #3
 
-![Koshchei in Hell #4](/content/images/Koshchei%20in%20Hell%204.jpg)
+![Koshchei in Hell #4](/content/images/Koshchei%20in%20Hell%204.webp)
 
 |Koshchei in Hell #4

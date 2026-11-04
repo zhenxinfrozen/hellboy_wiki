@@ -1,4 +1,4 @@
-![Mr. Wink](/content/images/MrWink.jpg)
+![Mr. Wink](/content/images/MrWink.webp)
 
 **Mr. Wink** is a Cave Troll who is a friend and henchman to Prince Nuada. His primary weapon is a mechanical fist, which is capable of being launched from his right arm tethered by a long chain, for attacking foes at a distance. It is reeled back into its mounting, often by crawling back to its owner. He has a metal armor plate that is so tough that even Red's punches can't break it. Mr Wink possesses substantial physical strength, capable of throwing human-sized opponents several dozen feet.
 

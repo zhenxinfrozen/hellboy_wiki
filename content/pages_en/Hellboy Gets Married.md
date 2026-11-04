@@ -2,10 +2,10 @@
 
 ## Gallery
 
-![](/content/images/DHP31.jpg)
+![](/content/images/DHP31.webp)
 
 |*Dark Horse Presents* \#31
 
-![](/content/images/DHP32.jpg)
+![](/content/images/DHP32.webp)
 
 |*Dark Horse Presents* \#32

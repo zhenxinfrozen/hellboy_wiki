@@ -27,10 +27,10 @@ All covers by Ben Stenbeck
 
 Issue \#1
 
-![Issue #2](/content/images/The%20Serpent%20in%20the%20Garden%202.jpg)
+![Issue #2](/content/images/The%20Serpent%20in%20the%20Garden%202.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/The%20Serpent%20in%20the%20Garden%203.jpg)
+![Issue #3](/content/images/The%20Serpent%20in%20the%20Garden%203.webp)
 
 |Issue #3

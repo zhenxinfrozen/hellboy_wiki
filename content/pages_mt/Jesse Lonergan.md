@@ -22,10 +22,10 @@
 
 ## 画廊
 
-![第 #1 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%201.jpg)
+![第 #1 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%201.webp)
 
 |第 #1 期
 
-![第 #2 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202.jpg)
+![第 #2 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202.webp)
 
 |第 #2 期

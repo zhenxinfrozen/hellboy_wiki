@@ -1,4 +1,4 @@
-![](/content/images/FrontPage-HellboyBPRD.png) ***《地狱男爵与 B.P.R.D.》（Hellboy and the B.P.R.D.）***是一系列漫画，讲述[地狱男爵](/entry/Hellboy_%28character%29)在[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)（Bureau for Paranormal Research and Defense）的职业生涯。
+![](/content/images/FrontPage-HellboyBPRD.webp) ***《地狱男爵与 B.P.R.D.》（Hellboy and the B.P.R.D.）***是一系列漫画，讲述[地狱男爵](/entry/Hellboy_%28character%29)在[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)（Bureau for Paranormal Research and Defense）的职业生涯。
 
 ## 出版历史
 

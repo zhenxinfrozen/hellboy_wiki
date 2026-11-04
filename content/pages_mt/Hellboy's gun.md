@@ -1,12 +1,12 @@
 *关于[2004–2008 年电影中地狱男爵](/entry/Hellboy_(2004%E2%80%932008_film_character))使用的左轮手枪，见[《撒玛利亚人》](/entry/The_Samaritan)。*
 
-![](/content/images/Seed%20of%20Destruction%201.jpg)
+![](/content/images/Seed%20of%20Destruction%201.webp)
 
 [地狱男爵](/entry/Hellboy_(character))在[整个漫画系列](/entry/Hellboy_(series))中使用过好几**把枪**，其中最主要的是一把他携带了半个世纪的单发手枪。
 
 ## 单发手枪
 
-![](/content/images/Single-shot%20pistol.jpg)
+![](/content/images/Single-shot%20pistol.webp)
 
 地狱男爵最常被描绘为手持一把超大号的单发折开式手枪。这件武器是[自由火炬](/entry/The_Torch_of_Liberty)赠予他的；自由火炬还教授了地狱男爵射击技术。这把枪最终在 2002 年 10 月之后的某个时候遗失在[海底某处](/entry/The_Third_Wish)。
 
@@ -67,7 +67,7 @@
   - 这个枪套的扣子不扣，大概是为了方便拔枪，这样他就不必用右手去摆弄扣子。
 - 1964 年，地狱男爵用手枪打飞了[雅加婆婆](/entry/Baba_Yaga_(character))的一只眼睛，由此结下一段持续半个世纪的仇怨。
 
-![](/content/images/The%20Good%20Samaritan.png)
+![](/content/images/The%20Good%20Samaritan.webp)
 
 - 2004 年电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 及其续集 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中，[地狱男爵](/entry/Hellboy_(2004%E2%80%932008_film_character))使用一把造型独特的巨型左轮手枪，名为“[《撒玛利亚人》](/entry/The_Samaritan)”。电影的流行，尤其是这件武器的人气，使许多人错误地以为这个名字和/或设计源自漫画，或者能在漫画中看到。
   - “撒玛利亚人”的设计确实与漫画中的单发左轮有一些细微相似之处（尺寸巨大、装在皮质 US 枪套中、挂环上系着截短的挂枪绳），但二者终究有本质区别。

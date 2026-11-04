@@ -1,4 +1,4 @@
-![Koshchei](/content/images/2576748-koshchei%20the%20deathless.jpg)
+![Koshchei](/content/images/2576748-koshchei%20the%20deathless.webp)
 
 **Koshchei**, often referred to as "Koshchei the Deathless" or "Koshchei the Devil," is a figure from Slavic folklore and a one time foe of [Hellboy](/entry/Hellboy%20%28character%29).
 

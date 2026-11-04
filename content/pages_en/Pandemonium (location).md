@@ -9,7 +9,7 @@ Pandemonium was constructed after the thousand-year war between Satan's and Pl
 
 The demons of Pandemonium panic as Hellboy tastes his first pancake.
 
-![](/content/images/Pandemonium2.jpeg)
+![](/content/images/Pandemonium2.webp)
 
 |
 ## Inspiration

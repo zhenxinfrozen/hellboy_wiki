@@ -13,19 +13,19 @@
 《地狱男爵：黄蜂之灾》
 2023 年 7 月 11 日
 Christopher Golden
-![](/content/images/A%20Plague%20of%20Wasps.jpg)
+![](/content/images/A%20Plague%20of%20Wasps.webp)
 MIKE MIGNOLA
 
 《大螯虾强生：普罗透斯俱乐部》
 2023 年 10 月 24 日
 Christopher Golden
-![](/content/images/The%20Proteus%20Club.jpg)
+![](/content/images/The%20Proteus%20Club.webp)
 MIKE MIGNOLA
 
 《地狱男爵与超自然调查防御署：曼哈顿女神》
 2024 年 9 月 10 日
 Christopher Golden 和 Thomas E. Sniegoski
-![](/content/images/The%20Goddess%20of%20Manhattan.jpg)
+![](/content/images/The%20Goddess%20of%20Manhattan.webp)
 MIKE MIGNOLA
 
 ## 正史性与时间线

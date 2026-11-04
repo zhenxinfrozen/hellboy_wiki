@@ -1,4 +1,4 @@
-![Sarah Hughes](/content/images/Sarah%20Hughes.png)
+![Sarah Hughes](/content/images/Sarah%20Hughes.webp)
 
 **Sarah Hughes**is the mother of Hellboy. She comes from a long line of witches whose lineage can be traced back to the daughter of the witch Katheryn of Gilfach and Mordred, the bastard son of King Arthur and his half sister, [Morgan Le Fey](/entry/Morgan%20Le%20Fey). From Katheryn of Gilfach to Sarah Hughes was an unbroken line of daughters, all witches.
 

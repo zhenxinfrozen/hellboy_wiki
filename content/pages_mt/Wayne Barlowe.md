@@ -27,14 +27,14 @@ Barlowe 设计的奥古·桀哈
 
 ## 画廊
 
-![Barlowe's Abe Sapien](/content/images/Abe%20Sapien%20%28Guillermo%20del%20Toro%20film%20version%29.jpg)
+![Barlowe's Abe Sapien](/content/images/Abe%20Sapien%20%28Guillermo%20del%20Toro%20film%20version%29.webp)
 
 |Barlowe's Abe Sapien
 
-![Barlowe's Ogdru Jahad](/content/images/E0080086.jpg)
+![Barlowe's Ogdru Jahad](/content/images/E0080086.webp)
 
 |Barlowe's Ogdru Jahad
 
-![The Angel of Death](/content/images/Angel%20of%20death.jpg)
+![The Angel of Death](/content/images/Angel%20of%20death.webp)
 
 |The Angel of Death

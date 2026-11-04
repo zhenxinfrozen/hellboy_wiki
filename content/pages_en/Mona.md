@@ -1,4 +1,4 @@
-![](/content/images/Mona_.jpeg)The **Mona** is a crystalline egg worshiped by the Unlanders. Using its power the artefact could control the waters around Hallam Halt. Only the cult leader of the Unlanders, the Mere, is allowed access to the Mona. Later its revealed to be a vessel for one of the [Ogdru Hem](/entry/Ogdru_Hem), [Istra-Hem](/entry/Istra-Hem).
+![](/content/images/Mona_.webp)The **Mona** is a crystalline egg worshiped by the Unlanders. Using its power the artefact could control the waters around Hallam Halt. Only the cult leader of the Unlanders, the Mere, is allowed access to the Mona. Later its revealed to be a vessel for one of the [Ogdru Hem](/entry/Ogdru_Hem), [Istra-Hem](/entry/Istra-Hem).
 
 ## History
 

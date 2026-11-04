@@ -1,4 +1,4 @@
-![Leshii](/content/images/Leshii.jpg)
+![Leshii](/content/images/Leshii.webp)
 
 **Leshii** is a Russian spirit of the forest and a enemy of [the Baba Yaga](/entry/Baba%20Yaga%20%28character%29).
 

@@ -11,6 +11,6 @@ The story centers on the discovery of an ancient Native American urn unearthed a
 
 *variant cover by Joe Quesada*
 
-![variant cover by Joe Quesada](/content/images/Painkiller%20Jane%20Hellboy.png)
+![variant cover by Joe Quesada](/content/images/Painkiller%20Jane%20Hellboy.webp)
 
 |variant cover by Joe Quesada

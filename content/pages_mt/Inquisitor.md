@@ -23,6 +23,6 @@
 
 宗教审判官的怪物形态。
 
-![The Inquisitor's monster form.](/content/images/Inquisitor%20monster%20form.png)
+![The Inquisitor's monster form.](/content/images/Inquisitor%20monster%20form.webp)
 
 |The Inquisitor's monster form.

@@ -19,11 +19,11 @@ In addition to being collected in the [Masks and Monsters](/entry/Masks_and_Mons
 Issue \#1
 Issue \#2
 
-![Issue #2](/content/images/Ghost%20Hellboy%202.jpg)
+![Issue #2](/content/images/Ghost%20Hellboy%202.webp)
 
 |Issue #2
 
-![Special](/content/images/Ghost%20Hellboy%20Special.jpg)
+![Special](/content/images/Ghost%20Hellboy%20Special.webp)
 
 |Special
 ## External Links

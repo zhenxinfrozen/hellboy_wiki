@@ -1,4 +1,4 @@
-![复生](/content/images/Revival_War_on_Frogs_5.jpg)
+![复生](/content/images/Revival_War_on_Frogs_5.webp)
 
 ***《复生》***（Revival）是一部多回短篇故事，由编剧[约翰·阿库迪](/entry/John_Arcudi)（John Arcudi）执笔、画师[盖·戴维斯](/entry/Guy_Davis)作画。
 

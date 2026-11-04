@@ -1,4 +1,4 @@
-![Hellboy: On Earth as it is in Hell](/content/images/Hellboy%20-%20On%20Earth%20as%20It%20Is%20in%20Hell%20%28Novel%20Cover%29.jpg)
+![Hellboy: On Earth as it is in Hell](/content/images/Hellboy%20-%20On%20Earth%20as%20It%20Is%20in%20Hell%20%28Novel%20Cover%29.webp)
 
 ***Hellboy: On Earth as it is in Hell*** is the third *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
 

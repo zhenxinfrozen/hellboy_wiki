@@ -1,4 +1,4 @@
-![Satan Smells a Rat](/content/images/Satan%20Smells%20a%20Rat.jpg)
+![Satan Smells a Rat](/content/images/Satan%20Smells%20a%20Rat.webp)
 
 The story takes place early in [the Lobster's](/entry/The%20Lobster) career as a crime fighter in the 1930s.
 

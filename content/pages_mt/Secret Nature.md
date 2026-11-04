@@ -8,6 +8,6 @@
 
 封面作者 [Shawn Martinbrough](/entry/Shawn_Martinbrough)。
 
-![](/content/images/Secret_Nature.jpg)
+![](/content/images/Secret_Nature.webp)
 
 |*Secret Nature*

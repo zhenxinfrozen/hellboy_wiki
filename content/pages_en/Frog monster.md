@@ -16,7 +16,7 @@ The frogs, at least those freshly transformed from humans, possessed souls. When
 
 The first apperance of the frogs was in 1993, created by Sadu-Hem when he was awakened by the Cavendish Expedition when they discovered its lair in a [Hyperborean city](/entry/Hyperboreans) beyond the Arctic Circle. One of the frogs killed [Trevor Bruttenholm](/entry/Trevor_Bruttenholm) in order to lure Hellboy into the clutches of Rasputin. The other two frogs, the transformed Cavendish boys, killed their mother before disappearing to the black depths of the lake beneath Cavendish Hall.
 
-![](/content/images/Frog%20monster%20vs%20Hellboy.jpg)
+![](/content/images/Frog%20monster%20vs%20Hellboy.webp)
 
 The next appearance of the frogs was in 2001, when the Conqueror Worm returned from outer space at Hunte Castle, Austria. The creature created frogs from the Nazi scientists present with its breath, only to devour them to feed its hunger and growth. With the Conqueror Worm's defeat, no more frogs appeared.
 
@@ -26,13 +26,13 @@ After the Cavendish Hall incident, the B.P.R.D. began doing regular checkups at 
 
 For the next three years, the frogmen began to multiply and spread across the North American countryside, moving westward over time. Their growing numbers prompted the B.P.R.D. to move from Conneticut to an old military base in the Colorado mountains to keep ahead of them. By 2006, they were even crossing into Canada.
 
-![](/content/images/Pope%26Frogs.jpg)
+![](/content/images/Pope%26Frogs.webp)
 
 ### The Black Flame
 
 The frogs soon allied with [Landis Pope](/entry/Landis_Pope), CEO of the [Zinco Corporation](/entry/Zinco_Corporation), who mistakenly believed he could control them. For a time, the Zinco Corporation had several frog monsters in their R&D department. They had captured these creatures when they were tadpoles and were researching the monsters in secret.  One interesting discovery Zinco was able to learn was about the frog monster's language, allowing Pope to communicate with the frogs and serve as their leader. He declared himself as [The Black Flame](/entry/The_Black_Flame_(character)) and built a suit of armor generating a fake blue flame to lead the frogs. Later, he and a few frogs were able to procure real [black flames](/entry/Shakti) through an occult ritual involving the sacrifice of one of the frogs. With the Black Flame, the frogs shifted their movements to converge at a cave in Nebraska due to it being a center of geomantic energy. There, at the cave's entrance, the frogs revealed that they were using Pope all along to awaken the Ogdru Hem, explaining how his black flame was to serve as a beacon for the Ogdru Hem's long-dim eyes. Together they awakened Katha-Hem, and although the mountain-sized abomination wreaked havoc, it was ultimately felled by [Liz Sherman](/entry/Elizabeth_Sherman).
 
-![](/content/images/Frogs%26Trogs.jpg)
+![](/content/images/Frogs%26Trogs.webp)
 
 ### Allies
 
@@ -58,4 +58,4 @@ Abe also made his way to England, which had vanished from the map after Hellboy'
 
 After Liz Sherman incinerated the Earth at the conclusion of the prophesied [Ragnarok](/entry/Ragna_Rok), Hellboy and [Hecate](/entry/Hecate) merged to create a new world, spilling Hellboy's blood to seed life onto to the barren planet. The eggs from Abe's body finally hatched, and the Third Race crawled forth and emerged from the seas to inherit the New World at long last.
 
-![](/content/images/ThirdRace.jpg)
+![](/content/images/ThirdRace.webp)

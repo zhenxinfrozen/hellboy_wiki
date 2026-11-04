@@ -31,14 +31,14 @@
 
 第 \#4 期
 
-![第 #2 期](/content/images/Speed%20of%20Darkness%202.jpg)
+![第 #2 期](/content/images/Speed%20of%20Darkness%202.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/Speed%20of%20Darkness%203.jpg)
+![第 #3 期](/content/images/Speed%20of%20Darkness%203.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/Speed%20of%20Darkness%204.jpg)
+![第 #4 期](/content/images/Speed%20of%20Darkness%204.webp)
 
 |第 #4 期

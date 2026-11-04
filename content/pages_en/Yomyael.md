@@ -45,10 +45,10 @@ The forces of the [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) 
 ## Gallery
 
 
-![Yomyael, alongside Beleth and Sytry](/content/images/YomyaelBelethSytry.jpeg)
+![Yomyael, alongside Beleth and Sytry](/content/images/YomyaelBelethSytry.webp)
 
 |Yomyael, alongside Beleth and Sytry
 
-![](/content/images/The%20Third%20Demon.png)
+![](/content/images/The%20Third%20Demon.webp)
 
 |

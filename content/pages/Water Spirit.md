@@ -1,4 +1,4 @@
-![Water Spirit](/content/images/Water_Spirit.jpg)
+![Water Spirit](/content/images/Water_Spirit.webp)
 
 The **water spirit** was the catalyst that transformed Langdon Everett Caul into [Abe Sapien](/entry/Abe%20Sapien). Relatively little is known about this creature and many questions remain unanswered.
 

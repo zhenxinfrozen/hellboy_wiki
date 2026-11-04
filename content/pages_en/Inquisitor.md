@@ -21,6 +21,6 @@ When he met [Hellboy](/entry/Hellboy_(character)), the Inquisitor told him that 
 ## Gallery
 
 
-![The Inquisitor's monster form.](/content/images/Inquisitor%20monster%20form.png)
+![The Inquisitor's monster form.](/content/images/Inquisitor%20monster%20form.webp)
 
 |The Inquisitor's monster form.

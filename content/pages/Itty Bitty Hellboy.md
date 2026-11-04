@@ -1,4 +1,4 @@
-![Itty Bitty Hellboy](/content/images/Hellboy%20in%20Hell%2C%20boy%21.jpg)
+![Itty Bitty Hellboy](/content/images/Hellboy%20in%20Hell%2C%20boy%21.webp)
 
 ***Itty Bitty Hellboy*** is an out-of-continuity children's comic book spin-off created by Art Baltazar and Franco Aureliani.
 

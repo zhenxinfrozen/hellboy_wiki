@@ -15,6 +15,6 @@
 
 ## 画廊
 
-![B.P.R.D.:There's Something Under My Bed](/content/images/Under%20My%20Bed.jpg)
+![B.P.R.D.:There's Something Under My Bed](/content/images/Under%20My%20Bed.webp)
 
 |B.P.R.D.:There's Something Under My Bed

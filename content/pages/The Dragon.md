@@ -1,4 +1,4 @@
-![The Dragon](/content/images/Koshchei_Dragon.jpg)
+![The Dragon](/content/images/Koshchei_Dragon.webp)
 
 **The Dragon**was a magical ruler during the time of [Koshchei's](/entry/Koshchei) life.
 

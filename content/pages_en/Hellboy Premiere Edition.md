@@ -2,14 +2,14 @@
 
 ## Gallery
 
-![](/content/images/Premiere_Edition_1.jpg)
+![](/content/images/Premiere_Edition_1.webp)
 
  Mignola cover
 
-![](/content/images/Premiere_Edition_2.jpg)
+![](/content/images/Premiere_Edition_2.webp)
 
  Davis cover
 
-![](/content/images/Premiere_Edition_3.jpg)
+![](/content/images/Premiere_Edition_3.webp)
 
  Angeles Wizard World exclusive cover

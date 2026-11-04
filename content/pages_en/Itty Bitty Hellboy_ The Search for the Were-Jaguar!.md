@@ -31,18 +31,18 @@ Baba Yaga and Hecate show up with a bag full of pants for the Island of Rogers. 
 
 TPB Collection
 
-![Issue #1](/content/images/IttyBittyHB2Cover1.jpg)
+![Issue #1](/content/images/IttyBittyHB2Cover1.webp)
 
 |Issue #1
 
-![Issue #2](/content/images/IttyBittyHB2Cover2.jpg)
+![Issue #2](/content/images/IttyBittyHB2Cover2.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/IttyBittyHB2Cover3.jpg)
+![Issue #3](/content/images/IttyBittyHB2Cover3.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/IttyBittyHB2Cover4.jpg)
+![Issue #4](/content/images/IttyBittyHB2Cover4.webp)
 
 |Issue #4

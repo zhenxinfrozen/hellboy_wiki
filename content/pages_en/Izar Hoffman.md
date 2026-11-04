@@ -21,7 +21,7 @@ In the official *[Hellboy Sourcebook and Roleplaying Game](/entry/Hellboy_Source
 ## One Hoffman or Two?
 
 The distinctly different Hoffmans in *Wake the Devil* and *The Ectoplasmic Man* suggest there are two Dr. Hoffmans at the Bureau, possibly a father and son. Alternatively, this could simply be an art error. ![**Left:** Dr. Izar Hoffman from *Wake the Devil*.
-**Right:** Dr. Izar Hoffman from *The Ectoplasmic Man*.](/content/images/Two_Hoffmans.jpg)
+**Right:** Dr. Izar Hoffman from *The Ectoplasmic Man*.](/content/images/Two_Hoffmans.webp)
 
 ## Powers and Abilities:
 

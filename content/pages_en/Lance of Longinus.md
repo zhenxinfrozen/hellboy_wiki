@@ -1,4 +1,4 @@
-![](/content/images/Spear.png)
+![](/content/images/Spear.webp)
 
 **The Lance of Longinus** or the Holy Lance is a powerful magical weapon imbued with the blood of Christ. Anyone who possesses the spear can become invincible
 

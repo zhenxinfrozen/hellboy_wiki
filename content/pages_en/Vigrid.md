@@ -6,7 +6,7 @@ When [Nimue](/entry/Nimue) became possessed by the [Ogdru Jahad](/entry/Ogdru_Ja
 
 Luckily George Washbook, armed with [Excalibur](/entry/Excalibur) and leading the dead nobility of England, confronted the army of monsters, killing them. Meanwhile [Hellboy](/entry/Hellboy_(character)) battled with Nimue/Ogdru Jahad, defeating the dragon, but dying himself in the process. [King Vold](/entry/King_Vold_(character)) also appeared on the scene.
 
-![](/content/images/Vigrid.jpeg)
+![](/content/images/Vigrid.webp)
 
 While the forces of good prevailed, this was only the beginning of the End Times, with the [Ogdru Hem](/entry/Ogdru_Hem) starting to emerge in rapid numbers after the battle and most of Great Britain being wiped of the map.
 

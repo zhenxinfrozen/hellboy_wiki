@@ -1,4 +1,4 @@
-![Harry Middleton](/content/images/Middleton.jpg)
+![Harry Middleton](/content/images/Middleton.webp)
 
 **Harry H. Middleton**[1] was a friend of [Trevor Bruttenholm](/entry/Trevor%20Bruttenholm) and [Hellboy](/entry/Hellboy). Hellboy stayed with him in England at the beginning of the *[Darkness Calls](/entry/Darkness%20Calls)* storyline.
 

@@ -1,4 +1,4 @@
-![Mike Mignola's Hellboy Artist's Edition](/content/images/Hellboy_Artist%27s_Edition.jpg)
+![Mike Mignola's Hellboy Artist's Edition](/content/images/Hellboy_Artist%27s_Edition.webp)
 
 ## Publication History
 

@@ -1,4 +1,4 @@
-![The Coffin Man](/content/images/Hellboy_20th_Anniversary_Sampler.jpg)
+![The Coffin Man](/content/images/Hellboy_20th_Anniversary_Sampler.webp)
 
 ## Publication History
 

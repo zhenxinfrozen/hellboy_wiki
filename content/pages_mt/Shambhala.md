@@ -21,7 +21,7 @@
 
 人类的未来在地下
 
-![Humanity's  future is underground](/content/images/SanctiHyperberum2.jpeg)
+![Humanity's  future is underground](/content/images/SanctiHyperberum2.webp)
 
 |Humanity's  future is underground
 ## 居民

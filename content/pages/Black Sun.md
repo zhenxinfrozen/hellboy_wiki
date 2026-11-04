@@ -1,4 +1,4 @@
-![黑日](/content/images/The_Black_Sun_1.jpg)
+![黑日](/content/images/The_Black_Sun_1.webp)
 
 《**黑日**》（Black Sun）是《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1954》的一个两期篇章，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，斯蒂芬·格林（Stephen Green）作画。
 
@@ -16,7 +16,7 @@
 
 封面均由 [迈克·赫德尔斯顿](/entry/Mike_Huddleston)（Mike Huddleston）绘制。
 
-![](/content/images/The_Black_Sun_1.jpg)
+![](/content/images/The_Black_Sun_1.webp)
 
 《1954：黑日》第 1 期
 

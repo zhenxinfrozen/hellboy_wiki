@@ -16,14 +16,14 @@ The BPRD agents are surprised to find a familiar enemy involved with the island 
 
 ## Gallery
 
-![](/content/images/Occult_Intelligence_1.jpg)
+![](/content/images/Occult_Intelligence_1.webp)
 
 |*Occult Intelligence* \#1
 
-![](/content/images/Occult_Intelligence_2.jpg)
+![](/content/images/Occult_Intelligence_2.webp)
 
 |*Occult Intelligence* \#2
 
-![](/content/images/Occult_Intelligence_3.jpg)
+![](/content/images/Occult_Intelligence_3.webp)
 
 |*Occult Intelligence* \#3

@@ -2,4 +2,4 @@
 
 Later after [Eligos](/entry/Eligos) was killed by [Edward Grey](/entry/Edward_Grey) who became the embodiment of the river [Acheron](/entry/Acheron_(river)), Styx, along [Phlegethon](/entry/Phlegethon), [Cocytus](/entry/Cocytus), and [Lethe](/entry/Lethe) welcomed their newly ascended brother inviting him to join them.
 
-![](/content/images/The%20Personification%20of%20Styx.jpg)
+![](/content/images/The%20Personification%20of%20Styx.webp)

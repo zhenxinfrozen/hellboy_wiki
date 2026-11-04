@@ -1,4 +1,4 @@
-![John Myers](/content/images/JohnMyers.jpg)
+![John Myers](/content/images/JohnMyers.webp)
 
 [John Myers](/entry/John%20Myers) was a B.P.R.D. agent that debuted in the [first *Hellboy* film](/entry/Hellboy%20%282004%20film%29), but has made no further appearances.
 

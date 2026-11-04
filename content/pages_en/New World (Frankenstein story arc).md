@@ -4,7 +4,7 @@
 
 *Frankenstein: New World* was announced May 17, 2022. The story was originally inspired by an image drawn by [Ben Stenbeck](/entry/Ben_Stenbeck) as a stretch goal for the Mike Mignola: Drawing Monsters documentary Kickstarter which depicted Frankenstein holding the Hyperborean blade affixed to a staff.
 
-![](/content/images/Stenbecks%20Mignola%20characters.jpg)
+![](/content/images/Stenbecks%20Mignola%20characters.webp)
 
 ## Synopsis
 

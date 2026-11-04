@@ -6,7 +6,7 @@ General Klaus Werner von Krupt was one of the primary members of [Project Ragna 
 
 ## Other media/appearances
 
-- ![Movie_Klaus_Werner_von_Krupt.jpg](/content/images/Movie_Klaus_Werner_von_Krupt.jpg)In the film *[Hellboy](/entry/Hellboy%20%28film%29)*, von Krupt was portrayed by William Hoyland and is present at Rasputin's ritual. In the script, he is killed by the American soldiers storming the ritual site. In the film, von Krupt wears a pair of dark glasses, instead of a monocle, and neither lens is imprinted with a swastika, as the monocle is.
+- ![Movie_Klaus_Werner_von_Krupt.jpg](/content/images/Movie_Klaus_Werner_von_Krupt.webp)In the film *[Hellboy](/entry/Hellboy%20%28film%29)*, von Krupt was portrayed by William Hoyland and is present at Rasputin's ritual. In the script, he is killed by the American soldiers storming the ritual site. In the film, von Krupt wears a pair of dark glasses, instead of a monocle, and neither lens is imprinted with a swastika, as the monocle is.
 - In the short story "Jigsaw" by Stephen R. Bissette, collected in *[Hellboy: Odd Jobs](/entry/Hellboy__Odd_Jobs)*, [Katherine Corrigan](/entry/Katherine_Corrigan)) mentions that several members of Project Ragna Rok, including von Krupt, [Leopold Kurtz](/entry/Leopold%20Kurtz), and [Ilsa Haupstein](/entry/Ilsa%20Haupstein) convened in Paris to reassemble the head of Moro, an evil alchemist executed by the Church in the 17th Century, but were interrupted by an attack from the French Underground before they could do so.
 
 de:Klaus Werner von Krupt

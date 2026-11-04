@@ -24,10 +24,10 @@ Hellboy Budapesten*
 (special Hungarian edition)  
 by Márk László
 
-![Hellboy and the B.P.R.D.:<br />Time Is a River<br />by Mike Mignola and Dave Stewart](/content/images/Time%20Is%20a%20River%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br />Time Is a River<br />by Mike Mignola and Dave Stewart](/content/images/Time%20Is%20a%20River%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br />Time Is a River<br />by Mike Mignola and Dave Stewart
 
-![Hellboy es a P.K.V.H.:<br />Hellboy Budapesten<br />(special Hungarian edition)<br />by Márk László](/content/images/Time%20Is%20a%20River%20Hungarian.jpg)
+![Hellboy es a P.K.V.H.:<br />Hellboy Budapesten<br />(special Hungarian edition)<br />by Márk László](/content/images/Time%20Is%20a%20River%20Hungarian.webp)
 
 |Hellboy es a P.K.V.H.:<br />Hellboy Budapesten<br />(special Hungarian edition)<br />by Márk László

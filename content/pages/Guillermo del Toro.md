@@ -1,4 +1,4 @@
-![Guillermo del Toro](/content/images/GuillermoDelToro.jpg)The director of [Hellboy](/entry/Hellboy%20%28film%29), and [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
+![Guillermo del Toro](/content/images/GuillermoDelToro.webp)The director of [Hellboy](/entry/Hellboy%20%28film%29), and [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 
 sv:Guillermo del Toro
 

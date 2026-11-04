@@ -14,7 +14,7 @@
 
 ### 约翰·伯恩
 
-![自由火炬在《Danger Unlimited》中的形象。](/content/images/Torch-of-liberty-DU2.jpg) 自由火炬由[约翰·伯恩](/entry/John_Byrne)创造，登场于《Danger Unlimited》第 1–4 期（1994 年 2 月—5 月）的后备故事；他（与地狱男爵一起）在第四期中客串登场。自由火炬还登场于以他名字命名的《Torch of Liberty Special》（1995 年 1 月）。
+![自由火炬在《Danger Unlimited》中的形象。](/content/images/Torch-of-liberty-DU2.webp) 自由火炬由[约翰·伯恩](/entry/John_Byrne)创造，登场于《Danger Unlimited》第 1–4 期（1994 年 2 月—5 月）的后备故事；他（与地狱男爵一起）在第四期中客串登场。自由火炬还登场于以他名字命名的《Torch of Liberty Special》（1995 年 1 月）。
 
 保罗·吉布尼 1915 年生于伊利诺伊州，于 1941 年接过了自由火炬的衣钵。[4] 漫画故事揭示，他原本是第二次世界大战欧洲战场的一名士兵，在战斗创伤中被推上了非凡的高度。
 
@@ -28,7 +28,7 @@
 
 在[黑马漫画](/entry/Dark_Horse_Comics)Legend 厂牌的时代，[约翰·伯恩](/entry/John_Byrne)（《Next Men》/《Danger Unlimited》）、亚特·亚当斯（《Monkeyman and O'Brien》）和[迈克·米格诺拉](/entry/Mike_Mignola)（《地狱男爵》）曾计划让他们创造的角色部分地存在于一个共享宇宙中。其成果之一便是自由火炬在《地狱男爵：毁灭之种》中的登场。然而米格诺拉回忆说，三人很早就意识到这个想法问题重重，三人之间协调起来太过困难，最好还是各自独立经营自己的系列。[5]
 
-![](/content/images/Hellboy-Incident--Torch-comparison.jpg)
+![](/content/images/Hellboy-Incident--Torch-comparison.webp)
 自由火炬在<em>[毁灭之种](/entry/Seed_of_Destruction)</em>第 1 期（左）中的突出亮相，与他在<em>[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：[1952](/entry/1952)</em>第 1 期（右）中被弱化的描绘之对比
 
 自由火炬在《毁灭之种》中的登场是这些被放弃的共享宇宙计划的遗留物；自那以后他再没有在系列中正式回归。后来对地狱男爵事件的描绘往往弱化或完全省略他在该事件中的存在。在《[Hellboy: The Companion](/entry/Hellboy__The_Companion)》等补充资料中也没有提到自由火炬。

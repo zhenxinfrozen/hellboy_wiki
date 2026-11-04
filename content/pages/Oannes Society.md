@@ -1,4 +1,4 @@
-![Oannes_Society.png](/content/images/Oannes_Society.png) The **Oannes Society** was a splintered group of former members of the [Heliopic Brotherhood of Ra](/entry/Heliopic%20Brotherhood%20of%20Ra) that believed that the god [Atum](/entry/Atum) originated from the seas.
+![Oannes_Society.png](/content/images/Oannes_Society.webp) The **Oannes Society** was a splintered group of former members of the [Heliopic Brotherhood of Ra](/entry/Heliopic%20Brotherhood%20of%20Ra) that believed that the god [Atum](/entry/Atum) originated from the seas.
 
 ## History
 

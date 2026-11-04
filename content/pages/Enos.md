@@ -1,4 +1,4 @@
-![Enos](/content/images/Enos.jpg)
+![Enos](/content/images/Enos.webp)
 
 **Enos** is a recurring [B.P.R.D.](/entry/B.P.R.D.) field agent in the [Hell on Earth](/entry/Hell_on_Earth_(story_cycle))) story arc, first appearing in the story Wasteland as part of the team that recovered Agent Howards.
 

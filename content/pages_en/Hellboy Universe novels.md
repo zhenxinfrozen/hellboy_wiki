@@ -19,7 +19,7 @@ February 4, 2020 (audiobook)<a href="#fn1" class="footnote-ref" id="fnref1" role
 Christopher Golden<br />
 <em>with illustrations by</em><br />
 Mike Mignola
-![](/content/images/Hellboy_-_The_Lost_Army_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_The_Lost_Army_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)</em>
 December 5, 2001<br />
@@ -27,56 +27,56 @@ February 25, 2020 (audiobook)<a href="#fn2" class="footnote-ref" id="fnref2" rol
 Christopher Golden<br />
 <em>with illustrations by</em><br />
 Mike Mignola
-![](/content/images/Hellboy_-_The_Bones_of_Giants_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_The_Bones_of_Giants_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: On Earth as it is in Hell](/entry/Hellboy__On_Earth_as_it_is_in_Hell)</em>
 September, 2005
 Brian Hodge
-![](/content/images/Hellboy_-_On_Earth_as_It_Is_in_Hell_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_On_Earth_as_It_Is_in_Hell_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: Unnatural Selection](/entry/Hellboy__Unnatural_Selection)</em>
 March, 2006
 Tim Lebbon
-![](/content/images/Hellboy_-_Unnatural_Selection_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_Unnatural_Selection_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: The God Machine](/entry/Hellboy__The_God_Machine)</em>
 July, 2006
 Thomas E. Sniegoski
-![](/content/images/Hellboy_-_The_God_Machine_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_The_God_Machine_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: The Dragon Pool](/entry/Hellboy__The_Dragon_Pool)</em>
 March, 2007
 Christopher Golden
-![](/content/images/Hellboy_-_The_Dragon_Pool_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_The_Dragon_Pool_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: Emerald Hell](/entry/Hellboy__Emerald_Hell)</em>
 February 13, 2008<br />
 March 17, 2020 (audiobook)<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>
 Tom Piccirilli
-![](/content/images/Hellboy_-_Emerald_Hell_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_Emerald_Hell_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: The All-Seeing Eye](/entry/Hellboy__The_All-Seeing_Eye)</em>
 October 22, 2008<br />
 April 7, 2020 (audiobook)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>
 Mark Morris
-![](/content/images/Hellboy_-_The_All-Seeing_Eye_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_The_All-Seeing_Eye_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[Hellboy: The Fire Wolves](/entry/Hellboy__The_Fire_Wolves)</em>
 April 1, 2009<br />
 April 14, 2020 (audiobook)<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>
 Tim Lebbon
-![](/content/images/Hellboy_-_The_Fire_Wolves_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">DUNCAN FEGREDO</span>
+![](/content/images/Hellboy_-_The_Fire_Wolves_%28Novel_Cover%29.webp)<span style="font-size: 75%;">DUNCAN FEGREDO</span>
 
 <em>[Lobster Johnson: The Satan Factory](/entry/Lobster_Johnson__The_Satan_Factory)</em>
 July 22, 2009
 Thomas E. Sniegoski
-![](/content/images/Lobster_Johnson_-_The_Satan_Factory_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">GREGORY MANCHESS</span>
+![](/content/images/Lobster_Johnson_-_The_Satan_Factory_%28Novel_Cover%29.webp)<span style="font-size: 75%;">GREGORY MANCHESS</span>
 
 <em>[Hellboy: The Ice Wolves](/entry/Hellboy__The_Ice_Wolves)</em>
 September 30, 2009<br />
 April 21, 2020 (audiobook)<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>
 Mark Chadbourn
-![](/content/images/Hellboy_-_The_Ice_Wolves_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">DUNCAN FEGREDO</span>
+![](/content/images/Hellboy_-_The_Ice_Wolves_%28Novel_Cover%29.webp)<span style="font-size: 75%;">DUNCAN FEGREDO</span>
 
 </tbody>
 
@@ -107,7 +107,7 @@ Cover
 Yvonne Navarro
 March 2004
 
-![](/content/images/Hellboy_novelization_cover.jpg)
+![](/content/images/Hellboy_novelization_cover.webp)
 Hellboy_novelization_cover.jpg
 
 <em>Hellboy II: The Golden Army</em>
@@ -115,7 +115,7 @@ Hellboy_novelization_cover.jpg
 Robert Greenberger
 June 18, 2008
 
-![](/content/images/Hellboy_II_novelization_cover.jpg)
+![](/content/images/Hellboy_II_novelization_cover.webp)
 Hellboy_II_novelization_cover.jpg
 
 </tbody>
@@ -138,7 +138,7 @@ Author(s)
 
 <em>[Hellboy:<br />
 Odd Jobs](/entry/Hellboy__Odd_Jobs)</em>
-![](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 December 15, 1999<br />
 February 11, 2020 (audiobook)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>
 <em>Medusa's Revenge</em>
@@ -187,7 +187,7 @@ Brian Hodge
 
 <em>[Hellboy:<br />
 Odder Jobs](/entry/Hellboy__Odder_Jobs)</em>
-![](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 October 6, 2004<br />
 March 10, 2020 (audiobook)<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>
 <em>The Brotherhood of the Gun</em>
@@ -242,7 +242,7 @@ Guillermo del Toro<br />
 
 <em>[Hellboy:<br />
 Oddest Jobs](/entry/Hellboy__Oddest_Jobs)</em>
-![](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 July 9, 2008<br />
 March 24, 2020 (audiobook)<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>
 <em>Jiving with Shadows and Dragons and Long, Black Trains</em>
@@ -290,7 +290,7 @@ China Miéville
 
 <em>[Hellboy:<br />
 An Assortment of Horrors](/entry/Hellboy__An_Assortment_of_Horrors)</em>
-![](/content/images/Hellboy_-_An_Assortment_of_Horrors.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_-_An_Assortment_of_Horrors.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 August 16, 2017<br />
 January 28, 2020 (audiobook)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>
 <em>The Promised Smile</em>
@@ -367,13 +367,13 @@ Cover
 [Christopher Golden](/entry/Christopher_Golden)
 ''[Hellboy Sourcebook and Roleplaying Game](/entry/Hellboy_Sourcebook_and_Roleplaying_Game)
 August 2002
-![](/content/images/Hellboy_Sourcebook_and_Roleplaying_Game.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Hellboy_Sourcebook_and_Roleplaying_Game.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 <em>[The City in the Sea](/entry/The_City_in_the_Sea)</em>
 [Christopher Golden](/entry/Christopher_Golden) &amp; [Mike Mignola](/entry/Mike_Mignola)
 <em>Weird Tales</em> #367
 May 2023
-![](/content/images/Weird_Tales_367.jpg)<span style="font-size: 75%;">MIKE MIGNOLA</span>
+![](/content/images/Weird_Tales_367.webp)<span style="font-size: 75%;">MIKE MIGNOLA</span>
 
 </tbody>
 

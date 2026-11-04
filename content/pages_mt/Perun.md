@@ -17,18 +17,18 @@
 
 Perun's Power 001.png PerunStatue.jpeg PerunThunderByDuncan FegredoMikeMignola.jpeg PerunDeadByDuncanFergado.jpeg
 
-![](/content/images/Perun%27s%20Power%20001.png)
+![](/content/images/Perun%27s%20Power%20001.webp)
 
 |
 
-![](/content/images/PerunStatue.jpeg)
+![](/content/images/PerunStatue.webp)
 
 |
 
-![](/content/images/PerunThunderByDuncan%20FegredoMikeMignola.jpeg)
+![](/content/images/PerunThunderByDuncan%20FegredoMikeMignola.webp)
 
 |
 
-![](/content/images/PerunDeadByDuncanFergado.jpeg)
+![](/content/images/PerunDeadByDuncanFergado.webp)
 
 |

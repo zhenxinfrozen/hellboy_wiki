@@ -6,7 +6,7 @@
 
 ## Cover Art
 
-![](/content/images/The_Sword_of_Hyperborea_2_Li.jpg)
+![](/content/images/The_Sword_of_Hyperborea_2_Li.webp)
 
 |[The Sword of Hyperborea](/entry/The_Sword_of_Hyperborea_%28story%29) \#2 (Variant)
 

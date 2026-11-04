@@ -1,4 +1,4 @@
-![Hellboy: The Lost Army](/content/images/Hellboy%20-%20The%20Lost%20Army%20%28Novel%20Cover%29.jpg)
+![Hellboy: The Lost Army](/content/images/Hellboy%20-%20The%20Lost%20Army%20%28Novel%20Cover%29.webp)
 
 ***Hellboy: The Lost Army*** is the first *[Hellboy](/entry/Hellboy%20%28series%29)* novel, based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola).
 

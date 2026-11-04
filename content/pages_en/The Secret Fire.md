@@ -1,4 +1,4 @@
-![](/content/images/TheSecretFire.jpeg) ***The Secret Fire**'', or***Flamma Reconditus**'', was a Greek translation of an Egyptian text written by Ini-Herit in 700 A.D., in the sunken city of Menouthis. Ini-Herit claimed to have deciphered a version of the Emerald Tablet (the legendary stone that fell from Lucifer's head when he was cast out of heaven) engraved by the magician Hermes Trismegistus (Hermes Thrice-Great).
+![](/content/images/TheSecretFire.webp) ***The Secret Fire**'', or***Flamma Reconditus**'', was a Greek translation of an Egyptian text written by Ini-Herit in 700 A.D., in the sunken city of Menouthis. Ini-Herit claimed to have deciphered a version of the Emerald Tablet (the legendary stone that fell from Lucifer's head when he was cast out of heaven) engraved by the magician Hermes Trismegistus (Hermes Thrice-Great).
 
 The significance and the meaning of the tablet's thirteen lines have baffled mystics for centuries; Ini-Herit's version purported to be "a true record of the workings of the Universal Machine, of the nature and function of celestial bodies, the transmutation of metals, and the creation and reconstruction of living things."
 

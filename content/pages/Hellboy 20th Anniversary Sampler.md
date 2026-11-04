@@ -1,4 +1,4 @@
-![Hellboy 20th Anniversary Sampler](/content/images/Hellboy_20th_Anniversary_Sampler.jpg)
+![Hellboy 20th Anniversary Sampler](/content/images/Hellboy_20th_Anniversary_Sampler.webp)
 
 A sampler created for the 20th Anniversary celebrations on "Hellboy Day", March 22nd, 2014.
 

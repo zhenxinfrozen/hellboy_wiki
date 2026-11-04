@@ -1,4 +1,4 @@
-![](/content/images/Right_Hand_of_Doom.jpg)
+![](/content/images/Right_Hand_of_Doom.webp)
 地狱男爵手臂的绘图，见于《[毁灭之右手](/entry/The_Right_Hand_of_Doom)》。
 
 **毁灭之右手（Right Hand of Doom）**是[地狱男爵](/entry/Hellboy_%28character%29)出生后不久，由他的父亲[阿撒艾尔](/entry/Azzael)给他接上的一只石手。

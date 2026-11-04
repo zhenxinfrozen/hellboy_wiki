@@ -25,6 +25,6 @@
 
 *《铸造厂》* \#2
 
-![The Foundry #2](/content/images/The%20Foundry%20-%20In%20Peril%20on%20the%20Seas%202.jpg)
+![The Foundry #2](/content/images/The%20Foundry%20-%20In%20Peril%20on%20the%20Seas%202.webp)
 
 |The Foundry #2

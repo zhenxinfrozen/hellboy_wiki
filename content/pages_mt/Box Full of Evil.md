@@ -86,11 +86,11 @@ Bromhead 逃走。Abe 设法从猴子手中挣脱。猴子朝 Abe 扑来，却�
 
 封面由 [Mike Mignola](/entry/Mike_Mignola) 绘制。
 
-![](/content/images/Box_Full_of_Evil_1.jpg)
+![](/content/images/Box_Full_of_Evil_1.webp)
 
  \#1
 
-![](/content/images/Box_Full_of_Evil_2.jpg)
+![](/content/images/Box_Full_of_Evil_2.webp)
 
  \#2
 

@@ -1,4 +1,4 @@
-![](/content/images/HraesvelgByMattSmith.jpg)
+![](/content/images/HraesvelgByMattSmith.webp)
 
 **赫拉斯维尔格尔**是北欧神话中一头长着两个脑袋的恐怖霜巨人。
 

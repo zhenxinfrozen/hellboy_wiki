@@ -26,22 +26,22 @@ Sir Edward Grey and Sarah Jewell prepare to face one of the darkest entities tha
 
 Covers by [Christopher Mitten](/entry/Christopher_Mitten).
 
-![Issue #1](/content/images/The%20Reign%20of%20Darkness%201%20Mitten.jpg)
+![Issue #1](/content/images/The%20Reign%20of%20Darkness%201%20Mitten.webp)
 
 |Issue #1
 
-![Issue #2](/content/images/The%20Reign%20of%20Darkness%202%20Mitten.jpg)
+![Issue #2](/content/images/The%20Reign%20of%20Darkness%202%20Mitten.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/The%20Reign%20of%20Darkness%203%20Mitten.jpg)
+![Issue #3](/content/images/The%20Reign%20of%20Darkness%203%20Mitten.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/The%20Reign%20of%20Darkness%204%20Mitten.jpg)
+![Issue #4](/content/images/The%20Reign%20of%20Darkness%204%20Mitten.webp)
 
 |Issue #4
 
-![Issue #5](/content/images/The%20Reign%20of%20Darkness%205%20Mitten.jpg)
+![Issue #5](/content/images/The%20Reign%20of%20Darkness%205%20Mitten.webp)
 
 |Issue #5

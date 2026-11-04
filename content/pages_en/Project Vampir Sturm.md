@@ -15,7 +15,7 @@ In 1946, the frozen vampires were recovered by Doctor [Herman von Klempt](/entry
 ## Gallery
 
 
-![Hitler meets Giurescu.](/content/images/ProjectVampirSturm.jpeg)
+![Hitler meets Giurescu.](/content/images/ProjectVampirSturm.webp)
 
 |Hitler meets Giurescu.
 ## See also

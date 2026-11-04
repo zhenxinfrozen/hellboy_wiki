@@ -6,4 +6,4 @@ The necromancer [Gustav Strobl](/entry/Gustav_Strobl) demonstrates his new-found
 
 ## Gallery
 
-![](/content/images/Abe_Sapien_35.jpg)
+![](/content/images/Abe_Sapien_35.webp)

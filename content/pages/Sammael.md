@@ -1,4 +1,4 @@
-![Sammael](/content/images/Sammael.jpg)
+![Sammael](/content/images/Sammael.webp)
 
 **Sammael the Desolate One**, also known as **Lord of the Shadows**, **Harbinger of Pestilence**, **Seed of Destruction**, and **Hound of Resurrection**, was one of the main antagonists in the *[Hellboy](/entry/Hellboy%20%28film%29)* film. Sammael is a hellhound in which his essence was preserved and sealed within salt; crystals formed and gathered from the tears of a thousand angels. He was described as a "Son of Nergal", one of the seven [Ogdru-Jahad](/entry/Ogdru%20Jahad), which implies that he is an Ogdru Hem. When Sammael was brought forth in the modern world of 2004, the creature was cast with a spell by [Grigori Rasputin](/entry/Grigori%20Rasputin), where for each "*one of \[him\] that falls, two shall arise*".
 

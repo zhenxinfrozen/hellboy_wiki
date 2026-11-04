@@ -1,4 +1,4 @@
-![Leviathan](/content/images/The_Leviathan_001.jpg)
+![Leviathan](/content/images/The_Leviathan_001.webp)
 
 **The Leviathan** is a demonic beast who held an age-long grudge with the demon [Astaroth](/entry/Astaroth) over an unknown dispute.
 

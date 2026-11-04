@@ -24,16 +24,16 @@
 
 ## 画廊
 
-![](/content/images/HowAndWhyHeStayed1.jpg)
+![](/content/images/HowAndWhyHeStayed1.webp)
 
  \#1
 
-![](/content/images/HowAndWhyHeStayed1_ComicsPRO.jpg)
+![](/content/images/HowAndWhyHeStayed1_ComicsPRO.webp)
 
  \#1
 ComicsPRO 变体版
 
-![](/content/images/HowAndWhyHeStayed2.jpg)
+![](/content/images/HowAndWhyHeStayed2.webp)
 
  \#2
 

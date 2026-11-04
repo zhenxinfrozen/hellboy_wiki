@@ -23,11 +23,11 @@
 
 特刊
 
-![第 #2 期](/content/images/Ghost%20Hellboy%202.jpg)
+![第 #2 期](/content/images/Ghost%20Hellboy%202.webp)
 
 |第 #2 期
 
-![Special](/content/images/Ghost%20Hellboy%20Special.jpg)
+![Special](/content/images/Ghost%20Hellboy%20Special.webp)
 
 |Special
 ## 外部链接

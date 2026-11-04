@@ -23,19 +23,19 @@
 
 拉格纳·洛克之后的地球。
 
-![The Great Spirit of Africa at Ragna Rok](/content/images/Ragnarok%20Africa.jpg)
+![The Great Spirit of Africa at Ragna Rok](/content/images/Ragnarok%20Africa.webp)
 
 |The Great Spirit of Africa at Ragna Rok
 
-![Liz Sherman igintes, beginning the end.](/content/images/RagnaRok1.jpeg)
+![Liz Sherman igintes, beginning the end.](/content/images/RagnaRok1.webp)
 
 |Liz Sherman igintes, beginning the end.
 
-![The flames engulf the Earth.](/content/images/RagnaRok2.jpeg)
+![The flames engulf the Earth.](/content/images/RagnaRok2.webp)
 
 |The flames engulf the Earth.
 
-![Earth after Ragna Rok.](/content/images/RagnaRok3.jpeg)
+![Earth after Ragna Rok.](/content/images/RagnaRok3.webp)
 
 |Earth after Ragna Rok.
 ## 登场

@@ -4,7 +4,7 @@
 
 ## 历史
 
-![](/content/images/Golden_Army_Fight.jpg) 黄金军团诞生于无数世代以前，当时一位[地精铁匠](/entry/Goblin_%28Bethmoran%29)大师向精灵族的[巴洛尔国王](/entry/King_Balor)（[精灵](/entry/Elves)一族之王）进言：要打败人类，他们需要一支有能力将人类彻底消灭的军队——即便不真的动手，也可作为威慑。在儿子[弩阿达](/entry/Nuada)的劝说下，巴洛尔下令打造黄金军团，以及启动和控制它们的唯一手段：传说中的[贝斯莫拉王冠](/entry/Crown_of_Bethmora)（Crown of Bethmora）。然而，等到巴洛尔看着敌方人类被彻底毁灭时，他醒悟得太迟了：黄金军团既不懂仁慈，也不懂悔恨，因此在战斗中毫不留情。黄金军团不分敌我——它们对弱者、残者、幼者、老者都毫无怜悯。它们走到哪里就毁灭哪里，所过之处留下无数尸体。
+![](/content/images/Golden_Army_Fight.webp) 黄金军团诞生于无数世代以前，当时一位[地精铁匠](/entry/Goblin_%28Bethmoran%29)大师向精灵族的[巴洛尔国王](/entry/King_Balor)（[精灵](/entry/Elves)一族之王）进言：要打败人类，他们需要一支有能力将人类彻底消灭的军队——即便不真的动手，也可作为威慑。在儿子[弩阿达](/entry/Nuada)的劝说下，巴洛尔下令打造黄金军团，以及启动和控制它们的唯一手段：传说中的[贝斯莫拉王冠](/entry/Crown_of_Bethmora)（Crown of Bethmora）。然而，等到巴洛尔看着敌方人类被彻底毁灭时，他醒悟得太迟了：黄金军团既不懂仁慈，也不懂悔恨，因此在战斗中毫不留情。黄金军团不分敌我——它们对弱者、残者、幼者、老者都毫无怜悯。它们走到哪里就毁灭哪里，所过之处留下无数尸体。
 
 目睹这场屠杀后，巴洛尔决心与被彻底吓破胆的人类缔结休战协定。作为协定的一部分，他下令把王冠碎成三片：两片由精灵保管，一片交人类守护；黄金军团本体则被关闭，封印在北爱尔兰的[贝斯莫拉](/entry/Bethmora)，此后这座城市才被瘟疫摧毁。
 
@@ -40,10 +40,10 @@
 
 ## 画廊
 
-![](/content/images/Golden_army.jpg)
+![](/content/images/Golden_army.webp)
 
-![](/content/images/Golden_army_creation.jpg)
+![](/content/images/Golden_army_creation.webp)
 
-![](/content/images/Golden_Army_back.png)
+![](/content/images/Golden_Army_back.webp)
 
-![](/content/images/Golden_Army.jpg)
+![](/content/images/Golden_Army.webp)

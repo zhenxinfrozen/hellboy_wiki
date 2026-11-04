@@ -15,6 +15,6 @@ In 1978, the Visitor encountered another religious cult led by Ana Mireya Fierro
 ## Gallery
 
 
-![](/content/images/ZaraHem.jpeg)
+![](/content/images/ZaraHem.webp)
 
 |

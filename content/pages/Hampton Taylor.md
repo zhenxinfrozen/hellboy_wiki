@@ -1,4 +1,4 @@
-![Hampton Taylor](/content/images/Major_Hampton.jpg)
+![Hampton Taylor](/content/images/Major_Hampton.webp)
 
 Major **​Hampton Taylor** ​was a major in the US Air Force.
 

@@ -1,4 +1,4 @@
-![Roderick Zinco](/content/images/Zinco.jpg)
+![Roderick Zinco](/content/images/Zinco.webp)
 
 [Roderick Zinco](/entry/Roderick%20Zinco) was a wealthy man and founder of his company, the [Zinco Corporation](/entry/Zinco%20Corporation), chosen by [Rasputin](/entry/Rasputin) to be a messenger to the members of the [Ragna Rok Project](/entry/Project%20Ragna%20Rok).
 

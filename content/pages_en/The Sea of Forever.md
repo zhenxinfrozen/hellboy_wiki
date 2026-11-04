@@ -25,14 +25,14 @@ All covers by [Peter Bergting](/entry/Peter_Bergting).
 
 Issue \#1
 
-![Issue #2](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%202%20Bergting.jpg)
+![Issue #2](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%202%20Bergting.webp)
 
 |Issue #2
 
-![Issue #3](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%203%20Bergting.jpg)
+![Issue #3](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%203%20Bergting.webp)
 
 |Issue #3
 
-![Issue #4](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%204%20Bergting.jpg)
+![Issue #4](/content/images/Frankenstein%20NW%20Sea%20of%20Forever%204%20Bergting.webp)
 
 |Issue #4

@@ -17,6 +17,6 @@ with colors by Dave Stewart
 *Hellboy and the B.P.R.D.: Professor Harvey Is Gone*  
 Nirvana Comics exclusive variant cover by Ben Stenbeck
 
-![Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck](/content/images/ProfessorHarveyIsGone%20Stenbeck.jpg)
+![Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck](/content/images/ProfessorHarveyIsGone%20Stenbeck.webp)
 
 |Hellboy and the B.P.R.D.: Professor Harvey Is Gone<br>Nirvana Comics exclusive variant cover by Ben Stenbeck

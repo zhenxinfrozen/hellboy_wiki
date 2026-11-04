@@ -1,4 +1,4 @@
-![Hellboy: Odd Jobs](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.jpg)
+![Hellboy: Odd Jobs](/content/images/Hellboy_-_Odd_Jobs_%28Novel_Cover%29.webp)
 
 ***Hellboy: Odd Jobs*** is the first of four anthologies collecting non-chronological short stories written for the [*Hellboy* novel series](/entry/Hellboy%20Universe%20novels), based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola), who provided cover illustrations for each story.
 

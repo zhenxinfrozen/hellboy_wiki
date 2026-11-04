@@ -1,4 +1,4 @@
-![](/content/images/Arnie_wald.jpg)
+![](/content/images/Arnie_wald.webp)
 Arnie_wald.jpg
 
 **阿诺德·"阿尼"·瓦尔德（Arnold "Arnie" Wald）**是 20 世纪 30 年代一位颇有势力的黑帮老大。他盘算着弄到一片目前住着廉租公寓住户的地皮——几年后市里要选址修建高速公路，这片土地及其上的住宅必将大幅升值。

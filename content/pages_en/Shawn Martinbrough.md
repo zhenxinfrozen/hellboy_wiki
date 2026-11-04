@@ -8,7 +8,7 @@
 ## Cover Art
 
 
-![Secret Nature](/content/images/Secret%20Nature.jpg)
+![Secret Nature](/content/images/Secret%20Nature.webp)
 
 |Secret Nature
 ## External Links

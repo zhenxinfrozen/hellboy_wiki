@@ -1,4 +1,4 @@
-![神秘学情报](/content/images/Occult_Intelligence_1.jpg)
+![神秘学情报](/content/images/Occult_Intelligence_1.webp)
 
 《**神秘学情报**》（Occult Intelligence）是《[地狱男爵与 B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：1955》的一个三期篇章，由迈克·米格诺拉（Mike Mignola）与克里斯·罗伯森（Chris Roberson）编剧，布莱恩·楚里拉（Brian Churilla）作画。
 
@@ -18,15 +18,15 @@
 
 ## 画廊
 
-![](/content/images/Occult_Intelligence_1.jpg)
+![](/content/images/Occult_Intelligence_1.webp)
 
 《神秘学情报》第 1 期
 
-![](/content/images/Occult_Intelligence_2.jpg)
+![](/content/images/Occult_Intelligence_2.webp)
 
 《神秘学情报》第 2 期
 
-![](/content/images/Occult_Intelligence_3.jpg)
+![](/content/images/Occult_Intelligence_3.webp)
 
 《神秘学情报》第 3 期
 

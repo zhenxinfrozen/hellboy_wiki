@@ -1,4 +1,4 @@
-![Kyriakos Gallaragas](/content/images/Kyriakos_Gallaragas.jpg)
+![Kyriakos Gallaragas](/content/images/Kyriakos_Gallaragas.webp)
 
 Professor **Kyriakos Gallaragas** was a scientist who created the [Vril Energy Suit](/entry/Vril%20Energy%20Suit) and Anum's Fork.
 

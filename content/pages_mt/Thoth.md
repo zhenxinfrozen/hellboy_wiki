@@ -11,10 +11,10 @@
 ## 画廊
 
 
-![](/content/images/Thoth%20001.jpg)
+![](/content/images/Thoth%20001.webp)
 
 |
 
-![A later interpretation of Thoth as an Egyptian deity.](/content/images/Fullsizeoutput%2070b.jpeg)
+![A later interpretation of Thoth as an Egyptian deity.](/content/images/Fullsizeoutput%2070b.webp)
 
 |A later interpretation of Thoth as an Egyptian deity.

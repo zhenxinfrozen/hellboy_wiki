@@ -1,4 +1,4 @@
-![](/content/images/Spear.png)
+![](/content/images/Spear.webp)
 
 **朗基努斯之枪**（The Lance of Longinus），又称圣枪，是一件浸有基督之血的强大魔法武器。任何持有此枪的人都能变得无敌。
 

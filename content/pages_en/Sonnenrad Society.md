@@ -1,4 +1,4 @@
-![](/content/images/Sonnenrad_Society.png)
+![](/content/images/Sonnenrad_Society.webp)
 Sonnenrad_Society.png
 
 The **Sonnenrad Society** (or the **Order of the Black Sun**) was one of Nazi Germany's occult bureaus.

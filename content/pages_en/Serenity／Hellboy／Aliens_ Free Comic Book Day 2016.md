@@ -1,6 +1,6 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/FCBD%202016.jpg)
+![](/content/images/FCBD%202016.webp)
 
 ***Serenity/Hellboy/Aliens: Free Comic Book Day 2016*** is a May 2016 anthology special featuring three stories. It was the first appearance of the Hellboy Universe story *[The Mirror](/entry/The_Mirror)*.
 

@@ -28,7 +28,7 @@ Issue \#3
 
 - The cover for *Saturn Returns* \#3 is an inverse of Mike Mignola's Batman: Legends of the Dark Knight—Sanctum cover.
 
-![](/content/images/Sanctum%20tribute.jpg)
+![](/content/images/Sanctum%20tribute.webp)
 
 Hellboy and the B.P.R.D. Publication Order
 

@@ -1,4 +1,4 @@
-![](/content/images/Vril.jpg)
+![](/content/images/Vril.webp)
 
 **Vril**, also known as *Flamma Reconditus*, **The Secret Fire**, was the power of [God](/entry/God) himself.
 

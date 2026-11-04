@@ -6,10 +6,10 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_31.jpg)
+![](/content/images/Abe_Sapien_31.webp)
 
 [马克斯·菲乌马拉](/entry/Max_Fiumara)（Max Fiumara）
 
-![](/content/images/Abe_Sapien_31a.jpg)
+![](/content/images/Abe_Sapien_31a.webp)
 
 [大卫·麦克](/entry/David_Mack)（David Mack）

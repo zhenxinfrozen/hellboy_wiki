@@ -35,31 +35,31 @@ While some may know this character from Mary Shelley's novel as "Frankenstein's 
 
 FrankensteinUnderground 1.jpg FrankensteinUnderground 2.jpg FrankensteinUnderground 3.jpg FrankensteinUndone 2 Stenbeck.jpg FrankensteinUndone 2 DArmini.jpg FrankensteinUndone 3 Stenbeck.jpg FrankensteinUndone 3 Purcell.jpg
 
-![](/content/images/FrankensteinUnderground%201.jpg)
+![](/content/images/FrankensteinUnderground%201.webp)
 
 |
 
-![](/content/images/FrankensteinUnderground%202.jpg)
+![](/content/images/FrankensteinUnderground%202.webp)
 
 |
 
-![](/content/images/FrankensteinUnderground%203.jpg)
+![](/content/images/FrankensteinUnderground%203.webp)
 
 |
 
-![](/content/images/FrankensteinUndone%202%20Stenbeck.jpg)
+![](/content/images/FrankensteinUndone%202%20Stenbeck.webp)
 
 |
 
-![](/content/images/FrankensteinUndone%202%20DArmini.jpg)
+![](/content/images/FrankensteinUndone%202%20DArmini.webp)
 
 |
 
-![](/content/images/FrankensteinUndone%203%20Stenbeck.jpg)
+![](/content/images/FrankensteinUndone%203%20Stenbeck.webp)
 
 |
 
-![](/content/images/FrankensteinUndone%203%20Purcell.jpg)
+![](/content/images/FrankensteinUndone%203%20Purcell.webp)
 
 |
 ## References

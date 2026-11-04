@@ -53,12 +53,12 @@
 
 《人间地狱》被收录在其独立的平装合订本产品线中，以区别于前一个周期和回忆故事。《人间地狱》共计 15 本平装合订本。
 
-![](/content/images/BPRD_Hell_on_Earth_Trade_Collections.jpg)
+![](/content/images/BPRD_Hell_on_Earth_Trade_Collections.webp)
 
 十五本《B.P.R.D.: Hell on Earth》平装合订本。
 
 《人间地狱》周期从 2017 年 12 月开始推出[合集版](/entry/Omnibus_Editions)。这些合集版收录了扩充的素描本内容。
 
-![](/content/images/BPRD_Hell_on_Earth_Omnibuses.png)
+![](/content/images/BPRD_Hell_on_Earth_Omnibuses.webp)
 
 《B.P.R.D.: Hell on Earth》合集版的五卷。

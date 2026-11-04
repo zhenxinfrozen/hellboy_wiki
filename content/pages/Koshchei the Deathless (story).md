@@ -1,4 +1,4 @@
-![Koshchei the Deathless (story)](/content/images/Koshchei_the_Deathless_1.jpg)
+![Koshchei the Deathless (story)](/content/images/Koshchei_the_Deathless_1.webp)
 
 ***Koshchei the Deathless*** is a six-issue miniseries written by Mike Mignola with art by Ben Stenbeck.
 

@@ -1,4 +1,4 @@
-![Box Full of Evil](/content/images/Box_Full_of_Evil_1.jpg)
+![Box Full of Evil](/content/images/Box_Full_of_Evil_1.webp)
 
 ***Box Full of Evil*** is a two-issue miniseries written and drawn by [Mike Mignola](/entry/Mike%20Mignola). It was the first story to reveal Hellboy's secret crown.
 

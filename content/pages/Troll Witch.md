@@ -1,4 +1,4 @@
-![Troll Witch](/content/images/Troll%20witch.jpg)
+![Troll Witch](/content/images/Troll%20witch.webp)
 
 The **Troll Witch** is an ancient witch from Norway.
 

@@ -10,6 +10,6 @@ It's all out pulp adventure as Mike Mignola's Hellboy teams up with Steve Mannio
 
 Mike Mignola variant cover
 
-![Steve Mannion cover](/content/images/Fearless%20Dawn%20Meets%20Hellboy%20Manion.jpg)
+![Steve Mannion cover](/content/images/Fearless%20Dawn%20Meets%20Hellboy%20Manion.webp)
 
 |Steve Mannion cover

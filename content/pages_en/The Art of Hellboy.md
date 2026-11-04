@@ -16,7 +16,7 @@
 
 Hardcover
 
-![Paperback](/content/images/ArtOfHellboyPaperback.jpg)
+![Paperback](/content/images/ArtOfHellboyPaperback.webp)
 
 |Paperback
 ## External Links

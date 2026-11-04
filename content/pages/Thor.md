@@ -1,4 +1,4 @@
-![Thor.png](/content/images/Thor.png) **Thor** was a member of the Aesir, a race of gods from Norse mythology. He was the god of thunder and was known in life as the Thunderer.
+![Thor.png](/content/images/Thor.webp) **Thor** was a member of the Aesir, a race of gods from Norse mythology. He was the god of thunder and was known in life as the Thunderer.
 
 ## History
 

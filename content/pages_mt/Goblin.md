@@ -1,6 +1,6 @@
 *关于贝斯莫兰的哥布林铁匠，见[哥布林（贝斯莫兰）](/entry/Goblin_Master_Blacksmith_(Bethmoran))。*
 
-![](/content/images/Bethmoran%20goblin.jpg)
+![](/content/images/Bethmoran%20goblin.webp)
 
 **哥布林（Goblins）**是一个传说中的种族，生有绿色皮肤和角。
 

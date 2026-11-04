@@ -1,4 +1,4 @@
-![Masks and Monsters](/content/images/Masks_and_Monsters.jpg)
+![Masks and Monsters](/content/images/Masks_and_Monsters.webp)
 
 ***Masks and Monsters*** is a [trade papberback](/entry/Trade%20Paperback%20Collections) published by Dark Horse Comics containing two previously published, non-canonical [Hellboy](/entry/Hellboy) crossover stories, [Batman/Hellboy/Starman](/entry/Batman_Hellboy_Starman) and [Ghost/Hellboy](/entry/Ghost_Hellboy).
 

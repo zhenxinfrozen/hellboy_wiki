@@ -19,79 +19,79 @@
 
 ### 《亚伯·赛皮恩》各期
 
-![](/content/images/The_New_Race_of_Man_1.jpg)
+![](/content/images/The_New_Race_of_Man_1.webp)
 
-![](/content/images/The_New_Race_of_Man_1a.jpg)
+![](/content/images/The_New_Race_of_Man_1a.webp)
 
-![](/content/images/The_New_Race_of_Man_2.jpg)
+![](/content/images/The_New_Race_of_Man_2.webp)
 
-![](/content/images/The_Shape_of_Things_to_Come_1.jpg)
+![](/content/images/The_Shape_of_Things_to_Come_1.webp)
 
-![](/content/images/The_Shape_of_Things_to_Come_2.jpg)
+![](/content/images/The_Shape_of_Things_to_Come_2.webp)
 
-![](/content/images/Abe_Sapien_8.jpg)
+![](/content/images/Abe_Sapien_8.webp)
 
-![](/content/images/Abe_Sapien_9.jpg)
+![](/content/images/Abe_Sapien_9.webp)
 
-![](/content/images/Abe_Sapien_10.jpg)
+![](/content/images/Abe_Sapien_10.webp)
 
-![](/content/images/Abe_Sapien_11.jpg)
+![](/content/images/Abe_Sapien_11.webp)
 
-![](/content/images/Abe_Sapien_18.jpg)
+![](/content/images/Abe_Sapien_18.webp)
 
-![](/content/images/Abe_Sapien_19.jpg)
+![](/content/images/Abe_Sapien_19.webp)
 
-![](/content/images/Abe_Sapien_20.jpg)
+![](/content/images/Abe_Sapien_20.webp)
 
-![](/content/images/Abe_Sapien_21.jpg)
+![](/content/images/Abe_Sapien_21.webp)
 
-![](/content/images/Abe_Sapien_22.jpg)
+![](/content/images/Abe_Sapien_22.webp)
 
-![](/content/images/Abe_Sapien_24.jpg)
+![](/content/images/Abe_Sapien_24.webp)
 
-![](/content/images/Abe_Sapien_25.jpg)
+![](/content/images/Abe_Sapien_25.webp)
 
-![](/content/images/Abe_Sapien_26.jpg)
+![](/content/images/Abe_Sapien_26.webp)
 
-![](/content/images/Abe_Sapien_28.jpg)
+![](/content/images/Abe_Sapien_28.webp)
 
-![](/content/images/Abe_Sapien_29.jpg)
+![](/content/images/Abe_Sapien_29.webp)
 
-![](/content/images/Abe_Sapien_30.jpg)
+![](/content/images/Abe_Sapien_30.webp)
 
-![](/content/images/Abe_Sapien_31.jpg)
+![](/content/images/Abe_Sapien_31.webp)
 
 ### 《亚伯·赛皮恩》合订本
 
-![](/content/images/Abe_Sapien_Trade05.jpg)
+![](/content/images/Abe_Sapien_Trade05.webp)
 
-![](/content/images/Abe_Sapien_Trade06.jpg)
+![](/content/images/Abe_Sapien_Trade06.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
-![](/content/images/Abe_Sapien_Trade07.jpg)
+![](/content/images/Abe_Sapien_Trade07.webp)
 
 ### 其他
 
-![](/content/images/TransformationODonnell01.jpg)
+![](/content/images/TransformationODonnell01.webp)
 
 |《B.P.R.D.：人间地狱——J.H. 奥唐奈的蜕变》
 
-![](/content/images/The_Devil_You_Know_6.jpg)
+![](/content/images/The_Devil_You_Know_6.webp)
 
 |《B.P.R.D.：你所知的魔鬼》（The Devil You Know）第 6 期（与 [Sebastián Fiumara](/entry/Sebasti%C3%A1n_Fiumara) 合作）
 
 |《B.P.R.D.：你所知的魔鬼》第 7 期
 
-![](/content/images/The_Devil_You_Know_8.jpg)
+![](/content/images/The_Devil_You_Know_8.webp)
 
 |《B.P.R.D.：你所知的魔鬼》第 8 期
 
-![](/content/images/The_Devil_You_Know_9.jpg)
+![](/content/images/The_Devil_You_Know_9.webp)
 
 |《B.P.R.D.：你所知的魔鬼》第 9 期
 
-![](/content/images/The_Devil_You_Know_10.jpg)
+![](/content/images/The_Devil_You_Know_10.webp)
 
 |《B.P.R.D.：你所知的魔鬼》第 10 期
 

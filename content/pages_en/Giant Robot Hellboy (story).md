@@ -48,22 +48,22 @@ Issue \#3
 variant cover by Art Adams  
 colors by Dave Stewart
 
-![Issue #1<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%201%20Fegredo.jpg)
+![Issue #1<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%201%20Fegredo.webp)
 
 |Issue #1<br/>cover by Duncan Fegredo
 
-![Issue #2<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%202%20Fegredo.jpg)
+![Issue #2<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%202%20Fegredo.webp)
 
 |Issue #2<br/>cover by Duncan Fegredo
 
-![Issue #2<br/>variant cover by Geof Darrow<br/>colors by Dave Stewart](/content/images/GiantRobotHellboy%202%20Darrow.jpg)
+![Issue #2<br/>variant cover by Geof Darrow<br/>colors by Dave Stewart](/content/images/GiantRobotHellboy%202%20Darrow.webp)
 
 |Issue #2<br/>variant cover by Geof Darrow<br/>colors by Dave Stewart
 
-![Issue #3<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%203%20Fegredo.jpg)
+![Issue #3<br/>cover by Duncan Fegredo](/content/images/GiantRobotHellboy%203%20Fegredo.webp)
 
 |Issue #3<br/>cover by Duncan Fegredo
 
-![Issue #3<br/>variant cover by Art Adams<br/>colors by Dave Stewart](/content/images/GiantRobotHellboy%203%20Adams.jpg)
+![Issue #3<br/>variant cover by Art Adams<br/>colors by Dave Stewart](/content/images/GiantRobotHellboy%203%20Adams.webp)
 
 |Issue #3<br/>variant cover by Art Adams<br/>colors by Dave Stewart

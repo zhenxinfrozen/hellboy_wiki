@@ -11,6 +11,6 @@ TBA
 ## Gallery
 
 
-![](/content/images/The%20Abyss%20of%20Time%202.jpg)
+![](/content/images/The%20Abyss%20of%20Time%202.webp)
 
 |

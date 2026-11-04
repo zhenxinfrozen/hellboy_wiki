@@ -21,6 +21,6 @@ The Beast of Vargu
 Followed by
 The Secret God of the Roma
 
-![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.jpg)
+![Duncan Fegredo cover](/content/images/The%20Beast%20of%20Vargu%20Fegredo.webp)
 
 |Duncan Fegredo cover

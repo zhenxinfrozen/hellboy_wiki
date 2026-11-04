@@ -1,4 +1,4 @@
-![退化](/content/images/Abe_Sapien_32.jpg)
+![退化](/content/images/Abe_Sapien_32.webp)
 
 《**退化**》（Regressions）是一个两期篇章，自 2016 年 4 月起推出。
 
@@ -14,6 +14,6 @@
 
 ## 画廊
 
-![](/content/images/Abe_Sapien_32.jpg)
+![](/content/images/Abe_Sapien_32.webp)
 
 **Category:Story** **Category:Abe Sapien story** **Category:Abe Sapien: Dark and Terrible story**

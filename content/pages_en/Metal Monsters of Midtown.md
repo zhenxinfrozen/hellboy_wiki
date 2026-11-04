@@ -20,7 +20,7 @@ The giant robot invasion of New York comes to a showdown when the Lobster has to
 
 ## Gallery
 
-![](/content/images/Metal_Monsters_of_Midtown_1.jpg)
+![](/content/images/Metal_Monsters_of_Midtown_1.webp)
 
  \#1
 

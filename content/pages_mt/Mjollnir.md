@@ -1,4 +1,4 @@
-![](/content/images/Mjollnir.jpeg)
+![](/content/images/Mjollnir.webp)
 
 **姆乔尔尼尔**（Mjollnir，又作 **Mjölnir**）是阿萨神族[托尔](/entry/Thor)的战锤。
 

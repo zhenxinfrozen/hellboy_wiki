@@ -2,7 +2,7 @@
 
 ## 背景
 
-![](/content/images/Ox-Head_and_Horse-Face2.png) 牛头马面是地狱魔王的仆从，负责把鬼魂带到魔王面前接受审判。他们的职责是捉拿走失、游荡在人间的地狱亡魂。
+![](/content/images/Ox-Head_and_Horse-Face2.webp) 牛头马面是地狱魔王的仆从，负责把鬼魂带到魔王面前接受审判。他们的职责是捉拿走失、游荡在人间的地狱亡魂。
 
 ## 历史
 

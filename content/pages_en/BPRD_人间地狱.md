@@ -53,10 +53,10 @@ From Halloween 2012, *B.P.R.D.: Hell on Earth* became an ongoing series with [*T
 
 *Hell on Earth* is collected in its own line of trade paperbacks to make it distinct from the previous cycle and flashback stories. *Hell on Earth* ran for a total of 15 trades.
 
-![](/content/images/BPRD_Hell_on_Earth_Trade_Collections.jpg)
+![](/content/images/BPRD_Hell_on_Earth_Trade_Collections.webp)
 670 px|center|The fifteen <em>B.P.R.D.: Hell on Earth</em> trade paperbacks.
 
 The *Hell on Earth* cycle will be collected in [omnibus editions](/entry/Omnibus_Editions) beginning December 2017. These feature expanded sketchbooks.
 
-![](/content/images/BPRD_Hell_on_Earth_Omnibuses.png)
+![](/content/images/BPRD_Hell_on_Earth_Omnibuses.webp)
 670 px|center|The five volumes of the <em>B.P.R.D.: Hell on Earth</em> omnibuses.

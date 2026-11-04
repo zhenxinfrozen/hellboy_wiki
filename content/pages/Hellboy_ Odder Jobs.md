@@ -1,4 +1,4 @@
-![Hellboy: Odder Jobs](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.jpg)
+![Hellboy: Odder Jobs](/content/images/Hellboy_-_Odder_Jobs_%28Novel_Cover%29.webp)
 
 ***Hellboy: Odder Jobs*** is the second anthology collecting non-chronological short stories written for the [*Hellboy* novel series](/entry/Hellboy%20Universe%20novels), based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola), who provided cover illustrations for each story.
 

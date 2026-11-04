@@ -26,7 +26,7 @@
 
 黑白版中简要提到了 Robert Carson 医生，这个角色由 [John Byrne](/entry/John_Byrne)在《Danger Unlimited》中创造。Carson 医生的出场是 Adams-Byrne-Mignola 共享宇宙计划的一部分。然而，1998年8月该故事被收录进[《地狱男爵——第3卷：被锁链束缚的棺材及其他》](/entry/Trade_Collections)出彩色版时，Carson 医生被删除了；此时共享宇宙的计划已被放弃。
 
-![](/content/images/The_Chained_Coffin_changes.jpg)
+![](/content/images/The_Chained_Coffin_changes.webp)
 The_Chained_Coffin_changes.jpg
 
 ***左：**1995年黑白版

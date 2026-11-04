@@ -18,6 +18,6 @@
 
 ## 画廊
 
-![Abe Sapien: The Abyssal Plain #1 variant](/content/images/Abyssal%20Plain%201b.jpg)
+![Abe Sapien: The Abyssal Plain #1 variant](/content/images/Abyssal%20Plain%201b.webp)
 
 |Abe Sapien: The Abyssal Plain #1 variant

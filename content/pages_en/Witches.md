@@ -1,6 +1,6 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/Nimue%20002.jpg)
+![](/content/images/Nimue%20002.webp)
 
 **Witches**, or **wizard**, are humans who have learned how to use [magic](/entry/Magic). Some gain it from demons, others seem to have it naturally, and are related to [fairies](/entry/Fairies). This second type appears to worship Hecate, and their power has faded in recent times, like the power (and fertility) of the fairies. It is possible that some witches have power from sheer knowledge.
 

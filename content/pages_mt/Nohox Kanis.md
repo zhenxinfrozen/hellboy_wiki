@@ -11,6 +11,6 @@
 ## 画廊
 
 
-![](/content/images/Nohox%20kanis.png)
+![](/content/images/Nohox%20kanis.webp)
 
 |

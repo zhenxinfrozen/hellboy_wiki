@@ -13,6 +13,6 @@ Hellboy travels to Reykjavik, where children are disappearing and a giant beast 
 Variant cover by [Mike Mignola](/entry/Mike_Mignola)  
 colors by [Dave Stewart](/entry/Dave_Stewart)
 
-![Cover by Matt SMtih](/content/images/TheYuleCat%20Smith.jpg)
+![Cover by Matt SMtih](/content/images/TheYuleCat%20Smith.webp)
 
 |Cover by Matt SMtih

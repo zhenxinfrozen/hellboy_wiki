@@ -4,23 +4,23 @@
 
 [The Gates of Heaven](/entry/The_Gates_of_Heaven)
 
-![The Gates of Heaven #1](/content/images/The%20Gates%20of%20Heaven%201%20DIsraeli.jpg)
+![The Gates of Heaven #1](/content/images/The%20Gates%20of%20Heaven%201%20DIsraeli.webp)
 
 |The Gates of Heaven #1
 
-![The Gates of Heaven #2](/content/images/The%20Gates%20of%20Heaven%202%20DIsraeli.jpg)
+![The Gates of Heaven #2](/content/images/The%20Gates%20of%20Heaven%202%20DIsraeli.webp)
 
 |The Gates of Heaven #2
 
-![The Gates of Heaven #3](/content/images/The%20Gates%20of%20Heaven%203%20DIsraeli.jpg)
+![The Gates of Heaven #3](/content/images/The%20Gates%20of%20Heaven%203%20DIsraeli.webp)
 
 |The Gates of Heaven #3
 
-![The Gates of Heaven #4](/content/images/The%20Gates%20of%20Heaven%204%20DIsraeli.jpg)
+![The Gates of Heaven #4](/content/images/The%20Gates%20of%20Heaven%204%20DIsraeli.webp)
 
 |The Gates of Heaven #4
 
-![The Gates of Heaven #5](/content/images/The%20Gates%20of%20Heaven%205%20DIsraeli.jpg)
+![The Gates of Heaven #5](/content/images/The%20Gates%20of%20Heaven%205%20DIsraeli.webp)
 
 |The Gates of Heaven #5
 ## Cover Art

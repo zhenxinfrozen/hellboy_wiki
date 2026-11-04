@@ -1,6 +1,6 @@
 *For the Injustice 2 guest appearance, see [Bureau for Paranormal Research and Defense (Injustice)](/entry/Bureau_for_Paranormal_Research_and_Defense_(Injustice)).*
 
-![The B.P.R.D. logo](/content/images/Bprdlogos-000.jpg) The **Bureau for Paranormal Research and Defense** (**B.P.R.D.**) is an organization charged with protecting America and the world from the occult, paranormal and supernatural. It retains the services of several persons of "enhanced talents", including [Hellboy](/entry/Hellboy_%28character%29).
+![The B.P.R.D. logo](/content/images/Bprdlogos-000.webp) The **Bureau for Paranormal Research and Defense** (**B.P.R.D.**) is an organization charged with protecting America and the world from the occult, paranormal and supernatural. It retains the services of several persons of "enhanced talents", including [Hellboy](/entry/Hellboy_%28character%29).
 
 The B.P.R.D. originally appeared in the *[Hellboy](/entry/Hellboy_%28series%29)* comics, introduced in the first story arc *[Seed of Destruction](/entry/Seed_of_Destruction)* as the organization Hellboy and his compatriots work for. Hellboy quit the Bureau at the conclusion of the *[Conqueror Worm](/entry/Conqueror_Worm_%28story%29)* story arc, published in 2001; shortly after this, a standalone *[B.P.R.D.](/entry/B.P.R.D._%28series%29)* series began publication with the story arc *[Hollow Earth](/entry/Hollow_Earth)*. *Hellboy* and *B.P.R.D.* comics continued to run in parallel, with the events of one informing the other. Related series *[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)* covers Hellboy's earliest days as a field agent in the 1950s.
 
@@ -24,7 +24,7 @@ The B.P.R.D. has recently become an international organization with support from
 
 ## Agents
 
-![](/content/images/Agents.png)
+![](/content/images/Agents.webp)
 Some notable BPRD agents. Left to right: [Johann Kraus](/entry/Johann_Kraus), [Liz Sherman](/entry/Liz_Sherman), [Abe Sapien](/entry/Abe_Sapien), [Roger](/entry/Roger), [Kate Corrigan](/entry/Kate_Corrigan).
 
 ### Enhanced Talents Agents

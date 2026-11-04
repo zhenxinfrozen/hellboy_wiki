@@ -15,7 +15,7 @@ In the out-of-continuity novel *[On Earth as it is in Hell](/entry/On_Earth_as_i
 
 LeviathanUnderWater.jpeg
 
-![](/content/images/LeviathanUnderWater.jpeg)
+![](/content/images/LeviathanUnderWater.webp)
 
 |
 ## Trivia

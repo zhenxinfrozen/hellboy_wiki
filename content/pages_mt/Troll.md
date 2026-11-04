@@ -1,4 +1,4 @@
-![](/content/images/Troll2.png)
+![](/content/images/Troll2.webp)
 
 **巨魔（Troll）**是同时出现在地狱男爵漫画和 [《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army) 中的神话生物。
 

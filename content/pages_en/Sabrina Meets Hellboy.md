@@ -8,15 +8,15 @@ Eight year old Sabrina Spellman is left under the care of her familiar, Salem. S
 
 Robert Hack has shared his pencils, inks and colors for the story to his DeviantArt page.
 
-![Pencils](/content/images/SabrinaPencils.jpg)
+![Pencils](/content/images/SabrinaPencils.webp)
 
 |Pencils
 
-![Inks](/content/images/SabrinaInks.jpg)
+![Inks](/content/images/SabrinaInks.webp)
 
 |Inks
 
-![Colors](/content/images/SabrinaArt.jpg)
+![Colors](/content/images/SabrinaArt.webp)
 
 |Colors
 

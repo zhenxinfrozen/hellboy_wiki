@@ -1,4 +1,4 @@
-![](/content/images/KingSolomon%20.jpeg)
+![](/content/images/KingSolomon%20.webp)
 
 **所罗门王（King Solomon）**是以色列联合王国的智慧之王。
 

@@ -1,4 +1,4 @@
-![Famine](/content/images/Famine1.png)
+![Famine](/content/images/Famine1.webp)
 
 **Famine** is one of the Four Horsemen of the Apocalypse that appeared during Hellboy's battle with Nimue at the battleground of Vigrid.
 

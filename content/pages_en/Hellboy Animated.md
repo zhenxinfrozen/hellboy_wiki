@@ -1,4 +1,4 @@
-![](/content/images/Hellboy_Animated_Movies.jpg) ***Hellboy Animated*** is a pair of original straight-to-DVD animated films and a series of tie-in comics. *[Sword of Storms](/entry/Hellboy_Animated%3A_Sword_of_Storms)* and *[Blood & Iron](/entry/Hellboy_Animated%3A_Blood_%26_Iron)*, were made with the approval of [Mike Mignola](/entry/Mike_Mignola) and [Guillermo del Toro](/entry/Guillermo_del_Toro). A third film was planned but has since been abandoned.
+![](/content/images/Hellboy_Animated_Movies.webp) ***Hellboy Animated*** is a pair of original straight-to-DVD animated films and a series of tie-in comics. *[Sword of Storms](/entry/Hellboy_Animated%3A_Sword_of_Storms)* and *[Blood & Iron](/entry/Hellboy_Animated%3A_Blood_%26_Iron)*, were made with the approval of [Mike Mignola](/entry/Mike_Mignola) and [Guillermo del Toro](/entry/Guillermo_del_Toro). A third film was planned but has since been abandoned.
 
 ## Cast
 

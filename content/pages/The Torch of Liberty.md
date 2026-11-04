@@ -1,4 +1,4 @@
-![The Torch of Liberty](/content/images/Torch.jpg)
+![The Torch of Liberty](/content/images/Torch.webp)
 
 The **Torch of Liberty** was a costumed hero who fought Nazi forces during World War II.
 

@@ -10,7 +10,7 @@ Twenty-four years ago, Hellboy took mild-mannered [Professor J.H. O’Donnell](/
 
 ## Gallery
 
-![](/content/images/TransformationODonnell01.jpg)
+![](/content/images/TransformationODonnell01.webp)
 
  \#1
 

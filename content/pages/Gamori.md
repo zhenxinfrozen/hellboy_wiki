@@ -1,4 +1,4 @@
-![Gamori](/content/images/Gamori.jpg)
+![Gamori](/content/images/Gamori.webp)
 
 **Gamori** is the provocative sister of [Hellboy](/entry/Hellboy). She plotted to murder her younger brother in 1948, claiming he would eventually be the ruin of both herself and her uncle, [Astaroth](/entry/Astaroth). However, after a thwarted attempt at young Hellboy's life, Astaroth forbade Gamori from ever touching or plotting against Hellboy, so long as Astaroth still lived.
 

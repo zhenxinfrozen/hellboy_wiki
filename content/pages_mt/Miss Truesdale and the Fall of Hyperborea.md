@@ -53,38 +53,38 @@
 作者：Wes Craig  
 与 Chris O'Halloran
 
-![](/content/images/MissTruesdale%20TestPages%201-2.jpg)
+![](/content/images/MissTruesdale%20TestPages%201-2.webp)
 
 |
 
-![](/content/images/MissTruesdale%20TestPages%203-4.jpg)
+![](/content/images/MissTruesdale%20TestPages%203-4.webp)
 
 |
 
-![](/content/images/MissTruesdale%20TestPages%205-6.jpg)
+![](/content/images/MissTruesdale%20TestPages%205-6.webp)
 
 |
 
-![](/content/images/MissTruesdale%20TestPages%207-8.jpg)
+![](/content/images/MissTruesdale%20TestPages%207-8.webp)
 
 |
 
-![Issue #2 variant cover<br/>by Christine Larsen](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202%20Larsen.jpg)
+![Issue #2 variant cover<br/>by Christine Larsen](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%202%20Larsen.webp)
 
 |Issue #2 variant cover<br/>by Christine Larsen
 
-![第 #3 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%203.jpg)
+![第 #3 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%203.webp)
 
 |第 #3 期
 
-![Issue #3 variant cover<br/>by Elsa Charretier](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%203%20Charretier.jpg)
+![Issue #3 variant cover<br/>by Elsa Charretier](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%203%20Charretier.webp)
 
 |Issue #3 variant cover<br/>by Elsa Charretier
 
-![第 #4 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%204.jpg)
+![第 #4 期](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%204.webp)
 
 |第 #4 期
 
-![Issue #4 variant cover<br/>by Wes Craig<br/>with Chris O'Halloran](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%204%20Craig.jpg)
+![Issue #4 variant cover<br/>by Wes Craig<br/>with Chris O'Halloran](/content/images/Miss%20Truesdale%20and%20the%20Fall%20of%20Hyperborea%204%20Craig.webp)
 
 |Issue #4 variant cover<br/>by Wes Craig<br/>with Chris O'Halloran

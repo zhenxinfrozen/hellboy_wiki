@@ -1,4 +1,4 @@
-![](/content/images/Beleth.jpeg)
+![](/content/images/Beleth.webp)
 
 **比雷特**（Beleth）是一名[恶魔](/entry/Demon)，属于一个邪恶三位一体（另外两位是[约姆亚尔](/entry/Yomyael)（Yomyael）和[西迪](/entry/Sytry)（Sytry））。
 

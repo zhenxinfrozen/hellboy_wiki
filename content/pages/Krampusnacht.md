@@ -1,4 +1,4 @@
-![Krampusnacht](/content/images/Krampusnacht_MikeMignola.jpg)
+![Krampusnacht](/content/images/Krampusnacht_MikeMignola.webp)
 
 ***Krampusnacht*** is a one-shot winter special. It won the [Eisner Award](https://www.comic-con.org/awards/eisner-awards-current-info) for Best Single Issue / One-Shot in 2018.
 

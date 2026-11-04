@@ -1,4 +1,4 @@
-![Pancakes](/content/images/DHP_Ann_99.jpg)
+![Pancakes](/content/images/DHP_Ann_99.webp)
 
 A young [Hellboy](/entry/Hellboy) eats pancakes.
 

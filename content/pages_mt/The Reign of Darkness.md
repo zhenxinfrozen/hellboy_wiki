@@ -26,22 +26,22 @@
 
 封面由 [Christopher Mitten](/entry/Christopher_Mitten)绘制。
 
-![第 #1 期](/content/images/The%20Reign%20of%20Darkness%201%20Mitten.jpg)
+![第 #1 期](/content/images/The%20Reign%20of%20Darkness%201%20Mitten.webp)
 
 |第 #1 期
 
-![第 #2 期](/content/images/The%20Reign%20of%20Darkness%202%20Mitten.jpg)
+![第 #2 期](/content/images/The%20Reign%20of%20Darkness%202%20Mitten.webp)
 
 |第 #2 期
 
-![第 #3 期](/content/images/The%20Reign%20of%20Darkness%203%20Mitten.jpg)
+![第 #3 期](/content/images/The%20Reign%20of%20Darkness%203%20Mitten.webp)
 
 |第 #3 期
 
-![第 #4 期](/content/images/The%20Reign%20of%20Darkness%204%20Mitten.jpg)
+![第 #4 期](/content/images/The%20Reign%20of%20Darkness%204%20Mitten.webp)
 
 |第 #4 期
 
-![第 #5 期](/content/images/The%20Reign%20of%20Darkness%205%20Mitten.jpg)
+![第 #5 期](/content/images/The%20Reign%20of%20Darkness%205%20Mitten.webp)
 
 |第 #5 期

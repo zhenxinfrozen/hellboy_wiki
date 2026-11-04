@@ -1,4 +1,4 @@
-![B.P.R.D. (teaser)](/content/images/BRPD_teaser.jpg)
+![B.P.R.D. (teaser)](/content/images/BRPD_teaser.webp)
 
 [凯特·考瑞根](/entry/Kate_Corrigan)正在审阅 B.P.R.D. 新招募成员[约翰·克劳斯](/entry/Johann_Kraus)的人事档案。
 

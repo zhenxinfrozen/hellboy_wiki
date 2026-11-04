@@ -1,4 +1,4 @@
-![](/content/images/Athane.png) The **Athame** is traditionally a black handled knife used in witchcraft.
+![](/content/images/Athane.webp) The **Athame** is traditionally a black handled knife used in witchcraft.
 
 ## Background
 

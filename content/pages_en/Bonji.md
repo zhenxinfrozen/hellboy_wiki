@@ -1,4 +1,4 @@
-![](/content/images/ThirdRace.jpg)
+![](/content/images/ThirdRace.webp)
 
 The **Bonji** are the new race of man, also known as **Ichthyo Sapiens** or as they call themselves the **First People**, that have become the dominant species on Earth, a thousand years after the fall of human civilization.
 

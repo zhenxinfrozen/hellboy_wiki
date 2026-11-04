@@ -1,4 +1,4 @@
-![](/content/images/Devil%20Revolver%20%282019%29.png).png)
+![](/content/images/Devil%20Revolver%20%282019%29.webp).png)
 
 [地狱男爵](/entry/Hellboy_(character))在 2019 年电影 *[《地狱男爵》](/entry/Hellboy_(2019_film))* 中挥舞着一把特制的**左轮手枪**。
 

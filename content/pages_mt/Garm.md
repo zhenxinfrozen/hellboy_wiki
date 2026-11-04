@@ -1,4 +1,4 @@
-![](/content/images/GarmByMattSmith.jpg)
+![](/content/images/GarmByMattSmith.webp)
 
 **加姆**（Garm），格尼帕海利尔之犬，是北欧神话中的一头怪物。
 

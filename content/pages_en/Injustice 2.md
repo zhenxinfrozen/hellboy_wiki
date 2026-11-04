@@ -19,15 +19,15 @@ While fighting, Hellboy uses his revolver as well as an assortment of specialist
 
 Hellboy from *Injustice 2 Mobile*
 
-![Hellboy from Injustice 2 Mobile](/content/images/Injustice2Hellboy.jpg)
+![Hellboy from Injustice 2 Mobile](/content/images/Injustice2Hellboy.webp)
 
 |Hellboy from Injustice 2 Mobile
 
-![Hellboy, as he appears on the fighter selection screen](/content/images/Hellboy%20%28Character%20Select%20Render%29.png)
+![Hellboy, as he appears on the fighter selection screen](/content/images/Hellboy%20%28Character%20Select%20Render%29.webp)
 
 |Hellboy, as he appears on the fighter selection screen
 
-![Hellboy](/content/images/DLC%20Hellboy.png)
+![Hellboy](/content/images/DLC%20Hellboy.webp)
 
 |Hellboy
 ## External Links

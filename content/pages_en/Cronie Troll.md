@@ -1,4 +1,4 @@
-![](/content/images/Troll%20Market%20Barber%20Render.jpg)
+![](/content/images/Troll%20Market%20Barber%20Render.webp)
 
 The **Cronie Troll** are a subspecies of [Troll](/entry/Troll).
 

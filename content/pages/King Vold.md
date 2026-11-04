@@ -1,4 +1,4 @@
-![King Vold](/content/images/The_Right_Hand_of_Doom_TPB.jpg)
+![King Vold](/content/images/The_Right_Hand_of_Doom_TPB.webp)
 
 Hellboy and Prof. Aickman meet King Vold, the flying huntsman in Norway.
 

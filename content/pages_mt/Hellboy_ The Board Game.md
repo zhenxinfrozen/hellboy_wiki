@@ -1,4 +1,4 @@
-![](/content/images/Hellboy%20-%20The%20Board%20Game%20%28packaging%20art%29.jpg).jpg)
+![](/content/images/Hellboy%20-%20The%20Board%20Game%20%28packaging%20art%29.webp).jpg)
 
 ***《地狱男爵：桌游》（Hellboy: The Board Game）***是 Mantic Games 于 2019 年推出的一款桌游，由 Needy Cat Games 的 James M. Hewitt 与 Sophie Williams 设计。该项目于 2018 年 1 月 5 日首次公布，同时发布新闻稿称将于当年 4 月在 Kickstarter 上发起众筹。按照与黑马漫画达成的协议，*[《地狱男爵》](/entry/Hellboy_(series))* 创作者[迈克·米格诺拉](/entry/Mike_Mignola)对游戏的所有方面拥有最终审定权。
 

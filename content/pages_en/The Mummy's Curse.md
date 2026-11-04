@@ -37,14 +37,14 @@ The Mummy's Curse* \#3
 *Panya:  
 The Mummy's Curse* \#4
 
-![Panya:<br />The Mummy's Curse #2](/content/images/The%20Mummy%27s%20Curse%202.jpg)
+![Panya:<br />The Mummy's Curse #2](/content/images/The%20Mummy%27s%20Curse%202.webp)
 
 |Panya:<br />The Mummy's Curse #2
 
-![Panya:<br />The Mummy's Curse #3](/content/images/The%20Mummy%27s%20Curse%203.jpg)
+![Panya:<br />The Mummy's Curse #3](/content/images/The%20Mummy%27s%20Curse%203.webp)
 
 |Panya:<br />The Mummy's Curse #3
 
-![Panya:<br />The Mummy's Curse #4](/content/images/The%20Mummy%27s%20Curse%204.jpg)
+![Panya:<br />The Mummy's Curse #4](/content/images/The%20Mummy%27s%20Curse%204.webp)
 
 |Panya:<br />The Mummy's Curse #4

@@ -1,4 +1,4 @@
-![当心你往嘴里放的东西。](/content/images/Magichorsecollar.jpg)魔马的衔铁与缰绳是一件诅咒之物，[地狱男爵](/entry/Hellboy_%28character%29)和 [汤姆·费雷尔](/entry/Tom_Ferrell)在[《地狱男爵：扭曲人》](/entry/The_Crooked_Man_%28comic_story%29)中遇到了它。[埃菲·科尔布](/entry/Effie_Kolb_%28character%29)曾把它戴在汤姆的父亲身上，真的把他当马骑，一直骑到死。
+![当心你往嘴里放的东西。](/content/images/Magichorsecollar.webp)魔马的衔铁与缰绳是一件诅咒之物，[地狱男爵](/entry/Hellboy_%28character%29)和 [汤姆·费雷尔](/entry/Tom_Ferrell)在[《地狱男爵：扭曲人》](/entry/The_Crooked_Man_%28comic_story%29)中遇到了它。[埃菲·科尔布](/entry/Effie_Kolb_%28character%29)曾把它戴在汤姆的父亲身上，真的把他当马骑，一直骑到死。
 
 不过汤姆留下了这副衔铁，等机会来临时，把它戴到了那个恶毒女人身上，作为对她罪行的惩罚。
 

@@ -1,4 +1,4 @@
-![](/content/images/Front%20Page%20-%20Young%20Hellboy.png)
+![](/content/images/Front%20Page%20-%20Young%20Hellboy.webp)
 
 ## Publication History
 

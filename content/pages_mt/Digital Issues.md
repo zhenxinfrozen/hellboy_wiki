@@ -60,7 +60,7 @@
 收录内容
 
 &#10;
-![](/content/images/Digital%20-%20Hellboy%20-%20Coffin%20Baba.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Coffin%20Baba.webp)
 《地狱男爵：
 锁链棺材／
 雅加婆婆》
@@ -69,7 +69,7 @@
 <li>锁链棺材</li>
 <li>雅加婆婆</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Pancakes%20Nature%20Vold%20Heads.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Pancakes%20Nature%20Vold%20Heads.webp)
 《地狱男爵：
 野兽本性
 及其他故事》
@@ -80,7 +80,7 @@
 <li>沃尔德国王</li>
 <li>人头</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Doom.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Doom.webp)
 《地狱男爵：
 毁灭之手
 及其他故事》
@@ -90,7 +90,7 @@
 <li>瓦尔科拉克（Vârcolac）</li>
 <li>毁灭之手</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Prague%20Carp.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Prague%20Carp.webp)
 《地狱男爵：
 布拉格吸血鬼／
 卡普博士的实验》
@@ -99,7 +99,7 @@
 <li>布拉格吸血鬼</li>
 <li>卡普博士的实验</li>
 
-![](/content/images/Digital%20-%20Hellboy%20-%20Troll%20Penanggalan%20Hydra.jpg)
+![](/content/images/Digital%20-%20Hellboy%20-%20Troll%20Penanggalan%20Hydra.webp)
 《地狱男爵：
 巨怪女巫
 及其他故事》
@@ -109,7 +109,7 @@
 <li>彭南古兰（Penanggalan）</li>
 <li>九头蛇与狮子</li>
 
-![](/content/images/Casualties.jpeg)
+![](/content/images/Casualties.webp)
 《超自然调查防御署：
 伤亡》
 2011 年 7 月（零售商独占版）
@@ -117,7 +117,7 @@
 
 <li>伤亡</li>
 
-![](/content/images/Revival%20War%20on%20Frogs%205.jpg)
+![](/content/images/Revival%20War%20on%20Frogs%205.webp)
 《超自然调查防御署：
 青蛙之战 #5》
 2011 年 10 月 5 日

@@ -1,6 +1,6 @@
 *This article is a stub. You can help Hellboy Wiki by expanding it.*
 
-![](/content/images/Front%20Page%20-%20Hellboy%20in%20Love.png)
+![](/content/images/Front%20Page%20-%20Hellboy%20in%20Love.webp)
 
 ***Hellboy in Love*** is a line of comic books about [Hellboy's](/entry/Hellboy_(character)) relationship with [Anastasia Bransfield](/entry/Anastasia_Bransfield) from 1979 to 1981. It is a spinoff of the *[Hellboy](/entry/Hellboy_(series))* series.
 

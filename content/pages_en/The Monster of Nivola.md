@@ -13,6 +13,6 @@ by Daniele Serra
 
 *Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri*
 
-![Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri](/content/images/Hellboy%20and%20the.jpg)
+![Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri](/content/images/Hellboy%20and%20the.webp)
 
 |Hellboy and the B.P.R.D.: The Monster of Nivola variant by Nicolas Nemiri

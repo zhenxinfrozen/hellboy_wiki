@@ -6,7 +6,7 @@
 
 ## 封面画作
 
-![](/content/images/The_Sword_of_Hyperborea_2_Li.jpg)
+![](/content/images/The_Sword_of_Hyperborea_2_Li.webp)
 
 |[《亥伯龙之剑》（The Sword of Hyperborea）](/entry/The_Sword_of_Hyperborea_%28story%29) #2（变体封面）
 

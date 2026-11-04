@@ -1,6 +1,6 @@
 *本条目是一篇小作品（stub）。你可以帮助扩充地狱男爵维基。*
 
-![](/content/images/Monster-Sized%20Hellboy.jpg)
+![](/content/images/Monster-Sized%20Hellboy.webp)
 
 《怪物版地狱男爵》（Monster-Sized Hellboy）是一本超大开本精装书，收录了四部带编号的[地狱男爵](/entry/Hellboy_(series))[作品全集（Omnibus）](/entry/Omnibus_Editions)的内容（《毁灭之芽》《奇异之地》《狂猎》和《地狱男爵在地狱》）。本书不包括补充资料（速写本部分），也不收录[《毁灭之芽》](/entry/Seed_of_Destruction)之前发生的任何地狱男爵故事，即不含[《短篇故事全集》](/entry/Omnibus_Editions)各卷的内容，以及两则无标题的"世界头号超自然调查员"宣传故事——它们分别出自[圣迭戈漫展](/entry/World's_Greatest_Paranormal_Investigator_(SDCC))和 [《漫画买家指南》](/entry/Trade_Collections)（通常与《毁灭之芽》合订收录）。本书于 2023 年 11 月 1 日发行。
 

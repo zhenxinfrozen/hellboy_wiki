@@ -50,7 +50,7 @@
 
 ## 电影改编
 
-> ![](/content/images/Hellboy-%20The%20Crooked%20Man%20logo.jpg)
+> ![](/content/images/Hellboy-%20The%20Crooked%20Man%20logo.webp)
 >
 > *主条目：[《地狱男爵：扭曲人》](/entry/Hellboy%3A_The_Crooked_Man_(film))*
 

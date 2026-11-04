@@ -1,4 +1,4 @@
-![](/content/images/Devil%20Revolver%20%282019%29.png).png)
+![](/content/images/Devil%20Revolver%20%282019%29.webp).png)
 
 A special **revolver** is wielded by [Hellboy](/entry/Hellboy_(character)) in the 2019 film *[Hellboy](/entry/Hellboy_(2019_film))*.
 

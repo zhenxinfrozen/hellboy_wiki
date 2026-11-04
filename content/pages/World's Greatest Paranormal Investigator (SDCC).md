@@ -1,4 +1,4 @@
-![World's Greatest Paranormal Investigator (SDCC)](/content/images/SDCCC2.jpg)
+![World's Greatest Paranormal Investigator (SDCC)](/content/images/SDCCC2.webp)
 
 ## Publication History
 

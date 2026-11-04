@@ -4,7 +4,7 @@ Though much of what is known of him is fiction, in no small part of his own fabr
 
 ## Blackbeard in Hellboy
 
-![](/content/images/Blackbeardalive.jpg)
+![](/content/images/Blackbeardalive.webp)
 
 Edward Teach was a feared pirate with some supernatural powers. He featured as the main villain of the story [They That Go Down to the Sea in Ships](/entry/They_That_Go_Down_to_the_Sea_in_Ships). A psychically gifted man comes across his skull in an antique store, murders the owner and seeks to make a profit by aiding and commanding the dread pirate.
 

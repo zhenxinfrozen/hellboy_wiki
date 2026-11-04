@@ -1,4 +1,4 @@
-![Beware the Ape](/content/images/Beware_the_Ape_-_Title_Frame.jpg)
+![Beware the Ape](/content/images/Beware_the_Ape_-_Title_Frame.webp)
 
 ***Beware the Ape*** is a short story that was featured in *Dark Horse Presents* \#36.
 

@@ -15,7 +15,7 @@ Olivier Vatine 作*
 独眼巨人之夜》  
 Mike Mignola 与 Dave Stewart 作*
 
-![Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart](/content/images/Night%20of%20the%20Cyclops%20Mignola.jpg)
+![Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart](/content/images/Night%20of%20the%20Cyclops%20Mignola.webp)
 
 |Hellboy and the B.P.R.D.:<br />Night of the Cyclops<br />by Mike Mignola and Dave Stewart
 ## 内容

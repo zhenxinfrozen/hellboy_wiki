@@ -1,4 +1,4 @@
-![](/content/images/Right_Hand_of_Doom.jpg)
+![](/content/images/Right_Hand_of_Doom.webp)
 A drawing of Hellboy's arm, as seen in '[The Right Hand of Doom](/entry/The_Right_Hand_of_Doom)'.
 
 The **Right Hand of Doom** is the stone hand given to [Hellboy](/entry/Hellboy_%28character%29) by his father, [Azzael](/entry/Azzael), shortly after being born.

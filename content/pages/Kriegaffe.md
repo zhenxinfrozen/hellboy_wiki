@@ -1,4 +1,4 @@
-![Kriegaffe](/content/images/174751-144649-kriegsaffe%20large.jpg)
+![Kriegaffe](/content/images/174751-144649-kriegsaffe%20large.webp)
 
 The **Kriegaffe** ("Kriegaffen" meaning 'war apes' in German) were a series of mentally and physically enhanced apes created by Nazi scientist [Herman von Klempt](/entry/Herman%20von%20Klempt). Most Kriegaffen can be seen with cybernetic arms and metallic appendages on their heads.
 

@@ -1,4 +1,4 @@
-![](/content/images/Screen_shot_2011-04-21_at_5.40.08_PM.png)
+![](/content/images/Screen_shot_2011-04-21_at_5.40.08_PM.webp)
 King Balor's Butcher Guards preparing to battle Prince Nuada
 
 The **Butcher Guards** are the personal guards of [King Balor](/entry/King_Balor) and were dispatched in a matter of minutes by his son Prince [Nuada](/entry/Nuada). They are seen in the movie *[Hellboy 2: The Golden Army](/entry/Hellboy_2%3A_The_Golden_Army)* briefly in which Prince Nuada kills all of them with ease. They are lightly armored, however they carry formidable weapons, which includes a large butcher-knife looking sword (hence the name butcher guards) and carry a smaller sword on their backs. It is not clear if they were selected as guards by Balor or whether it was tradition to have Butcher Guards.

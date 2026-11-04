@@ -1,4 +1,4 @@
-![Metal Monsters of Midtown](/content/images/Metal_Monsters_of_Midtown_1.jpg)
+![Metal Monsters of Midtown](/content/images/Metal_Monsters_of_Midtown_1.webp)
 
 The story takes place in the middle of [the Lobster's](/entry/The%20Lobster) career as a crime fighter in the 1930s.
 

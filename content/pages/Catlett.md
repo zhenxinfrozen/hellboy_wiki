@@ -1,4 +1,4 @@
-![Catlett](/content/images/Bprd%20catlett%20%28By%20Peter%20Snejbjerg%29.jpg)
+![Catlett](/content/images/Bprd%20catlett%20%28By%20Peter%20Snejbjerg%29.webp)
 
 **Catlett** (first name unknown) is a [B.P.R.D.](/entry/B.P.R.D.) agent and minor character in the BPRD series, appearing in *[War on Frogs](/entry/War%20on%20Frogs)*.
 

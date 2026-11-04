@@ -1,4 +1,4 @@
-![](/content/images/Crown.jpg)
+![](/content/images/Crown.webp)
 头戴王冠的[弩阿达](/entry/Nuada)王子
 
 **贝斯莫拉王冠（Crown of Bethmora）**是 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中登场的一件圣物。

@@ -43,30 +43,30 @@
 第 \#4 期变体封面  
 作者：Lissa Treiman
 
-![Issue #1 variant cover<br>by Tonci Zonjic](/content/images/Assault%20on%20Castle%20Death%201%20Zonjic.jpg)
+![Issue #1 variant cover<br>by Tonci Zonjic](/content/images/Assault%20on%20Castle%20Death%201%20Zonjic.webp)
 
 |Issue #1 variant cover<br>by Tonci Zonjic
 
-![第 #2 期](/content/images/Assault%20on%20Castle%20Death%202.jpg)
+![第 #2 期](/content/images/Assault%20on%20Castle%20Death%202.webp)
 
 |第 #2 期
 
-![Issue #2 variant cover<br>by Michael Avon Oeming](/content/images/Assault%20on%20Castle%20Death%202%20Oeming.jpg)
+![Issue #2 variant cover<br>by Michael Avon Oeming](/content/images/Assault%20on%20Castle%20Death%202%20Oeming.webp)
 
 |Issue #2 variant cover<br>by Michael Avon Oeming
 
-![第 #3 期](/content/images/Assault%20on%20Castle%20Death%203.jpg)
+![第 #3 期](/content/images/Assault%20on%20Castle%20Death%203.webp)
 
 |第 #3 期
 
-![Issue #3 variant cover<br>by Craig Rousseau](/content/images/Assault%20on%20Castle%20Death%203%20Rousseau.jpg)
+![Issue #3 variant cover<br>by Craig Rousseau](/content/images/Assault%20on%20Castle%20Death%203%20Rousseau.webp)
 
 |Issue #3 variant cover<br>by Craig Rousseau
 
-![第 #4 期](/content/images/Assault%20on%20Castle%20Death%204.jpg)
+![第 #4 期](/content/images/Assault%20on%20Castle%20Death%204.webp)
 
 |第 #4 期
 
-![Issue #4 variant cover<br>by Lissa Treiman](/content/images/Assault%20on%20Castle%20Death%204%20Treiman.jpg)
+![Issue #4 variant cover<br>by Lissa Treiman](/content/images/Assault%20on%20Castle%20Death%204%20Treiman.webp)
 
 |Issue #4 variant cover<br>by Lissa Treiman

@@ -1,4 +1,4 @@
-![Katha-Hem](/content/images/Katha-Hem%20002.png)
+![Katha-Hem](/content/images/Katha-Hem%20002.webp)
 
 The **Katha-Hem** was one of the 369 Ogdru Hem, the children of the [Ogdru Jahad](/entry/Ogdru%20Jahad).
 

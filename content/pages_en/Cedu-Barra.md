@@ -1,4 +1,4 @@
-![](/content/images/Cedu-Barra.jpg)
+![](/content/images/Cedu-Barra.webp)
 
 Cedu-Barra was a [Hyperborean](/entry/Hyperboreans) wizard and priest of the Secret Fire.
 

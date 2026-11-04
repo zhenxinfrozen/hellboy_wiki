@@ -27,22 +27,22 @@
 
 ## 画廊
 
-![Frankenstein: New World #1](/content/images/Frankenstein%20New%20World%201%20Bergting.jpg)
+![Frankenstein: New World #1](/content/images/Frankenstein%20New%20World%201%20Bergting.webp)
 
 |Frankenstein: New World #1
 
-![Frankenstein: New World #2](/content/images/Frankenstein%20New%20World%202%20Bergting.jpg)
+![Frankenstein: New World #2](/content/images/Frankenstein%20New%20World%202%20Bergting.webp)
 
 |Frankenstein: New World #2
 
-![Frankenstein: New World #3](/content/images/Frankenstein%20New%20World%203%20Bergting.jpg)
+![Frankenstein: New World #3](/content/images/Frankenstein%20New%20World%203%20Bergting.webp)
 
 |Frankenstein: New World #3
 
-![Frankenstein: New World #4](/content/images/Frankenstein%20New%20World%204%20Bergting.jpg)
+![Frankenstein: New World #4](/content/images/Frankenstein%20New%20World%204%20Bergting.webp)
 
 |Frankenstein: New World #4
 
-![Frankenstein: New World](/content/images/Frankenstein%20New%20World%20Trade.jpg)
+![Frankenstein: New World](/content/images/Frankenstein%20New%20World%20Trade.webp)
 
 |Frankenstein: New World

@@ -35,7 +35,7 @@
 
 PlutoCloseupByMikeMignola.jpg
 
-![](/content/images/PlutoCloseupByMikeMignola.jpg)
+![](/content/images/PlutoCloseupByMikeMignola.webp)
 
 |
 ## 参考资料

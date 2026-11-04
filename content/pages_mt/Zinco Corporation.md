@@ -1,4 +1,4 @@
-![](/content/images/Zinco_Corporation.png)**金科公司（Zinco Corporation）**是一个庞大的全球性组织，在世界各地都拥有资源、设备、资金和政治人脉。
+![](/content/images/Zinco_Corporation.webp)**金科公司（Zinco Corporation）**是一个庞大的全球性组织，在世界各地都拥有资源、设备、资金和政治人脉。
 
 ## 历史
 

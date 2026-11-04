@@ -1,4 +1,4 @@
-![](/content/images/Servants%20of%20the%20Left%20Hand.jpg)
+![](/content/images/Servants%20of%20the%20Left%20Hand.webp)
 
 The **Servants of the Left Hand** are a race of humanoid creatures who live underneath the Earth.
 

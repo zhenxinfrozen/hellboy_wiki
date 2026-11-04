@@ -1,4 +1,4 @@
-![](/content/images/MV5BZGEyODRlNzItNTE2Ny00MzM5LWIyMzMtZWNlMTAzZmExMDNjXkEyXkFqcGdeQXVyMTkyMTc5MzA%40.%20V1%20.jpg)
+![](/content/images/MV5BZGEyODRlNzItNTE2Ny00MzM5LWIyMzMtZWNlMTAzZmExMDNjXkEyXkFqcGdeQXVyMTkyMTc5MzA%40.%20V1%20.webp)
 
 Bruce Barker 出生于美国本土，在阿拉斯加州的乡村长大。2001 年，在广播电台从事了很长时间的 DJ 与商业广告制作生涯之后，Bruce 将全部精力转向配音工作，并在洛杉矶创办了音视频制作公司 RightAfterThis.com。
 

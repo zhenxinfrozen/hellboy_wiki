@@ -1,4 +1,4 @@
-![Iosif Nichayko](/content/images/Iosif.jpg)
+![Iosif Nichayko](/content/images/Iosif.webp)
 
 **Iosif Nichayko** is the current Director of Russia's [Special Sciences Service](/entry/Special%20Sciences%20Service).
 

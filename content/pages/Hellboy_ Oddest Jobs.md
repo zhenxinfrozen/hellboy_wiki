@@ -1,4 +1,4 @@
-![Hellboy: Oddest Jobs](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.jpg)
+![Hellboy: Oddest Jobs](/content/images/Hellboy_-_Oddest_Jobs_%28Novel_Cover%29.webp)
 
 ***Hellboy: Oddest Jobs*** is the third anthology collecting non-chronological short stories written for the [*Hellboy* novel series](/entry/Hellboy%20Universe%20novels), based on the comic book series by [Mike Mignola](/entry/Mike%20Mignola), who provided cover illustrations for each story.
 

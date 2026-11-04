@@ -1,4 +1,4 @@
-![Tomferrel.jpg](/content/images/Tomferrel.jpg)
+![Tomferrel.jpg](/content/images/Tomferrel.webp)
 
 **Tom Ferrell** was born around 1923 in the Appalachian mountains near The Hurricane to a mother we know little of and a father who had a habit of drinking in the back woods. His early misadventures with witchcraft led to a self-imposed exodus. His return 20 years later proved to be a blessing as he and [Hellboy](/entry/Hellboy) lifted at least the curse of [Jeremiah Witkins](/entry/Jeremiah%20Witkins) and his witches from the area.
 

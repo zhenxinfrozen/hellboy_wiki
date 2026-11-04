@@ -4,7 +4,7 @@
 
 [Lost Lives](/entry/Lost_Lives)
 
-![Lost Lives](/content/images/Abe%20Sapien%2015.jpg)
+![Lost Lives](/content/images/Abe%20Sapien%2015.webp)
 
 |Lost Lives
 ## Colorist Work

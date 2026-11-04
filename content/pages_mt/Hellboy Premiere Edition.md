@@ -2,14 +2,14 @@
 
 ## 图集
 
-![](/content/images/Premiere_Edition_1.jpg)
+![](/content/images/Premiere_Edition_1.webp)
 
  米格诺拉封面
 
-![](/content/images/Premiere_Edition_2.jpg)
+![](/content/images/Premiere_Edition_2.webp)
 
  戴维斯封面
 
-![](/content/images/Premiere_Edition_3.jpg)
+![](/content/images/Premiere_Edition_3.webp)
 
  Angeles Wizard World 独家封面

@@ -82,7 +82,7 @@
 
   
 
-![](/content/images/Hellboy-Mignola.jpg)
+![](/content/images/Hellboy-Mignola.webp)
 
 尽管第一部电影是对《毁灭之芽》的松散改编，改编时做出的改动既保持了故事的精神，又让它作为电影叙事更具吸引力。这些差异不断累积，在续集中（它很大程度上是一个情节与人物都自成一体的原创故事）变得更加显著，以至于地狱男爵的若干显著元素与[他在原版漫画中的描绘](/entry/Hellboy_(character))截然不同。最值得注意的差异包括：
 
@@ -121,7 +121,7 @@
 
 ## 幕后花絮
 
-![](/content/images/RonPerlman.jpg)
+![](/content/images/RonPerlman.webp)
 
 地狱男爵由[朗·普尔曼](/entry/Ron_Perlman)饰演。
 

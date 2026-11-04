@@ -37,7 +37,7 @@
 
 ## 画廊
 
-![](/content/images/Conqueror_Worm_4.jpg)
+![](/content/images/Conqueror_Worm_4.webp)
 
 ## 趣闻
 
