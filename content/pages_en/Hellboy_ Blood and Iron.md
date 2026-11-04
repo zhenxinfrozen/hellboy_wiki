@@ -1,6 +1,6 @@
-***Hellboy: Blood and Iron*** is the second in the *[Hellboy](/entry/Hellboy_%28series%29)* [animated series](/entry/Hellboy_Animated) (the first being *[Hellboy: Sword of Storms](/entry/Hellboy%3A_Sword_of_Storms)*), written by Tad Stones and [Mike Mignola](/entry/Mike_Mignola). The movie features [Hellboy](/entry/Hellboy), [Liz Sherman](/entry/Liz_Sherman), [Abe Sapien](/entry/Abe_Sapien), and introduces [Sidney Leach](/entry/Sidney_Leach) (here called Sydney Leach). The film's storyline is based in part upon the *Hellboy: [Wake the Devil](/entry/Wake_the_Devil)* storyline from the original comics.
+***Hellboy: Blood and Iron*** is the second in the *[Hellboy](/entry/Hellboy_%28series%29)* [animated series](/entry/Hellboy_Animated) (the first being *[Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)*), written by Tad Stones and [Mike Mignola](/entry/Mike_Mignola). The movie features [Hellboy](/entry/Hellboy), [Liz Sherman](/entry/Liz_Sherman), [Abe Sapien](/entry/Abe_Sapien), and introduces [Sidney Leach](/entry/Sidney_Leach) (here called Sydney Leach). The film's storyline is based in part upon the *Hellboy: [Wake the Devil](/entry/Wake_the_Devil)* storyline from the original comics.
 
-It first aired on March 17, 2007 on Cartoon Network, and aired again on July 19, 2008 to promote the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, and was scheduled on DVD by Anchor Bay Entertainment in March 10, 2007.
+It first aired on March 17, 2007 on Cartoon Network, and aired again on July 19, 2008 to promote the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, and was scheduled on DVD by Anchor Bay Entertainment in March 10, 2007.
 
 ## Plot
 
@@ -40,6 +40,6 @@ The DVD contains a number of special features including;
   - A drawing of the [Project Ragna Rok](/entry/Project_Ragna_Rok) symbol
   - A picture of [Rasputin](/entry/Rasputin), [Kroenen](/entry/Kroenen), [Ilsa Haupstein](/entry/Ilsa_Haupstein), and [Leopold Kurtz](/entry/Leopold_Kurtz) from *[Seed of Destruction](/entry/Seed_of_Destruction)*
   - A book with an image of a hand holding a flaming cup, a symbol from the room where [Roger](/entry/Roger) was found in *[Wake the Devil](/entry/Wake_the_Devil)* \#3, and the cover of *[Almost Colossus](/entry/Almost_Colossus)* \#1
-  - and a stature of a bat from the beginning of [Hellboy: Sword of Storms](/entry/Hellboy%3A_Sword_of_Storms)
+  - and a stature of a bat from the beginning of [Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)
   - The Lemurian parchment from *"[The Right Hand of Doom](/entry/The_Right_Hand_of_Doom)".* Malcolm Frost's dialogue in this scene includes the religious quote referenced by his son Adrian from the same comic.
 - The dialogue between Hellboy and Hecate is nearly word-for-word from "Wake the Devil", the comic arc the movie draws its inspiration from.

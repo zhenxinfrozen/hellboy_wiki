@@ -1,4 +1,4 @@
-《**爱比死亡更可怕**》（Love is Scarier than Death），又名《**爱比怪物更可怕**》（Love is Scarier than Monsters），是一个非正史故事，发表于《[地狱男爵：奇闻异事 #5](/entry/Hellboy%3A_Weird_Tales)》，由 [J.H. Williams III](/entry/J.H._Williams_III) 与 [Haden Blackman](/entry/Haden_Blackman) 编剧，Williams 同时负责作画。
+《**爱比死亡更可怕**》（Love is Scarier than Death），又名《**爱比怪物更可怕**》（Love is Scarier than Monsters），是一个非正史故事，发表于《[地狱男爵：奇闻异事 #5](/entry/Hellboy__Weird_Tales)》，由 [J.H. Williams III](/entry/J.H._Williams_III) 与 [Haden Blackman](/entry/Haden_Blackman) 编剧，Williams 同时负责作画。
 
 ## 剧情简介
 
@@ -6,4 +6,4 @@
 
 ## 《爱比怪物更可怕》
 
-该故事最初刊载于《[地狱男爵：奇闻异事 #5](/entry/Hellboy%3A_Weird_Tales)》时，目录错误地将其列为《"爱比怪物更可怕"》。《地狱男爵：奇闻异事 #5》的内页以及收录该故事的后续《奇闻异事》合集——[《地狱男爵：奇闻异事》第 2 卷](/entry/Hellboy%3A_Weird_Tales)和[《地狱男爵：奇闻异事》全集](/entry/Hellboy%3A_Weird_Tales)——均正确地将该故事标为《"爱比死亡更可怕"》。
+该故事最初刊载于《[地狱男爵：奇闻异事 #5](/entry/Hellboy__Weird_Tales)》时，目录错误地将其列为《"爱比怪物更可怕"》。《地狱男爵：奇闻异事 #5》的内页以及收录该故事的后续《奇闻异事》合集——[《地狱男爵：奇闻异事》第 2 卷](/entry/Hellboy__Weird_Tales)和[《地狱男爵：奇闻异事》全集](/entry/Hellboy__Weird_Tales)——均正确地将该故事标为《"爱比死亡更可怕"》。

@@ -12,11 +12,11 @@ Kriegaffe \#2 along with another Kriegaffe appears in *[B.P.R.D.: 1946](/entry/1
 
 ### Unit 1
 
-Unit 1 appeared in the PSP version of the game *[Hellboy: The Science of Evil](/entry/Hellboy%3A_The_Science_of_Evil)*. When Hellboy had a mission in Japan in 1979, he met Unit 1 together with von Klempt. Later, Unit 1 and Hellboy got into a fight, but Hellboy was able to defeat Unit 1 and von Klempt. When Hellboy got into von Klempt's castle somewhere in Eastern Europe, he met the upgraded version of Unit 1 called Unit 1 advanced. This one had a minigun as his right arm, which is why Hellboy had trouble fighting him. Later Unit 1 was probably killed by the Demon Ape.
+Unit 1 appeared in the PSP version of the game *[Hellboy: The Science of Evil](/entry/Hellboy__The_Science_of_Evil)*. When Hellboy had a mission in Japan in 1979, he met Unit 1 together with von Klempt. Later, Unit 1 and Hellboy got into a fight, but Hellboy was able to defeat Unit 1 and von Klempt. When Hellboy got into von Klempt's castle somewhere in Eastern Europe, he met the upgraded version of Unit 1 called Unit 1 advanced. This one had a minigun as his right arm, which is why Hellboy had trouble fighting him. Later Unit 1 was probably killed by the Demon Ape.
 
 ### Kriegaffe \#4
 
-Number 4 appeared in the console version of the game *[Hellboy: the science of evil](/entry/Hellboy%3A_The_Science_of_Evil)*. While Hellboy was tracking von Klempt in a forest in Japan, he briefly encountered Number 4 who overpowered Hellboy. Later, when Hellboy finally found von Klempt in a temple, Number 4 appeared again and fought Hellboy. After their fight destroyed the whole temple, Von Klempt was accidentally hit by his Kriegaffe and fell off the cliff. Number 4 was killed by the debris of the collapsing temple.
+Number 4 appeared in the console version of the game *[Hellboy: the science of evil](/entry/Hellboy__The_Science_of_Evil)*. While Hellboy was tracking von Klempt in a forest in Japan, he briefly encountered Number 4 who overpowered Hellboy. Later, when Hellboy finally found von Klempt in a temple, Number 4 appeared again and fought Hellboy. After their fight destroyed the whole temple, Von Klempt was accidentally hit by his Kriegaffe and fell off the cliff. Number 4 was killed by the debris of the collapsing temple.
 
 ### Kriegaffe \#9 (Brutus)
 

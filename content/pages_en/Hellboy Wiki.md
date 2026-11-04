@@ -4,7 +4,7 @@
 
 ![](/content/images/Hellboy%202.jpg)
 
-**The Hellboy Wiki** is a collaborative database for everything related to [Mike Mignola](/entry/Mike_Mignola)'s ***[Hellboy](/entry/Hellboy_(series))*** series and [its related titles](/entry/The_Hellboy_Universe_Comics), and its appearances in all other media such as films, novels, and [games](/entry/Hellboy%3A_The_Board_Game). Anyone can create and edit any page on the site, so we can all work together to create a comprehensive database. Be sure to check out the **[Help pages](https://community.fandom.com/wiki/Help:Contents)** to get started!
+**The Hellboy Wiki** is a collaborative database for everything related to [Mike Mignola](/entry/Mike_Mignola)'s ***[Hellboy](/entry/Hellboy_(series))*** series and [its related titles](/entry/The_Hellboy_Universe_Comics), and its appearances in all other media such as films, novels, and [games](/entry/Hellboy__The_Board_Game). Anyone can create and edit any page on the site, so we can all work together to create a comprehensive database. Be sure to check out the **[Help pages](https://community.fandom.com/wiki/Help:Contents)** to get started!
 
 Over **200** stories have individual articles! This includes **every** comic featuring [Hellboy](/entry/Hellboy_(character)) as the title character. See the list **here**. For all the latest news, including the latest solicitations and links to previews for new books, head over to **The Official Hellboy Forum** on Comic Book Resources.
 

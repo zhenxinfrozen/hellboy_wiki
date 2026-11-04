@@ -4,7 +4,7 @@
 
 - [*Hellboy Winter Special* (2017)](/entry/Hellboy_Winter_Special_%282017%29)
   - *[God Rest Ye Merry](/entry/God_Rest_Ye_Merry)*
-- *[The Visitor: How & Why He Stayed](/entry/The_Visitor%3A_How_%26_Why_He_Stayed)*
+- *[The Visitor: How & Why He Stayed](/entry/The_Visitor__How_%26_Why_He_Stayed)*
 - *[Down Mexico Way](/entry/Down_Mexico_Way)*
 
 ## Cover Art

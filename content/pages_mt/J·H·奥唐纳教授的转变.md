@@ -2,7 +2,7 @@
 
 ## 出版历史
 
-《The Transformation of J.H. O'Donnell》属于[《人间地狱》故事环](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)，但它是一则支线故事，主要聚焦于闪回事件。故事封面由 [Max Fiumara](/entry/Max_Fiumara) 绘制，另有一版「[怪兽之年](/entry/Year_of_Monsters)」变体封面，由 [Mike Mignola](/entry/Mike_Mignola) 创作。
+《The Transformation of J.H. O'Donnell》属于[《人间地狱》故事环](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)，但它是一则支线故事，主要聚焦于闪回事件。故事封面由 [Max Fiumara](/entry/Max_Fiumara) 绘制，另有一版「[怪兽之年](/entry/Year_of_Monsters)」变体封面，由 [Mike Mignola](/entry/Mike_Mignola) 创作。
 
 ## 剧情简介
 

@@ -17,5 +17,5 @@ In the 21st Century the same goblin agreed to take [Hellboy](/entry/Hellboy_(cha
 
 ## Appearance
 
-- [*Hellboy II: The Golden Army*](/entry/Hellboy_II%3A_The_Golden_Army)
+- [*Hellboy II: The Golden Army*](/entry/Hellboy_II__The_Golden_Army)
 - [*The Iron Shoes*](/entry/The_Iron_Shoes)

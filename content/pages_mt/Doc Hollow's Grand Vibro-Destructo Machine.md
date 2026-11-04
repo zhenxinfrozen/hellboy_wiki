@@ -1,4 +1,4 @@
-《**霍洛博士的巨型震动毁灭机**》（Doc Hollow's Grand Vibro-Destructo Machine），又名《**龙虾·约翰逊：动作侦探冒险**》（Lobster Johnson: Action Detective Adventure），是一个非正史故事，发表于 *[地狱男爵：奇谈 #1-8](/entry/Hellboy%3A_Weird_Tales)*，故事与画作均由 [John Cassaday](/entry/John_Cassaday) 创作。该故事被连载为八个每期两页的"章节"。《地狱男爵：奇谈》的每一期都刊载了一个章节。
+《**霍洛博士的巨型震动毁灭机**》（Doc Hollow's Grand Vibro-Destructo Machine），又名《**龙虾·约翰逊：动作侦探冒险**》（Lobster Johnson: Action Detective Adventure），是一个非正史故事，发表于 *[地狱男爵：奇谈 #1-8](/entry/Hellboy__Weird_Tales)*，故事与画作均由 [John Cassaday](/entry/John_Cassaday) 创作。该故事被连载为八个每期两页的"章节"。《地狱男爵：奇谈》的每一期都刊载了一个章节。
 
 ## 剧情简介
 
@@ -36,4 +36,4 @@
 
 ## 更名
 
-最初在 *[地狱男爵：奇谈](/entry/Hellboy%3A_Weird_Tales)* 各期中发表时，这些章节题为 *"Doc Hollow's Grand Vibro-Destructo Machine"*（霍洛博士的巨型震动毁灭机）。当这八个章节被收录进[《地狱男爵：奇谈》合集](/entry/Hellboy%3A_Weird_Tales)时，它们被改题为 *"Lobster Johnson: Action Detective Adventure"*（龙虾·约翰逊：动作侦探冒险）。
+最初在 *[地狱男爵：奇谈](/entry/Hellboy__Weird_Tales)* 各期中发表时，这些章节题为 *"Doc Hollow's Grand Vibro-Destructo Machine"*（霍洛博士的巨型震动毁灭机）。当这八个章节被收录进[《地狱男爵：奇谈》合集](/entry/Hellboy__Weird_Tales)时，它们被改题为 *"Lobster Johnson: Action Detective Adventure"*（龙虾·约翰逊：动作侦探冒险）。

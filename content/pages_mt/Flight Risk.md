@@ -1,4 +1,4 @@
-《**飞行风险**》（Flight Risk）是一个非正史故事，发表于 *[地狱男爵：奇谈 #2](/entry/Hellboy%3A_Weird_Tales)*，由 [Joe Casey](/entry/Joe_Casey) 编剧，[Steve Parkhouse](/entry/Steve_Parkhouse) 绘画。
+《**飞行风险**》（Flight Risk）是一个非正史故事，发表于 *[地狱男爵：奇谈 #2](/entry/Hellboy__Weird_Tales)*，由 [Joe Casey](/entry/Joe_Casey) 编剧，[Steve Parkhouse](/entry/Steve_Parkhouse) 绘画。
 
 ## 剧情简介
 

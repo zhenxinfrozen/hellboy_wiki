@@ -1,4 +1,4 @@
-**伊诺斯（Enos）**是*[《B.P.R.D.：人间地狱》](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)*故事周期中的常驻角色。他首次登场于*[《荒原》](/entry/Wasteland)*篇章，身份是 B.P.R.D. 探员，隶属于救回[泰德·霍华德兹探员](/entry/Ted_Howards)的那支小队。漫画中从未出现他的名字，但它作为彩蛋出现在[2019 年《地狱男爵》电影](/entry/Hellboy_(2019_film))中。
+**伊诺斯（Enos）**是*[《B.P.R.D.：人间地狱》](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)*故事周期中的常驻角色。他首次登场于*[《荒原》](/entry/Wasteland)*篇章，身份是 B.P.R.D. 探员，隶属于救回[泰德·霍华德兹探员](/entry/Ted_Howards)的那支小队。漫画中从未出现他的名字，但它作为彩蛋出现在[2019 年《地狱男爵》电影](/entry/Hellboy_(2019_film))中。
 
 ## 历史
 

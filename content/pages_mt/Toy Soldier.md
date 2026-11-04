@@ -1,4 +1,4 @@
-***《玩具士兵》*** 是一篇刊载于 *[《地狱男爵：怪谈 #8》](/entry/Hellboy%3A_Weird_Tales)* 的非正史故事，由 Akira Yoshida 与 [Kia Asamiya](/entry/Kia_Asamiya) 编剧，Asamiya 同时负责作画。
+***《玩具士兵》*** 是一篇刊载于 *[《地狱男爵：怪谈 #8》](/entry/Hellboy__Weird_Tales)* 的非正史故事，由 Akira Yoshida 与 [Kia Asamiya](/entry/Kia_Asamiya) 编剧，Asamiya 同时负责作画。
 
 ## 剧情简介
 

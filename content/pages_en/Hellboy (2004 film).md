@@ -2,7 +2,7 @@
 
 In the film, the half-demon [Hellboy](/entry/Hellboy_%282004%E2%80%932008_film_character%29) – summoned to Earth by Nazis during WWII and rescued by Allied forces – secretly protects the modern-day world from supernatural threats from within a [top-secret government organization](/entry/Bureau_for_Paranormal_Research_and_Defense).
 
-A sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, also directed by del Toro and starring Perlman, was released in 2008. A franchise [reboot](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9A%87%E5%90%8E%E5%B4%9B%E8%B5%B7)) was released in 2019[1], and a [second reboot](/entry/Hellboy%3A_The_Crooked_Man_%28film%29) was released in 2024[2].
+A sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, also directed by del Toro and starring Perlman, was released in 2008. A franchise [reboot](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9A%87%E5%90%8E%E5%B4%9B%E8%B5%B7)) was released in 2019[1], and a [second reboot](/entry/Hellboy__The_Crooked_Man_%28film%29) was released in 2024[2].
 
 ## Plot
 

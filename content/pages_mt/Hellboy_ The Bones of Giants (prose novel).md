@@ -6,4 +6,4 @@
 
 ## 故事时间线
 
-故事发生在地狱男爵在《沃尔德王》中初次遭遇 [埃德蒙·艾克曼（Edmond Aickman）](/entry/Edmond_Aickman) 的数十年之后。小说中提及了 [特雷佛·布鲁姆](/entry/Trevor_Bruttenholm)之死，这意味着故事发生在 1994 年 5 月之后。*[《地狱男爵：官方指南》（Hellboy: The Companion）](/entry/Hellboy%3A_The_Companion)* 将其定在 1999 年 8 月。但在[漫画改编版](/entry/The_Bones_of_Giants_(comic_miniseries))中这一设定被更改，故事在时间线上被提前到了 1988 年 2 月。
+故事发生在地狱男爵在《沃尔德王》中初次遭遇 [埃德蒙·艾克曼（Edmond Aickman）](/entry/Edmond_Aickman) 的数十年之后。小说中提及了 [特雷佛·布鲁姆](/entry/Trevor_Bruttenholm)之死，这意味着故事发生在 1994 年 5 月之后。*[《地狱男爵：官方指南》（Hellboy: The Companion）](/entry/Hellboy__The_Companion)* 将其定在 1999 年 8 月。但在[漫画改编版](/entry/The_Bones_of_Giants_(comic_miniseries))中这一设定被更改，故事在时间线上被提前到了 1988 年 2 月。

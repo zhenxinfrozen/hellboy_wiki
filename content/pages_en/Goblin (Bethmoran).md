@@ -1,4 +1,4 @@
-This **Goblin** **Smith Master** was the original creator of [the Golden Army](/entry/the_Golden_Army) in *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+This **Goblin** **Smith Master** was the original creator of [the Golden Army](/entry/the_Golden_Army) in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 During the war between the humans and magical creatures, the Goblin suggested creating an invincible army to [King Balor](/entry/King_Balor). The King agreed to this plan, and the Goblin started work on the 4,900 soldiers. Though he lost his legs in the process, the Army was completed and sent to battle. The Army was too effective, though, and King Balor was shocked by the carnage caused. In the end, the Golden Army was shut down and sealed inside [Bethmora](/entry/Bethmora). Bethmora was eventually abandoned, all except for the Golden Army's creator, who began to regret creating them.
 

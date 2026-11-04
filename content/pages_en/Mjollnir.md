@@ -9,4 +9,4 @@
 
 ## Appearance
 
-- *[Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants)*
+- *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)*

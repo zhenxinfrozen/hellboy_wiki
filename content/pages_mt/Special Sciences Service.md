@@ -1,4 +1,4 @@
-![](/content/images/SSS_Logo.png) **特殊科学局（Special Sciences Service，S.S.S.）**是一个俄罗斯组织，其职责是保护苏联（后来是俄罗斯联邦）免受神秘学、超自然与灵异威胁。S.S.S. 首次登场于*[《B.P.R.D.：1946》](/entry/1946)*，此后成为[《人间地狱》故事线](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)的重要组成部分。
+![](/content/images/SSS_Logo.png) **特殊科学局（Special Sciences Service，S.S.S.）**是一个俄罗斯组织，其职责是保护苏联（后来是俄罗斯联邦）免受神秘学、超自然与灵异威胁。S.S.S. 首次登场于*[《B.P.R.D.：1946》](/entry/1946)*，此后成为[《人间地狱》故事线](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)的重要组成部分。
 
 ## 历史
 

@@ -1,4 +1,4 @@
-12-page full-color promotional tie-in comic serves as a narrative bridge between the Hellboy comic universe and the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+12-page full-color promotional tie-in comic serves as a narrative bridge between the Hellboy comic universe and the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 ## Synopsis
 

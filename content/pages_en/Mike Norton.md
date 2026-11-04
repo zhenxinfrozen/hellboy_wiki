@@ -4,7 +4,7 @@
 
 - *[B.P.R.D.: Hell on Earth—The Exorcist](/entry/The_Exorcist)* (with [Dave Stokes](/entry/Dave_Stokes))
 - *[Hellboy and the B.P.R.D.: 1956](/entry/1956)* (with [Yishan Li](/entry/Yishan_Li) and [Michael Avon Oeming](/entry/Michael_Avon_Oeming))
-- *[Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson%3A_The_Ring_of_Death)*
+- *[Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson__The_Ring_of_Death)*
 - *[Hellboy and the B.P.R.D.: 1957—From Below](/entry/From_Below)*
 
 ## External Links

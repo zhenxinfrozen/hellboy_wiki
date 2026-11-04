@@ -1,4 +1,4 @@
-**Rafael Albuquerque** worked on [*B.P.R.D. Hell on Earth*](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)) as a cover artist for *[Lake of Fire](/entry/Lake_of_Fire)* and *[The Reign of the Black Flame](/entry/The_Reign_of_the_Black_Flame)*.
+**Rafael Albuquerque** worked on [*B.P.R.D. Hell on Earth*](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)) as a cover artist for *[Lake of Fire](/entry/Lake_of_Fire)* and *[The Reign of the Black Flame](/entry/The_Reign_of_the_Black_Flame)*.
 
 ## Cover Art
 

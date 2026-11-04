@@ -1,4 +1,4 @@
-***Hellboy: Sword of Storms*** is the first of the [Hellboy Animated series](/entry/Hellboy_Animated) based on [Mike Mignola's](/entry/Mike_Mignola) popular comic book series *[Hellboy](/entry/Hellboy_%28series%29)* and the live-action [film of the same name](/entry/Hellboy_%28film%29). It was released in 2006. The second animated straight-to-DVD film, *[Hellboy: Blood and Iron](/entry/Hellboy%3A_Blood_and_Iron)*, was released on 17 March 2007.
+***Hellboy: Sword of Storms*** is the first of the [Hellboy Animated series](/entry/Hellboy_Animated) based on [Mike Mignola's](/entry/Mike_Mignola) popular comic book series *[Hellboy](/entry/Hellboy_%28series%29)* and the live-action [film of the same name](/entry/Hellboy_%28film%29). It was released in 2006. The second animated straight-to-DVD film, *[Hellboy: Blood and Iron](/entry/Hellboy__Blood_and_Iron)*, was released on 17 March 2007.
 
 The film was produced by [Starz Inc.'s](/entry/wikipedia%3AStarz_Inc.) [Film Roman](/entry/wikipedia%3AFilm_Roman) and Revolution Pictures and co-produced, co-written, and directed by animation veteran [Tad Stones](/entry/Tad_Stones). Stones is perhaps best-known as the creator of the popular [Disney Afternoon](/entry/wikipedia%3AThe_Disney_Afternoon) series *[Darkwing Duck](/entry/wikipedia%3ADarkwing_Duck)*. He worked with Mignola on developing *[Atlantis: The Lost Empire](/entry/wikipedia%3AAtlantis%3A_The_Lost_Empire)* into an animated series.
 
@@ -34,7 +34,7 @@ Professor Sakai, in the meantime, has gone to the shrine where the Lord killed h
 
 ## Broadcast dates
 
-Sword of Storms made its U.S. television debut on October 28, 2006 on Cartoon Network's Toonami Saturday action block (and aired again on December 30, 2006) and was released on DVD by Anchor Bay Entertainment on February 6, 2007. It aired alongside Hellboy: Blood and Iron on July 19, 2008 to promote the release of [Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army).
+Sword of Storms made its U.S. television debut on October 28, 2006 on Cartoon Network's Toonami Saturday action block (and aired again on December 30, 2006) and was released on DVD by Anchor Bay Entertainment on February 6, 2007. It aired alongside Hellboy: Blood and Iron on July 19, 2008 to promote the release of [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 
 ## Reception
 

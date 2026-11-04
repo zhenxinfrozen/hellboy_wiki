@@ -9,7 +9,7 @@
   
 **麦克（Mac）**是 20 世纪初生活在[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)基地里的一条狗，起初在新墨西哥州，后来随机构迁往康涅狄格州。[地狱男爵](/entry/Hellboy_(character))小时候很喜欢这只友善的狗。
 
-非正史的*[《怪谈》](/entry/Hellboy%3A_Weird_Tales)*短篇《[午夜牛仔](/entry/Midnight_Cowboy)》讲述了麦克与年幼的地狱男爵在新墨西哥基地经历的一场冒险。
+非正史的*[《怪谈》](/entry/Hellboy__Weird_Tales)*短篇《[午夜牛仔](/entry/Midnight_Cowboy)》讲述了麦克与年幼的地狱男爵在新墨西哥基地经历的一场冒险。
 
 ## 趣闻
 

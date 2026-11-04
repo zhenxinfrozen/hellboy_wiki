@@ -1,4 +1,4 @@
-《**爱情故事**》（A Love Story）是一个非正史故事，发表于 *[地狱男爵：奇谈 #7](/entry/Hellboy%3A_Weird_Tales)*，由 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards) 编剧并绘画，[Don Cameron](/entry/Don_Cameron) 协助作画。
+《**爱情故事**》（A Love Story）是一个非正史故事，发表于 *[地狱男爵：奇谈 #7](/entry/Hellboy__Weird_Tales)*，由 [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards) 编剧并绘画，[Don Cameron](/entry/Don_Cameron) 协助作画。
 
 ## 剧情简介
 

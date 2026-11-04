@@ -31,4 +31,4 @@ Hellboy rushes out from cover, shoots the homeowner's head, then confronts the o
 
 ## Sword of Storms
 
-A version of this story was incorporated into the [animated](/entry/Hellboy_Animated) film, [Hellboy: Sword of Storms](/entry/Hellboy%3A_Sword_of_Storms). This version is very similar to the comic, but takes place in modern times, and not in the 60s.
+A version of this story was incorporated into the [animated](/entry/Hellboy_Animated) film, [Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms). This version is very similar to the comic, but takes place in modern times, and not in the 60s.

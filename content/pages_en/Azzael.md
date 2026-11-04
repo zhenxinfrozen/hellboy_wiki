@@ -20,8 +20,8 @@ Azzael's name and character is likely inspired by [Azazel](https://en.wikipedia
 
 ## Other Media
 
-- In the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, [Nuala](/entry/Nuala) refers to Hellboy as "Son of the Fallen One" confirming his royal right to challenge for command of the Golden Army as anyone of noble birth and titles can claim control with the [Crown of Bethmora](/entry/Crown_of_Bethmora).
-- He also appears in [Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29).
+- In the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, [Nuala](/entry/Nuala) refers to Hellboy as "Son of the Fallen One" confirming his royal right to challenge for command of the Golden Army as anyone of noble birth and titles can claim control with the [Crown of Bethmora](/entry/Crown_of_Bethmora).
+- He also appears in [Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29).
 
 ## Sources
 

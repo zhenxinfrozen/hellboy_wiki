@@ -18,7 +18,7 @@ Sidney is very casual in his work (i.e. Referring to Dr. Olasz as Dr. O, and cal
 
 ## Animated
 
-Sidney Leach appears in the Animated [Hellboy: Blood and Iron](/entry/Hellboy%3A%20Blood%20and%20Iron) under the name "Sydney Leach" (rather than Sidney). Leach is voiced by Rob Paulsen.
+Sidney Leach appears in the Animated [Hellboy: Blood and Iron](/entry/Hellboy__Blood_and_Iron) under the name "Sydney Leach" (rather than Sidney). Leach is voiced by Rob Paulsen.
 
 ## See Also
 

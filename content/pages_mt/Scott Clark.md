@@ -10,6 +10,6 @@
 
 ## 其他媒体
 
-![动画版地狱男爵系列中的克拉克|left](/content/images/Clark_Animated.PNG) 克拉克在直接发行 DVD 的[动画](/entry/Hellboy_Animated)电影《[地狱男爵：铁血惊魂](/entry/Hellboy%3A_Blood_and_Iron)》中作为小角色登场。与漫画相比，他的形象略有改动，多了一撮山羊胡。
+![动画版地狱男爵系列中的克拉克|left](/content/images/Clark_Animated.PNG) 克拉克在直接发行 DVD 的[动画](/entry/Hellboy_Animated)电影《[地狱男爵：铁血惊魂](/entry/Hellboy__Blood_and_Iron)》中作为小角色登场。与漫画相比，他的形象略有改动，多了一撮山羊胡。
 
 克拉克由一位未署名的演员配音。

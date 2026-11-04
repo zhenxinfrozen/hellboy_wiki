@@ -21,7 +21,7 @@
 
 [2]
 
-[3] *[《地狱男爵完全指南》](/entry/Hellboy%3A_The_Companion)*
+[3] *[《地狱男爵完全指南》](/entry/Hellboy__The_Companion)*
 
 [4] *[《地狱男爵与 B.P.R.D.》](/entry/Hellboy_and_the_B.P.R.D.)：[1952](/entry/1952)* #5
 

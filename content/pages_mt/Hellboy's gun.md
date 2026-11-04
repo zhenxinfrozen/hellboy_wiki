@@ -69,7 +69,7 @@
 
 ![](/content/images/The%20Good%20Samaritan.png)
 
-- 2004 年电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 及其续集 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 中，[地狱男爵](/entry/Hellboy_(2004%E2%80%932008_film_character))使用一把造型独特的巨型左轮手枪，名为“[《撒玛利亚人》](/entry/The_Samaritan)”。电影的流行，尤其是这件武器的人气，使许多人错误地以为这个名字和/或设计源自漫画，或者能在漫画中看到。
+- 2004 年电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 及其续集 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中，[地狱男爵](/entry/Hellboy_(2004%E2%80%932008_film_character))使用一把造型独特的巨型左轮手枪，名为“[《撒玛利亚人》](/entry/The_Samaritan)”。电影的流行，尤其是这件武器的人气，使许多人错误地以为这个名字和/或设计源自漫画，或者能在漫画中看到。
   - “撒玛利亚人”的设计确实与漫画中的单发左轮有一些细微相似之处（尺寸巨大、装在皮质 US 枪套中、挂环上系着截短的挂枪绳），但二者终究有本质区别。
   - 漫画中地狱男爵使用的任何一把枪都从未被赋予过“撒玛利亚人”这样的专名。
   - “撒玛利亚人”的人气还使得许多其他地狱男爵改编作品让他使用左轮手枪，例如 *[《不义联盟 2》](/entry/Injustice_2)*、[2019 年电影](/entry/Hellboy's_revolver_(2019_film))或 *[《歪男人》](/entry/Hellboy%3A_The_Crooked_Man_(film))*；这些左轮手枪同样没有被正式命名为“撒玛利亚人”。

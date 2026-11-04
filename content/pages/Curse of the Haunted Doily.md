@@ -1,4 +1,4 @@
-***Curse of the Haunted Doily*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy%3A%20Weird%20Tales)*, with the story by [Mark Ricketts](/entry/Mark%20Ricketts) and art by Eric Wright.
+***Curse of the Haunted Doily*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy__Weird_Tales)*, with the story by [Mark Ricketts](/entry/Mark%20Ricketts) and art by Eric Wright.
 
 ## Plot Synopsis
 

@@ -21,7 +21,7 @@ Roberson was originally hired to write *[Witchfinder: City of the Dead](/entry/C
 - [*Hellboy and the B.P.R.D.: 1955—Secret Nature*](/entry/Secret_Nature)
 - [*Hellboy and the B.P.R.D.: 1955—Occult Intelligence*](/entry/Occult_Intelligence)
 - [*Hellboy and the B.P.R.D.: 1956*](/entry/1956)
-- *[Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson%3A_The_Ring_of_Death)*
+- *[Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson__The_Ring_of_Death)*
 - *[Down Mexico Way](/entry/Down_Mexico_Way)*
 - [*Hellboy and the B.P.R.D.: 1957—Family Ties*](/entry/Family_Ties_%28Hellboy_and_the_B.P.R.D._arc%29)
 - [*Hellboy and the B.P.R.D.: 1957—Falling Sky*](/entry/Falling_Sky)
@@ -34,9 +34,9 @@ Roberson was originally hired to write *[Witchfinder: City of the Dead](/entry/C
 - [*B.P.R.D. Hell on Earth: The Exorcist*](/entry/The_Exorcist)
 - *[Rise of the Black Flame](/entry/Rise_of_the_Black_Flame)*
 - *[God Rest Ye Merry](/entry/God_Rest_Ye_Merry)*
-- *[The Visitor: How & Why He Stayed](/entry/The_Visitor%3A_How_%26_Why_He_Stayed)*
-- *[Rasputin: The Voice of the Dragon](/entry/Rasputin%3A_The_Voice_of_the_Dragon)*
-- *[The Other Side of Summer](/entry/Hellboy%3A_An_Assortment_of_Horrors)*
+- *[The Visitor: How & Why He Stayed](/entry/The_Visitor__How_%26_Why_He_Stayed)*
+- *[Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon)*
+- *[The Other Side of Summer](/entry/Hellboy__An_Assortment_of_Horrors)*
 - *[The Longest Night](/entry/The_Longest_Night)*
 - *[The House of Lost Horizons: A Sarah Jewell Mystery](/entry/The_House_of_Lost_Horizons)*
 - *[Hellboy: The Silver Lantern Club](/entry/The_Silver_Lantern_Club_%28story%29)*

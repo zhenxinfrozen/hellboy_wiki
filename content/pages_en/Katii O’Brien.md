@@ -49,7 +49,7 @@ O'Brien started as an assistant editor at Dark Horse Comics in May of 2017. Afte
 - *[Hellboy and the B.P.R.D.: 1956 \#2](/entry/Hellboy_and_the_B.P.R.D.)*
 - *[Hellboy and the B.P.R.D.: Saturn Returns \#3](/entry/Hellboy_and_the_B.P.R.D.)*
 - *[Hellboy Winter Special (2018)](/entry/Hellboy_Winter_Special_(2018))*
-- *[Rasputin: The Voice of the Dragon](/entry/Rasputin%3A_The_Voice_of_the_Dragon)* TPB
+- *[Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon)* TPB
 
 ## External Links
 

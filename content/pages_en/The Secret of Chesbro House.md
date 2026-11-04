@@ -1,4 +1,4 @@
-***The Secret of Chesbro House*** is two-issue *[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)* arc written by [Mike Mignola](/entry/Mike_Mignola) and [Christopher Golden](/entry/Christopher_Golden), drawn by [Shawn McManus](/entry/Shawn_McManus). While Golden had worked in the Hellboy Universe several times since he started writing *[Hellboy: The Lost Army](/entry/Hellboy%3A_The_Lost_Army)* in 1996, this comic marks the first time he has written a *Hellboy* comic. However, Golden has promised much more in the future.
+***The Secret of Chesbro House*** is two-issue *[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)* arc written by [Mike Mignola](/entry/Mike_Mignola) and [Christopher Golden](/entry/Christopher_Golden), drawn by [Shawn McManus](/entry/Shawn_McManus). While Golden had worked in the Hellboy Universe several times since he started writing *[Hellboy: The Lost Army](/entry/Hellboy__The_Lost_Army)* in 1996, this comic marks the first time he has written a *Hellboy* comic. However, Golden has promised much more in the future.
 
 ## Synopsis
 

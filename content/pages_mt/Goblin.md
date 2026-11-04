@@ -17,5 +17,5 @@
 
 ## 登场
 
-- [*《地狱男爵 2：黄金军团》*](/entry/Hellboy_II%3A_The_Golden_Army)
+- [*《地狱男爵 2：黄金军团》*](/entry/Hellboy_II__The_Golden_Army)
 - [*《铁鞋》*](/entry/The_Iron_Shoes)

@@ -1,4 +1,4 @@
-《**大马戏团地狱男孩**》（Big-Top-Hell-Boy）是一个非正史故事，发表于 *[地狱男爵：奇谈 #1](/entry/Hellboy%3A_Weird_Tales)*，故事与画作均由 [John Cassaday](/entry/John_Cassaday) 创作。
+《**大马戏团地狱男孩**》（Big-Top-Hell-Boy）是一个非正史故事，发表于 *[地狱男爵：奇谈 #1](/entry/Hellboy__Weird_Tales)*，故事与画作均由 [John Cassaday](/entry/John_Cassaday) 创作。
 
 ## 剧情简介
 

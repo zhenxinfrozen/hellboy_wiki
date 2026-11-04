@@ -12,7 +12,7 @@ This four-page story was the first published [*Hellboy*](/entry/Hellboy_%28serie
 
 ## Story Chronology
 
-According to *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*, this story takes place in June 1993, Mesquite Creek, Arizona.
+According to *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*, this story takes place in June 1993, Mesquite Creek, Arizona.
 
 ## Content
 

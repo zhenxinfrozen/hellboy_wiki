@@ -1,6 +1,6 @@
 ![](/content/images/Troll2.png)
 
-**巨魔（Troll）**是同时出现在地狱男爵漫画和 [《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army) 中的神话生物。
+**巨魔（Troll）**是同时出现在地狱男爵漫画和 [《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army) 中的神话生物。
 
 ## 漫画中
 
@@ -8,6 +8,6 @@
 
 ## 《地狱男爵2：黄金军团》
 
-**巨魔**是 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 中出现的一类魔法生物。巨魔种类繁多，使用着各种各样的语言。具体种类包括 [洞穴巨魔](/entry/Cave_Troll)（如 [温克先生](/entry/Mr._Wink)（Mr. Wink））、跟班巨魔（Cronie Trolls）以及 [弗拉格勒旺普](/entry/Fragglewump)（Fragglewumps）。巨魔曾参加对抗 [人类](/entry/Human) 的最初那场战争。有些巨魔在 [巨魔市场](/entry/The_Troll_Market) 里购物——该市场位于布鲁克林大桥之下，对外界保密。
+**巨魔**是 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中出现的一类魔法生物。巨魔种类繁多，使用着各种各样的语言。具体种类包括 [洞穴巨魔](/entry/Cave_Troll)（如 [温克先生](/entry/Mr._Wink)（Mr. Wink））、跟班巨魔（Cronie Trolls）以及 [弗拉格勒旺普](/entry/Fragglewump)（Fragglewumps）。巨魔曾参加对抗 [人类](/entry/Human) 的最初那场战争。有些巨魔在 [巨魔市场](/entry/The_Troll_Market) 里购物——该市场位于布鲁克林大桥之下，对外界保密。
 
 ## 画廊

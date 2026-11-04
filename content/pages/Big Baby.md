@@ -1,4 +1,4 @@
-"**Big Baby**" is the name [Hellboy](/entry/Hellboy%20%28character%29) gives to his gun in *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*.
+"**Big Baby**" is the name [Hellboy](/entry/Hellboy%20%28character%29) gives to his gun in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 ## Weapon specification
 

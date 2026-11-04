@@ -25,7 +25,7 @@
 
 ## 其他媒体
 
-埃菲·科尔布出现在电影[《地狱男爵：歪人》](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)中，由 [Leah McNamara](/entry/Leah_McNamara) 饰演。
+埃菲·科尔布出现在电影[《地狱男爵：歪人》](/entry/Hellboy__The_Crooked_Man_%28film%29)中，由 [Leah McNamara](/entry/Leah_McNamara) 饰演。
 
 ## 趣闻
 

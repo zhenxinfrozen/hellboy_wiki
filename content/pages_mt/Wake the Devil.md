@@ -58,7 +58,7 @@
 
 ## 故事年表
 
-尽管没有明说，《唤醒恶魔》似乎发生在 1997 年；[1] *[《地狱男爵指南》](/entry/Hellboy%3A_The_Companion)* 将故事中的事件定在 1997 年 3 月。故事发生在 *[被锁链的棺材](/entry/The_Chained_Coffin)*（1994）之后一段时间，以及 *[近乎巨像](/entry/Almost_Colossus)* 的 8 天前。[2]
+尽管没有明说，《唤醒恶魔》似乎发生在 1997 年；[1] *[《地狱男爵指南》](/entry/Hellboy__The_Companion)* 将故事中的事件定在 1997 年 3 月。故事发生在 *[被锁链的棺材](/entry/The_Chained_Coffin)*（1994）之后一段时间，以及 *[近乎巨像](/entry/Almost_Colossus)* 的 8 天前。[2]
 
 ## 内容
 

@@ -1,4 +1,4 @@
-**Seth MacFarlane** (生于 1973 年) 是一位美国编剧、制片人兼演员，曾为[约翰·克劳斯](/entry/Johann_Kraus)配音，该角色出自 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)*。
+**Seth MacFarlane** (生于 1973 年) 是一位美国编剧、制片人兼演员，曾为[约翰·克劳斯](/entry/Johann_Kraus)配音，该角色出自 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)*。
 
 ## 知名角色
 

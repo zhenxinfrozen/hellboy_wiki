@@ -8,7 +8,7 @@ When [Hellboy](/entry/Hellboy) crashes through the roof of Giurescu Castle, Unme
 
 ## Abilities
 
-Similar to Mr. Winks from the [second Hellboy film](/entry/Hellboy%20II%3A%20The%20Golden%20Army), Unmensch's mechanical arm can extend due to a chain linking to his fist. Unmensch has enhanced strength.
+Similar to Mr. Winks from the [second Hellboy film](/entry/Hellboy_II__The_Golden_Army), Unmensch's mechanical arm can extend due to a chain linking to his fist. Unmensch has enhanced strength.
 
 ## Trivia
 

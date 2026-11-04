@@ -1,4 +1,4 @@
-**Wayne Douglas Barlowe**（1958 年 1 月 6 日出生）是一位美国科幻与奇幻作家、画家，曾在[《地狱男爵》](/entry/Hellboy_(2004_film))和[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)两部电影中担任视觉设计师。他尤其负责设计了影片中的大部分生物，例如[亚伯·塞皮恩](/entry/Abraham_Sapien)、[奥古·桀哈](/entry/Ogdru_Jahad)、[萨麦尔（Sammael）](/entry/Sammael)以及[死亡天使](/entry/Angel_of_Death)。
+**Wayne Douglas Barlowe**（1958 年 1 月 6 日出生）是一位美国科幻与奇幻作家、画家，曾在[《地狱男爵》](/entry/Hellboy_(2004_film))和[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)两部电影中担任视觉设计师。他尤其负责设计了影片中的大部分生物，例如[亚伯·塞皮恩](/entry/Abraham_Sapien)、[奥古·桀哈](/entry/Ogdru_Jahad)、[萨麦尔（Sammael）](/entry/Sammael)以及[死亡天使](/entry/Angel_of_Death)。
 
 ## 地狱男爵相关作品
 

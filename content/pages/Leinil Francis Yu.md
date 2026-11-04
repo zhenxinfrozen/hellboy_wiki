@@ -4,6 +4,6 @@
 
 ### Cover Artist
 
-- [*Hellboy: Weird Tales \#4*](/entry/Hellboy%3A%20Weird%20Tales)
+- [*Hellboy: Weird Tales \#4*](/entry/Hellboy__Weird_Tales)
 
 **Yu, Leinil Francis**

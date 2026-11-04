@@ -1,4 +1,4 @@
-**铁鞋（短片）（Hellboy Animated: Iron Shoes）**是收录在[《地狱男爵动画版：铁血惊魂》](/entry/Hellboy%3A_Blood_and_Iron)DVD 发行版中的一段附赠短片。
+**铁鞋（短片）（Hellboy Animated: Iron Shoes）**是收录在[《地狱男爵动画版：铁血惊魂》](/entry/Hellboy__Blood_and_Iron)DVD 发行版中的一段附赠短片。
 
 ## 剧情
 

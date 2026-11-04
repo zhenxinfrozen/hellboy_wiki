@@ -4,7 +4,7 @@
 
 系列编辑 [Barbara Kesel](/entry/Barbara_Kesel) 在制作[《尸体》（The Corpse）](/entry/The_Corpse)期间卸任，Scott Allie 临时接任。当时他被告知只需订正拼写错误，其余事务不要干涉 [Mike Mignola](/entry/Mike_Mignola)。然而，当他看到一幅画中一个洞看起来更像阴影时，便向 Mignola 提出了修改意见。Mignola 非常高兴能收到这样的反馈，于是联系 Mike Richardson，表示希望由 Allie 继续担任该书的编辑。
 
-Scott Allie 担任了地狱男爵宇宙全部图书的编辑（[*Hellboy Promo* #1](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29)、[*Hellboy Promo* #2](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29)、[*Hellboy: Seed of Destruction*](/entry/Seed_of_Destruction)、[*Hellboy: The Wolves of Saint August*](/entry/The_Wolves_of_Saint_August) 以及[《"你好，我叫地狱男爵"》（"Hi, My Name's Hellboy"）宣传册](/entry/%22Hi%2C_My_Name%27s_Hellboy%22)除外），直到他于 2017 年 10 月 6 日卸任编辑一职。他的职位由 [Katii O’Brien](/entry/Katii_O%E2%80%99Brien) 接任。
+Scott Allie 担任了地狱男爵宇宙全部图书的编辑（[*Hellboy Promo* #1](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29)、[*Hellboy Promo* #2](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29)、[*Hellboy: Seed of Destruction*](/entry/Seed_of_Destruction)、[*Hellboy: The Wolves of Saint August*](/entry/The_Wolves_of_Saint_August) 以及[《"你好，我叫地狱男爵"》（"Hi, My Name's Hellboy"）宣传册](/entry/Hi%2C_My_Name%27s_Hellboy)除外），直到他于 2017 年 10 月 6 日卸任编辑一职。他的职位由 [Katii O’Brien](/entry/Katii_O%E2%80%99Brien) 接任。
 
 ## 编剧
 

@@ -2,5 +2,5 @@
 
 ## Appearances
 
-- [*Hellboy: The Bones of Giants* (2001 prose novel)](/entry/Hellboy%3A_The_Bones_of_Giants_(prose_novel))
+- [*Hellboy: The Bones of Giants* (2001 prose novel)](/entry/Hellboy__The_Bones_of_Giants_(prose_novel))
 - [*Hellboy: The Bones of Giants* (2021 comic book miniseries)](/entry/The_Bones_of_Giants)

@@ -1,4 +1,4 @@
-***Command Performance*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy%3A%20Weird%20Tales)*, written by [Will Pfeifer](/entry/Will%20Pfeifer) with art provided by [P. Craig Russell](/entry/P.%20Craig%20Russell).
+***Command Performance*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy__Weird_Tales)*, written by [Will Pfeifer](/entry/Will%20Pfeifer) with art provided by [P. Craig Russell](/entry/P.%20Craig%20Russell).
 
 ## Plot Synopsis
 

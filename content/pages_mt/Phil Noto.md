@@ -4,4 +4,4 @@
 
 ### 封面画师
 
-- *[《地狱男爵：奇谈 #7》（Hellboy: Weird Tales #7）](/entry/Hellboy%3A_Weird_Tales)*
+- *[《地狱男爵：奇谈 #7》（Hellboy: Weird Tales #7）](/entry/Hellboy__Weird_Tales)*

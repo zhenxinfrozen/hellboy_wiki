@@ -4,7 +4,7 @@
 
 ### Cover Artist
 
-- [*Hellboy: Weird Tales \#2*](/entry/Hellboy%3A_Weird_Tales)
+- [*Hellboy: Weird Tales \#2*](/entry/Hellboy__Weird_Tales)
 
 ### Interior Artist
 

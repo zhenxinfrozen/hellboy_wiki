@@ -51,7 +51,7 @@ In the denoument, Astroman disguises himself as Frank and lets The Blast destroy
 
 ## Notes
 
-1.  [↑](#cite_ref-1) The story has never been reprinted in a *Hellboy* collection. The timeline presented in *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)* makes no mention of any events in "Comes The Blast!" publication year of 1995.
+1.  [↑](#cite_ref-1) The story has never been reprinted in a *Hellboy* collection. The timeline presented in *[Hellboy: The Companion](/entry/Hellboy__The_Companion)* makes no mention of any events in "Comes The Blast!" publication year of 1995.
 2.  [↑](#cite_ref-2) https://www.keycollectorcomics.com/issue/dark-horse-insider-1-27,313129/
 
 ## External Links

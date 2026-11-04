@@ -13,14 +13,14 @@
 - *[The Longest Night](/entry/The_Longest_Night)*
 - *[The House of Lost Horizons: A Sarah Jewell Mystery](/entry/The_House_of_Lost_Horizons)*
 - [*Hellboy: The Silver Lantern Club*](/entry/The_Silver_Lantern_Club_%28story%29)
-- ''[Hellboy: Weird Tales](/entry/Hellboy%3A_Weird_Tales) (out of continuity):
+- ''[Hellboy: Weird Tales](/entry/Hellboy__Weird_Tales) (out of continuity):
   - *[Curse of the Haunted Doily](/entry/Curse_of_the_Haunted_Doily)*
   - *[Haunted](/entry/Haunted)*
 
 ### Letterer
 
 - *[B.P.R.D.: Dark Waters](/entry/Dark_Waters)*
-- ''[Hellboy: Weird Tales](/entry/Hellboy%3A_Weird_Tales) (out of continuity):
+- ''[Hellboy: Weird Tales](/entry/Hellboy__Weird_Tales) (out of continuity):
   - *[Curse of the Haunted Doily](/entry/Curse_of_the_Haunted_Doily)*
   - *[The Dread Within](/entry/The_Dread_Within)*
   - *[Haunted](/entry/Haunted)*

@@ -9,4 +9,4 @@
 
 ## 登场
 
-- *[《地狱男爵：巨人骸骨》](/entry/Hellboy%3A_The_Bones_of_Giants)*
+- *[《地狱男爵：巨人骸骨》](/entry/Hellboy__The_Bones_of_Giants)*

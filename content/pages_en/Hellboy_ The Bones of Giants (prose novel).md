@@ -6,4 +6,4 @@ On the frozen shores of Sweden, lightning strikes from a clear sky. The skeleton
 
 ## Story Chronology
 
-The story takes place several decades after Hellboy's first encounter with [Edmond Aickman](/entry/Edmond_Aickman) in *King Vold*. The novel includes references to [Trevor Bruttenholm](/entry/Trevor_Bruttenholm)'s death, which would mean it takes place after May 1994. *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)* places it in August 1999. However, this was changed for the [comic book adaptation](/entry/The_Bones_of_Giants_(comic_miniseries)), which moved the story to earlier in the timeline, to February 1988.
+The story takes place several decades after Hellboy's first encounter with [Edmond Aickman](/entry/Edmond_Aickman) in *King Vold*. The novel includes references to [Trevor Bruttenholm](/entry/Trevor_Bruttenholm)'s death, which would mean it takes place after May 1994. *[Hellboy: The Companion](/entry/Hellboy__The_Companion)* places it in August 1999. However, this was changed for the [comic book adaptation](/entry/The_Bones_of_Giants_(comic_miniseries)), which moved the story to earlier in the timeline, to February 1988.

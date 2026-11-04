@@ -1,4 +1,4 @@
-***《切斯布罗宅邸的秘密》*** 是一部两期的 *[《地狱男爵与超自然调查防御署》](/entry/Hellboy_and_the_B.P.R.D.)* 故事线，由 [Mike Mignola](/entry/Mike_Mignola) 与 [Christopher Golden](/entry/Christopher_Golden) 编剧，[Shawn McManus](/entry/Shawn_McManus) 作画。Golden 自 1996 年开始创作 *[《地狱男爵：迷失军团》](/entry/Hellboy%3A_The_Lost_Army)* 以来已多次参与地狱男爵宇宙的创作，而这部漫画是他第一次为 *《地狱男爵》* 漫画编剧。不过 Golden 已承诺未来还会带来更多作品。
+***《切斯布罗宅邸的秘密》*** 是一部两期的 *[《地狱男爵与超自然调查防御署》](/entry/Hellboy_and_the_B.P.R.D.)* 故事线，由 [Mike Mignola](/entry/Mike_Mignola) 与 [Christopher Golden](/entry/Christopher_Golden) 编剧，[Shawn McManus](/entry/Shawn_McManus) 作画。Golden 自 1996 年开始创作 *[《地狱男爵：迷失军团》](/entry/Hellboy__The_Lost_Army)* 以来已多次参与地狱男爵宇宙的创作，而这部漫画是他第一次为 *《地狱男爵》* 漫画编剧。不过 Golden 已承诺未来还会带来更多作品。
 
 ## 剧情简介
 

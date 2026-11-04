@@ -1,4 +1,4 @@
-***Children of the Black Mound*** was a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy%3A%20Weird%20Tales)*, written by [Fabian Nicieza](/entry/Fabian%20Nicieza) and drawn by [Stefano Raffaele](/entry/Stefano%20Raffaele).
+***Children of the Black Mound*** was a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy__Weird_Tales)*, written by [Fabian Nicieza](/entry/Fabian%20Nicieza) and drawn by [Stefano Raffaele](/entry/Stefano%20Raffaele).
 
 ## Plot Synopsis
 

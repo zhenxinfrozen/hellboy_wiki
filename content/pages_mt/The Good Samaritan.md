@@ -1,4 +1,4 @@
-!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.png) **撒玛利亚人（The Samaritan）**是 2004 年电影《[地狱男爵](/entry/Hellboy_%282004_film%29)》及其 2008 年续集《[黄金军团](/entry/Hellboy_II%3A_The_Golden_Army)》中出现的一把武器。它是[地狱男爵](/entry/Hellboy_%282004%E2%80%932008_film_character%29)最钟爱的随身配枪。撒玛利亚人是一把由[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)打造的巨型转轮手枪，能够发射多种专用子弹来对付怪物。
+!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.png) **撒玛利亚人（The Samaritan）**是 2004 年电影《[地狱男爵](/entry/Hellboy_%282004_film%29)》及其 2008 年续集《[黄金军团](/entry/Hellboy_II__The_Golden_Army)》中出现的一把武器。它是[地狱男爵](/entry/Hellboy_%282004%E2%80%932008_film_character%29)最钟爱的随身配枪。撒玛利亚人是一把由[超自然调查防御署](/entry/Bureau_for_Paranormal_Research_and_Defense)打造的巨型转轮手枪，能够发射多种专用子弹来对付怪物。
 
 ## 武器规格
 
@@ -55,7 +55,7 @@
   - 地狱男爵在漫画中用过好几把枪，最突出的是一把[自由火炬](/entry/the_Torch_of_Liberty)送给他的单发手炮，以及 [Harry Middleton](/entry/Harry_Middleton) 送给他的一把 M1911 手枪。
   - [地狱男爵](/entry/Hellboy_%28Injustice%29)在《[Injustice 2](/entry/Injustice_2)》中挥舞着一把转轮手枪。使用这件武器的招式被称为「Devil's Revolver」，但手枪本身只被笼统地称作「他那把可靠的转轮手枪」。
   - 地狱男爵使用了另一把不同的[无名转轮手枪](/entry/Hellboy%27s_revolver_%282019_film%29)，在[2019 年电影](/entry/Hellboy_(2019_film))中被制作人员称为「恶魔转轮手枪」。
-  - 地狱男爵在《[The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)》中还挥舞着另一把独特的转轮手枪；同样，它也没有专门的名字。
+  - 地狱男爵在《[The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)》中还挥舞着另一把独特的转轮手枪；同样，它也没有专门的名字。
 
 ## 参考资料
 

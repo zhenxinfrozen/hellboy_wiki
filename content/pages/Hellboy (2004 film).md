@@ -1,4 +1,4 @@
-***Hellboy*** is a supernatural action-thriller based on the Dark Horse Comics work *[Hellboy: Seed of Destruction](/entry/Seed%20of%20Destruction)* by [Mike Mignola](/entry/Mike%20Mignola). The film was produced by Revolution Studios and distributed by Columbia Pictures. A sequel, *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*, was released on July 11, 2008.
+***Hellboy*** is a supernatural action-thriller based on the Dark Horse Comics work *[Hellboy: Seed of Destruction](/entry/Seed%20of%20Destruction)* by [Mike Mignola](/entry/Mike%20Mignola). The film was produced by Revolution Studios and distributed by Columbia Pictures. A sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, was released on July 11, 2008.
 
 ## Cast
 

@@ -18,7 +18,7 @@ The Bureau was initially the United States' only defense against an onslaught of
 
 The frog monster invasion reached its peak during the events of *[The Black Flame](/entry/The_Black_Flame_%28story%29)*. A Nazi madman called the [Black Flame](/entry/Landis_Pope) insinuated himself as the leader of the frogs, and together they raised [Katha-Hem](/entry/Katha-Hem) (one of the [Ogdru Hem](/entry/Ogdru_Hem), the 369 spawn of the [Ogdru Jahad](/entry/Ogdru_Jahad)) from the ground. The beast ran rampant across the American heartland until Liz Sherman used an [ancient artifact](/entry/Spiked_Cylinder) to amplify her pyrokinetic powers a thousandfold. After she burned Katha-Hem alive, the frog monsters dragged the Black Flame into a vast pit and the invasion came to an end.
 
-### [Hell on Earth](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
+### [Hell on Earth](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
 
 The B.P.R.D. has recently become an international organization with support from the United Nations. This is due to the major [Ogdru Hem](/entry/Ogdru_Hem) activity occurring throughout the world. The Bureau has also been unable to rely on their enhanced talent agents as of late. Former Team Captain Ben Daimio fled the Bureau after causing the death of several agents. Agent Liz Sherman is currently missing following her destruction of the frog army and the Black Flame at Agartha. Agent Abe Sapien is currently on the run after awakening from a 4 month coma brought on by severe injuries. His time spent in a coma has left him transformed and his fellow agents even more suspicious of him and his role in the end of the world. Due to this lack of enhanced talent agents, the more traditional agents have had to step up as the world falls apart.
 
@@ -129,7 +129,7 @@ Some notable BPRD agents. Left to right: [Johann Kraus](/entry/Johann_Kraus), [L
 
 ## In other media
 
-Film adaptations prominently feature the B.P.R.D., typically portraying Hellboy as a member of the organization (he quits at the end of *[The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, though serves as an agent for most of the film). In addition to portraying characters from the comics, adaptations commonly introduce original characters that serve as members of the Bureau.
+Film adaptations prominently feature the B.P.R.D., typically portraying Hellboy as a member of the organization (he quits at the end of *[The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, though serves as an agent for most of the film). In addition to portraying characters from the comics, adaptations commonly introduce original characters that serve as members of the Bureau.
 
 ### Agents
 
@@ -150,7 +150,7 @@ Appearing in *[Hellboy](/entry/Hellboy_%282004_film%29):*
 - Agent Quarry, field agent (deceased)
 - Agent Stone, field agent (deceased)
 
-In *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army):*
+In *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army):*
 
 - Agent Flint, field agent (deceased)
 - Agent Steel, field agent (deceased)
@@ -169,6 +169,6 @@ In *[Hellboy](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9
 
 #### *The Crooked Man* film
 
-In *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29):*
+In *[Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29):*
 
 - [Bobbie Jo Song](/entry/Bobbie_Jo_Song), field agent

@@ -1,4 +1,4 @@
-**Hellboy** is the title character and protagonist of the film *[Hellboy](/entry/Hellboy_(2004_film))* (2004) and its sequel *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)* (2008). An adaptation of [the character of the same name](/entry/Hellboy_(character)) from [the comic series *Hellboy*](/entry/Hellboy_(series)), much of the film character's backstory is similar to what is presented in the comic miniseries *[Seed of Destruction](/entry/Seed_of_Destruction)*.
+**Hellboy** is the title character and protagonist of the film *[Hellboy](/entry/Hellboy_(2004_film))* (2004) and its sequel *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* (2008). An adaptation of [the character of the same name](/entry/Hellboy_(character)) from [the comic series *Hellboy*](/entry/Hellboy_(series)), much of the film character's backstory is similar to what is presented in the comic miniseries *[Seed of Destruction](/entry/Seed_of_Destruction)*.
 
 A half-demon, parented by a human woman and a demonic father, Hellboy was summoned to earth through a dimensional portal on October 9th, 1944. Adopted by Professor [Trevor Bruttenholm](/entry/Trevor_Bruttenholm), Hellboy's existence is kept a secret from the world at large. Over the next sixty years, he operates as an agent of the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense), brought out of headquarters on brief occasions and under supervision to battle monsters. In the 2000s, Hellboy learns more of his true nature during a conflict with the resurrected [Rasputin](/entry/Grigori_Rasputin)): he is Anung un Rama, the Beast of the Apocalypse. A few years later, Hellboy reveals his existence to the world in a series of events that builds to his resignation from the Bureau. Hellboy also begins a romantic relationship with the pyrokinetic [Liz Sherman](/entry/Elizabeth_Sherman).
 
@@ -6,7 +6,7 @@ In the films, Hellboy is portrayed by [Ron Perlman](/entry/Ron_Perlman). The fir
 
 ## History
 
-*See also: [Hellboy (2004 film)#Plot](/entry/Hellboy_(2004_film)#Plot) and [Hellboy II: The Golden Army#Plot](/entry/Hellboy_II%3A_The_Golden_Army)*
+*See also: [Hellboy (2004 film)#Plot](/entry/Hellboy_(2004_film)#Plot) and [Hellboy II: The Golden Army#Plot](/entry/Hellboy_II__The_Golden_Army)*
 
 Biographic notes by [Guillermo del Toro](/entry/Guillermo_del_Toro) were included in prerelease promotional materials. Though some elements are readily apparent in the final film, it is unclear how much of this text is considered canon to the final films.
 

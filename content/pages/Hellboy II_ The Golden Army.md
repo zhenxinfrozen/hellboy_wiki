@@ -55,7 +55,7 @@ In February 2007, Mignola described the story he had developed with del Toro as 
 ## Trivia
 
 - Doug Jones is rumored to have done all his own stunts for this movie. This was attributed to his athletic ability in gymnastics.
-- Neil Gaiman spent several days on the set of *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)* to get pointers on directing from [Guillermo del Toro](/entry/Guillermo%20del%20Toro) for use in his own upcoming directorial debut, *Death and Me*.[14]
+- Neil Gaiman spent several days on the set of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* to get pointers on directing from [Guillermo del Toro](/entry/Guillermo%20del%20Toro) for use in his own upcoming directorial debut, *Death and Me*.[14]
 
 ## References
 

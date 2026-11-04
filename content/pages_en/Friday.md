@@ -1,4 +1,4 @@
-***Friday*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy%3A_Weird_Tales)*, written by [Doug Petrie](/entry/Doug_Petrie) with art provided by [Gene Colan](/entry/Gene_Colan).
+***Friday*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy__Weird_Tales)*, written by [Doug Petrie](/entry/Doug_Petrie) with art provided by [Gene Colan](/entry/Gene_Colan).
 
 ## Plot Synopsis
 

@@ -1,4 +1,4 @@
-![](/content/images/Big_Baby.png) **大宝贝（Big Baby）**是 [地狱男爵](/entry/Hellboy_%28character%29) 在电影 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 中使用的一种特制武器。
+![](/content/images/Big_Baby.png) **大宝贝（Big Baby）**是 [地狱男爵](/entry/Hellboy_%28character%29) 在电影 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中使用的一种特制武器。
 
 ## 武器规格
 

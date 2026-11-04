@@ -21,7 +21,7 @@ Roberson 最初受雇撰写《[猎巫人：亡者之城](/entry/City_of_the_Dead
 - [《地狱男爵与 B.P.R.D.：1955——隐秘本性》（*Hellboy and the B.P.R.D.: 1955—Secret Nature*）](/entry/Secret_Nature)
 - [《地狱男爵与 B.P.R.D.：1955——神秘情报》（*Hellboy and the B.P.R.D.: 1955—Occult Intelligence*）](/entry/Occult_Intelligence)
 - [《地狱男爵与 B.P.R.D.：1956》（*Hellboy and the B.P.R.D.: 1956*）](/entry/1956)
-- *[《地狱男爵大战龙虾约翰逊：死亡指环》（Hellboy vs. Lobster Johnson: The Ring of Death）](/entry/Hellboy_vs._Lobster_Johnson%3A_The_Ring_of_Death)*
+- *[《地狱男爵大战龙虾约翰逊：死亡指环》（Hellboy vs. Lobster Johnson: The Ring of Death）](/entry/Hellboy_vs._Lobster_Johnson__The_Ring_of_Death)*
 - *[《南下墨西哥》（Down Mexico Way）](/entry/Down_Mexico_Way)*
 - [《地狱男爵与 B.P.R.D.：1957——家族纽带》（*Hellboy and the B.P.R.D.: 1957—Family Ties*）](/entry/Family_Ties_%28Hellboy_and_the_B.P.R.D._arc%29)
 - [《地狱男爵与 B.P.R.D.：1957——天塌》（*Hellboy and the B.P.R.D.: 1957—Falling Sky*）](/entry/Falling_Sky)
@@ -34,9 +34,9 @@ Roberson 最初受雇撰写《[猎巫人：亡者之城](/entry/City_of_the_Dead
 - [《B.P.R.D.：人间地狱——驱魔人》（*B.P.R.D. Hell on Earth: The Exorcist*）](/entry/The_Exorcist)
 - *[《黑焰崛起》（Rise of the Black Flame）](/entry/Rise_of_the_Black_Flame)*
 - *[《愿上帝赐你喜乐》（God Rest Ye Merry）](/entry/God_Rest_Ye_Merry)*
-- *[《造访者：他为何及如何留下》（The Visitor: How & Why He Stayed）](/entry/The_Visitor%3A_How_%26_Why_He_Stayed)*
-- *[《拉斯普廷：巨龙之声》（Rasputin: The Voice of the Dragon）](/entry/Rasputin%3A_The_Voice_of_the_Dragon)*
-- *[《夏日的另一面》（The Other Side of Summer）](/entry/Hellboy%3A_An_Assortment_of_Horrors)*
+- *[《造访者：他为何及如何留下》（The Visitor: How & Why He Stayed）](/entry/The_Visitor__How_%26_Why_He_Stayed)*
+- *[《拉斯普廷：巨龙之声》（Rasputin: The Voice of the Dragon）](/entry/Rasputin__The_Voice_of_the_Dragon)*
+- *[《夏日的另一面》（The Other Side of Summer）](/entry/Hellboy__An_Assortment_of_Horrors)*
 - *[《最漫长的夜晚》（The Longest Night）](/entry/The_Longest_Night)*
 - *[《失落天际之屋：莎拉·朱厄尔谜案》（The House of Lost Horizons: A Sarah Jewell Mystery）](/entry/The_House_of_Lost_Horizons)*
 - *[《地狱男爵：银灯俱乐部》（Hellboy: The Silver Lantern Club）](/entry/The_Silver_Lantern_Club_%28story%29)*

@@ -1,4 +1,4 @@
-**Jeffrey Michael Tambor** (b. July 6, 1944 in San Francisco, California) is an American character actor best known for his TV comedy work. He plays Tom Manning in *Hellboy* and *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. best known for his roles as Hank Kingsley on *The Larry Sanders Show*, as well as George Bluth Sr. and Oscar Bluth on *Arrested Development*.
+**Jeffrey Michael Tambor** (b. July 6, 1944 in San Francisco, California) is an American character actor best known for his TV comedy work. He plays Tom Manning in *Hellboy* and *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. best known for his roles as Hank Kingsley on *The Larry Sanders Show*, as well as George Bluth Sr. and Oscar Bluth on *Arrested Development*.
 
 ## Notable Roles
 

@@ -629,7 +629,7 @@ During this century humans still made sacrifices to the Ogdru Jahad on an island
 **1938**
 
 - **January**: In New York, the Lobster tracks the deaths of Zinco-Davis employees Drs Skinner, Wiley, Kent and Gowland to the brain of their colleague [Stanley Corn](/entry/Stanley_Corn).
-- **Spring**: [And What Shall I Find There?](/entry/And_What_Shall_I_Find_There%3F)
+- **Spring**: [And What Shall I Find There?](/entry/And_What_Shall_I_Find_There)
 - **December**: End of the Lobster's career as a murderous vigilante.
 
 **1939**
@@ -649,7 +649,7 @@ During this century humans still made sacrifices to the Ogdru Jahad on an island
 
 **1941**
 
-- **June**: [Rasputin: The Voice of the Dragon](/entry/Rasputin%3A_The_Voice_of_the_Dragon)
+- **June**: [Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon)
 
 **1942**
 
@@ -917,7 +917,7 @@ During this century humans still made sacrifices to the Ogdru Jahad on an island
 **Unspecified Date**
 
 - [The Beast of Vargu](/entry/The_Beast_of_Vargu)
-- [Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson%3A_The_Ring_of_Death)
+- [Hellboy vs. Lobster Johnson: The Ring of Death](/entry/Hellboy_vs._Lobster_Johnson__The_Ring_of_Death)
 - Hellboy has a bad night with some followers of Kali.
 
 **April**
@@ -1104,7 +1104,7 @@ During this century humans still made sacrifices to the Ogdru Jahad on an island
 
 **Unspecified Date**
 
-- [Hellboy: The Lost Army](/entry/Hellboy%3A_The_Lost_Army)
+- [Hellboy: The Lost Army](/entry/Hellboy__The_Lost_Army)
 - [They That Go Down to the Sea in Ships](/entry/They_That_Go_Down_to_the_Sea_in_Ships)
 - [Old Man Whittier](/entry/Old_Man_Whittier)
 

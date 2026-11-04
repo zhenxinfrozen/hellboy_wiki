@@ -10,6 +10,6 @@ Clark was assigned to search for Vladimir Giurescu's castle alongside fellow age
 
 ## Other Media
 
-![Clark in the Animated Hellboy series|left](/content/images/Clark_Animated.PNG) Clark appears as a minor character in the straight-to-DVD [animated](/entry/Hellboy_Animated) film [Hellboy: Blood and Iron](/entry/Hellboy%3A_Blood_and_Iron).  His appearance is altered from that of the comics slightly with the addition of a goatee.
+![Clark in the Animated Hellboy series|left](/content/images/Clark_Animated.PNG) Clark appears as a minor character in the straight-to-DVD [animated](/entry/Hellboy_Animated) film [Hellboy: Blood and Iron](/entry/Hellboy__Blood_and_Iron).  His appearance is altered from that of the comics slightly with the addition of a goatee.
 
 Clark is voiced by an uncredited actor.

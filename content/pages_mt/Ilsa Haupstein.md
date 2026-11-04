@@ -44,7 +44,7 @@ Vanessa Eichholz 在 2019 年 *[《地狱男爵：血皇后崛起》](/entry/Hel
 
 [1] *地狱男爵：[《毁灭之芽》](/entry/Seed_of_Destruction)* #1
 
-[2] *[《地狱男爵完全指南》](/entry/Hellboy%3A_The_Companion)*
+[2] *[《地狱男爵完全指南》](/entry/Hellboy__The_Companion)*
 
 [3]
 

@@ -1,4 +1,4 @@
-***Theater of the Dead*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy%3A%20Weird%20Tales)*, written by [Jim Pascoe](/entry/Jim%20Pascoe) and [Tom Fassbender](/entry/Tom%20Fassbender) with [Simeon Wilkins](/entry/Simeon%20Wilkins) providing the art.
+***Theater of the Dead*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy__Weird_Tales)*, written by [Jim Pascoe](/entry/Jim%20Pascoe) and [Tom Fassbender](/entry/Tom%20Fassbender) with [Simeon Wilkins](/entry/Simeon%20Wilkins) providing the art.
 
 ## Plot Synopsis
 

@@ -2,7 +2,7 @@
 
 ## 历史
 
-### *[《地狱男爵：巨人之骨》](/entry/Hellboy%3A_The_Bones_of_Giants)*
+### *[《地狱男爵：巨人之骨》](/entry/Hellboy__The_Bones_of_Giants)*
 
 拉塔托斯克出现在[地狱男爵](/entry/Hellboy_%28character%29)面前——此时他正被[雷神托尔](/entry/Thor)的灵魂附身——并向他发出关于 Thyrm 及其盟友的警告。后来在地狱男爵击败 Thyrm 之后，他又与 Mist 一同出现。
 

@@ -1,4 +1,4 @@
-《**闹鬼**》（Haunted）是一个非正史故事，发表于 *[地狱男爵：奇谈 #4](/entry/Hellboy%3A_Weird_Tales)*。[Tom Sniegoski](/entry/Tom_Sniegoski) 撰写故事，[Ovi Nedelcu](/entry/Ovi_Nedelcu) 负责绘画。
+《**闹鬼**》（Haunted）是一个非正史故事，发表于 *[地狱男爵：奇谈 #4](/entry/Hellboy__Weird_Tales)*。[Tom Sniegoski](/entry/Tom_Sniegoski) 撰写故事，[Ovi Nedelcu](/entry/Ovi_Nedelcu) 负责绘画。
 
 ## 剧情简介
 

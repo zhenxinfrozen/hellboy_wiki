@@ -46,7 +46,7 @@ Vanessa Eichholz plays the part of Ilsa in the 2019 *[Hellboy](/entry/%E5%9C%B0%
 
 [1] *Hellboy: [Seed of Destruction](/entry/Seed_of_Destruction)* \#1
 
-[2] *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*
+[2] *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*
 
 [3]
 

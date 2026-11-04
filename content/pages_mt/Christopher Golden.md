@@ -15,26 +15,26 @@ Golden 撰写了多部漫画、三部[《地狱男爵》小说](/entry/Hellboy_U
 
 #### 小说
 
-- *[《地狱男爵：失落的军团》（Hellboy: The Lost Army）](/entry/Hellboy%3A_The_Lost_Army)*（Mike Mignola 绘制插图）
-- *[《地狱男爵：巨人之骨》（Hellboy: The Bones of Giants）](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)*（Mike Mignola 绘制插图）
-- *[《地狱男爵：龙潭》（Hellboy: The Dragon Pool）](/entry/Hellboy%3A_The_Dragon_Pool)*
+- *[《地狱男爵：失落的军团》（Hellboy: The Lost Army）](/entry/Hellboy__The_Lost_Army)*（Mike Mignola 绘制插图）
+- *[《地狱男爵：巨人之骨》（Hellboy: The Bones of Giants）](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)*（Mike Mignola 绘制插图）
+- *[《地狱男爵：龙潭》（Hellboy: The Dragon Pool）](/entry/Hellboy__The_Dragon_Pool)*
 
 #### 短篇小说
 
-- 收录于 *[《地狱男爵：零工》（Hellboy: Odd Jobs）](/entry/Hellboy%3A_Odd_Jobs)* 的《纳克拉维》（"The Nuckelavee"）
+- 收录于 *[《地狱男爵：零工》（Hellboy: Odd Jobs）](/entry/Hellboy__Odd_Jobs)* 的《纳克拉维》（"The Nuckelavee"）
 - *[《空行母》（Dakini）](/entry/Dakini)*，收录于 *[《地狱男爵资料设定与角色扮演游戏》（Hellboy Sourcebook and Roleplaying Game）](/entry/Hellboy_Sourcebook_and_Roleplaying_Game)*
 
 ### 编辑
 
-- *[《地狱男爵：零工》（Hellboy: Odd Jobs）](/entry/Hellboy%3A_Odd_Jobs)*
-- *[《地狱男爵：更多零工》（Hellboy: Odder Jobs）](/entry/Hellboy%3A_Odder_Jobs)*
-- *[《地狱男爵：最怪零工》（Hellboy: Oddest Jobs）](/entry/Hellboy%3A_Oddest_Jobs)*
-- *[《地狱男爵：恐怖集锦》（Hellboy: An Assortment of Horrors）](/entry/Hellboy%3A_An_Assortment_of_Horrors)*
+- *[《地狱男爵：零工》（Hellboy: Odd Jobs）](/entry/Hellboy__Odd_Jobs)*
+- *[《地狱男爵：更多零工》（Hellboy: Odder Jobs）](/entry/Hellboy__Odder_Jobs)*
+- *[《地狱男爵：最怪零工》（Hellboy: Oddest Jobs）](/entry/Hellboy__Oddest_Jobs)*
+- *[《地狱男爵：恐怖集锦》（Hellboy: An Assortment of Horrors）](/entry/Hellboy__An_Assortment_of_Horrors)*
 
 ### 剧本
 
 - [《地狱男爵》（2019）](/entry/Hellboy_(2019_film)))（未署名）
-- [《地狱男爵：扭曲人》（Hellboy: The Crooked Man）](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)
+- [《地狱男爵：扭曲人》（Hellboy: The Crooked Man）](/entry/Hellboy__The_Crooked_Man_%28film%29)
 
 ## 与 Mignola 的其他合作
 

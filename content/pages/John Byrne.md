@@ -6,12 +6,12 @@ Byrne wrote the scripts for the three earliest *Hellboy* stories;
 
 - [*Hellboy* promotional comic \#1](/entry/World%27s%20Greatest%20Paranormal%20Investigator%20%28SDCC%29)
 - [*Hellboy* promotional comic \#2](/entry/World%27s%20Greatest%20Paranormal%20Investigator%20%28CBG%29)
-- *[Next Men: Faith – Part 3](/entry/Next%20Men%3A%20Faith%20%E2%80%93%20Part%203)*
+- *[Next Men: Faith – Part 3](/entry/Next_Men__Faith_%E2%80%93_Part_3)*
 - [*Hellboy: Seed of Destruction*](/entry/Seed%20of%20Destruction)
 
 ## Artist
 
-- *[Next Men: Faith – Part 3](/entry/Next%20Men%3A%20Faith%20%E2%80%93%20Part%203)* (with [Mike Mignola](/entry/Mike%20Mignola))
+- *[Next Men: Faith – Part 3](/entry/Next_Men__Faith_%E2%80%93_Part_3)* (with [Mike Mignola](/entry/Mike%20Mignola))
 
 ## External Links
 

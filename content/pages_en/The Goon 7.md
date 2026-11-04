@@ -34,9 +34,9 @@ Back in Tennessee, Hellboy drops the comic and spike with an exclamation of pain
 
 - Hellboy shares the story of *[Heads](/entry/Heads)* to his newfound friends. However, that story is set in 1967 – two years *after* the frame story.
 - This full issue has never been collected in *[Hellboy](/entry/Hellboy_(series))* [trade format](/entry/Trade_Collections), but elements of Mignola's artwork have been reprinted in *Hellboy*-related [art collections](/entry/Art_Books).
-  - Mignola's cover art and original (inked and lettered, but uncolored) four pages of interior artwork was included in *[Hellboy: The First 20 Years](/entry/Hellboy%3A_The_First_20_Years)*.
+  - Mignola's cover art and original (inked and lettered, but uncolored) four pages of interior artwork was included in *[Hellboy: The First 20 Years](/entry/Hellboy__The_First_20_Years)*.
   - Mignola's interior artwork was reprinted in *[Mike Mignola's The Amazing Screw on Head and Other Curious Objects: Artist's Edition](/entry/The_Amazing_Screw-On_Head_and_Other_Curious_Objects)*.
-  - The cover art was collected again in *[Hellboy: 25 Years of Covers](/entry/Hellboy%3A_25_Years_of_Covers)*.
+  - The cover art was collected again in *[Hellboy: 25 Years of Covers](/entry/Hellboy__25_Years_of_Covers)*.
 
 ## External Links
 

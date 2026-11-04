@@ -20,7 +20,7 @@ Hellboy rushes out from cover, shoots the homeowner's head, then confronts the o
 
 ## Sword of Storms
 
-A version of this story was incorporated into the [animated](/entry/Hellboy%20Animated) film, [Hellboy: Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms). This version is very similar to the comic, but takes place in modern times, and not in the 60s.
+A version of this story was incorporated into the [animated](/entry/Hellboy%20Animated) film, [Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms). This version is very similar to the comic, but takes place in modern times, and not in the 60s.
 
 ! colspan = 3 | [*Hellboy – Volume 4: The Right Hand of Doom*](/entry/TPB)
 

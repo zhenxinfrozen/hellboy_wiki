@@ -1,4 +1,4 @@
-***《十五分钟……》（Fifteen Minutes...）*** 是一则非正史故事，发表于 *[《地狱男爵：怪谈》第 8 期（Hellboy: Weird Tales \#8）](/entry/Hellboy%3A_Weird_Tales)*，由 [Jill Thompson](/entry/Jill_Thompson) 编剧并绘制。
+***《十五分钟……》（Fifteen Minutes...）*** 是一则非正史故事，发表于 *[《地狱男爵：怪谈》第 8 期（Hellboy: Weird Tales \#8）](/entry/Hellboy__Weird_Tales)*，由 [Jill Thompson](/entry/Jill_Thompson) 编剧并绘制。
 
 ## 剧情简介
 

@@ -1,4 +1,4 @@
-***Cool Your Head*** is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy%3A%20Weird%20Tales)*, both written and drawn by [Scott Morse](/entry/Scott%20Morse).
+***Cool Your Head*** is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy__Weird_Tales)*, both written and drawn by [Scott Morse](/entry/Scott%20Morse).
 
 ## Plot Synopsis
 

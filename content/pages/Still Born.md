@@ -1,4 +1,4 @@
-***Still Born*** was a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy%3A%20Weird%20Tales)*, written by [Matt Hollingsworth](/entry/Matt%20Hollingsworth) and [Alex Maleev](/entry/Alex%20Maleev) and, art by [Alex Maleev](/entry/Alex%20Maleev).
+***Still Born*** was a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy__Weird_Tales)*, written by [Matt Hollingsworth](/entry/Matt%20Hollingsworth) and [Alex Maleev](/entry/Alex%20Maleev) and, art by [Alex Maleev](/entry/Alex%20Maleev).
 
 ## Plot Synopsis
 

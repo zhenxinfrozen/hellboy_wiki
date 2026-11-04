@@ -4,4 +4,4 @@
 
 ### 插页画师（Pin-up Artist）
 
-- 发表于 *[《地狱男爵：怪谈 第 1 期》（Hellboy: Weird Tales #1）](/entry/Hellboy%3A_Weird_Tales)* 的《Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen》
+- 发表于 *[《地狱男爵：怪谈 第 1 期》（Hellboy: Weird Tales #1）](/entry/Hellboy__Weird_Tales)* 的《Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen》

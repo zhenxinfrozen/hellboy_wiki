@@ -1,4 +1,4 @@
-**The Troll Market** is a setting in *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. It is a magical shopping market hidden from the world of men.
+**The Troll Market** is a setting in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. It is a magical shopping market hidden from the world of men.
 
 ## History
 

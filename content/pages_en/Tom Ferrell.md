@@ -34,7 +34,7 @@ Tom has enough knowledge of witchcraft to identify a [witchball](/entry/witchbal
 
 ## In other media
 
-Tom Ferrell appears in *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)*, played by [Jefferson White](/entry/Jefferson_White).
+Tom Ferrell appears in *[Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)*, played by [Jefferson White](/entry/Jefferson_White).
 
 ## Trivia
 

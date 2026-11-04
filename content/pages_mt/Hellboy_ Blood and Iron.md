@@ -1,6 +1,6 @@
-***《地狱男爵动画版：铁血惊魂》（Hellboy: Blood and Iron）***是 *[《地狱男爵》](/entry/Hellboy_%28series%29)*[动画系列](/entry/Hellboy_Animated)的第二部作品（第一部是 *[《地狱男爵动画版：风暴之剑》](/entry/Hellboy%3A_Sword_of_Storms)*），由 Tad Stones 和 [Mike Mignola](/entry/Mike_Mignola) 编剧。影片主角包括[地狱男爵](/entry/Hellboy)、[丽兹·舍曼](/entry/Liz_Sherman)、[亚伯·塞皮恩](/entry/Abe_Sapien)，并首次引入[西德尼·利奇](/entry/Sidney_Leach)一角（片中名为 Sydney Leach）。影片剧情部分改编自原版漫画中《地狱男爵：[唤醒恶魔](/entry/Wake_the_Devil)》的故事线。
+***《地狱男爵动画版：铁血惊魂》（Hellboy: Blood and Iron）***是 *[《地狱男爵》](/entry/Hellboy_%28series%29)*[动画系列](/entry/Hellboy_Animated)的第二部作品（第一部是 *[《地狱男爵动画版：风暴之剑》](/entry/Hellboy__Sword_of_Storms)*），由 Tad Stones 和 [Mike Mignola](/entry/Mike_Mignola) 编剧。影片主角包括[地狱男爵](/entry/Hellboy)、[丽兹·舍曼](/entry/Liz_Sherman)、[亚伯·塞皮恩](/entry/Abe_Sapien)，并首次引入[西德尼·利奇](/entry/Sidney_Leach)一角（片中名为 Sydney Leach）。影片剧情部分改编自原版漫画中《地狱男爵：[唤醒恶魔](/entry/Wake_the_Devil)》的故事线。
 
-影片于 2007 年 3 月 17 日在 Cartoon Network 首播；为宣传 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 的上映，又于 2008 年 7 月 19 日重播；DVD 由 Anchor Bay Entertainment 于 2007 年 3 月 10 日发行。
+影片于 2007 年 3 月 17 日在 Cartoon Network 首播；为宣传 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 的上映，又于 2008 年 7 月 19 日重播；DVD 由 Anchor Bay Entertainment 于 2007 年 3 月 10 日发行。
 
 ## 剧情
 
@@ -40,6 +40,6 @@ DVD 收录了若干特别内容，包括：
   - 一幅[拉格纳洛克计划](/entry/Project_Ragna_Rok)标志的素描
   - [Rasputin](/entry/Rasputin)、[Kroenen](/entry/Kroenen)、[伊尔莎·豪普斯坦](/entry/Ilsa_Haupstein)和[利奥波德·克茨](/entry/Leopold_Kurtz)的画像，出自 *[《毁灭之芽》](/entry/Seed_of_Destruction)*
   - 一本书，封面上是一只手举着燃烧的杯子——这个符号出自[罗杰](/entry/Roger)在 *[《唤醒恶魔》](/entry/Wake_the_Devil)* 第 3 期中被发现的那个房间，也是 *[《近乎巨人》](/entry/Almost_Colossus)* 第 1 期的封面
-  - 还有一尊蝙蝠雕像，出自[《地狱男爵动画版：风暴之剑》](/entry/Hellboy%3A_Sword_of_Storms)的开场
+  - 还有一尊蝙蝠雕像，出自[《地狱男爵动画版：风暴之剑》](/entry/Hellboy__Sword_of_Storms)的开场
   - *"[《毁灭之右手》](/entry/The_Right_Hand_of_Doom)"* 中的利莫里亚羊皮卷。这一场戏里 Malcolm Frost 的台词包含一句宗教引语，他的儿子 Adrian 在同一部漫画中也引用了它。
 - 地狱男爵与赫卡忒之间的对话几乎逐字取自《唤醒恶魔》——本片灵感来源的那条漫画故事线。

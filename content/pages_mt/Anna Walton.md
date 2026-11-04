@@ -1,6 +1,6 @@
 ![](/content/images/AnnaWalton.jpg)
 
-**Anna Walton** 是一名英国女演员，饰演[努阿拉公主（Princess Nuala）](/entry/Nuala)，该角色出自 *[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II%3A_The_Golden_Army)*。
+**Anna Walton** 是一名英国女演员，饰演[努阿拉公主（Princess Nuala）](/entry/Nuala)，该角色出自 *[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II__The_Golden_Army)*。
 
 ## 知名角色
 

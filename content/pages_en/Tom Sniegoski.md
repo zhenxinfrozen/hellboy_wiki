@@ -4,9 +4,9 @@
 
 ### Prose
 
-- *[Hellboy: The God Machine](/entry/Hellboy%3A_The_God_Machine)*
-- *[Lobster Johnson: The Satan Factory](/entry/Lobster_Johnson%3A_The_Satan_Factory)*
-- "Act of Mercy" in *[Hellboy: Odder Jobs](/entry/Hellboy%3A_Odder_Jobs)*
+- *[Hellboy: The God Machine](/entry/Hellboy__The_God_Machine)*
+- *[Lobster Johnson: The Satan Factory](/entry/Lobster_Johnson__The_Satan_Factory)*
+- "Act of Mercy" in *[Hellboy: Odder Jobs](/entry/Hellboy__Odder_Jobs)*
 
 ### Comics
 

@@ -1,4 +1,4 @@
-***The Dread Within*** was a non-canonical story published in [*Hellboy: Weird Tales* \#4](/entry/Hellboy%3A_Weird_Tales). [Jason Pearson](/entry/Jason_Pearson) both wrote and did the art for the story.
+***The Dread Within*** was a non-canonical story published in [*Hellboy: Weird Tales* \#4](/entry/Hellboy__Weird_Tales). [Jason Pearson](/entry/Jason_Pearson) both wrote and did the art for the story.
 
 ## Plot Synopsis
 

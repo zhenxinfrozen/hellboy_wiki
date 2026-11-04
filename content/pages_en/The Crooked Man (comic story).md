@@ -1,4 +1,4 @@
-*For the 2024 film adaptation, see [Hellboy: The Crooked Man (film)](/entry/Hellboy:_The_Crooked_Man_(film)).*
+*For the 2024 film adaptation, see [Hellboy: The Crooked Man (film)](/entry/Hellboy__The_Crooked_Man_%28film%29).*
 
 In ***The Crooked Man***, [Hellboy](/entry/Hellboy_(character)) confronts a minion of the devil in 1950s Appalachia.
 

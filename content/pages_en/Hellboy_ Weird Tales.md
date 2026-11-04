@@ -80,7 +80,7 @@ August 27, 2003
 [Jason Pearson](/entry/Jason_Pearson)
 <em>Shred</em> pin-up by [Rick Cortes](/entry/Rick_Cortes)
 
-<em>[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)</em>
+<em>[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)</em>
 [John Arcudi](/entry/John_Arcudi)
 [Roger Langridge](/entry/Roger_Langridge)
 

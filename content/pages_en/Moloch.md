@@ -22,7 +22,7 @@ Following the death of [Satan](/entry/Satan) at the hands of Hellboy, as well as
 
 ## Non-Canon Story
 
-### [Hellboy: On Earth as it is in Hell](/entry/Hellboy%3A_On_Earth_as_it_is_in_Hell)
+### [Hellboy: On Earth as it is in Hell](/entry/Hellboy__On_Earth_as_it_is_in_Hell)
 
 ***N.B.**: This information is not canon.*
 

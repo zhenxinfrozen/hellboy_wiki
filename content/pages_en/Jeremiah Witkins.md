@@ -31,4 +31,4 @@ Mr. Onselm a.k.a. The Crooked Man portrayed by Martin Bassindale.
 
 - One of the panels depicting him in life shows him handing (with a smile) a gun and a bottle to a native American. This is a stereotypical depiction of what some unscrupulous people did up until the late 1800s.
 
-- In the film [*Hellboy: The Crooked Man*](/entry/Hellboy%3A_The_Crooked_Man_%28film%29), he is portrayed by [Martin Bassindale](/entry/Martin_Bassindale). His original name is changed from "Jeremiah Witkins" to "Mr. Onselm."
+- In the film [*Hellboy: The Crooked Man*](/entry/Hellboy__The_Crooked_Man_%28film%29), he is portrayed by [Martin Bassindale](/entry/Martin_Bassindale). His original name is changed from "Jeremiah Witkins" to "Mr. Onselm."

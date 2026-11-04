@@ -1,4 +1,4 @@
-**诺霍克斯·卡尼斯（Nohox Kanis）**是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 中的恶魔。
+**诺霍克斯·卡尼斯（Nohox Kanis）**是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 中的恶魔。
 
 ## 背景
 

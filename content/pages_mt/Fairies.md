@@ -2,7 +2,7 @@
 
 他们不如巨人古老，过去还曾与巨人交战。
 
-在小说[《上帝机器》](/entry/Hellboy%3A_The_God_Machine)（The God Machine）中，地狱男爵遇到了名为格雷肯·斯普里根（Graken Spriggan）的仙灵。
+在小说[《上帝机器》](/entry/Hellboy__The_God_Machine)（The God Machine）中，地狱男爵遇到了名为格雷肯·斯普里根（Graken Spriggan）的仙灵。
 
 ## 历史
 

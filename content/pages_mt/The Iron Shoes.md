@@ -37,7 +37,7 @@
 
 ## 动画版
 
-《铁鞋》的一个动画短片版被收录在《[地狱男爵：铁血惊魂](/entry/Hellboy%3A_Blood_and_Iron)》的DVD中，同名反派由 Dan Castellaneta 配音。
+《铁鞋》的一个动画短片版被收录在《[地狱男爵：铁血惊魂](/entry/Hellboy__Blood_and_Iron)》的DVD中，同名反派由 Dan Castellaneta 配音。
 
 ## 注释
 

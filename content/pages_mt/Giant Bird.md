@@ -1,4 +1,4 @@
-**巨鸟**（Giant Bird）是 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 游戏中的虚构怪物。这种生物是否有特定名字尚不清楚，游戏中仅以"巨鸟"称之。
+**巨鸟**（Giant Bird）是 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 游戏中的虚构怪物。这种生物是否有特定名字尚不清楚，游戏中仅以"巨鸟"称之。
 
 ## 历史
 

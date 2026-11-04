@@ -2,7 +2,7 @@
 
 ## 配音阵容
 
-[朗·普尔曼（Ron Perlman）](/entry/Ron_Perlman)、[塞尔玛·布莱尔（Selma Blair）](/entry/Selma_Blair)和[约翰·赫特（John Hurt）](/entry/John_Hurt)在《地狱男爵动画版》中再次演绎[地狱男爵](/entry/Hellboy_%28character%29)、[莉兹·谢尔曼](/entry/Elizabeth_Sherman)和[特雷弗·布鲁滕霍尔姆教授](/entry/Trevor_Bruttenholm)这三个角色——他们曾在 [2004 年](/entry/Hellboy_%28film%29)和 [2008 年](/entry/Hellboy_II%3A_The_Golden_Army)的真人电影中饰演这些角色。[亚伯·塞皮恩](/entry/Abraham_Sapien)由[道格·琼斯（Doug Jones）](/entry/Doug_Jones)配音，他在真人电影中饰演亚伯。这些电影是他首次为亚伯配音。（[大卫·海德·皮尔斯（David Hyde Pierce）](/entry/David_Hyde_Pierce)在第一部真人电影中为亚伯配音。）
+[朗·普尔曼（Ron Perlman）](/entry/Ron_Perlman)、[塞尔玛·布莱尔（Selma Blair）](/entry/Selma_Blair)和[约翰·赫特（John Hurt）](/entry/John_Hurt)在《地狱男爵动画版》中再次演绎[地狱男爵](/entry/Hellboy_%28character%29)、[莉兹·谢尔曼](/entry/Elizabeth_Sherman)和[特雷弗·布鲁滕霍尔姆教授](/entry/Trevor_Bruttenholm)这三个角色——他们曾在 [2004 年](/entry/Hellboy_%28film%29)和 [2008 年](/entry/Hellboy_II__The_Golden_Army)的真人电影中饰演这些角色。[亚伯·塞皮恩](/entry/Abraham_Sapien)由[道格·琼斯（Doug Jones）](/entry/Doug_Jones)配音，他在真人电影中饰演亚伯。这些电影是他首次为亚伯配音。（[大卫·海德·皮尔斯（David Hyde Pierce）](/entry/David_Hyde_Pierce)在第一部真人电影中为亚伯配音。）
 
 - 朗·普尔曼 饰 地狱男爵
 - 塞尔玛·布莱尔 饰 莉兹·谢尔曼
@@ -28,7 +28,7 @@
 
 被放弃的第三部电影。它本将是[龙虾人约翰逊](/entry/The_Lobster)在该系列中的首次亮相，不过影片主要角色原本将是地狱男爵和凯特。
 
-2008 年 3 月 19 日，制片人塔德·斯通斯（Tad Stones）在《地狱男爵动画版》网站上发布消息称，目前没有在进行这部电影的任何工作。不过，斯通斯也写道，可能会制作一些规模较小的动画项目在网络上发布，并暗示《[地狱男爵 2：黄金军团](/entry/Hellboy_II%3A_The_Golden_Army)》的上映可能会影响动画电影系列的未来。
+2008 年 3 月 19 日，制片人塔德·斯通斯（Tad Stones）在《地狱男爵动画版》网站上发布消息称，目前没有在进行这部电影的任何工作。不过，斯通斯也写道，可能会制作一些规模较小的动画项目在网络上发布，并暗示《[地狱男爵 2：黄金军团](/entry/Hellboy_II__The_Golden_Army)》的上映可能会影响动画电影系列的未来。
 
 此后，《幻影之爪》的所有工作已被无限期搁置。
 

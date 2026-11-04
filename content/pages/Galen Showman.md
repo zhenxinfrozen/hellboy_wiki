@@ -12,6 +12,6 @@
 
 ### Pin-Up Artist
 
-- *Hellboy v. Rasputin* in [ *Hellboy: Weird Tales \#3*](/entry/Hellboy%3A%20Weird%20Tales)
+- *Hellboy v. Rasputin* in [ *Hellboy: Weird Tales \#3*](/entry/Hellboy__Weird_Tales)
 
 **Showman, Galen** **Showman, Galen**

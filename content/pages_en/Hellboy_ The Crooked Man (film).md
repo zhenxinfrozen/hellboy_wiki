@@ -152,7 +152,7 @@ Hellboy- The Crooked Man - Snake Attack (Official Clip)
 
 - *Hellboy: The Crooked Man* is the first [Hellboy](/entry/Hellboy_(series)) film not to be set in the present day (as of their release); it takes place in the 1950s.
 - Hellboy creator [Mike Mignola](/entry/Mike_Mignola) considered the movie to be one of the most comic-book-accurate adaptations to date: "In other *\[Hellboy\]* movies, there have been moments where I’ve gone, 'Oh, cool, that's the comic.' But this thing was so much the comic."
-- A UK poster advertised the film as the fourth entry in the *Hellboy* franchise. Though this is the fourth live-action film featuring the character, they are not canonically connected in the manner the tagline implies; of the four, only *[Hellboy](/entry/Hellboy_(2004_film))* and *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)* are in continuity with each other.
+- A UK poster advertised the film as the fourth entry in the *Hellboy* franchise. Though this is the fourth live-action film featuring the character, they are not canonically connected in the manner the tagline implies; of the four, only *[Hellboy](/entry/Hellboy_(2004_film))* and *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* are in continuity with each other.
 - The film also adapts elements of *[The Chained Coffin](/entry/The_Chained_Coffin)*.
 
 ### Differences from the *[Hellboy: The Crooked Man](/entry/The_Crooked_Man_(comic_story))* comic

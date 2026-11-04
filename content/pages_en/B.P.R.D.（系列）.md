@@ -6,7 +6,7 @@ The *B.P.R.D.* series made its [first appearance](/entry/B.P.R.D._%28teaser%29) 
 
 Beginning with the short story *[Born Again](/entry/Born_Again)*, [John Arcudi](/entry/John_Arcudi) came aboard *B.P.R.D.* as the series' co-writer and he has done the bulk of the writing ever since, with Mike Mignola focusing more on the "big picture" stuff.
 
-In 2010 the series began its second major story cycle, *[Hell on Earth](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))*, resulting in a logo change and an extended title. In 2011 Guy Davis retired as the ongoing artist, passing the baton onto [Tyler Crook](/entry/Tyler_Crook). During the course of the cycle, Crook became one of multiple rotating artists including [James Harren](/entry/James_Harren) and [Laurence Campbell](/entry/Laurence_Campbell).
+In 2010 the series began its second major story cycle, *[Hell on Earth](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))*, resulting in a logo change and an extended title. In 2011 Guy Davis retired as the ongoing artist, passing the baton onto [Tyler Crook](/entry/Tyler_Crook). During the course of the cycle, Crook became one of multiple rotating artists including [James Harren](/entry/James_Harren) and [Laurence Campbell](/entry/Laurence_Campbell).
 
 In late 2015 it was announced that John Arcudi was leaving the main B.P.R.D. title and that [Cometh the Hour](/entry/Cometh_the_Hour), the final story in the Hell on Earth saga, would be his last. However Arcudi continues to contribute to the [Lobster Johnson (series)](/entry/Lobster_Johnson) series.
 
@@ -22,7 +22,7 @@ The third and final major story cycle, ***[The Devil You Know](/entry/The_Devil_
 
 This story cycle was the primary ongoing plotline from 2002-2010. It was retroactively given the title *Plague of Frogs* when collected in [omnibus editions](/entry/Omnibus_Editions). It primarily dealt with the B.P.R.D.'s conflict with the [frog monsters](/entry/Frog_monster), the Sub-terranian race, and [Memnan Saa](/entry/Memnan_Saa).
 
-### [*Hell on Earth* cycle](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
+### [*Hell on Earth* cycle](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
 
 *see also: [List of **B.P.R.D.: Hell on Earth** stories](/entry/%3ACategory%3AB.P.R.D.%3A_Hell_on_Earth_story)*
 
@@ -245,7 +245,7 @@ All in-continuity *B.P.R.D.* stories are collected into trade paperbacks eventua
 
 *see also [B.P.R.D. Omnibus Editions](/entry/Omnibus_Editions)*
 
-The [*Plague of Frogs* cycle](/entry/Plague_of_Frogs_%28story_cycle%29), *[1946–1948](/entry/1946%E2%80%931948_%28story_cycle%29)*, *[*Hell on Earth* cycle](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)), and [The Devil You Know cycle](/entry/The_Devil_You_Know_%28story_cycle%29)*have been collected in omnibus editions. The story *[Casualties](/entry/Casualties)* has been collected as part of the [Abe Sapien](/entry/Abe_Sapien_%28series%29) series. The stories *[The Dead Remembered](/entry/The_Dead_Remembered) and [The Ectoplasmic Man](/entry/The_Ectoplasmic_Man)*have not been collected in any omnibus edition.
+The [*Plague of Frogs* cycle](/entry/Plague_of_Frogs_%28story_cycle%29), *[1946–1948](/entry/1946%E2%80%931948_%28story_cycle%29)*, *[*Hell on Earth* cycle](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)), and [The Devil You Know cycle](/entry/The_Devil_You_Know_%28story_cycle%29)*have been collected in omnibus editions. The story *[Casualties](/entry/Casualties)* has been collected as part of the [Abe Sapien](/entry/Abe_Sapien_%28series%29) series. The stories *[The Dead Remembered](/entry/The_Dead_Remembered) and [The Ectoplasmic Man](/entry/The_Ectoplasmic_Man)*have not been collected in any omnibus edition.
 
 ## References
 

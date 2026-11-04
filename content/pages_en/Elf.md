@@ -1,4 +1,4 @@
-**Elves** are a type of magical creature featured in *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, modeled after the [Daoine Sidhe](/entry/Daoine_Sidhe) from the Hellboy comics. Their appearances often range from beautiful and very human to a strikingly unusual one.
+**Elves** are a type of magical creature featured in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, modeled after the [Daoine Sidhe](/entry/Daoine_Sidhe) from the Hellboy comics. Their appearances often range from beautiful and very human to a strikingly unusual one.
 
 ## History
 

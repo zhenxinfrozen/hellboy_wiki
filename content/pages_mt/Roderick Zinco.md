@@ -8,7 +8,7 @@
 
 ### 《地狱男爵 2：黄金军团》
 
-*[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 的 DVD 版收录了一段发生在电影剧情之后的动画故事，名为"津科尾声"（The Zinco Epilogue）。这段尾声是对《[唤醒恶魔](/entry/Wake_the_Devil)》开篇情节的松散改编，讲述罗德里克·津科遇到了克罗嫩被斩下的头颅以及拉斯普廷的鬼魂。
+*[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 的 DVD 版收录了一段发生在电影剧情之后的动画故事，名为"津科尾声"（The Zinco Epilogue）。这段尾声是对《[唤醒恶魔](/entry/Wake_the_Devil)》开篇情节的松散改编，讲述罗德里克·津科遇到了克罗嫩被斩下的头颅以及拉斯普廷的鬼魂。
 
 ## 参考资料
 

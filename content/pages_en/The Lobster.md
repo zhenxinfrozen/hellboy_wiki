@@ -77,7 +77,7 @@ The Lobster appearing in a teaser for the unproduced <em>The Phantom Claw</em>.
 
 - Lobster Johnson has a brief cameo in the second [animated Hellboy](/entry/Hellboy_Animated) film, *[Blood and Iron](/entry/Blood_and_Iron)*, appearing during a flashback scene showing Hellboy's birth and [Malcolm Frost](/entry/Malcolm_Frost)'s reaction to the creature.
   - A post-credits scene featured a teaser for a third film, *The Phantom Claw*, where the Lobster would assisted Hellboy and [Kate Corrigan](/entry/Kate_Corrigan) in battling the ghost of [Rasputin](/entry/Grigori_Rasputin). This film was ultimately cancelled.
-- The Lobster is vaguely alluded to in *[Hellboy: The Science of Evil](/entry/Hellboy%3A_The_Science_of_Evil)*.
+- The Lobster is vaguely alluded to in *[Hellboy: The Science of Evil](/entry/Hellboy__The_Science_of_Evil)*.
   - Achievements connected to cancelled DLC refer to the Lobster (one is called "Taste the Lobster's Claw", and another refers to playing "as Lobster"). The game's credits list Bruce Campbell as voicing a "CLASSIFIED" role, implying he was to provide the Lobster's voice in this DLC.
 - In the video game *[Injustice 2](/entry/Injustice_2)*, pre-match dialogue against [The Flash](/entry/w%3Ac%3Ainjustice%3AThe_Flash_%28Jay_Garrick%29) (Jay Garrick) may include [Hellboy](/entry/Hellboy_%28Injustice%29) asking Garrick if he ever met the Lobster. The Flash appreciatively replies "Ah, finally someone who knows his history," indicating his awareness of his fellow 1940s crimefighter.
 - The Lobster appears briefly in the 2019 film *[Hellboy](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9A%87%E5%90%8E%E5%B4%9B%E8%B5%B7))*, portrayed by [Thomas Haden Church](/entry/Thomas_Haden_Church).

@@ -1,4 +1,4 @@
-***Party Pooper*** is a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy%3A%20Weird%20Tales)*, with both art and story by [Andi Watson](/entry/Andi%20Watson).
+***Party Pooper*** is a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy__Weird_Tales)*, with both art and story by [Andi Watson](/entry/Andi%20Watson).
 
 ## Plot Synopsis
 

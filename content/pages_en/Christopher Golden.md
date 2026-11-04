@@ -15,26 +15,26 @@ Golden has written a number of comics, three [*Hellboy* novels](/entry/Hellboy_U
 
 #### Novels
 
-- *[Hellboy: The Lost Army](/entry/Hellboy%3A_The_Lost_Army)* (with illustrations by Mike Mignola)
-- *[Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)* (with illustrations by Mike Mignola)
-- *[Hellboy: The Dragon Pool](/entry/Hellboy%3A_The_Dragon_Pool)*
+- *[Hellboy: The Lost Army](/entry/Hellboy__The_Lost_Army)* (with illustrations by Mike Mignola)
+- *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)* (with illustrations by Mike Mignola)
+- *[Hellboy: The Dragon Pool](/entry/Hellboy__The_Dragon_Pool)*
 
 #### Short Story
 
-- "*The Nuckelavee*" from *[Hellboy: Odd Jobs](/entry/Hellboy%3A_Odd_Jobs)*
+- "*The Nuckelavee*" from *[Hellboy: Odd Jobs](/entry/Hellboy__Odd_Jobs)*
 - "*[Dakini](/entry/Dakini)*" from *[Hellboy Sourcebook and Roleplaying Game](/entry/Hellboy_Sourcebook_and_Roleplaying_Game)*
 
 ### Editor
 
-- *[Hellboy: Odd Jobs](/entry/Hellboy%3A_Odd_Jobs)*
-- *[Hellboy: Odder Jobs](/entry/Hellboy%3A_Odder_Jobs)*
-- *[Hellboy: Oddest Jobs](/entry/Hellboy%3A_Oddest_Jobs)*
-- *[Hellboy: An Assortment of Horrors](/entry/Hellboy%3A_An_Assortment_of_Horrors)*
+- *[Hellboy: Odd Jobs](/entry/Hellboy__Odd_Jobs)*
+- *[Hellboy: Odder Jobs](/entry/Hellboy__Odder_Jobs)*
+- *[Hellboy: Oddest Jobs](/entry/Hellboy__Oddest_Jobs)*
+- *[Hellboy: An Assortment of Horrors](/entry/Hellboy__An_Assortment_of_Horrors)*
 
 ### Screenplays
 
 - [Hellboy (2019)](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9A%87%E5%90%8E%E5%B4%9B%E8%B5%B7)) (Uncredited)
-- [Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)
+- [Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)
 
 ## Additional Collaborations with Mignola
 

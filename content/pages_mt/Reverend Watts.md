@@ -10,10 +10,10 @@
 
 ## 其他媒体
 
-沃茨牧师登场于[《Hellboy: The Crooked Man》](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)，由[Joseph Marcell](/entry/Joseph_Marcell)饰演。
+沃茨牧师登场于[《Hellboy: The Crooked Man》](/entry/Hellboy__The_Crooked_Man_%28film%29)，由[Joseph Marcell](/entry/Joseph_Marcell)饰演。
 
 ## 趣闻
 
 - 沃茨牧师在内心深处多少对自己终身未婚感到遗憾。
 - 他是天生失明，还是在后来的人生中因某种不幸而失明，已无从考证。
-- 在即将上映的电影[《Hellboy: The Crooked Man》](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)中，他由[Joseph Marcell](/entry/Joseph_Marcell)饰演。
+- 在即将上映的电影[《Hellboy: The Crooked Man》](/entry/Hellboy__The_Crooked_Man_%28film%29)中，他由[Joseph Marcell](/entry/Joseph_Marcell)饰演。

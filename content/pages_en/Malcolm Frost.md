@@ -23,7 +23,7 @@ Hellboy was granted honorary human status on August 6, 1952,[5] which only incre
 
 [2]
 
-[3] *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*
+[3] *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*
 
 [4] *[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.): [1952](/entry/1952)* \#5
 

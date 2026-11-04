@@ -4,4 +4,4 @@
 
 ### 插页海报画师
 
-- [《地狱男爵：奇谈 #4》（Hellboy: Weird Tales #4）](/entry/Hellboy%3A_Weird_Tales) 中的 *Shred*
+- [《地狱男爵：奇谈 #4》（Hellboy: Weird Tales #4）](/entry/Hellboy__Weird_Tales) 中的 *Shred*

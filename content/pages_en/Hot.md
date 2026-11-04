@@ -1,4 +1,4 @@
-***Hot*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy%3A_Weird_Tales)*, the story is by [Randy Stradley](/entry/Randy_Stradley) and art by [Seung Kim](/entry/Seung_Kim).
+***Hot*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy__Weird_Tales)*, the story is by [Randy Stradley](/entry/Randy_Stradley) and art by [Seung Kim](/entry/Seung_Kim).
 
 ## Plot Synopsis
 

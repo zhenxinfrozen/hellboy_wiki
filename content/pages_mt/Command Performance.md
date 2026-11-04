@@ -1,4 +1,4 @@
-《**压轴演出**》（Command Performance）是一个非正史故事，发表于 *[地狱男爵：奇谈 #6](/entry/Hellboy%3A_Weird_Tales)*，由 [Will Pfeifer](/entry/Will_Pfeifer) 编剧，[P. Craig Russell](/entry/P._Craig_Russell) 绘画。
+《**压轴演出**》（Command Performance）是一个非正史故事，发表于 *[地狱男爵：奇谈 #6](/entry/Hellboy__Weird_Tales)*，由 [Will Pfeifer](/entry/Will_Pfeifer) 编剧，[P. Craig Russell](/entry/P._Craig_Russell) 绘画。
 
 ## 剧情简介
 
@@ -6,7 +6,7 @@
 
 ## 出版历史
 
-在首次刊载于 *[地狱男爵：奇谈 #6](/entry/Hellboy%3A_Weird_Tales)* 之后，《压轴演出》被收录进[《地狱男爵：奇谈》第2卷](/entry/Hellboy%3A_Weird_Tales)，后来又被收录进[《地狱男爵：奇谈》合集](/entry/Hellboy%3A_Weird_Tales)。该故事的一个未上色版本还可以在《P. Craig Russell's Murder Myteries and Other Stories Gallery Edition》中找到。
+在首次刊载于 *[地狱男爵：奇谈 #6](/entry/Hellboy__Weird_Tales)* 之后，《压轴演出》被收录进[《地狱男爵：奇谈》第2卷](/entry/Hellboy__Weird_Tales)，后来又被收录进[《地狱男爵：奇谈》合集](/entry/Hellboy__Weird_Tales)。该故事的一个未上色版本还可以在《P. Craig Russell's Murder Myteries and Other Stories Gallery Edition》中找到。
 
 ## 外部链接
 

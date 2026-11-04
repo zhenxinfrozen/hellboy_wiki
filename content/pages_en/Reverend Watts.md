@@ -10,10 +10,10 @@ He was also capable of imbuing items with "Holy Spirit" to make them rather effe
 
 ## In other media
 
- Reverend Watts appears in *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)*, played by [Joseph Marcell](/entry/Joseph_Marcell).
+ Reverend Watts appears in *[Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)*, played by [Joseph Marcell](/entry/Joseph_Marcell).
 
 ## Trivia
 
 - Reverend Watts apparently does at some level regret that he did not marry.
 - Whether he was blind from birth or through some misfortune in later life is unknown.
-- In the upcoming film *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)*, he is played by [Joseph Marcell](/entry/Joseph_Marcell).
+- In the upcoming film *[Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)*, he is played by [Joseph Marcell](/entry/Joseph_Marcell).

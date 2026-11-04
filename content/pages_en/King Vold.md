@@ -14,13 +14,13 @@ Hellboy returns to Bruttenholm, and Aickman is shown reduced to begging for mone
 
 ## Story Chronology
 
-The story takes place in 1956. In a box it is also said that Trevor Bruttenholm adopted Hellboy in 1946 and that Hellboy became a [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) field agent in 1952. The events of *[B.P.R.D.: 1946](/entry/1946)* occur shortly after the adoption.[1] Hellboy's start as a field agent in 1952 is also mentioned in *[The Wolves of Saint August](/entry/The_Wolves_of_Saint_August)*, *["Hi, My Name's Hellboy"](/entry/%22Hi%2C_My_Name%27s_Hellboy%22)* and *[The Right Hand of Doom](/entry/The_Right_Hand_of_Doom)*.
+The story takes place in 1956. In a box it is also said that Trevor Bruttenholm adopted Hellboy in 1946 and that Hellboy became a [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) field agent in 1952. The events of *[B.P.R.D.: 1946](/entry/1946)* occur shortly after the adoption.[1] Hellboy's start as a field agent in 1952 is also mentioned in *[The Wolves of Saint August](/entry/The_Wolves_of_Saint_August)*, *["Hi, My Name's Hellboy"](/entry/Hi%2C_My_Name%27s_Hellboy)* and *[The Right Hand of Doom](/entry/The_Right_Hand_of_Doom)*.
 
 ## Connections to Other Stories
 
 - King Vold is mentioned by name in [*Hellboy: The Wild Hunt* \#7](/entry/The_Wild_Hunt).
-- The legend of King Vold is mentioned by [Kate Corrigan](/entry/Kate_Corrigan) in the Animated film *[Hellboy: Sword of Storms](/entry/Hellboy%3A_Sword_of_Storms)*. The details of the legend are the same. However, in the movie it was Kate, not Hellboy, who investigated. Also she travels to Prague, not Norway.
-- Hellboy mentions his encounter with King Vold when he encounters Professor Aickmann again in Stockholm, in *[Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)*.
+- The legend of King Vold is mentioned by [Kate Corrigan](/entry/Kate_Corrigan) in the Animated film *[Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)*. The details of the legend are the same. However, in the movie it was Kate, not Hellboy, who investigated. Also she travels to Prague, not Norway.
+- Hellboy mentions his encounter with King Vold when he encounters Professor Aickmann again in Stockholm, in *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)*.
 
 ## Content
 

@@ -13,4 +13,4 @@
 
 ### 插页画师
 
-- 收录于[《地狱男爵：奇谈 第 3 期》（*Hellboy: Weird Tales* #3）](/entry/Hellboy%3A_Weird_Tales)的《地狱男爵大战拉斯普廷》（*Hellboy v. Rasputin*）
+- 收录于[《地狱男爵：奇谈 第 3 期》（*Hellboy: Weird Tales* #3）](/entry/Hellboy__Weird_Tales)的《地狱男爵大战拉斯普廷》（*Hellboy v. Rasputin*）

@@ -1,4 +1,4 @@
-《**派对煞星**》（Party Pooper）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #1](/entry/Hellboy%3A_Weird_Tales)》，故事与作画均由 [Andi Watson](/entry/Andi_Watson) 完成。
+《**派对煞星**》（Party Pooper）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #1](/entry/Hellboy__Weird_Tales)》，故事与作画均由 [Andi Watson](/entry/Andi_Watson) 完成。
 
 ## 剧情简介
 

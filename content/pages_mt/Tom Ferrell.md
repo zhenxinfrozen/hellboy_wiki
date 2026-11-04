@@ -34,7 +34,7 @@
 
 ## 其他媒体
 
-汤姆·费雷尔登场于[《Hellboy: The Crooked Man》](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)，由[Jefferson White](/entry/Jefferson_White)饰演。
+汤姆·费雷尔登场于[《Hellboy: The Crooked Man》](/entry/Hellboy__The_Crooked_Man_%28film%29)，由[Jefferson White](/entry/Jefferson_White)饰演。
 
 ## 趣闻
 

@@ -1,4 +1,4 @@
-***Flight Risk*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy%3A%20Weird%20Tales)*, written by [Joe Casey](/entry/Joe%20Casey) and art by [Steve Parkhouse](/entry/Steve%20Parkhouse).
+***Flight Risk*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy__Weird_Tales)*, written by [Joe Casey](/entry/Joe%20Casey) and art by [Steve Parkhouse](/entry/Steve%20Parkhouse).
 
 ## Plot Synopsis
 

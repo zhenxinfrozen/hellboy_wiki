@@ -10,7 +10,7 @@
 
 2014年5月，一则新的《小小地狱男爵》故事《The Chained Coughin'》被收录进 Dark Horse 的免费漫画日刊物 *[免费漫画日2014：全年龄](/entry/Free_Comic_Book_Day_2014%3A_All_Ages)*。
 
-续作系列 *[小小地狱男爵：寻找狼人豹！](/entry/Itty_Bitty_Hellboy%3A_The_Search_for_the_Were-Jaguar%21)* 的第一期于2015年11月发行。
+续作系列 *[小小地狱男爵：寻找狼人豹！](/entry/Itty_Bitty_Hellboy__The_Search_for_the_Were-Jaguar%21)* 的第一期于2015年11月发行。
 
 ## 剧情简介
 

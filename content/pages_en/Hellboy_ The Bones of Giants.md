@@ -1,4 +1,4 @@
-***The Bones of Giants*** is a four-issue miniseries coming out November 2021 written by [Mike Mignola](/entry/Mike_Mignola) and [Christopher Golden](/entry/Christopher_Golden) with art by [Matt Smith](/entry/Matt_Smith). It is an adaptation of the 2001 prose novel *[Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)* also written by Mignola and Golden.
+***The Bones of Giants*** is a four-issue miniseries coming out November 2021 written by [Mike Mignola](/entry/Mike_Mignola) and [Christopher Golden](/entry/Christopher_Golden) with art by [Matt Smith](/entry/Matt_Smith). It is an adaptation of the 2001 prose novel *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)* also written by Mignola and Golden.
 
 ## Publication History
 
@@ -22,7 +22,7 @@ Hellboy and the others make their way to the ghost city of Utgard in search of T
 
 ## Story Chronology
 
-While the original [*Hellboy: The Bones of Giants* prose novel](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29) took place in August 1999, the comic book adaptation takes place in February 1988. Christopher Golden has not commented on the reason for the change, but he did say that where the prose novel and the comics conflict, the comic should be considered canon.
+While the original [*Hellboy: The Bones of Giants* prose novel](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29) took place in August 1999, the comic book adaptation takes place in February 1988. Christopher Golden has not commented on the reason for the change, but he did say that where the prose novel and the comics conflict, the comic should be considered canon.
 
 ## Content
 

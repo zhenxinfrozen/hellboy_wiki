@@ -1,4 +1,4 @@
-**Seth MacFarlane** (b. 1973), is an American writer, producer and actor who voices [Johann Kraus](/entry/Johann_Kraus) in *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+**Seth MacFarlane** (b. 1973), is an American writer, producer and actor who voices [Johann Kraus](/entry/Johann_Kraus) in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 ## Notable Roles
 

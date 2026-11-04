@@ -4,9 +4,9 @@
 
 ### 小说
 
-- [《地狱男爵：上帝机器》（Hellboy: The God Machine）](/entry/Hellboy%3A_The_God_Machine)
-- [《龙虾约翰逊：撒旦工厂》（Lobster Johnson: The Satan Factory）](/entry/Lobster_Johnson%3A_The_Satan_Factory)
-- 收录于[《地狱男爵：更古怪的差事》（Hellboy: Odder Jobs）](/entry/Hellboy%3A_Odder_Jobs)中的《仁慈之举》（"Act of Mercy"）
+- [《地狱男爵：上帝机器》（Hellboy: The God Machine）](/entry/Hellboy__The_God_Machine)
+- [《龙虾约翰逊：撒旦工厂》（Lobster Johnson: The Satan Factory）](/entry/Lobster_Johnson__The_Satan_Factory)
+- 收录于[《地狱男爵：更古怪的差事》（Hellboy: Odder Jobs）](/entry/Hellboy__Odder_Jobs)中的《仁慈之举》（"Act of Mercy"）
 
 ### 漫画
 

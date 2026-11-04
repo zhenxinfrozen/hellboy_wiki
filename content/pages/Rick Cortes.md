@@ -4,6 +4,6 @@
 
 ### Pin-Up Artist
 
-- *Shred* in [*Hellboy: Weird Tales \#4*](/entry/Hellboy%3A%20Weird%20Tales)
+- *Shred* in [*Hellboy: Weird Tales \#4*](/entry/Hellboy__Weird_Tales)
 
 **Cortes, Rick**

@@ -8,7 +8,7 @@ Roderick Zinco was a wealthy industrialist sent by Grigori Rasputin (whom Zinco 
 
 ### *Hellboy II: The Golden Army*
 
-The DVD edition of *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)* includes an animated story taking place after the events of the film, dubbed "The Zinco Epilogue". This epilogue is a loose adaptation of the opening of *[Wake the Devil](/entry/Wake_the_Devil)*, featuring Roderick Zinco encountering the severed head of Kroenen and the ghost of Rasputin.
+The DVD edition of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* includes an animated story taking place after the events of the film, dubbed "The Zinco Epilogue". This epilogue is a loose adaptation of the opening of *[Wake the Devil](/entry/Wake_the_Devil)*, featuring Roderick Zinco encountering the severed head of Kroenen and the ghost of Rasputin.
 
 ## References
 

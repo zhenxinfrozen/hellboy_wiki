@@ -1,4 +1,4 @@
-***Big-Top-Hell-Boy*** was a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy%3A_Weird_Tales)*, with both art and story by [John Cassaday](/entry/John_Cassaday).
+***Big-Top-Hell-Boy*** was a non-canonical story published in *[Hellboy: Weird Tales \#1](/entry/Hellboy__Weird_Tales)*, with both art and story by [John Cassaday](/entry/John_Cassaday).
 
 ## Plot Synopsis
 

@@ -1,4 +1,4 @@
 ***The Visitor*** may refer to:
 
 - The character **[the Visitor](/entry/The_Visitor_%28character%29)**, also known as Michael Mathers.
-- The miniseries featuring the character, ***[The Visitor: How & Why He Stayed](/entry/The_Visitor%3A_How_%26_Why_He_Stayed)***.
+- The miniseries featuring the character, ***[The Visitor: How & Why He Stayed](/entry/The_Visitor__How_%26_Why_He_Stayed)***.

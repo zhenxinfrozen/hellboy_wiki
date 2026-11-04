@@ -18,7 +18,7 @@
 
 ## 动画版
 
-西德尼·利奇在动画版[《地狱男爵：铁血惊魂》](/entry/Hellboy%3A_Blood_and_Iron)中登场，名字拼作“Sydney Leach”（而非 Sidney）。利奇由罗伯·鲍森配音。
+西德尼·利奇在动画版[《地狱男爵：铁血惊魂》](/entry/Hellboy__Blood_and_Iron)中登场，名字拼作“Sydney Leach”（而非 Sidney）。利奇由罗伯·鲍森配音。
 
 ## 另见
 

@@ -1,4 +1,4 @@
-***《地狱男爵：风暴之剑》***（Hellboy: Sword of Storms）是[《地狱男爵》动画系列](/entry/Hellboy_Animated)的第一部，改编自 [Mike Mignola](/entry/Mike_Mignola) 广受欢迎的漫画系列 *[《地狱男爵》](/entry/Hellboy_%28series%29)* 以及同名真人[电影](/entry/Hellboy_%28film%29)，于 2006 年发行。第二部直接发行 DVD 的动画长片 *[《地狱男爵：血与铁》](/entry/Hellboy%3A_Blood_and_Iron)* 于 2007 年 3 月 17 日发行。
+***《地狱男爵：风暴之剑》***（Hellboy: Sword of Storms）是[《地狱男爵》动画系列](/entry/Hellboy_Animated)的第一部，改编自 [Mike Mignola](/entry/Mike_Mignola) 广受欢迎的漫画系列 *[《地狱男爵》](/entry/Hellboy_%28series%29)* 以及同名真人[电影](/entry/Hellboy_%28film%29)，于 2006 年发行。第二部直接发行 DVD 的动画长片 *[《地狱男爵：血与铁》](/entry/Hellboy__Blood_and_Iron)* 于 2007 年 3 月 17 日发行。
 
 本片由 [Starz Inc.](/entry/wikipedia%3AStarz_Inc.) 旗下的 [Film Roman](/entry/wikipedia%3AFilm_Roman) 与 Revolution Pictures 制作，由动画界资深人士 [Tad Stones](/entry/Tad_Stones) 联合制作、联合编剧并执导。Stones 最广为人知的身份或许是热门 [Disney Afternoon](/entry/wikipedia%3AThe_Disney_Afternoon) 动画 *[《狡猾飞天德》](/entry/Darkwing_Duck)* 的创作者。他曾与 Mignola 合作，试图把 *[《亚特兰蒂斯：失落的帝国》](/entry/wikipedia%3AAtlantis%3A_The_Lost_Empire)* 开发成一部动画剧集。
 
@@ -34,7 +34,7 @@
 
 ## 播出日期
 
-《风暴之剑》于 2006 年 10 月 28 日在 Cartoon Network 的 Toonami 周六动作时段完成美国电视首播（并于 2006 年 12 月 30 日重播），2007 年 2 月 6 日由 Anchor Bay Entertainment 发行 DVD。为配合宣传 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 的上映，本片又于 2008 年 7 月 19 日与《地狱男爵：血与铁》连播。
+《风暴之剑》于 2006 年 10 月 28 日在 Cartoon Network 的 Toonami 周六动作时段完成美国电视首播（并于 2006 年 12 月 30 日重播），2007 年 2 月 6 日由 Anchor Bay Entertainment 发行 DVD。为配合宣传 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 的上映，本片又于 2008 年 7 月 19 日与《地狱男爵：血与铁》连播。
 
 ## 评价
 

@@ -4,7 +4,7 @@
 
 Thousands of years ago Mr. Wink fought in the war against the human race and during one of the battles he lost his right hand, however it was replaced with his launching mechanical fist. He later accompanied Prince Nuada into exile when he refused to follow the peace treaty with the humans.
 
-## In [Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)
+## In [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)
 
 Mr. Wink is first introduced as Prince [Nuada](/entry/Nuada) practices combat techniques with his spear, underneath the Manhattan Bridge.
 

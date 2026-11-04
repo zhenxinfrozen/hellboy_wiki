@@ -1,4 +1,4 @@
-***Doc Hollow's Grand Vibro-Destructo Machine*** or ***Lobster Johnson: Action Detective Adventure*** is a non-canonical story published in *[Hellboy: Weird Tales \#1-8](/entry/Hellboy%3A_Weird_Tales)*, with both art and story by [John Cassaday](/entry/John_Cassaday). The story was serialized into eight two-page "episodes". Each issue of *Hellboy: Weird Tales* contained an episode.
+***Doc Hollow's Grand Vibro-Destructo Machine*** or ***Lobster Johnson: Action Detective Adventure*** is a non-canonical story published in *[Hellboy: Weird Tales \#1-8](/entry/Hellboy__Weird_Tales)*, with both art and story by [John Cassaday](/entry/John_Cassaday). The story was serialized into eight two-page "episodes". Each issue of *Hellboy: Weird Tales* contained an episode.
 
 ## Plot Synopsis
 
@@ -36,4 +36,4 @@ Lobster Johnson and his assistant escape the collapsing building at the last pos
 
 ## Name Change
 
-When originally published in the individual issues of *[Hellboy: Weird Tales](/entry/Hellboy%3A_Weird_Tales)* the episodes were titled, *"Doc Hollow's Grand Vibro-Destructo Machine"*. When the eight episodes were collected in the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy%3A_Weird_Tales) they were retitled *"Lobster Johnson: Action Detective Adventure"*.
+When originally published in the individual issues of *[Hellboy: Weird Tales](/entry/Hellboy__Weird_Tales)* the episodes were titled, *"Doc Hollow's Grand Vibro-Destructo Machine"*. When the eight episodes were collected in the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy__Weird_Tales) they were retitled *"Lobster Johnson: Action Detective Adventure"*.

@@ -2,7 +2,7 @@
 
 ## 出版历史
 
-《亡者剧院》最初发表于《[地狱男爵：奇闻异事 #7](/entry/Hellboy%3A_Weird_Tales)》。该故事后来被收录进[《地狱男爵：奇闻异事——第 2 卷》](/entry/Trade_Paperback_Collections)以及[《奇闻异事》全集](/entry/Omnibus_Editions)。它也是 [《地狱男爵：亡者剧院及其他故事》](/entry/The_Theater_of_Dead_and_Other_Stories)合集的同名主打故事。
+《亡者剧院》最初发表于《[地狱男爵：奇闻异事 #7](/entry/Hellboy__Weird_Tales)》。该故事后来被收录进[《地狱男爵：奇闻异事——第 2 卷》](/entry/Trade_Paperback_Collections)以及[《奇闻异事》全集](/entry/Omnibus_Editions)。它也是 [《地狱男爵：亡者剧院及其他故事》](/entry/The_Theater_of_Dead_and_Other_Stories)合集的同名主打故事。
 
 ## 剧情简介
 

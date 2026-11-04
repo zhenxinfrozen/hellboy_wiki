@@ -1,4 +1,4 @@
-***Abe Sapien: Star of the B.P.R.D.*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy%3A%20Weird%20Tales)*. [John Arcudi](/entry/John%20Arcudi) wrote the story and [Roger Langridge](/entry/Roger%20Langridge) handeled the art duties.
+***Abe Sapien: Star of the B.P.R.D.*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy__Weird_Tales)*. [John Arcudi](/entry/John%20Arcudi) wrote the story and [Roger Langridge](/entry/Roger%20Langridge) handeled the art duties.
 
 ## Plot Synopsis
 

@@ -31,4 +31,4 @@ Mr. Onselm，即佝偻人，由 Martin Bassindale 饰演。
 
 - 有一格描绘他生前的画面中，他（面带微笑）把一支枪和一瓶酒递给一名美洲原住民。这是对某些无耻之徒直到 19 世纪末仍在干的勾当的刻板描绘。
 
-- 在电影[《Hellboy: The Crooked Man》](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)中，他由[Martin Bassindale](/entry/Martin_Bassindale)饰演。他的原名从"杰里迈亚·威特金斯"改成了"Mr. Onselm"。
+- 在电影[《Hellboy: The Crooked Man》](/entry/Hellboy__The_Crooked_Man_%28film%29)中，他由[Martin Bassindale](/entry/Martin_Bassindale)饰演。他的原名从"杰里迈亚·威特金斯"改成了"Mr. Onselm"。

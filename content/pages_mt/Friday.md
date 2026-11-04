@@ -1,4 +1,4 @@
-《**星期五**》（Friday）是一个非正史故事，发表于 *[地狱男爵：奇谈 #6](/entry/Hellboy%3A_Weird_Tales)*，由 [Doug Petrie](/entry/Doug_Petrie) 编剧，[Gene Colan](/entry/Gene_Colan) 绘画。
+《**星期五**》（Friday）是一个非正史故事，发表于 *[地狱男爵：奇谈 #6](/entry/Hellboy__Weird_Tales)*，由 [Doug Petrie](/entry/Doug_Petrie) 编剧，[Gene Colan](/entry/Gene_Colan) 绘画。
 
 ## 剧情简介
 

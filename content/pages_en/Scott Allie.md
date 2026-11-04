@@ -4,7 +4,7 @@
 
 Scott Allie stepped in as a temporary editor when [Barbara Kesel](/entry/Barbara_Kesel) stepped down as the series' editor during *[Hellboy: The Corpse](/entry/The_Corpse)*. He was told only to correct spelling mistakes, but to otherwise stay out of [Mike Mignola](/entry/Mike_Mignola)'s way. However, when he saw a picture where a hole looked more like a shadow, he made a note to Mignola about it. Mignola was so happy to receive this sort of feedback, he contacted Mike Richardson and informed him that he wanted Allie to remain his editor on the book.
 
-Scott Allie was editor on all books in the Hellboy Universe (except [*Hellboy Promo* \#1](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29), [*Hellboy Promo* \#2](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29), [*Hellboy: Seed of Destruction*](/entry/Seed_of_Destruction), [*Hellboy: The Wolves of Saint August*](/entry/The_Wolves_of_Saint_August), and the [*"Hi, My Name's Hellboy"* promo](/entry/%22Hi%2C_My_Name%27s_Hellboy%22)), until he stepped down from his position as editor October 6, 2017. His position was filled by [Katii O’Brien](/entry/Katii_O%E2%80%99Brien).
+Scott Allie was editor on all books in the Hellboy Universe (except [*Hellboy Promo* \#1](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29), [*Hellboy Promo* \#2](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29), [*Hellboy: Seed of Destruction*](/entry/Seed_of_Destruction), [*Hellboy: The Wolves of Saint August*](/entry/The_Wolves_of_Saint_August), and the [*"Hi, My Name's Hellboy"* promo](/entry/Hi%2C_My_Name%27s_Hellboy)), until he stepped down from his position as editor October 6, 2017. His position was filled by [Katii O’Brien](/entry/Katii_O%E2%80%99Brien).
 
 ## Writer
 

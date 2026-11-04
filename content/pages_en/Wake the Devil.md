@@ -58,7 +58,7 @@ At the World Tree, Yggdrasil, [the Baba Yaga](/entry/Baba_Yaga_%28character%29) 
 
 ## Story Chronology
 
-Though not explicit, *Wake the Devil* seems to take place in 1997;[1] *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)* places the story's events in March of '97. The story takes place some time after *[The Chained Coffin](/entry/The_Chained_Coffin)* (1994), and 8 days before *[Almost Colossus](/entry/Almost_Colossus)*.[2]
+Though not explicit, *Wake the Devil* seems to take place in 1997;[1] *[Hellboy: The Companion](/entry/Hellboy__The_Companion)* places the story's events in March of '97. The story takes place some time after *[The Chained Coffin](/entry/The_Chained_Coffin)* (1994), and 8 days before *[Almost Colossus](/entry/Almost_Colossus)*.[2]
 
 ## Content
 

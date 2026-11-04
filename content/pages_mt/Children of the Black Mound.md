@@ -1,4 +1,4 @@
-《**黑丘之子**》（Children of the Black Mound）是一个非正史故事，发表于 *[地狱男爵：奇谈 #1](/entry/Hellboy%3A_Weird_Tales)*，由 [Fabian Nicieza](/entry/Fabian_Nicieza) 编剧，[Stefano Raffaele](/entry/Stefano_Raffaele) 绘画。
+《**黑丘之子**》（Children of the Black Mound）是一个非正史故事，发表于 *[地狱男爵：奇谈 #1](/entry/Hellboy__Weird_Tales)*，由 [Fabian Nicieza](/entry/Fabian_Nicieza) 编剧，[Stefano Raffaele](/entry/Stefano_Raffaele) 绘画。
 
 ## 剧情简介
 

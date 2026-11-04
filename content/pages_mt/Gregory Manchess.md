@@ -4,9 +4,9 @@
 
 ## 封面画作
 
-[《大螯虾强生：撒旦工厂》](/entry/Lobster_Johnson%3A_The_Satan_Factory)
+[《大螯虾强生：撒旦工厂》](/entry/Lobster_Johnson__The_Satan_Factory)
 
-[《拉斯普廷：龙之音》](/entry/Rasputin%3A_The_Voice_of_the_Dragon) 第 2 期变体封面
+[《拉斯普廷：龙之音》](/entry/Rasputin__The_Voice_of_the_Dragon) 第 2 期变体封面
 
 ## 外部链接
 

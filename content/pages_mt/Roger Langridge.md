@@ -4,12 +4,12 @@
 
 ### 上色师
 
-- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)*（不属于正史）
+- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)*（不属于正史）
 
 ### 内页画师
 
-- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)*（不属于正史）
+- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)*（不属于正史）
 
 ### 嵌字师
 
-- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)*（不属于正史）
+- *[《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)*（不属于正史）

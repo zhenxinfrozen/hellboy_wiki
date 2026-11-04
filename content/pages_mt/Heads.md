@@ -31,4 +31,4 @@
 
 ## 《风暴之剑》
 
-本故事的一个版本被改编进[动画](/entry/Hellboy_Animated)电影《[地狱男爵：风暴之剑](/entry/Hellboy%3A_Sword_of_Storms)》。这个版本与漫画非常相似，但故事发生在现代，而不是60年代。
+本故事的一个版本被改编进[动画](/entry/Hellboy_Animated)电影《[地狱男爵：风暴之剑](/entry/Hellboy__Sword_of_Storms)》。这个版本与漫画非常相似，但故事发生在现代，而不是60年代。

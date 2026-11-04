@@ -1,4 +1,4 @@
-***Downtime*** is a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy%3A_Weird_Tales)*, with both the story and art curtesy of [Bob Fingerman](/entry/Bob_Fingerman).
+***Downtime*** is a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy__Weird_Tales)*, with both the story and art curtesy of [Bob Fingerman](/entry/Bob_Fingerman).
 
 ## Plot Synopsis
 

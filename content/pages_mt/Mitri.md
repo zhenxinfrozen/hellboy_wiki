@@ -1,4 +1,4 @@
-**米特里（Mitri）**是 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 游戏中的虚构角色。他是[卡林（Kalin）](/entry/Kalin)的兄弟。
+**米特里（Mitri）**是 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 游戏中的虚构角色。他是[卡林（Kalin）](/entry/Kalin)的兄弟。
 
 ## 历史
 

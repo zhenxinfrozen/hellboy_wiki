@@ -11,4 +11,4 @@ Unmensch's mechanical arm can extend due to a chain linking to his fist. Unmensc
 ## Trivia
 
 - "Unmensch" is the combination of the prefix "un-" (meaning "not") and the German word "mensch" (meaning "human"). Unmensch therefore can be interpreted as "inhuman", which plays in reference to both a monstrous appearance and sadistic behavior.
-- The concept of a mechanical right arm linked to a extensible/retractable chained fist was adapted into the design of the troll [Mr. Wink](/entry/Mr._Wink) in the film *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+- The concept of a mechanical right arm linked to a extensible/retractable chained fist was adapted into the design of the troll [Mr. Wink](/entry/Mr._Wink) in the film *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.

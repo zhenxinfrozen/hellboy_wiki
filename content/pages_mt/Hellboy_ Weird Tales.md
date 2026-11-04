@@ -80,7 +80,7 @@ August 27, 2003
 [Jason Pearson](/entry/Jason_Pearson)
 *《碎裂》（Shred）* pin-up 插画，作者 [Rick Cortes](/entry/Rick_Cortes)
 
-*[《亚伯·萨皮恩：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)*
+*[《亚伯·萨皮恩：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)*
 [John Arcudi](/entry/John_Arcudi)
 [Roger Langridge](/entry/Roger_Langridge)
 

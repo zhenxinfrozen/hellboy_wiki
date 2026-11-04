@@ -1,4 +1,4 @@
-《**冷静一下**》（Cool Your Head）是一个非正史故事，发表于 *[地狱男爵：奇谈 #5](/entry/Hellboy%3A_Weird_Tales)*，由 [Scott Morse](/entry/Scott_Morse) 自编自绘。
+《**冷静一下**》（Cool Your Head）是一个非正史故事，发表于 *[地狱男爵：奇谈 #5](/entry/Hellboy__Weird_Tales)*，由 [Scott Morse](/entry/Scott_Morse) 自编自绘。
 
 ## 剧情简介
 

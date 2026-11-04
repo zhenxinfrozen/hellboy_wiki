@@ -1,4 +1,4 @@
-The **Giant Bird** is a fictional monster from the *[Hellboy: Dogs of the Night](/entry/Hellboy%3A_Dogs_of_the_Night)* game. It is unknown if this creature has a specific name, but it is only referred to in-game as the Giant Bird.
+The **Giant Bird** is a fictional monster from the *[Hellboy: Dogs of the Night](/entry/Hellboy__Dogs_of_the_Night)* game. It is unknown if this creature has a specific name, but it is only referred to in-game as the Giant Bird.
 
 ## History
 

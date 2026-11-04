@@ -1,6 +1,6 @@
-![Blood_&_Iron.jpg](/content/images/Blood_%26_Iron.jpg) ***Hellboy: Blood and Iron*** is the second in the *[Hellboy](/entry/Hellboy%20%28series%29)* [animated series](/entry/Hellboy%20Animated) (the first being *[Hellboy: Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms)*), written by Tad Stones and [Mike Mignola](/entry/Mike%20Mignola). The movie features [Hellboy](/entry/Hellboy), [Liz Sherman](/entry/Liz%20Sherman), [Abe Sapien](/entry/Abe%20Sapien), and introducing [Sidney Leach](/entry/Sidney%20Leach) (here called Sydney Leach). The film's storyline is based in part upon the Hellboy: [Wake the Devil](/entry/Wake%20the%20Devil) storyline from the original comics.
+![Blood_&_Iron.jpg](/content/images/Blood_%26_Iron.jpg) ***Hellboy: Blood and Iron*** is the second in the *[Hellboy](/entry/Hellboy%20%28series%29)* [animated series](/entry/Hellboy%20Animated) (the first being *[Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)*), written by Tad Stones and [Mike Mignola](/entry/Mike%20Mignola). The movie features [Hellboy](/entry/Hellboy), [Liz Sherman](/entry/Liz%20Sherman), [Abe Sapien](/entry/Abe%20Sapien), and introducing [Sidney Leach](/entry/Sidney%20Leach) (here called Sydney Leach). The film's storyline is based in part upon the Hellboy: [Wake the Devil](/entry/Wake%20the%20Devil) storyline from the original comics.
 
-It first aired on March 17, 2007 on Cartoon Network, and aired again on July 19, 2008 to promote the release of *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*, and was scheduled on DVD by Anchor Bay Entertainment in March 10, 2007.
+It first aired on March 17, 2007 on Cartoon Network, and aired again on July 19, 2008 to promote the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, and was scheduled on DVD by Anchor Bay Entertainment in March 10, 2007.
 
 ## Plot
 
@@ -55,6 +55,6 @@ The DVD contains a number of special features including;
   - A drawing of the [Project Ragna Rok](/entry/Project%20Ragna%20Rok) symbol
   - A picture of [Rasputin](/entry/Rasputin), Kroenen, [Ilsa Haupstein](/entry/Ilsa%20Haupstein), and [Leopold Kurtz](/entry/Leopold%20Kurtz) from *[Seed of Destruction](/entry/Seed%20of%20Destruction)*
   - A book with an image of a hand holding a flaming cup, a symbol from the room where [Roger](/entry/Roger) was found in *[Wake the Devil](/entry/Wake%20the%20Devil)* \#3, and the cover of *[Almost Colossus](/entry/Almost%20Colossus)* \#1
-  - and a stature of a bat from the beginning of [Hellboy: Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms)
+  - and a stature of a bat from the beginning of [Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)
 
 **Category:Hellboy Animated** **Category:Films**

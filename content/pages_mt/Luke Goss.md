@@ -3,7 +3,7 @@ Luke-Goss-240x300.jpg
 
 演员／制片人／编剧／音乐人
 
-Luke Goss 在片中饰演「[弩阿达王子（Prince Nuada）](/entry/Prince_Nuada)」——这部影片即 [Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)，由 [Guillermo del Toro](/entry/Guillermo_del_Toro) 执导，是广受好评的 [Hellboy](/entry/Hellboy_%28film%29) 续集，于今年 7 月上映并一举登上美国票房榜首。这个角色为他赢得了两项 MTV Movie Award 提名。他最近刚完成科幻惊悚长片 *Tekken* 的主演工作，该片改编自大热的电子／街机游戏。此外，他已确定将在 Top Cow 漫画《Magdalena》的大银幕改编版中饰演「Kristoff」，该片由 Gale Anne Hurd 的 Valhalla Pictures、Platinum Studios 与 Top Cow 联合开发制作。
+Luke Goss 在片中饰演「[弩阿达王子（Prince Nuada）](/entry/Prince_Nuada)」——这部影片即 [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)，由 [Guillermo del Toro](/entry/Guillermo_del_Toro) 执导，是广受好评的 [Hellboy](/entry/Hellboy_%28film%29) 续集，于今年 7 月上映并一举登上美国票房榜首。这个角色为他赢得了两项 MTV Movie Award 提名。他最近刚完成科幻惊悚长片 *Tekken* 的主演工作，该片改编自大热的电子／街机游戏。此外，他已确定将在 Top Cow 漫画《Magdalena》的大银幕改编版中饰演「Kristoff」，该片由 Gale Anne Hurd 的 Valhalla Pictures、Platinum Studios 与 Top Cow 联合开发制作。
 
 Goss 最近还完成了他在电视网的首个角色，出演 JJ Abrams 的剧集 *Fringe*（《危机边缘》）。
 

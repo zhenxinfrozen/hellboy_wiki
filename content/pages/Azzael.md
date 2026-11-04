@@ -20,7 +20,7 @@ While in Hell, Hellboy had the chance to claim his father's possessions, of whic
 
 ## Other Media
 
-- In the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*, [Nuala](/entry/Nuala) refers to Hellboy as "Son of the Fallen One" confirming his royal right to challenge for command of the Golden Army; as anyone of noble birth and titles can claim control with the [Crown of Bethmora](/entry/Crown%20of%20Bethmora).
+- In the 2008 film *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, [Nuala](/entry/Nuala) refers to Hellboy as "Son of the Fallen One" confirming his royal right to challenge for command of the Golden Army; as anyone of noble birth and titles can claim control with the [Crown of Bethmora](/entry/Crown%20of%20Bethmora).
 
 ## Sources
 

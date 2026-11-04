@@ -4,4 +4,4 @@
 
 ### 插页画师（Pin-up Artist）
 
-- *[《地狱男爵：怪谈 第 6 期》（Hellboy: Weird Tales #6）](/entry/Hellboy%3A_Weird_Tales)*
+- *[《地狱男爵：怪谈 第 6 期》（Hellboy: Weird Tales #6）](/entry/Hellboy__Weird_Tales)*

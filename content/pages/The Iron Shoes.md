@@ -16,7 +16,7 @@ The story takes place in 1961, the same year as *[The Hydra and the Lion](/entry
 
 ## Animated Version
 
-A short animated version of "The Iron Shoes" was included on the DVD of [Hellboy: Blood and Iron](/entry/Hellboy%3A%20Blood%20and%20Iron) with the titular antagonist voiced by Dan Castellaneta.
+A short animated version of "The Iron Shoes" was included on the DVD of [Hellboy: Blood and Iron](/entry/Hellboy__Blood_and_Iron) with the titular antagonist voiced by Dan Castellaneta.
 
 ## Notes
 

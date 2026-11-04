@@ -9,7 +9,7 @@
 
 ### 插页画师
 
-- *[《地狱男爵：奇谈》第 5 期（Hellboy: Weird Tales \#5）](/entry/Hellboy%3A_Weird_Tales)*
+- *[《地狱男爵：奇谈》第 5 期（Hellboy: Weird Tales \#5）](/entry/Hellboy__Weird_Tales)*
 
 ### 编剧
 

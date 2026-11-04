@@ -25,7 +25,7 @@ Effie looks like a hillbilly belle, but has a pretty nasty personality. She thou
 
 ## In other media
 
-Effie Kolb appears in the film *[Hellboy: The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)*, played by [Leah McNamara](/entry/Leah_McNamara).
+Effie Kolb appears in the film *[Hellboy: The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)*, played by [Leah McNamara](/entry/Leah_McNamara).
 
 ## Trivia
 

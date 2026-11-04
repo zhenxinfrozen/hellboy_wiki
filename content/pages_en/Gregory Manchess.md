@@ -4,9 +4,9 @@
 
 ## Cover Art
 
-[Lobster Johnson: The Satan Factory](/entry/Lobster_Johnson%3A_The_Satan_Factory)
+[Lobster Johnson: The Satan Factory](/entry/Lobster_Johnson__The_Satan_Factory)
 
-[Rasputin: The Voice of the Dragon](/entry/Rasputin%3A_The_Voice_of_the_Dragon) \#2 Variant
+[Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon) \#2 Variant
 
 ## External Links
 

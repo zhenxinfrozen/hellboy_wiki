@@ -30,7 +30,7 @@ The book collects:
 - [*Hellboy in Hell: The Three Gold Whips*](/entry/The_Three_Gold_Whips)
 - [Mike Mignola's *Hellboy*](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29)
 - [Mike Mignola's *Hellboy: World's Greatest Paranormal Investigator*](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29)
-- *Faith*, an excerpt from John Byrne's [*Next Men* \#21](/entry/Next_Men%3A_Faith_%E2%80%93_Part_3)
+- *Faith*, an excerpt from John Byrne's [*Next Men* \#21](/entry/Next_Men__Faith_%E2%80%93_Part_3)
 - *[The Corpse](/entry/The_Corpse)*
 - [*The Ghoul*, or, *Reflections on Death and the Poetry of Worms*](/entry/The_Ghoul)
 - [*The Troll-Witch*](/entry/The_Troll_Witch)

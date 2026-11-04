@@ -12,7 +12,7 @@ Byrne wrote the scripts for the three earliest *[Hellboy](/entry/Hellboy_%28seri
 
 John Byrne and [Mike Mignola](/entry/Mike_Mignola) were both published under [Dark Horse Comics' "Legend" imprint](/entry/Dark_Horse_Comics) from 1994 through 1998. During this time, they briefly explored crossing over their characters to create a shared universe, resulting in *Hellboy* characters appearing in the following comics written and drawn by Byrne:
 
-- [*John Byrne's Next Men* \#21](/entry/Next_Men%3A_Faith_%E2%80%93_Part_3) ([Hellboy](/entry/Hellboy_%28character%29) appears in a sequence drawn by [Mike Mignola](/entry/Mike_Mignola))
+- [*John Byrne's Next Men* \#21](/entry/Next_Men__Faith_%E2%80%93_Part_3) ([Hellboy](/entry/Hellboy_%28character%29) appears in a sequence drawn by [Mike Mignola](/entry/Mike_Mignola))
 - *Danger Unlimited* \#4 (Hellboy cameos in a scene alongside other superheroes)
 - *[Babe 2](/entry/Babe_2)* \#1–2 (featuring [Abe Sapien](/entry/Abraham_Sapien); Hellboy appears in a postscript scene)
 

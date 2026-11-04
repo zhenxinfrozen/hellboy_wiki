@@ -8,6 +8,6 @@ Roderick Zinco was a wealthy industrialist sent by Grigori Rasputin (whom Zinco 
 
 ## Hellboy II: The Golden Army
 
-In an animated special feature, as part of the DVD edition of *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*, Roderick Zinco and his company appears in the *Zinco Epilogue*where he finds the severed head of Colonel Kroenen. There, Zinco also encounters the ghost of Grigori Rasputin.
+In an animated special feature, as part of the DVD edition of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, Roderick Zinco and his company appears in the *Zinco Epilogue*where he finds the severed head of Colonel Kroenen. There, Zinco also encounters the ghost of Grigori Rasputin.
 
 **Category:Characters** **Category:Male Characters** **Category:Deceased Characters** **Category:Americans** **Category:Zinco Corporation**

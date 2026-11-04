@@ -1,4 +1,4 @@
-**地狱男爵**是电影*[《地狱男爵》](/entry/Hellboy_(2004_film))*（2004）及其续集*[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)*（2008）的标题角色与主角。他改编自[同名角色](/entry/Hellboy_(character)——后者出自[漫画系列《地狱男爵》](/entry/Hellboy_(series))，电影角色的大部分背景故事与漫画迷你系列*[《毁灭之芽》](/entry/Seed_of_Destruction)*中所呈现的相似。
+**地狱男爵**是电影*[《地狱男爵》](/entry/Hellboy_(2004_film))*（2004）及其续集*[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)*（2008）的标题角色与主角。他改编自[同名角色](/entry/Hellboy_(character)——后者出自[漫画系列《地狱男爵》](/entry/Hellboy_(series))，电影角色的大部分背景故事与漫画迷你系列*[《毁灭之芽》](/entry/Seed_of_Destruction)*中所呈现的相似。
 
 地狱男爵是半恶魔，由一个人类女子和一个恶魔父亲所生，于 1944 年 10 月 9 日通过一道次元门户被召唤到人间。他被[特雷佛·布鲁姆](/entry/Trevor_Bruttenholm)教授收养，其存在对外界严格保密。此后六十年间，他以[超自然现象研究与防御局](/entry/Bureau_for_Paranormal_Research_and_Defense)探员的身份行动，只在少数情况下、在监督之下被带出总部去与怪物作战。2000 年代，地狱男爵在与复活的[拉斯普廷](/entry/Grigori_Rasputin)的冲突中进一步得知了自己的真实本性：他就是阿努·恩·罗摩，启示录之兽。几年后，在一系列事件中，地狱男爵向世界暴露了自己的存在，这些事件最终以他从调查局辞职收场。地狱男爵还与控火者[丽兹·舍曼](/entry/Elizabeth_Sherman)展开了一段恋情。
 
@@ -6,7 +6,7 @@
 
 ## 历史
 
-*另见：[《地狱男爵》（2004 电影）#剧情](/entry/Hellboy_(2004_film)#Plot)与[《地狱男爵 2：黄金军团》#剧情](/entry/Hellboy_II%3A_The_Golden_Army)*
+*另见：[《地狱男爵》（2004 电影）#剧情](/entry/Hellboy_(2004_film)#Plot)与[《地狱男爵 2：黄金军团》#剧情](/entry/Hellboy_II__The_Golden_Army)*
 
 由[吉尔莫·德尔·托罗](/entry/Guillermo_del_Toro)撰写的人物小传曾收录在公映前的宣传材料中。尽管其中一些元素在成片中显而易见，但这段文字有多少被视为最终电影的正典，尚不清楚。
 

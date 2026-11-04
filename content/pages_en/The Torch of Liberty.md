@@ -31,7 +31,7 @@ In the days of [Dark Horse Comics](/entry/Dark_Horse_Comics)' Legend imprint, [J
 ![](/content/images/Hellboy-Incident--Torch-comparison.jpg)
 Comparison of the Torch's prominent presence in <em>[Seed of Destruction](/entry/Seed_of_Destruction)</em> #1 (left) and his minimized depiction in <em>[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.): [1952](/entry/1952)</em> #1 (right)
 
-The Torch's appearance in *Seed of Destruction* is an artifact of these abandoned shared universe plans; he has not made a notable reappearance in the series since. Later depictions of the Hellboy Incident tend to minimize or wholly omit his presence at the event. The Torch also goes unmentioned in supplemental materials such as *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*.
+The Torch's appearance in *Seed of Destruction* is an artifact of these abandoned shared universe plans; he has not made a notable reappearance in the series since. Later depictions of the Hellboy Incident tend to minimize or wholly omit his presence at the event. The Torch also goes unmentioned in supplemental materials such as *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*.
 
 #### Potential Future Appearances
 

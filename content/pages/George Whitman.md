@@ -10,7 +10,7 @@ George Whitman orchestrated the gathering of three paranormal experts in 1944, c
  Agnus Maclnnes as George Whitman
 
 - George Whitman appears in *[Hellboy](/entry/Hellboy%20%28film%29)*portrayed by Agnus Maclnnes he was an army sergeant that lead the military raid on the Ruins of Trondham Abbey. His mission was to sabotage Rasputin's ritual and defeated the Nazi unit.
-- In the Hellboy animated series, Whitman appears in *[Hellboy: Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms)*.
+- In the Hellboy animated series, Whitman appears in *[Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)*.
 
 de:George Whitman sv:Sgt. George Whitman pt-br:George Whitman
 

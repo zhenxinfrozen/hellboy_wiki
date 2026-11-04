@@ -1,4 +1,4 @@
-**弩阿达（Nuada Silverlance）**是 Bethmoora 部族的王储（该部族与其他魔法种族合称为"大地之子"），也是第二部《地狱男爵》电影[《Hellboy II: The Golden Army》](/entry/Hellboy_II%3A_The_Golden_Army)中的主要反派，精灵族最后的战士。他是国王[巴洛尔](/entry/Balor)的独子，[弩阿拉公主](/entry/Nuala)的孪生哥哥。他曾出席[黄金军团](/entry/Golden_Army)的诞生与受阅仪式。弩阿达持反人类立场，一心只想保全自己的同族和其他非人生命、毁灭所有人类，但他并非绝对邪恶的存在；更确切地说，他把生命中的一切不幸都归咎于人类，认为毁灭人类将有益于非人种族。
+**弩阿达（Nuada Silverlance）**是 Bethmoora 部族的王储（该部族与其他魔法种族合称为"大地之子"），也是第二部《地狱男爵》电影[《Hellboy II: The Golden Army》](/entry/Hellboy_II__The_Golden_Army)中的主要反派，精灵族最后的战士。他是国王[巴洛尔](/entry/Balor)的独子，[弩阿拉公主](/entry/Nuala)的孪生哥哥。他曾出席[黄金军团](/entry/Golden_Army)的诞生与受阅仪式。弩阿达持反人类立场，一心只想保全自己的同族和其他非人生命、毁灭所有人类，但他并非绝对邪恶的存在；更确切地说，他把生命中的一切不幸都归咎于人类，认为毁灭人类将有益于非人种族。
 
 ## 生平
 

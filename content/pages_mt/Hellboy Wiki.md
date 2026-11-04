@@ -4,7 +4,7 @@
 
 ![](/content/images/Hellboy%202.jpg)
 
-**地狱男爵维基（Hellboy Wiki）**是一座协作式数据库，收录与[迈克·米格诺拉](/entry/Mike_Mignola)的***[《地狱男爵》](/entry/Hellboy_(series))***系列及其[相关作品](/entry/The_Hellboy_Universe_Comics)，以及它们在电影、小说、[游戏](/entry/Hellboy%3A_The_Board_Game)等所有其他媒介中登场的一切内容。任何人都可以创建和编辑本站的页面，让我们共同打造一座全面的数据库。入门请务必查阅**[帮助页面](https://community.fandom.com/wiki/Help:Contents)**！
+**地狱男爵维基（Hellboy Wiki）**是一座协作式数据库，收录与[迈克·米格诺拉](/entry/Mike_Mignola)的***[《地狱男爵》](/entry/Hellboy_(series))***系列及其[相关作品](/entry/The_Hellboy_Universe_Comics)，以及它们在电影、小说、[游戏](/entry/Hellboy__The_Board_Game)等所有其他媒介中登场的一切内容。任何人都可以创建和编辑本站的页面，让我们共同打造一座全面的数据库。入门请务必查阅**[帮助页面](https://community.fandom.com/wiki/Help:Contents)**！
 
 已有超过 **200** 个故事拥有独立条目！其中包括[地狱男爵](/entry/Hellboy_(character))担任标题角色的**每一部**漫画。完整列表见**这里**。想了解所有最新消息，包括最新的书刊预告和新书预览链接，请前往 Comic Book Resources 上的**地狱男爵官方论坛**。
 

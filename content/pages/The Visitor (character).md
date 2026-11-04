@@ -34,6 +34,6 @@ The Visitor was a covert operative who was skilled in infiltration, as shown by 
 
 [1] *[God Rest Ye Merry](/entry/God%20Rest%20Ye%20Merry)*
 
-[2] *[The Visitor: How & Why He Stayed](/entry/The%20Visitor%3A%20How%20%26%20Why%20He%20Stayed)*
+[2] *[The Visitor: How & Why He Stayed](/entry/The_Visitor__How_%26_Why_He_Stayed)*
 
 [3] *[Conqueror Worm](/entry/Conqueror%20Worm%20%28story%29)*

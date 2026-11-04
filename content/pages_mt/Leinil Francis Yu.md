@@ -4,4 +4,4 @@
 
 ### 封面画师
 
-- [《地狱男爵：怪谈》第 4 期（Hellboy: Weird Tales #4）](/entry/Hellboy%3A_Weird_Tales)
+- [《地狱男爵：怪谈》第 4 期（Hellboy: Weird Tales #4）](/entry/Hellboy__Weird_Tales)

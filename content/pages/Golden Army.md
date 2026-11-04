@@ -1,4 +1,4 @@
-*关于 2008 年电影、其原声专辑与宣传漫画，见[《地狱男爵2：黄金军团》](/entry/Hellboy_II:_The_Golden_Army)、[《地狱男爵2：黄金军团》（原声）](/entry/Hellboy_II:_The_Golden_Army_(soundtrack))与[《黄金军团》（宣传漫画）](/entry/The_Golden_Army_(promo))。*
+*关于 2008 年电影、其原声专辑与宣传漫画，见[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)、[《地狱男爵2：黄金军团》（原声）](/entry/Hellboy_II__The_Golden_Army_%28soundtrack%29)与[《黄金军团》（宣传漫画）](/entry/The_Golden_Army_(promo))。*
 
 ![](/content/images/Golden%20Army%20back.png)
 

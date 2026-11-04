@@ -1,4 +1,4 @@
-《**长途来电者**》（Long Distance Caller）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #7](/entry/Hellboy%3A_Weird_Tales)》，由 [Kev Walker](/entry/Kev_Walker) 编剧并绘制。
+《**长途来电者**》（Long Distance Caller）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #7](/entry/Hellboy__Weird_Tales)》，由 [Kev Walker](/entry/Kev_Walker) 编剧并绘制。
 
 ## 剧情简介
 

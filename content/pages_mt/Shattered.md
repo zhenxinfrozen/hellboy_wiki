@@ -1,4 +1,4 @@
-《**碎裂**》（Shattered）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #5](/entry/Hellboy%3A_Weird_Tales)》，由 [Ron Marz](/entry/Ron_Marz) 编剧，[Jim Starlin](/entry/Jim_Starlin) 作画。
+《**碎裂**》（Shattered）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #5](/entry/Hellboy__Weird_Tales)》，由 [Ron Marz](/entry/Ron_Marz) 编剧，[Jim Starlin](/entry/Jim_Starlin) 作画。
 
 ## 剧情简介
 

@@ -1,4 +1,4 @@
-***《专业援助》（Professional Help）*** 是一篇非正史故事，发表于 *[《地狱男爵：怪谈》第 8 期（Hellboy: Weird Tales \#8）](/entry/Hellboy%3A_Weird_Tales)*，由 [Evan Dorkin](/entry/Evan_Dorkin) 编剧并绘制。
+***《专业援助》（Professional Help）*** 是一篇非正史故事，发表于 *[《地狱男爵：怪谈》第 8 期（Hellboy: Weird Tales \#8）](/entry/Hellboy__Weird_Tales)*，由 [Evan Dorkin](/entry/Evan_Dorkin) 编剧并绘制。
 
 ## 剧情简介
 

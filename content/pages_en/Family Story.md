@@ -1,4 +1,4 @@
-***Family Story*** is a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy%3A_Weird_Tales)*, written by [Sara Ryan](/entry/Sara_Ryan) and drawn by [Steve Lieber](/entry/Steve_Lieber).
+***Family Story*** is a non-canonical story published in *[Hellboy: Weird Tales \#3](/entry/Hellboy__Weird_Tales)*, written by [Sara Ryan](/entry/Sara_Ryan) and drawn by [Steve Lieber](/entry/Steve_Lieber).
 
 ## Plot Synopsis
 

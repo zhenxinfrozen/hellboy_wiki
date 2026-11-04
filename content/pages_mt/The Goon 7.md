@@ -34,9 +34,9 @@ The Goon 对这位新结识的伙伴厌烦起来，抄起一把管钳把他打�
 
 - 地狱男爵向新朋友们讲述了 *[《人头》](/entry/Heads)* 的故事。然而该故事发生在 1967 年——比这个框架故事还要*晚*两年。
 - 这一整期从未收录进任何 *[《地狱男爵》](/entry/Hellboy_(series))* [合订本](/entry/Trade_Collections)，但 Mignola 的部分画作曾在 *《地狱男爵》* 相关的[美术作品集](/entry/Art_Books)中再版。
-  - Mignola 的封面图以及四页原作内页（已勾线、已排字，但未上色）被收录进 *[《地狱男爵：最初二十年》](/entry/Hellboy%3A_The_First_20_Years)*。
+  - Mignola 的封面图以及四页原作内页（已勾线、已排字，但未上色）被收录进 *[《地狱男爵：最初二十年》](/entry/Hellboy__The_First_20_Years)*。
   - Mignola 的内页作品在 *[《Mike Mignola 之神奇螺丝头及其他奇物：艺术家版》](/entry/The_Amazing_Screw-On_Head_and_Other_Curious_Objects)* 中再版。
-  - 封面图则再度收录于 *[《地狱男爵：封面二十五年》](/entry/Hellboy%3A_25_Years_of_Covers)*。
+  - 封面图则再度收录于 *[《地狱男爵：封面二十五年》](/entry/Hellboy__25_Years_of_Covers)*。
 
 ## 外部链接
 

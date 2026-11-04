@@ -31,7 +31,7 @@ Urgo-Hem is a large aquatic, eyeless serpent-like creature, with sharp crustacea
 
 ## Trivia
 
-- An aquatic serpentine monster resembling Urgo-Hem appeared in *[Hellboy: Sword of Storms](/entry/Hellboy%3A_Sword_of_Storms)*, which [Liz](/entry/Liz_Sherman) attempted to immolate during a prolonged battle, but eventually retreated after the defeat of its "brothers" Thunder and Lightning.
+- An aquatic serpentine monster resembling Urgo-Hem appeared in *[Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms)*, which [Liz](/entry/Liz_Sherman) attempted to immolate during a prolonged battle, but eventually retreated after the defeat of its "brothers" Thunder and Lightning.
 
 ## External Links
 

@@ -1,4 +1,4 @@
-**巨魔市场（The Troll Market）**是 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 中的一处场景。它是一个对人类世界隐藏起来的、充满魔法的购物市集。
+**巨魔市场（The Troll Market）**是 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中的一处场景。它是一个对人类世界隐藏起来的、充满魔法的购物市集。
 
 ## 历史
 

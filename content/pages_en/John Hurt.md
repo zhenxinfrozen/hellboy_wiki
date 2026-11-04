@@ -1,4 +1,4 @@
-**John Hurt** (January 22 1940 – January 27, 2017) was a British actor who plays [Professor Trevor Bruttenholm](/entry/Trevor_Bruttenholm) in *Hellboy*, and *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. He also voiced the character in the animated Hellboy movie *Blood and Iron*.
+**John Hurt** (January 22 1940 – January 27, 2017) was a British actor who plays [Professor Trevor Bruttenholm](/entry/Trevor_Bruttenholm) in *Hellboy*, and *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. He also voiced the character in the animated Hellboy movie *Blood and Iron*.
 
 ## Notable Roles
 

@@ -2,7 +2,7 @@
 
 影片中，半恶魔[地狱男爵](/entry/Hellboy_%282004%E2%80%932008_film_character%29)在二战期间被纳粹召唤到人间，又被盟军救出；此后他藏身于一个[绝密政府组织](/entry/Bureau_for_Paranormal_Research_and_Defense)之中，暗中保护现代世界免遭超自然威胁。
 
-续集 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 同样由 del Toro 执导、Perlman 主演，于 2008 年上映。系列[重启之作](/entry/Hellboy_(2019_film))于 2019 年上映[1]，[第二次重启](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)则于 2024 年上映[2]。
+续集 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 同样由 del Toro 执导、Perlman 主演，于 2008 年上映。系列[重启之作](/entry/Hellboy_(2019_film))于 2019 年上映[1]，[第二次重启](/entry/Hellboy__The_Crooked_Man_%28film%29)则于 2024 年上映[2]。
 
 ## 剧情
 

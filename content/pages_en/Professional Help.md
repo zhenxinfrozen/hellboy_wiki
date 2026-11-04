@@ -1,4 +1,4 @@
-***Professional Help*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy%3A_Weird_Tales)*, written and drawn by [Evan Dorkin](/entry/Evan_Dorkin).
+***Professional Help*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy__Weird_Tales)*, written and drawn by [Evan Dorkin](/entry/Evan_Dorkin).
 
 ## Plot Synopsis
 

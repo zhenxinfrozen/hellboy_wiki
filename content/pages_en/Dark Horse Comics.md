@@ -31,7 +31,7 @@ The publications also had non-canonical crossovers:
 - *Monkeyman and O'Brien* was published as a back-up in *Hellboy: Seed of Destruction* \#1–4. The content of the actual stories did not overlap.
 - Hellboy appeared in John Byrne's Next Men #21, portrayed as a fictional comic book character in the *Next Men* universe.
 
-However, Mignola and Byrne both recall that this idea quickly became problematic – the difficulties of coordination and organization swiftly outweighed any benefits, and it was better that they each have their own universes. As a result, elements of these crossovers have been minimized or excised from *Hellboy* continuity (going unmentioned in supplemental material like *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*):
+However, Mignola and Byrne both recall that this idea quickly became problematic – the difficulties of coordination and organization swiftly outweighed any benefits, and it was better that they each have their own universes. As a result, elements of these crossovers have been minimized or excised from *Hellboy* continuity (going unmentioned in supplemental material like *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*):
 
 - The Torch of Liberty has not made a notable reappearance since *Seed of Destruction*. Later depictions of the Hellboy Incident tend to minimize or wholly omit his presence at the event.
 - Most reprints of *Seed of Destruction* not only do not include the *Monkeyman and O'Brien* backups, but also remove the promotional text from the issue covers and obscure Adams's illustrations of the duo with the [B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense) logo.

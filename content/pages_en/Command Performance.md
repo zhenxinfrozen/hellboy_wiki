@@ -1,4 +1,4 @@
-***Command Performance*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy%3A_Weird_Tales)*, written by [Will Pfeifer](/entry/Will_Pfeifer) with art provided by [P. Craig Russell](/entry/P._Craig_Russell).
+***Command Performance*** is a non-canonical story published in *[Hellboy: Weird Tales \#6](/entry/Hellboy__Weird_Tales)*, written by [Will Pfeifer](/entry/Will_Pfeifer) with art provided by [P. Craig Russell](/entry/P._Craig_Russell).
 
 ## Plot Synopsis
 
@@ -6,7 +6,7 @@ It is 1991 and [Hellboy](/entry/Hellboy_%28character%29) is investigating a stin
 
 ## Publishing History
 
-After first being printed in *[Hellboy: Weird Tales \#6](/entry/Hellboy%3A_Weird_Tales)* *Command Performance* was then collected in [*Hellboy: Weird Tales* Volume 2](/entry/Hellboy%3A_Weird_Tales) and then later in the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy%3A_Weird_Tales). A uncolored version of the story can also be found in *P. Craig Russell's Murder Myteries and Other Stories Gallery Edition*.
+After first being printed in *[Hellboy: Weird Tales \#6](/entry/Hellboy__Weird_Tales)* *Command Performance* was then collected in [*Hellboy: Weird Tales* Volume 2](/entry/Hellboy__Weird_Tales) and then later in the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy__Weird_Tales). A uncolored version of the story can also be found in *P. Craig Russell's Murder Myteries and Other Stories Gallery Edition*.
 
 ## External Links
 

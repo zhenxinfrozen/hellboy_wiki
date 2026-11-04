@@ -1,4 +1,4 @@
-***A Love Story*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy%3A_Weird_Tales)*, written and drawn by [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards) with [Don Cameron](/entry/Don_Cameron) assisting with the art.
+***A Love Story*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy__Weird_Tales)*, written and drawn by [Tommy Lee Edwards](/entry/Tommy_Lee_Edwards) with [Don Cameron](/entry/Don_Cameron) assisting with the art.
 
 ## Plot Synopsis
 

@@ -1,4 +1,4 @@
-***Love is Scarier than Death*** or, ***Love is Scarier than Monsters***, is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy%3A%20Weird%20Tales)*, written by [J.H. Williams III](/entry/J.H.%20Williams%20III) with [Haden Blackman](/entry/Haden%20Blackman) with Williams also doing the art.
+***Love is Scarier than Death*** or, ***Love is Scarier than Monsters***, is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy__Weird_Tales)*, written by [J.H. Williams III](/entry/J.H.%20Williams%20III) with [Haden Blackman](/entry/Haden%20Blackman) with Williams also doing the art.
 
 ## Plot Synopsis
 
@@ -6,6 +6,6 @@
 
 ## *Love is Scarier than Monsters*
 
-When originally printed in *[Hellboy: Weird Tales \#5](/entry/Hellboy%3A%20Weird%20Tales)* the table of content incorrectly lists the story as titled *"Love is Scarier than Monsters"*. The interior art of *Hellboy: Weird Tales \#5* and subsequent *Weird Tales* collections containing this story, [*Hellboy: Weird Tales* Volume 2](/entry/Hellboy%3A%20Weird%20Tales) and the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy%3A%20Weird%20Tales), correctly identify the story as *"Love is Scarier than Death"*.
+When originally printed in *[Hellboy: Weird Tales \#5](/entry/Hellboy__Weird_Tales)* the table of content incorrectly lists the story as titled *"Love is Scarier than Monsters"*. The interior art of *Hellboy: Weird Tales \#5* and subsequent *Weird Tales* collections containing this story, [*Hellboy: Weird Tales* Volume 2](/entry/Hellboy__Weird_Tales) and the [*Hellboy: Weird Tales* omnibus](/entry/Hellboy__Weird_Tales), correctly identify the story as *"Love is Scarier than Death"*.
 
 **Category:Out-of-continuity story**

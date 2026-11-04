@@ -1,4 +1,4 @@
-**弩阿拉公主（Nuala）**是 Bethmoora 氏族的[精灵](/entry/Elf)公主，[巴洛尔国王](/entry/King_Balor)唯一的女儿，也是 [弩阿达王子](/entry/Prince_Nuada)的孪生妹妹。与哥哥相反，弩阿拉性情温和、渴望和平，并拥有灵能。她是《[地狱男爵2：黄金军团](/entry/Hellboy_II%3A_The_Golden_Army)》的配角主角之一，也是[亚伯·塞皮恩](/entry/Abe_Sapien)的爱慕对象。
+**弩阿拉公主（Nuala）**是 Bethmoora 氏族的[精灵](/entry/Elf)公主，[巴洛尔国王](/entry/King_Balor)唯一的女儿，也是 [弩阿达王子](/entry/Prince_Nuada)的孪生妹妹。与哥哥相反，弩阿拉性情温和、渴望和平，并拥有灵能。她是《[地狱男爵2：黄金军团](/entry/Hellboy_II__The_Golden_Army)》的配角主角之一，也是[亚伯·塞皮恩](/entry/Abe_Sapien)的爱慕对象。
 
 ## 传记
 

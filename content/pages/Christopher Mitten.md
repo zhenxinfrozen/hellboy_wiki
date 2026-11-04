@@ -8,7 +8,7 @@
 
 - *[Rise of the Black Flame](/entry/Rise%20of%20the%20Black%20Flame)*
 - *[The Great Blizzard](/entry/The%20Great%20Blizzard)*
-- *[Rasputin: The Voice of the Dragon](/entry/Rasputin%3A%20The%20Voice%20of%20the%20Dragon)*
+- *[Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon)*
 
 ## External Links
 

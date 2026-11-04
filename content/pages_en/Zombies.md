@@ -1,4 +1,4 @@
-The **zombies** are the monsters that appears in the *[Hellboy: Dogs of the Night](/entry/Hellboy%3A_Dogs_of_the_Night)* game.
+The **zombies** are the monsters that appears in the *[Hellboy: Dogs of the Night](/entry/Hellboy__Dogs_of_the_Night)* game.
 
 ## Background
 

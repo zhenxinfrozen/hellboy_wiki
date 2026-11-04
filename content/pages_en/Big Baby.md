@@ -1,4 +1,4 @@
-![](/content/images/Big_Baby.png) The **Big Baby** is a specialized weapon used by [Hellboy](/entry/Hellboy_%28character%29) in the film *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+![](/content/images/Big_Baby.png) The **Big Baby** is a specialized weapon used by [Hellboy](/entry/Hellboy_%28character%29) in the film *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 ## Weapon specification
 

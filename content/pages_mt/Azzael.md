@@ -20,8 +20,8 @@
 
 ## 其他媒体
 
-- 在 2008 年电影*[地狱男爵 2：黄金军团](/entry/Hellboy_II%3A_The_Golden_Army)*中，[弩阿拉公主](/entry/Nuala)称地狱男爵为"堕落者之子"，确认他有权挑战黄金军团的指挥权，因为任何拥有高贵血统与头衔的人都可以凭[贝丝莫拉王冠](/entry/Crown_of_Bethmora)夺取控制权。
-- 他也在[地狱男爵：扭曲人](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)中登场。
+- 在 2008 年电影*[地狱男爵 2：黄金军团](/entry/Hellboy_II__The_Golden_Army)*中，[弩阿拉公主](/entry/Nuala)称地狱男爵为"堕落者之子"，确认他有权挑战黄金军团的指挥权，因为任何拥有高贵血统与头衔的人都可以凭[贝丝莫拉王冠](/entry/Crown_of_Bethmora)夺取控制权。
+- 他也在[地狱男爵：扭曲人](/entry/Hellboy__The_Crooked_Man_%28film%29)中登场。
 
 ## 资料
 

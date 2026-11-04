@@ -3,7 +3,7 @@ Luke-Goss-240x300.jpg
 
 Actor/Producer/Writer/Musician
 
-Luke Goss plays ‘Prince Nuada ’ in [Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army), [Guillermo del Toro’s](/entry/Guillermo%20del%20Toro) critically-acclaimed [Hellboy](/entry/Hellboy%20%28film%29) sequel that opened in the number one spot atop the U.S. box office this July. A role that earned him 2 MTV Movie Award nominations. He recently completed the starring role in Tekken, a sci-fi feature thriller based on the popular video and arcade game. He has just been attached to play ‘Kristoff,’ in a big screen adaptation of the Top Cow comic book, Magdalena, being developed and produced by Gale Anne Hurd’s Valhalla Pictures, Platinum Studios and Top Cow.
+Luke Goss plays ‘Prince Nuada ’ in [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army), [Guillermo del Toro’s](/entry/Guillermo%20del%20Toro) critically-acclaimed [Hellboy](/entry/Hellboy%20%28film%29) sequel that opened in the number one spot atop the U.S. box office this July. A role that earned him 2 MTV Movie Award nominations. He recently completed the starring role in Tekken, a sci-fi feature thriller based on the popular video and arcade game. He has just been attached to play ‘Kristoff,’ in a big screen adaptation of the Top Cow comic book, Magdalena, being developed and produced by Gale Anne Hurd’s Valhalla Pictures, Platinum Studios and Top Cow.
 
 Goss has recently completed filming his first role for Network Television in JJ Abrams “Fringe”
 

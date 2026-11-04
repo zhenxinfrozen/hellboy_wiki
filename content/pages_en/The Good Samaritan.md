@@ -1,4 +1,4 @@
-!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.png) **The Samaritan** is a weapon from the 2004 film *[Hellboy](/entry/Hellboy_%282004_film%29)* and its 2008 sequel *[The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. The preferred sidearm of [Hellboy](/entry/Hellboy_%282004%E2%80%932008_film_character%29), the Samaritan is a massive revolver created by the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) that is capable of firing a variety of specialized bullets to fight monsters.
+!['The Samaritan' replica by Sideshow Collectibles](/content/images/The_Good_Samaritan.png) **The Samaritan** is a weapon from the 2004 film *[Hellboy](/entry/Hellboy_%282004_film%29)* and its 2008 sequel *[The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. The preferred sidearm of [Hellboy](/entry/Hellboy_%282004%E2%80%932008_film_character%29), the Samaritan is a massive revolver created by the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) that is capable of firing a variety of specialized bullets to fight monsters.
 
 ## Weapon Specifications
 
@@ -55,7 +55,7 @@ The Samaritan (and its holster) was ultimately built by Weta Workshop artists Ja
   - Hellboy uses several guns in the comics, most prominently a single-shot handcannon given to him by [the Torch of Liberty](/entry/the_Torch_of_Liberty) and an M1911 pistol given to him by [Harry Middleton](/entry/Harry_Middleton).
   - [Hellboy](/entry/Hellboy_%28Injustice%29) wields a revolver in *[Injustice 2](/entry/Injustice_2)*. Moves using the weapon are referred to as "Devil's Revolver", but the handgun itself is referred to generically as "his trusty revolver".
   - Hellboy uses a different [unnamed revolver](/entry/Hellboy%27s_revolver_%282019_film%29), dubbed the "devil revolver" by production staff, in [the 2019 film](/entry/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5%EF%BC%9A%E8%A1%80%E7%9A%87%E5%90%8E%E5%B4%9B%E8%B5%B7)).
-  - Another unique revolver is wielded by Hellboy in *[The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_%28film%29)*; again, it is not referred to by a special name.
+  - Another unique revolver is wielded by Hellboy in *[The Crooked Man](/entry/Hellboy__The_Crooked_Man_%28film%29)*; again, it is not referred to by a special name.
 
 ## References
 

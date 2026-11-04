@@ -79,7 +79,7 @@ Republic Pictures 拍摄了两部各十二集的系列片。第一部《幽灵�
 
 - 大螯虾强生在第二部[地狱男爵动画版](/entry/Hellboy_Animated)电影《[铁血惊魂](/entry/Blood_and_Iron)》中短暂客串，出现在一段闪回场景里，展现地狱男爵的诞生以及 [Malcolm Frost](/entry/Malcolm_Frost)对这个怪物的反应。
   - 片尾字幕后的片段预告了第三部电影《幽灵之螯》，片中大螯虾将协助地狱男爵和[凯特·考瑞根](/entry/Kate_Corrigan)对战[拉斯普廷](/entry/Grigori_Rasputin)的鬼魂。这部电影最终被取消。
-- 在《[地狱男爵：邪恶科学](/entry/Hellboy%3A_The_Science_of_Evil)》中，大螯虾被隐约提及。
+- 在《[地狱男爵：邪恶科学](/entry/Hellboy__The_Science_of_Evil)》中，大螯虾被隐约提及。
   - 与已取消 DLC 相关的成就提到了大螯虾（一个名为"尝尝大螯虾的钳子"，另一个提到玩家可"扮演大螯虾"）。游戏制作人员名单中列出 Bruce Campbell 为一个"机密"角色配音，暗示他原本要在这部 DLC 中为大螯虾配音。
 - 在电子游戏《[不义联盟 2](/entry/Injustice_2)》中，与[闪电侠](/entry/w%3Ac%3Ainjustice%3AThe_Flash_%28Jay_Garrick%29)（Jay Garrick）的赛前对话里，[地狱男爵](/entry/Hellboy_%28Injustice%29)可能会问 Garrick 有没有见过大螯虾。闪电侠欣赏地回答："啊，总算有个懂历史的人了"，表明他知道这位同为 40 年代打击犯罪的同道。
 - 大螯虾在 2019 年电影《[地狱男爵](/entry/Hellboy_(2019_film)))》中短暂登场，由 [Thomas Haden Church](/entry/Thomas_Haden_Church)饰演。

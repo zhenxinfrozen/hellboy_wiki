@@ -1,4 +1,4 @@
-Princess **Nuala** is the Elf Princess of the Bethmoora Clan, the only daughter of King Balor and Prince Nuada's twin sister. Opposite to her brother, Nuala is a gentle creature who desires peace and also possesses psychic powers. She is one of the supporting protagonists of *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*and [Abraham Sapien](/entry/Abe%20Sapien)'s love interest*.*
+Princess **Nuala** is the Elf Princess of the Bethmoora Clan, the only daughter of King Balor and Prince Nuada's twin sister. Opposite to her brother, Nuala is a gentle creature who desires peace and also possesses psychic powers. She is one of the supporting protagonists of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*and [Abraham Sapien](/entry/Abe%20Sapien)'s love interest*.*
 
 ## Biography
 

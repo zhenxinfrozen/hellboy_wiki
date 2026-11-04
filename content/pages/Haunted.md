@@ -1,4 +1,4 @@
-***Abe Sapien: Star of the B.P.R.D.*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy%3A%20Weird%20Tales)*. [Tom Sniegoski](/entry/Tom%20Sniegoski) wrote the story while [Ovi Nedelcu](/entry/Ovi%20Nedelcu) did the art.
+***Abe Sapien: Star of the B.P.R.D.*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy__Weird_Tales)*. [Tom Sniegoski](/entry/Tom%20Sniegoski) wrote the story while [Ovi Nedelcu](/entry/Ovi%20Nedelcu) did the art.
 
 ## Plot Synopsis
 

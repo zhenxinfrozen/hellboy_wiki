@@ -3,7 +3,7 @@
 ## Trivia
 
 - Kesy is the third actor to portray Hellboy in live action, after [Ron Perlman](/entry/Ron_Perlman) and [David Harbour](/entry/David_Harbour).
-- He previously played Gabriel Bolivar/The Master in the television series *The Strain*, co-written and directed by [Guillermo del Toro](/entry/Guillermo_del_Toro), who directed the films *[Hellboy](/entry/Hellboy_(2004_film))* and *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*.
+- He previously played Gabriel Bolivar/The Master in the television series *The Strain*, co-written and directed by [Guillermo del Toro](/entry/Guillermo_del_Toro), who directed the films *[Hellboy](/entry/Hellboy_(2004_film))* and *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*.
 
 ## External Links
 

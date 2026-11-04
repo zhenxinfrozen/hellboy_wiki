@@ -14,5 +14,5 @@
 
 ## 登场
 
-- [《地狱男爵：巨人之骨》](/entry/Hellboy%3A_The_Bones_of_Giants_(prose_novel))
+- [《地狱男爵：巨人之骨》](/entry/Hellboy__The_Bones_of_Giants_(prose_novel))
 - [《巨人之骨》](/entry/The_Bones_of_Giants_(comic_miniseries))

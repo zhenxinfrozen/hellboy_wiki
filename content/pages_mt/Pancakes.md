@@ -10,7 +10,7 @@
 
 ## 故事年表
 
-根据《[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)》中的年表，这个故事发生在 1947 年 5 月 12 日。
+根据《[Hellboy: The Companion](/entry/Hellboy__The_Companion)》中的年表，这个故事发生在 1947 年 5 月 12 日。
 
 地狱男爵在《[*B.P.R.D.：1947* 第 4 期](/entry/1947)》中再次要求吃煎饼，说明那个故事发生在《煎饼》之后。
 

@@ -2,7 +2,7 @@
 
 ## Publication History
 
-*The Transformation of J.H. O’Donnell* is part of the [*Hell on Earth* cycle](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)), but it is a side story, focusing mainly on flashback events. It features a cover by [Max Fiumara](/entry/Max_Fiumara) with a "[Year of Monsters](/entry/Year_of_Monsters)" variant by [Mike Mignola](/entry/Mike_Mignola).
+*The Transformation of J.H. O’Donnell* is part of the [*Hell on Earth* cycle](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)), but it is a side story, focusing mainly on flashback events. It features a cover by [Max Fiumara](/entry/Max_Fiumara) with a "[Year of Monsters](/entry/Year_of_Monsters)" variant by [Mike Mignola](/entry/Mike_Mignola).
 
 ## Synopsis
 

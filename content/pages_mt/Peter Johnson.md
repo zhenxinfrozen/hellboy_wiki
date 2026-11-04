@@ -1,4 +1,4 @@
-**彼得·约翰逊（Peter Johnson）** 是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 中的虚构角色。
+**彼得·约翰逊（Peter Johnson）** 是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 中的虚构角色。
 
 ## 历史
 

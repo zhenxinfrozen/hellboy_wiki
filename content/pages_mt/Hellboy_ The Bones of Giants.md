@@ -1,4 +1,4 @@
-***《巨人之骨》（The Bones of Giants）***是一部四期迷你系列，于 2021 年 11 月推出，由[迈克·米格诺拉](/entry/Mike_Mignola)和[克里斯托弗·戈尔登](/entry/Christopher_Golden)编剧，[马特·史密斯](/entry/Matt_Smith)作画。它改编自 2001 年的文字小说*[《地狱男爵：巨人之骨》（Hellboy: The Bones of Giants）](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)*，该小说同样由米格诺拉和戈尔登撰写。
+***《巨人之骨》（The Bones of Giants）***是一部四期迷你系列，于 2021 年 11 月推出，由[迈克·米格诺拉](/entry/Mike_Mignola)和[克里斯托弗·戈尔登](/entry/Christopher_Golden)编剧，[马特·史密斯](/entry/Matt_Smith)作画。它改编自 2001 年的文字小说*[《地狱男爵：巨人之骨》（Hellboy: The Bones of Giants）](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)*，该小说同样由米格诺拉和戈尔登撰写。
 
 ## 出版历史
 
@@ -22,7 +22,7 @@
 
 ## 故事时间线
 
-虽然原版[《地狱男爵：巨人之骨》文字小说](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)的故事发生在 1999 年 8 月，但漫画改编版的故事发生在 1988 年 2 月。克里斯托弗·戈尔登没有对这一改动的原因作出评论，但他确实表示，当文字小说与漫画内容冲突时，应以漫画为准史。
+虽然原版[《地狱男爵：巨人之骨》文字小说](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)的故事发生在 1999 年 8 月，但漫画改编版的故事发生在 1988 年 2 月。克里斯托弗·戈尔登没有对这一改动的原因作出评论，但他确实表示，当文字小说与漫画内容冲突时，应以漫画为准史。
 
 ## 内容
 

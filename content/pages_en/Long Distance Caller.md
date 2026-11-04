@@ -1,4 +1,4 @@
-***Long Distance Caller*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy%3A_Weird_Tales)*, written by and drawn by [Kev Walker](/entry/Kev_Walker).
+***Long Distance Caller*** is a non-canonical story published in *[Hellboy: Weird Tales \#7](/entry/Hellboy__Weird_Tales)*, written by and drawn by [Kev Walker](/entry/Kev_Walker).
 
 ## Plot Synopsis
 

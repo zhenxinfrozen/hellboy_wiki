@@ -1,4 +1,4 @@
-![DougJones.jpg](/content/images/DougJones.jpg) **Doug Jones** (born May 24, 1960) is the American actor who plays [Abe Sapien](/entry/Abe%20Sapien) in both *[Hellboy](/entry/Hellboy%20%28film%29)* and *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)*. He also voices the character in the animated features *Blood and Iron* and *Sword of Storms* and the video game [Hellboy: The Science of Evil](/entry/Hellboy%3A%20The%20Science%20of%20Evil).
+![DougJones.jpg](/content/images/DougJones.jpg) **Doug Jones** (born May 24, 1960) is the American actor who plays [Abe Sapien](/entry/Abe%20Sapien) in both *[Hellboy](/entry/Hellboy%20%28film%29)* and *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. He also voices the character in the animated features *Blood and Iron* and *Sword of Storms* and the video game [Hellboy: The Science of Evil](/entry/Hellboy__The_Science_of_Evil).
 
 In *Hellboy II: The Golden Army* he also plays the Angel of Death and the Chamberlain.
 

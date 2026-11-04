@@ -1,4 +1,4 @@
-***《家庭故事》*** 是一篇非正史故事，发表于 *[《地狱男爵：怪谈 #3》](/entry/Hellboy%3A_Weird_Tales)*，由 [Sara Ryan](/entry/Sara_Ryan) 编剧、[Steve Lieber](/entry/Steve_Lieber) 作画。
+***《家庭故事》*** 是一篇非正史故事，发表于 *[《地狱男爵：怪谈 #3》](/entry/Hellboy__Weird_Tales)*，由 [Sara Ryan](/entry/Sara_Ryan) 编剧、[Steve Lieber](/entry/Steve_Lieber) 作画。
 
 ## 剧情简介
 

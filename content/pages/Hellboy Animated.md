@@ -1,4 +1,4 @@
-![Hellboy_Animated_Movies.jpg](/content/images/Hellboy_Animated_Movies.jpg) ***Hellboy Animated*** is a pair of original straight-to-DVD animated films based on the [*Hellboy* comic book series](/entry/Hellboy%20%28series%29). The two films, *[Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms)* and *[Blood and Iron](/entry/Hellboy%3A%20Blood%20and%20Iron)*, were made with the approval of [Mike Mignola](/entry/Mike%20Mignola) and [Guillermo del Toro](/entry/Guillermo%20del%20Toro). A third film was being planned, but has since been abandoned.
+![Hellboy_Animated_Movies.jpg](/content/images/Hellboy_Animated_Movies.jpg) ***Hellboy Animated*** is a pair of original straight-to-DVD animated films based on the [*Hellboy* comic book series](/entry/Hellboy%20%28series%29). The two films, *[Sword of Storms](/entry/Hellboy__Sword_of_Storms)* and *[Blood and Iron](/entry/Hellboy__Blood_and_Iron)*, were made with the approval of [Mike Mignola](/entry/Mike%20Mignola) and [Guillermo del Toro](/entry/Guillermo%20del%20Toro). A third film was being planned, but has since been abandoned.
 
 ## Cast
 
@@ -20,7 +20,7 @@ In *Sword of Storms*, Hellboy and [Kate Corrigan](/entry/Kate%20Corrigan) are di
 
 The abandoned third film. It was to be the debut of [Lobster Johnson](/entry/The%20Lobster) in the series, though it was to primarily feature Hellboy and Kate.
 
-On March 19, 2008, a message was posted on the *Hellboy Animated* site by producer Tad Stones stating that no work is being done on this film. However, Stones also wrote that some smaller animated projects may be done for internet release, and hinted that the release of *[Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army)* may affect the future of the animated film series.
+On March 19, 2008, a message was posted on the *Hellboy Animated* site by producer Tad Stones stating that no work is being done on this film. However, Stones also wrote that some smaller animated projects may be done for internet release, and hinted that the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* may affect the future of the animated film series.
 
 All work on *The Phantom Claw* has since been suspended indefinitely.
 

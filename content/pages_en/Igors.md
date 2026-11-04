@@ -1,4 +1,4 @@
-The **Igors** are the fictional characters from the *[Hellboy: Dogs of the Night](/entry/Hellboy%3A_Dogs_of_the_Night)* game. In the game, they are referred to only as **guards**, but in the game booklet, they are called Igors.
+The **Igors** are the fictional characters from the *[Hellboy: Dogs of the Night](/entry/Hellboy__Dogs_of_the_Night)* game. In the game, they are referred to only as **guards**, but in the game booklet, they are called Igors.
 
 ## History
 

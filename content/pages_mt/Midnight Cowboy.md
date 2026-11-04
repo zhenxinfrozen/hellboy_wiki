@@ -1,4 +1,4 @@
-《**午夜牛郎**》（Midnight Cowboy）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #2](/entry/Hellboy%3A_Weird_Tales)》，故事与作画均由 [Eric Powell](/entry/Eric_Powell) 完成。
+《**午夜牛郎**》（Midnight Cowboy）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #2](/entry/Hellboy__Weird_Tales)》，故事与作画均由 [Eric Powell](/entry/Eric_Powell) 完成。
 
 ## 剧情简介
 

@@ -1,4 +1,4 @@
-**宗教审判官**（Inquisitor）是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 中的虚构角色。
+**宗教审判官**（Inquisitor）是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 中的虚构角色。
 
 ## 历史
 

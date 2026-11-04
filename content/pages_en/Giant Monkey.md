@@ -1,4 +1,4 @@
-The **Giant Monkey** is a fictional character from the *[Hellboy: Dogs of the Night](/entry/Hellboy%3A_Dogs_of_the_Night)* game. His real name is unknown and he is only called the Great Monkey or **Monkey-Boy** by [Hellboy](/entry/Hellboy_(character)).
+The **Giant Monkey** is a fictional character from the *[Hellboy: Dogs of the Night](/entry/Hellboy__Dogs_of_the_Night)* game. His real name is unknown and he is only called the Great Monkey or **Monkey-Boy** by [Hellboy](/entry/Hellboy_(character)).
 
 ## History
 

@@ -1,4 +1,4 @@
-***Haunted*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy%3A_Weird_Tales)*. [Tom Sniegoski](/entry/Tom_Sniegoski) wrote the story while [Ovi Nedelcu](/entry/Ovi_Nedelcu) did the art.
+***Haunted*** is a non-canonical story published in *[Hellboy: Weird Tales \#4](/entry/Hellboy__Weird_Tales)*. [Tom Sniegoski](/entry/Tom_Sniegoski) wrote the story while [Ovi Nedelcu](/entry/Ovi_Nedelcu) did the art.
 
 ## Plot Synopsis
 

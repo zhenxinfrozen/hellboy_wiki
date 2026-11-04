@@ -1,10 +1,10 @@
-**The Last Elemental** (also poetically referred to as the Giver of Life and a Destroyer) is an elemental entity of Earth - a Forest God. Before [Hellboy](/entry/Hellboy) shot it dead, it was said to have been the last of its kind. The creature's only two appearances to date are in the movie-sequel [Hellboy 2: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army), and its novelization.
+**The Last Elemental** (also poetically referred to as the Giver of Life and a Destroyer) is an elemental entity of Earth - a Forest God. Before [Hellboy](/entry/Hellboy) shot it dead, it was said to have been the last of its kind. The creature's only two appearances to date are in the movie-sequel [Hellboy 2: The Golden Army](/entry/Hellboy_II__The_Golden_Army), and its novelization.
 
 ## History
 
 ### Before the events of the movie
 
-Nothing is known of the creature from before the events of the [movie](/entry/Hellboy_II%3A_The_Golden_Army). It is implied that there had once been many more such creatures, and from the movie's backstory, one can presume they have all died out due to humanity's expansion on Earth, or during the war between [humans](/entry/Human) and magical creatures.
+Nothing is known of the creature from before the events of the [movie](/entry/Hellboy_II__The_Golden_Army). It is implied that there had once been many more such creatures, and from the movie's backstory, one can presume they have all died out due to humanity's expansion on Earth, or during the war between [humans](/entry/Human) and magical creatures.
 
 The creatures were referred to as Forest Gods and as the Givers of Life and Destroyers. As such, it can be assumed that the Elves either worshipped, or still worship the Elementals as gods, and perhaps even believe them to be their creators. It is unknown if this was still the case during the time the events of the movie took place.
 

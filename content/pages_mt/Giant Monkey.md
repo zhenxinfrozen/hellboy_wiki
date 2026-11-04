@@ -1,4 +1,4 @@
-**巨猴（Giant Monkey）** 是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy%3A_Dogs_of_the_Night)* 中的虚构角色。它的真名无人知晓，只被称为巨猴，或被[地狱男爵](/entry/Hellboy_(character))叫作**猴仔**。
+**巨猴（Giant Monkey）** 是游戏 *[《地狱男爵：夜之犬》](/entry/Hellboy__Dogs_of_the_Night)* 中的虚构角色。它的真名无人知晓，只被称为巨猴，或被[地狱男爵](/entry/Hellboy_(character))叫作**猴仔**。
 
 ## 历史
 

@@ -2,7 +2,7 @@
 
 ## Publication History
 
-*Theater of the Dead* was first published in *[Hellboy: Weird Tales \#7](/entry/Hellboy%3A_Weird_Tales)*. The story was later collected in [*Hellboy: Weird Tales - Volume 2*](/entry/Trade_Paperback_Collections) as well as the [*Weird Tales* omnibus](/entry/Omnibus_Editions). It is also the titular story of the ''[Hellboy: The Theater of Dead and Other Stories](/entry/The_Theater_of_Dead_and_Other_Stories) collection.
+*Theater of the Dead* was first published in *[Hellboy: Weird Tales \#7](/entry/Hellboy__Weird_Tales)*. The story was later collected in [*Hellboy: Weird Tales - Volume 2*](/entry/Trade_Paperback_Collections) as well as the [*Weird Tales* omnibus](/entry/Omnibus_Editions). It is also the titular story of the ''[Hellboy: The Theater of Dead and Other Stories](/entry/The_Theater_of_Dead_and_Other_Stories) collection.
 
 ## Plot Synopsis
 

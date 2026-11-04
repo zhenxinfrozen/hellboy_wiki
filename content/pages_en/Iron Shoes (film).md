@@ -1,4 +1,4 @@
-*Hellboy Animated: Iron Shoes* serves as a bonus feature included on the DVD release of [Hellboy: Blood and Iron](/entry/Hellboy%3A_Blood_and_Iron).
+*Hellboy Animated: Iron Shoes* serves as a bonus feature included on the DVD release of [Hellboy: Blood and Iron](/entry/Hellboy__Blood_and_Iron).
 
 ## Plot
 

@@ -6,7 +6,7 @@
 
 在诸神黄昏的高潮时刻，托尔与族亲们并肩立于战场，对抗他们一族的敌人。他与[耶梦加得](/entry/Jormungand)死战到底。
 
-### *[巨人之骨](/entry/Hellboy%3A_The_Bones_of_Giants)*
+### *[巨人之骨](/entry/Hellboy__The_Bones_of_Giants)*
 
 托尔的遗体最终被埋葬在斯德哥尔摩附近的荒野中。一场山崩使他的遗体暴露出来，被一名渔夫发现。
 
@@ -28,4 +28,4 @@
 
 ## 参考资料
 
-[1] *[地狱男爵：巨人之骨](/entry/Hellboy%3A_The_Bones_of_Giants)*
+[1] *[地狱男爵：巨人之骨](/entry/Hellboy__The_Bones_of_Giants)*

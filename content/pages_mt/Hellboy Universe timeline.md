@@ -629,7 +629,7 @@
 **1938 年**
 
 - **1 月**：在纽约，龙虾把津科-戴维斯公司员工斯金纳医生、怀利医生、肯特医生和高兰医生之死，追查至他们的同事[斯坦利·科恩](/entry/Stanley_Corn)的大脑。
-- **春季**：[《我将在那里发现什么？》](/entry/And_What_Shall_I_Find_There%3F)
+- **春季**：[《我将在那里发现什么？》](/entry/And_What_Shall_I_Find_There)
 - **12 月**：龙虾作为嗜杀义警的生涯告终。
 
 **1939 年**
@@ -649,7 +649,7 @@
 
 **1941 年**
 
-- **6 月**：[《拉斯普廷：龙之声》](/entry/Rasputin%3A_The_Voice_of_the_Dragon)
+- **6 月**：[《拉斯普廷：龙之声》](/entry/Rasputin__The_Voice_of_the_Dragon)
 
 **1942 年**
 
@@ -917,7 +917,7 @@
 **日期不详**
 
 - [《瓦尔古之兽》](/entry/The_Beast_of_Vargu)
-- [《地狱男爵大战大螯虾强生：死亡之戒》](/entry/Hellboy_vs._Lobster_Johnson%3A_The_Ring_of_Death)
+- [《地狱男爵大战大螯虾强生：死亡之戒》](/entry/Hellboy_vs._Lobster_Johnson__The_Ring_of_Death)
 - 地狱男爵和迦梨（Kali）的一些信徒度过了一个倒霉的夜晚。
 
 **4 月**
@@ -1104,7 +1104,7 @@
 
 **日期不详**
 
-- [《地狱男爵：失踪的军团》](/entry/Hellboy%3A_The_Lost_Army)
+- [《地狱男爵：失踪的军团》](/entry/Hellboy__The_Lost_Army)
 - [《乘船下海者》](/entry/They_That_Go_Down_to_the_Sea_in_Ships)
 - [《惠蒂尔老头》](/entry/Old_Man_Whittier)
 

@@ -9,7 +9,7 @@
   
 **Mac** is a dog that lived on the [Bureau for Paranormal Research and Defense](/entry/Bureau_for_Paranormal_Research_and_Defense) base in the early 20th century, at first in New Mexico then moving with the agency to Connecticut. In his youth, [Hellboy](/entry/Hellboy_(character)) had a fondness for the friendly canine.
 
-The non-canon *[Weird Tale](/entry/Hellboy%3A_Weird_Tales)* "[Midnight Cowboy](/entry/Midnight_Cowboy)" showed an adventure Mac and the young Hellboy went on at the New Mexico base.
+The non-canon *[Weird Tale](/entry/Hellboy__Weird_Tales)* "[Midnight Cowboy](/entry/Midnight_Cowboy)" showed an adventure Mac and the young Hellboy went on at the New Mexico base.
 
 ## Trivia
 

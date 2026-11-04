@@ -24,11 +24,11 @@ The story takes place in 1956. In a box it is also said that [Trevor Bruttenholm
 
 <!-- -->
 
-- The legend of King Vold is mentioned by [Kate Corrigan](/entry/Kate%20Corrigan) in the Animated film [Hellboy: Sword of Storms](/entry/Hellboy%3A%20Sword%20of%20Storms). The details of the legend are the same. However, in the movie it was Kate, not Hellboy, who investigated. Also she travels to Prague, not Norway.
+- The legend of King Vold is mentioned by [Kate Corrigan](/entry/Kate%20Corrigan) in the Animated film [Hellboy: Sword of Storms](/entry/Hellboy__Sword_of_Storms). The details of the legend are the same. However, in the movie it was Kate, not Hellboy, who investigated. Also she travels to Prague, not Norway.
 
 <!-- -->
 
-- Hellboy mentions his encounter with King Vold when he encounters Professor Aickmann again in Stockholm, in *[Hellboy: The Bones of Giants](/entry/Hellboy%3A%20The%20Bones%20of%20Giants)*.
+- Hellboy mentions his encounter with King Vold when he encounters Professor Aickmann again in Stockholm, in *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)*.
 
 ## Notes
 

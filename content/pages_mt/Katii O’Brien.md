@@ -49,7 +49,7 @@ O'Brien 于 2011 年 9 月进入漫画行业，当时在漫威漫画（Marvel Co
 - *[《地狱男爵与超自然调查防御署：1956 \#2》](/entry/Hellboy_and_the_B.P.R.D.)*
 - *[《地狱男爵与超自然调查防御署：土星回归 \#3》](/entry/Hellboy_and_the_B.P.R.D.)*
 - *[《地狱男爵冬季特刊（2018）》](/entry/Hellboy_Winter_Special_(2018))*
-- *[《拉斯普廷：龙之声》](/entry/Rasputin%3A_The_Voice_of_the_Dragon)* 平装合订本
+- *[《拉斯普廷：龙之声》](/entry/Rasputin__The_Voice_of_the_Dragon)* 平装合订本
 
 ## 外部链接
 

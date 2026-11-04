@@ -10,7 +10,7 @@ The five issues were collected into a trade paperback, [*Itty Bitty Hellboy*](/e
 
 In May of 2014 a new *Itty Bitty Hellboy* story, *The Chained Coughin*', was included in Dark Horse's Free Comic Book Day offering, *[Free Comic Book Day 2014: All Ages](/entry/Free_Comic_Book_Day_2014%3A_All_Ages)*.
 
-A sequel series, *[Itty Bitty Hellboy: The Search for the Were-Jaguar!](/entry/Itty_Bitty_Hellboy%3A_The_Search_for_the_Were-Jaguar%21)*, released its first issue in November of 2015.
+A sequel series, *[Itty Bitty Hellboy: The Search for the Were-Jaguar!](/entry/Itty_Bitty_Hellboy__The_Search_for_the_Were-Jaguar%21)*, released its first issue in November of 2015.
 
 ## Synopsis
 

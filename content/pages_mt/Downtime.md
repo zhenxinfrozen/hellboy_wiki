@@ -1,4 +1,4 @@
-***《休整时光》（Downtime）***是一则刊载于 *[《地狱男爵：怪谭》 #3](/entry/Hellboy%3A_Weird_Tales)* 的非正史故事，故事与作画均由 [Bob Fingerman](/entry/Bob_Fingerman) 完成。
+***《休整时光》（Downtime）***是一则刊载于 *[《地狱男爵：怪谭》 #3](/entry/Hellboy__Weird_Tales)* 的非正史故事，故事与作画均由 [Bob Fingerman](/entry/Bob_Fingerman) 完成。
 
 ## 剧情简介
 

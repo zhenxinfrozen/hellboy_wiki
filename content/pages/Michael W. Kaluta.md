@@ -4,6 +4,6 @@
 
 ### Cover Artist
 
-- *[Hellboy: Weird Tales \#8](/entry/Hellboy%3A%20Weird%20Tales)*
+- *[Hellboy: Weird Tales \#8](/entry/Hellboy__Weird_Tales)*
 
 **Kaluta, Michael W.**

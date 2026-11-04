@@ -1,4 +1,4 @@
-*For the army as a general concept and the 2008 film, see [Golden Army](/entry/Golden_Army) and [Hellboy II: The Golden Army](/entry/Hellboy_II:_The_Golden_Army).*
+*For the army as a general concept and the 2008 film, see [Golden Army](/entry/Golden_Army) and [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).*
 
 The **Golden Army**, or the "unstoppable force", was a clockwork army composed of 70x70 (4,900) mechanical warriors, each far larger and stronger than any human. They could repair themselves from all damage and were effectively indestructible due to this.
 

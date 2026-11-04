@@ -1,6 +1,6 @@
 ![](/content/images/Hellboy2Soundtrack.jpg)
 
-On July 15, 2008, Varese Sarabande released a soundtrack for *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. The original music was composed by Danny Elfman.
+On July 15, 2008, Varese Sarabande released a soundtrack for *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. The original music was composed by Danny Elfman.
 
 ## Track Listing
 

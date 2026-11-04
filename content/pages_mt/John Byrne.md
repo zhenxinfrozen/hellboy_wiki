@@ -12,7 +12,7 @@ Byrne 为最早的三个 *[Hellboy](/entry/Hellboy_%28series%29)* 故事撰写�
 
 1994 年至 1998 年间，John Byrne 与 [Mike Mignola](/entry/Mike_Mignola) 的作品都由 [Dark Horse Comics 的「Legend」出版厂牌](/entry/Dark_Horse_Comics)出版。在此期间，他们曾短暂探讨让各自创作的角色跨作品联动、构建一个共享宇宙，于是 *Hellboy* 的角色出现在了以下由 Byrne 自编自绘的漫画中：
 
-- [《John Byrne's Next Men》\#21](/entry/Next_Men%3A_Faith_%E2%80%93_Part_3)（[地狱男爵（Hellboy）](/entry/Hellboy_%28character%29)在由 [Mike Mignola](/entry/Mike_Mignola) 绘制的一段情节中登场）
+- [《John Byrne's Next Men》\#21](/entry/Next_Men__Faith_%E2%80%93_Part_3)（[地狱男爵（Hellboy）](/entry/Hellboy_%28character%29)在由 [Mike Mignola](/entry/Mike_Mignola) 绘制的一段情节中登场）
 - 《Danger Unlimited》\#4（地狱男爵在一场与其他超级英雄同框的戏中客串）
 - [《Babe 2》](/entry/Babe_2) \#1–2（[鱼人亚伯（Abe Sapien）](/entry/Abraham_Sapien)登场；地狱男爵在尾声场景中出现）
 

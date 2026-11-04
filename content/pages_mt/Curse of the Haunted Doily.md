@@ -1,4 +1,4 @@
-《**闹鬼桌垫的诅咒**》（Curse of the Haunted Doily）是一个非正史故事，发表于 *[地狱男爵：奇谈 #2](/entry/Hellboy%3A_Weird_Tales)*，故事由 [Mark Ricketts](/entry/Mark_Ricketts) 创作，画作由 [Eric Wright](/entry/Eric_Wright) 绘制。
+《**闹鬼桌垫的诅咒**》（Curse of the Haunted Doily）是一个非正史故事，发表于 *[地狱男爵：奇谈 #2](/entry/Hellboy__Weird_Tales)*，故事由 [Mark Ricketts](/entry/Mark_Ricketts) 创作，画作由 [Eric Wright](/entry/Eric_Wright) 绘制。
 
 ## 剧情简介
 

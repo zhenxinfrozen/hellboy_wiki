@@ -1,4 +1,4 @@
-***Shattered*** is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy%3A_Weird_Tales)*, written by [Ron Marz](/entry/Ron_Marz) with art provided by [Jim Starlin](/entry/Jim_Starlin).
+***Shattered*** is a non-canonical story published in *[Hellboy: Weird Tales \#5](/entry/Hellboy__Weird_Tales)*, written by [Ron Marz](/entry/Ron_Marz) with art provided by [Jim Starlin](/entry/Jim_Starlin).
 
 ## Plot Synopsis
 

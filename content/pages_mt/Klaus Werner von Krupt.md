@@ -7,4 +7,4 @@
 ## 其他媒体/登场
 
 - ![](/content/images/Movie_Klaus_Werner_von_Krupt.jpg)在电影 *[《地狱男爵》](/entry/Hellboy_%28film%29)* 中，冯·克虏伯由 William Hoyland 饰演，他出席了拉斯普廷的仪式。在剧本中，他被突入仪式现场的美国士兵杀死。电影里冯·克虏伯戴的是一副墨镜而非单片眼镜，且两块镜片上都没有像单片眼镜那样印着卐字标记。
-- 在 Stephen R. Bissette 创作的短篇故事《Jigsaw》（收录于 *[《地狱男爵：零工》](/entry/Hellboy%3A_Odd_Jobs)*）中，[凯特·考瑞根](/entry/%E5%87%AF%E7%89%B9%C2%B7%E8%80%83%E7%91%9E%E6%A0%B9))提到，诸神黄昏计划的数名成员，包括冯·克虏伯、[利奥波德·克茨](/entry/Leopold_Kurtz)和 [伊尔莎·豪普斯坦](/entry/Ilsa_Haupstein)，曾在巴黎集会，试图拼合 [Moro](/entry/Moro) 的头颅——这位邪恶炼金术士于 17 世纪被教会处死——但尚未得手就遭到法国抵抗组织的袭击而中断。
+- 在 Stephen R. Bissette 创作的短篇故事《Jigsaw》（收录于 *[《地狱男爵：零工》](/entry/Hellboy__Odd_Jobs)*）中，[凯特·考瑞根](/entry/%E5%87%AF%E7%89%B9%C2%B7%E8%80%83%E7%91%9E%E6%A0%B9))提到，诸神黄昏计划的数名成员，包括冯·克虏伯、[利奥波德·克茨](/entry/Leopold_Kurtz)和 [伊尔莎·豪普斯坦](/entry/Ilsa_Haupstein)，曾在巴黎集会，试图拼合 [Moro](/entry/Moro) 的头颅——这位邪恶炼金术士于 17 世纪被教会处死——但尚未得手就遭到法国抵抗组织的袭击而中断。

@@ -4,7 +4,7 @@
 
 ## History
 
-### *[Hellboy: The Bones of Giants](/entry/Hellboy%3A%20The%20Bones%20of%20Giants)*
+### *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)*
 
 Ratatosk appears before Hellboy, possessed by the spirit of the Thunderer, and gave him warning of Thyrm and his allies. He later appeared alongside Mist, after Hellboy vanquished Thyrm.
 

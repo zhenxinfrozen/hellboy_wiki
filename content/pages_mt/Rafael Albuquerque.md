@@ -1,4 +1,4 @@
-**Rafael Albuquerque** 曾担任[《B.P.R.D. 人间地狱》（B.P.R.D. Hell on Earth）](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)的封面画师，为[《火湖》（Lake of Fire）](/entry/Lake_of_Fire)和[《黑焰统治》（The Reign of the Black Flame）](/entry/The_Reign_of_the_Black_Flame)绘制封面。
+**Rafael Albuquerque** 曾担任[《B.P.R.D. 人间地狱》（B.P.R.D. Hell on Earth）](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1)的封面画师，为[《火湖》（Lake of Fire）](/entry/Lake_of_Fire)和[《黑焰统治》（The Reign of the Black Flame）](/entry/The_Reign_of_the_Black_Flame)绘制封面。
 
 ## 封面作画
 

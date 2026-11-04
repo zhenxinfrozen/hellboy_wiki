@@ -69,7 +69,7 @@ Hellboy's Zinco pistol misfires in dramatic fashion.
 
 ![](/content/images/The%20Good%20Samaritan.png)
 
-- The 2004 film *[Hellboy](/entry/Hellboy_(2004_film))* and its sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*, depict [Hellboy](/entry/Hellboy_(2004%E2%80%932008_film_character)) wielding a distinctive, massive revolver called "[The Samaritan](/entry/The_Samaritan)". The popularity of the films, and this weapon in particular, have lead many to incorrectly assume that the name and/or design originate from or otherwise can be seen in the comics.
+- The 2004 film *[Hellboy](/entry/Hellboy_(2004_film))* and its sequel, *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*, depict [Hellboy](/entry/Hellboy_(2004%E2%80%932008_film_character)) wielding a distinctive, massive revolver called "[The Samaritan](/entry/The_Samaritan)". The popularity of the films, and this weapon in particular, have lead many to incorrectly assume that the name and/or design originate from or otherwise can be seen in the comics.
   - The Samaritan's design does share some minor similarities with the single-shot revolver from the comics (large size, carried in a leather U.S. holster, shortened lanyard attached to loop), but they are ultimately substantially different.
   - No gun wielded by Hellboy in the comics has ever been given a special name like "The Samaritan".
   - The Samaritan's popularity has also led to many other adaptations of Hellboy depicting him with a revolver, such as in *[Injustice 2](/entry/Injustice_2)*, [in the 2019 film](/entry/Hellboy's_revolver_(2019_film)), or in *[The Crooked Man](/entry/Hellboy%3A_The_Crooked_Man_(film))*; these revolvers are not officially called "Samaritan" either.

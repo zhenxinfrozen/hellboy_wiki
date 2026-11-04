@@ -1,4 +1,4 @@
-***Fifteen Minutes...*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy%3A_Weird_Tales)*, written and drawn by [Jill Thompson](/entry/Jill_Thompson).
+***Fifteen Minutes...*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy__Weird_Tales)*, written and drawn by [Jill Thompson](/entry/Jill_Thompson).
 
 ## Plot Synopsis
 

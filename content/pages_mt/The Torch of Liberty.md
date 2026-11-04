@@ -31,7 +31,7 @@
 ![](/content/images/Hellboy-Incident--Torch-comparison.jpg)
 自由火炬在<em>[毁灭之种](/entry/Seed_of_Destruction)</em>第 1 期（左）中的突出亮相，与他在<em>[Hellboy and the B.P.R.D.](/entry/Hellboy_and_the_B.P.R.D.)：[1952](/entry/1952)</em>第 1 期（右）中被弱化的描绘之对比
 
-自由火炬在《毁灭之种》中的登场是这些被放弃的共享宇宙计划的遗留物；自那以后他再没有在系列中正式回归。后来对地狱男爵事件的描绘往往弱化或完全省略他在该事件中的存在。在《[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)》等补充资料中也没有提到自由火炬。
+自由火炬在《毁灭之种》中的登场是这些被放弃的共享宇宙计划的遗留物；自那以后他再没有在系列中正式回归。后来对地狱男爵事件的描绘往往弱化或完全省略他在该事件中的存在。在《[Hellboy: The Companion](/entry/Hellboy__The_Companion)》等补充资料中也没有提到自由火炬。
 
 #### 未来登场的可能性
 

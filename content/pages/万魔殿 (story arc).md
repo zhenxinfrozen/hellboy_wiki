@@ -16,7 +16,7 @@
 
 地狱男爵与亚伯·塞皮恩重聚；与此同时，众魔云集纽约，企图奴役人类仅存的一切。
 
-本期是探员卡斯珀·莫罗（Casper Morrow）在漫画中的首次登场。他此前曾出现在散文短篇《应许的微笑》（*The Promised Smile*，收录于《[B.P.R.D.：恐怖杂烩](/entry/Hellboy:_An_Assortment_of_Horrors)》）中。
+本期是探员卡斯珀·莫罗（Casper Morrow）在漫画中的首次登场。他此前曾出现在散文短篇《应许的微笑》（*The Promised Smile*，收录于《[B.P.R.D.：恐怖杂烩](/entry/Hellboy__An_Assortment_of_Horrors)》）中。
 
 ### 第三部
 

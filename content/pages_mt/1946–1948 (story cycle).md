@@ -6,7 +6,7 @@
 
 - *[1946](/entry/1946)* #1–5（2008 年 1 月–5 月）
 - *[《奥莱克主教的魔鬼》（Bishop Olek's Devil）](/entry/Bishop_Olek%27s_Devil)*（2008 年 5 月）
-- *[《我在那里会找到什么？》（And What Shall I Find There?）](/entry/And_What_Shall_I_Find_There%3F)*（2009 年 6 月）
+- *[《我在那里会找到什么？》（And What Shall I Find There?）](/entry/And_What_Shall_I_Find_There)*（2009 年 6 月）
 - *[1947](/entry/1947)* #1–5（2009 年 7 月–11 月）
 - *[1948](/entry/1948)* #1–5（2012 年 10 月 – 2013 年 2 月）
 

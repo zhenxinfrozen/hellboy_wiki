@@ -3,7 +3,7 @@
 ## 趣闻
 
 - Kesy 是继 [Ron Perlman](/entry/Ron_Perlman) 和 [David Harbour](/entry/David_Harbour) 之后，第三位在真人影视中饰演地狱男爵的演员。
-- 他此前曾在电视剧 *《血族》*（*The Strain*）中饰演加布里埃尔·博利瓦尔（Gabriel Bolivar）/血祖（The Master），该剧由 [Guillermo del Toro](/entry/Guillermo_del_Toro) 联合编剧并执导，而他正是电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 与 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 的导演。
+- 他此前曾在电视剧 *《血族》*（*The Strain*）中饰演加布里埃尔·博利瓦尔（Gabriel Bolivar）/血祖（The Master），该剧由 [Guillermo del Toro](/entry/Guillermo_del_Toro) 联合编剧并执导，而他正是电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 与 *[《地狱男爵2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 的导演。
 
 ## 外部链接
 

@@ -2,7 +2,7 @@
 
 They are not as old as the giants, and warred with them in the past.
 
-In the novel [The God Machine](/entry/Hellboy%3A_The_God_Machine) Hellboy encountered the fae folk known as the Graken Spriggin.
+In the novel [The God Machine](/entry/Hellboy__The_God_Machine) Hellboy encountered the fae folk known as the Graken Spriggin.
 
 ## History
 

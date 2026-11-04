@@ -6,7 +6,7 @@
 
 At the climax of the Ragnarok, Thor stood at the battlefield with the rest of his kin against the enemies of his kind. He fought to the death against [Jormungand](/entry/Jormungand).
 
-### *[The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants)*
+### *[The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)*
 
 Thor's body would eventually be buried in the wilds near Stockholm. It was discovered by a fisherman after a landslide uncovered his body.
 
@@ -28,4 +28,4 @@ During Hellboy's confrontation with Nimue, three witches mistook him for Thor du
 
 ## References
 
-[1] *[Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants)*
+[1] *[Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)*

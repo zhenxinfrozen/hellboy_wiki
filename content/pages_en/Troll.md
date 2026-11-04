@@ -1,6 +1,6 @@
 ![](/content/images/Troll2.png)
 
-**Trolls** are a mythical creature that appears in both Hellboy comics and [Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army).
+**Trolls** are a mythical creature that appears in both Hellboy comics and [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 
 ## In the Comics
 
@@ -8,6 +8,6 @@ Trolls are a species of large, brutish humanoids, Trolls are hinted at being par
 
 ## Hellboy II: The Golden Army
 
-**Trolls** are a type of magical creature featured in *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)*. There are many types of trolls with a variety of languages. Specific types include [Cave Trolls](/entry/Cave_Troll) (like [Mr. Wink](/entry/Mr._Wink)), Cronie Trolls and [Fragglewumps](/entry/Fragglewump). Trolls fought in the original war against the [Humans](/entry/Human). Some trolls shopped in [the Troll Market](/entry/The_Troll_Market), which was located under Brooklyn Bridge and was kept secret from others.
+**Trolls** are a type of magical creature featured in *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)*. There are many types of trolls with a variety of languages. Specific types include [Cave Trolls](/entry/Cave_Troll) (like [Mr. Wink](/entry/Mr._Wink)), Cronie Trolls and [Fragglewumps](/entry/Fragglewump). Trolls fought in the original war against the [Humans](/entry/Human). Some trolls shopped in [the Troll Market](/entry/The_Troll_Market), which was located under Brooklyn Bridge and was kept secret from others.
 
 ## Gallery

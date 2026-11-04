@@ -51,7 +51,7 @@ Frank 遇到了地狱男爵，这位超自然调查员正在岛上另一处考�
 
 ## 注释
 
-1.  [↑](#cite_ref-1) 这个故事从未被任何 *《地狱男爵》* 合集再版。*[《地狱男爵指南》](/entry/Hellboy%3A_The_Companion)* 所给出的时间线中，也完全没有提及“爆炸者来了！”出版当年（1995 年）发生的任何事件。
+1.  [↑](#cite_ref-1) 这个故事从未被任何 *《地狱男爵》* 合集再版。*[《地狱男爵指南》](/entry/Hellboy__The_Companion)* 所给出的时间线中，也完全没有提及“爆炸者来了！”出版当年（1995 年）发生的任何事件。
 2.  [↑](#cite_ref-2) https://www.keycollectorcomics.com/issue/dark-horse-insider-1-27,313129/
 
 ## 外部链接

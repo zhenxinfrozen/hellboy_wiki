@@ -4,7 +4,7 @@
 
 ### 封面画师
 
-- [《Hellboy: Weird Tales \#2》](/entry/Hellboy%3A_Weird_Tales)
+- [《Hellboy: Weird Tales \#2》](/entry/Hellboy__Weird_Tales)
 
 ### 内页画师
 

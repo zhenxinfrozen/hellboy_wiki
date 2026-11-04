@@ -2,7 +2,7 @@
 
 ## Cast
 
-[Ron Perlman](/entry/Ron_Perlman), [Selma Blair](/entry/Selma_Blair), and [John Hurt](/entry/John_Hurt), who played [Hellboy](/entry/Hellboy_%28character%29), [Liz Sherman](/entry/Elizabeth_Sherman) and [Professor Trevor Bruttenholm](/entry/Trevor_Bruttenholm) in the [2004](/entry/Hellboy_%28film%29) and [2008](/entry/Hellboy_II%3A_The_Golden_Army) live-action films, reprise their roles for the *Hellboy Animated* versions of the characters. [Abe Sapien](/entry/Abraham_Sapien) is voiced by [Doug Jones](/entry/Doug_Jones), who played Abe in the live-action films. These films mark the first time he provided the voice of Abe. ([David Hyde Pierce](/entry/David_Hyde_Pierce) provided the vocal performance for Abe in the first live-action film.)
+[Ron Perlman](/entry/Ron_Perlman), [Selma Blair](/entry/Selma_Blair), and [John Hurt](/entry/John_Hurt), who played [Hellboy](/entry/Hellboy_%28character%29), [Liz Sherman](/entry/Elizabeth_Sherman) and [Professor Trevor Bruttenholm](/entry/Trevor_Bruttenholm) in the [2004](/entry/Hellboy_%28film%29) and [2008](/entry/Hellboy_II__The_Golden_Army) live-action films, reprise their roles for the *Hellboy Animated* versions of the characters. [Abe Sapien](/entry/Abraham_Sapien) is voiced by [Doug Jones](/entry/Doug_Jones), who played Abe in the live-action films. These films mark the first time he provided the voice of Abe. ([David Hyde Pierce](/entry/David_Hyde_Pierce) provided the vocal performance for Abe in the first live-action film.)
 
 - Ron Perlman as Hellboy
 - Selma Blair as Liz Sherman
@@ -28,7 +28,7 @@ The *Hellboy Animated: Blood & Iron* DVD also includes a bonus short film, based
 
 The abandoned third film. It was to be the debut of [Lobster Johnson](/entry/The_Lobster) in the series, though it was to primarily feature Hellboy and Kate.
 
-On March 19, 2008, a message was posted on the *Hellboy Animated* site by producer Tad Stones stating that no work is being done on this film. However, Stones also wrote that some smaller animated projects may be done for internet release, and hinted that the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army)* may affect the future of the animated film series.
+On March 19, 2008, a message was posted on the *Hellboy Animated* site by producer Tad Stones stating that no work is being done on this film. However, Stones also wrote that some smaller animated projects may be done for internet release, and hinted that the release of *[Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army)* may affect the future of the animated film series.
 
 All work on *The Phantom Claw* has since been suspended indefinitely.
 

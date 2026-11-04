@@ -6,7 +6,7 @@
 
 从短篇故事《[重生（Born Again）](/entry/Born_Again)》开始，[约翰·阿库迪（John Arcudi）](/entry/John_Arcudi)加入 B.P.R.D. 担任该系列的联合编剧，此后大部分剧本都由他撰写，而迈克·米格诺拉则更多地专注于"大局"层面的工作。
 
-2010 年，该系列开启了第二个主要故事周期《[人间地狱（Hell on Earth）](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))》，随之而来的是标志的更换和标题的延长。2011 年，盖伊·戴维斯从长期主笔画师的位置上退休，将接力棒交给了[泰勒·克鲁克（Tyler Crook）](/entry/Tyler_Crook)。在这个周期的创作过程中，克鲁克成为包括[詹姆斯·哈伦（James Harren）](/entry/James_Harren)和[劳伦斯·坎贝尔（Laurence Campbell）](/entry/Laurence_Campbell)在内的多名轮值画师之一。
+2010 年，该系列开启了第二个主要故事周期《[人间地狱（Hell on Earth）](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))》，随之而来的是标志的更换和标题的延长。2011 年，盖伊·戴维斯从长期主笔画师的位置上退休，将接力棒交给了[泰勒·克鲁克（Tyler Crook）](/entry/Tyler_Crook)。在这个周期的创作过程中，克鲁克成为包括[詹姆斯·哈伦（James Harren）](/entry/James_Harren)和[劳伦斯·坎贝尔（Laurence Campbell）](/entry/Laurence_Campbell)在内的多名轮值画师之一。
 
 2015 年末，官方宣布约翰·阿库迪将离开 B.P.R.D. 主刊，"人间地狱"传奇的最终故事《[时辰将至（Cometh the Hour）](/entry/Cometh_the_Hour)》将是他的收官之作。不过，阿库迪仍继续为[龙虾人约翰逊（Lobster Johnson）系列](/entry/Lobster_Johnson)供稿。
 
@@ -22,7 +22,7 @@ B.P.R.D. 涵盖的故事范围广泛。与其他《地狱男爵》衍生作不�
 
 这个故事周期是 2002 年至 2010 年间的主要长线剧情。在[合集版（omnibus editions）](/entry/Omnibus_Editions)中收录时，被追授了《蛙疫》的标题。它主要讲述 B.P.R.D. 与[青蛙怪物](/entry/Frog_monster)、地下种族以及[梅姆南·萨（Memnan Saa）](/entry/Memnan_Saa)之间的冲突。
 
-### [《人间地狱》周期](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
+### [《人间地狱》周期](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))
 
 *另见：[**B.P.R.D.: Hell on Earth** 故事列表](/entry/%3ACategory%3AB.P.R.D.%3A_Hell_on_Earth_story)*
 
@@ -245,7 +245,7 @@ B.P.R.D. 涵盖的故事范围广泛。与其他《地狱男爵》衍生作不�
 
 *另见 [B.P.R.D. 合集版](/entry/Omnibus_Editions)*
 
-[《蛙疫》周期](/entry/Plague_of_Frogs_%28story_cycle%29)、[《1946–1948》](/entry/1946%E2%80%931948_%28story_cycle%29)、[《人间地狱》周期](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))以及《[你所知的恶魔》周期](/entry/The_Devil_You_Know_%28story_cycle%29)均已推出合集版。故事《[伤亡（Casualties）](/entry/Casualties)》被收录为[亚伯·塞皮恩（Abe Sapien）系列](/entry/Abe_Sapien_%28series%29)的一部分。《[亡者不忘](/entry/The_Dead_Remembered)》和《[灵质人](/entry/The_Ectoplasmic_Man)》两个故事未被收录进任何合集版。
+[《蛙疫》周期](/entry/Plague_of_Frogs_%28story_cycle%29)、[《1946–1948》](/entry/1946%E2%80%931948_%28story_cycle%29)、[《人间地狱》周期](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))以及《[你所知的恶魔》周期](/entry/The_Devil_You_Know_%28story_cycle%29)均已推出合集版。故事《[伤亡（Casualties）](/entry/Casualties)》被收录为[亚伯·塞皮恩（Abe Sapien）系列](/entry/Abe_Sapien_%28series%29)的一部分。《[亡者不忘](/entry/The_Dead_Remembered)》和《[灵质人](/entry/The_Ectoplasmic_Man)》两个故事未被收录进任何合集版。
 
 ## 参考资料
 

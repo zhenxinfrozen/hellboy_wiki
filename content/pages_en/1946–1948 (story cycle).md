@@ -6,7 +6,7 @@
 
 - *[1946](/entry/1946)* \#1–5 (January–May 2008)
 - *[Bishop Olek's Devil](/entry/Bishop_Olek%27s_Devil)* (May 2008)
-- *[And What Shall I Find There?](/entry/And_What_Shall_I_Find_There%3F)* (June 2009)
+- *[And What Shall I Find There?](/entry/And_What_Shall_I_Find_There)* (June 2009)
 - *[1947](/entry/1947)* \#1–5 (July–November 2009)
 - *[1948](/entry/1948)* \#1–5 (October 2012 – February 2013)
 

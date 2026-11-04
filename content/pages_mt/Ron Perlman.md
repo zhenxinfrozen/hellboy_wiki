@@ -1,4 +1,4 @@
-**Ron Perlman**（生于 1950 年）是饰演[地狱男爵](/entry/Hellboy_(character))的美国演员。他在 2004 年的电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 和 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II%3A_The_Golden_Army)* 中出演了这一角色。他还在地狱男爵系列动画电影《幻影之爪》、*[《铁鞋》](/entry/Iron_Shoes_(film))*、《血与铁》和《风暴之剑》中为该角色配音。此外，他也在电子游戏[《地狱男爵：恶魔科学》](/entry/Hellboy%3A_The_Science_of_Evil)中为地狱男爵配音。
+**Ron Perlman**（生于 1950 年）是饰演[地狱男爵](/entry/Hellboy_(character))的美国演员。他在 2004 年的电影 *[《地狱男爵》](/entry/Hellboy_(2004_film))* 和 *[《地狱男爵 2：黄金军团》](/entry/Hellboy_II__The_Golden_Army)* 中出演了这一角色。他还在地狱男爵系列动画电影《幻影之爪》、*[《铁鞋》](/entry/Iron_Shoes_(film))*、《血与铁》和《风暴之剑》中为该角色配音。此外，他也在电子游戏[《地狱男爵：恶魔科学》](/entry/Hellboy__The_Science_of_Evil)中为地狱男爵配音。
 
 ## 其他知名角色
 

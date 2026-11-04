@@ -1,4 +1,4 @@
-**Doug Jones**（1960 年 5 月 24 日生）是美国演员。他饰演了 [鱼人亚伯（Abe Sapien）](/entry/Abe_Sapien)：在 *[《地狱男爵》（Hellboy）](/entry/Hellboy_%28film%29)* 中该角色由 *[David Hyde Pierce](/entry/David_Hyde_Pierce)* 配音；而在 *[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II%3A_The_Golden_Army)* 中则由他本人配音。他还在动画长片 *[《铁血与惊魂》（Blood and Iron）](/entry/Blood_and_Iron)*、*[《风暴之剑》（Sword of Storms）](/entry/Sword_of_Storms)* 以及电子游戏《地狱男爵：邪恶的科学》（[Hellboy: The Science of Evil](/entry/Hellboy%3A_The_Science_of_Evil)）中为该角色配音。
+**Doug Jones**（1960 年 5 月 24 日生）是美国演员。他饰演了 [鱼人亚伯（Abe Sapien）](/entry/Abe_Sapien)：在 *[《地狱男爵》（Hellboy）](/entry/Hellboy_%28film%29)* 中该角色由 *[David Hyde Pierce](/entry/David_Hyde_Pierce)* 配音；而在 *[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II__The_Golden_Army)* 中则由他本人配音。他还在动画长片 *[《铁血与惊魂》（Blood and Iron）](/entry/Blood_and_Iron)*、*[《风暴之剑》（Sword of Storms）](/entry/Sword_of_Storms)* 以及电子游戏《地狱男爵：邪恶的科学》（[Hellboy: The Science of Evil](/entry/Hellboy__The_Science_of_Evil)）中为该角色配音。
 
 在《地狱男爵 2：黄金军团》中，他还饰演了死亡天使（Angel of Death）和侍从官（Chamberlain）。
 

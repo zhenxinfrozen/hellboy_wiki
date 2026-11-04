@@ -4,6 +4,6 @@
 
 ### Pin-up Artist
 
-- *Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen* in *[Hellboy: Weird Tales \#1](/entry/Hellboy%3A%20Weird%20Tales)*
+- *Sugar Coated Wire feat. Dr. Karl Ruprect Kroenen* in *[Hellboy: Weird Tales \#1](/entry/Hellboy__Weird_Tales)*
 
 **Ellingson, TyRuben**

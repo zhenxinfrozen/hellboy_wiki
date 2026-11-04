@@ -10,4 +10,4 @@ Jan-Olaf lived by himself outside of Skellesvall, Finland. He was a local that m
 
 **Category:Characters** **Category:Humans**
 
-[1] [Hellboy: The Bones of Giants](/entry/Hellboy%3A%20The%20Bones%20of%20Giants)
+[1] [Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants)

@@ -22,7 +22,7 @@
 
 ## 非正典故事
 
-### [《地狱男爵：在人间如在地狱》](/entry/Hellboy%3A_On_Earth_as_it_is_in_Hell)
+### [《地狱男爵：在人间如在地狱》](/entry/Hellboy__On_Earth_as_it_is_in_Hell)
 
 ***注意：**以下信息不属于正典。*
 

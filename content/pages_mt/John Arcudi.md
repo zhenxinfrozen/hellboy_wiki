@@ -81,7 +81,7 @@ Arcudi 还撰写了：
 - [《鱼人亚伯：潜意识》（Abe Sapien: Subconscious）](/entry/Subconscious)
 - [《地狱男爵与 B.P.R.D.：1952》（Hellboy and the B.P.R.D.: 1952）](/entry/1952)
 - [《绯红莲花》（Crimson Lotus）](/entry/Crimson_Lotus_%28story%29)
-- [《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)（不属于正史）
+- [《鱼人亚伯：B.P.R.D. 之星》（Abe Sapien: Star of the B.P.R.D.）](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)（不属于正史）
 
 ## 外部链接
 

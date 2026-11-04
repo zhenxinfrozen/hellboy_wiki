@@ -4,12 +4,12 @@
 
 ### Colorist
 
-- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)* (out of continuity)
+- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)* (out of continuity)
 
 ### Interior Artist
 
-- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)* (out of continuity)
+- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)* (out of continuity)
 
 ### Letterer
 
-- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien%3A_Star_of_the_B.P.R.D.)* (out of continuity)
+- *[Abe Sapien: Star of the B.P.R.D.](/entry/Abe_Sapien__Star_of_the_B.P.R.D.)* (out of continuity)

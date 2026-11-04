@@ -30,7 +30,7 @@
 - [*《地狱男爵在地狱：三条金鞭》（The Three Gold Whips）*](/entry/The_Three_Gold_Whips)
 - [迈克·米格诺拉的 *《地狱男爵》*](/entry/World%27s_Greatest_Paranormal_Investigator_%28SDCC%29)
 - [迈克·米格诺拉的 *《地狱男爵：世界上最伟大的超自然调查员》*](/entry/World%27s_Greatest_Paranormal_Investigator_%28CBG%29)
-- 《信念》（*Faith*），节选自约翰·伯恩的 [*《Next Men》* #21](/entry/Next_Men%3A_Faith_%E2%80%93_Part_3)
+- 《信念》（*Faith*），节选自约翰·伯恩的 [*《Next Men》* #21](/entry/Next_Men__Faith_%E2%80%93_Part_3)
 - *[《尸体》（The Corpse）](/entry/The_Corpse)*
 - [*《食尸鬼》（The Ghoul），又名《关于死亡与蠕虫之诗的沉思》*](/entry/The_Ghoul)
 - [*《巨魔女巫》（The Troll-Witch）*](/entry/The_Troll_Witch)

@@ -1,7 +1,7 @@
 ![Crown.jpg](/content/images/Crown.jpg)
 Prince <a href="Nuada" title="wikilink">Nuada</a> wearing the Crown
 
-The **Crown of Bethmora** is a relic that was featured in [Hellboy II: The Golden Army](/entry/Hellboy%20II%3A%20The%20Golden%20Army).
+The **Crown of Bethmora** is a relic that was featured in [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 
 ## Background
 

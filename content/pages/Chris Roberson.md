@@ -24,8 +24,8 @@ Roberson was originally hired to write *[Witchfinder: City of the Dead](/entry/C
 - [*B.P.R.D. Hell on Earth: The Exorcist*](/entry/The%20Exorcist)
 - *[Rise of the Black Flame](/entry/Rise%20of%20the%20Black%20Flame)*
 - *[God Rest Ye Merry](/entry/God%20Rest%20Ye%20Merry)*
-- *[The Visitor: How & Why He Stayed](/entry/The%20Visitor%3A%20How%20%26%20Why%20He%20Stayed)*
-- *[Rasputin: The Voice of the Dragon](/entry/Rasputin%3A%20The%20Voice%20of%20the%20Dragon)*
+- *[The Visitor: How & Why He Stayed](/entry/The_Visitor__How_%26_Why_He_Stayed)*
+- *[Rasputin: The Voice of the Dragon](/entry/Rasputin__The_Voice_of_the_Dragon)*
 
 ## External Links
 

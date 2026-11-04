@@ -1,4 +1,4 @@
-The **Nurse** is a fictional character from the *[Hellboy: Dogs of the Night](/entry/Hellboy%3A_Dogs_of_the_Night)* game. She fight using her truncheon.
+The **Nurse** is a fictional character from the *[Hellboy: Dogs of the Night](/entry/Hellboy__Dogs_of_the_Night)* game. She fight using her truncheon.
 
 ## History
 

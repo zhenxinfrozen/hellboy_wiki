@@ -1,4 +1,4 @@
-***《Hot》***是一篇非正史故事，发表于 *[《地狱男爵：怪谈集》第 2 期（Hellboy: Weird Tales \#2）](/entry/Hellboy%3A_Weird_Tales)*，编剧为 [Randy Stradley](/entry/Randy_Stradley)，作画为 [Seung Kim](/entry/Seung_Kim)。
+***《Hot》***是一篇非正史故事，发表于 *[《地狱男爵：怪谈集》第 2 期（Hellboy: Weird Tales \#2）](/entry/Hellboy__Weird_Tales)*，编剧为 [Randy Stradley](/entry/Randy_Stradley)，作画为 [Seung Kim](/entry/Seung_Kim)。
 
 ## 剧情简介
 

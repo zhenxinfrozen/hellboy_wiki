@@ -10,7 +10,7 @@ In 1947, a young [Hellboy](/entry/Hellboy_%28character%29) is called in for brea
 
 ## Story Chronology
 
-This story takes place on May 12, 1947, according to the timeline in *[Hellboy: The Companion](/entry/Hellboy%3A_The_Companion)*.
+This story takes place on May 12, 1947, according to the timeline in *[Hellboy: The Companion](/entry/Hellboy__The_Companion)*.
 
 Hellboy asks for pancakes again in [*B.P.R.D.: 1947* \#4](/entry/1947), indicating that story takes place afte*r Pancakes*.
 

@@ -1,4 +1,4 @@
-***Toy Soldier*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy%3A_Weird_Tales)*, written by Akira Yoshida and [Kia Asamiya](/entry/Kia_Asamiya) with Asamiya also providing the art.
+***Toy Soldier*** is a non-canonical story published in *[Hellboy: Weird Tales \#8](/entry/Hellboy__Weird_Tales)*, written by Akira Yoshida and [Kia Asamiya](/entry/Kia_Asamiya) with Asamiya also providing the art.
 
 ## Plot Synopsis
 

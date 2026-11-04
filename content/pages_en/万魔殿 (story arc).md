@@ -16,7 +16,7 @@ Hellboy is back on earth, and the [B.P.R.D.](/entry/Bureau_for_Paranormal_Resear
 
 Hellboy reunites with Abe Sapien as demons gather in New York to enslave all that remains of mankind.
 
-This issue is the first appearance of Agent Casper Morrow in the comics. He previously appeared in the prose short story [*The Promised Smile*](/entry/Hellboy%3A_An_Assortment_of_Horrors).
+This issue is the first appearance of Agent Casper Morrow in the comics. He previously appeared in the prose short story [*The Promised Smile*](/entry/Hellboy__An_Assortment_of_Horrors).
 
 ### Part Three
 

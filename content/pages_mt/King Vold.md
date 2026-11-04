@@ -14,13 +14,13 @@
 
 ## 故事年表
 
-故事发生在1956年。一个方框中还写道，Trevor Bruttenholm 于1946年收养了地狱男爵，地狱男爵于1952年成为[B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense)的外勤探员。《[B.P.R.D.：1946](/entry/1946)》的事件发生在收养后不久。[1] 地狱男爵1952年开始担任外勤探员一事在《[圣奥古斯丁的狼群](/entry/The_Wolves_of_Saint_August)》、《[“你好，我叫地狱男爵”](/entry/%22Hi%2C_My_Name%27s_Hellboy%22)》和《[毁灭右手](/entry/The_Right_Hand_of_Doom)》中也有提及。
+故事发生在1956年。一个方框中还写道，Trevor Bruttenholm 于1946年收养了地狱男爵，地狱男爵于1952年成为[B.P.R.D.](/entry/Bureau_for_Paranormal_Research_and_Defense)的外勤探员。《[B.P.R.D.：1946](/entry/1946)》的事件发生在收养后不久。[1] 地狱男爵1952年开始担任外勤探员一事在《[圣奥古斯丁的狼群](/entry/The_Wolves_of_Saint_August)》、《[“你好，我叫地狱男爵”](/entry/Hi%2C_My_Name%27s_Hellboy)》和《[毁灭右手](/entry/The_Right_Hand_of_Doom)》中也有提及。
 
 ## 与其他故事的关联
 
 - 沃尔德王的名字在[《地狱男爵：大捕猎》第7期](/entry/The_Wild_Hunt)中被提及。
-- 沃尔德王的传说由 [Kate Corrigan](/entry/Kate_Corrigan) 在动画电影《[地狱男爵：风暴之剑](/entry/Hellboy%3A_Sword_of_Storms)》中讲述。传说的细节相同。不过在电影中负责调查的是 Kate，而不是地狱男爵；而且她去的是布拉格，不是挪威。
-- 在《[地狱男爵：巨人之骨](/entry/Hellboy%3A_The_Bones_of_Giants_%28prose_novel%29)》中，地狱男爵在斯德哥尔摩再次遇到 Aickmann 教授时，提到了自己与沃尔德王的遭遇。
+- 沃尔德王的传说由 [Kate Corrigan](/entry/Kate_Corrigan) 在动画电影《[地狱男爵：风暴之剑](/entry/Hellboy__Sword_of_Storms)》中讲述。传说的细节相同。不过在电影中负责调查的是 Kate，而不是地狱男爵；而且她去的是布拉格，不是挪威。
+- 在《[地狱男爵：巨人之骨](/entry/Hellboy__The_Bones_of_Giants_%28prose_novel%29)》中，地狱男爵在斯德哥尔摩再次遇到 Aickmann 教授时，提到了自己与沃尔德王的遭遇。
 
 ## 内容
 

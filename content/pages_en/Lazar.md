@@ -2,7 +2,7 @@
 
 ## *[Russia](/entry/Russia)*
 
-Lazar is first seen in the *[B.P.R.D.: Hell on Earth](/entry/BPRD%3A%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))* arc *[Russia](/entry/Russia)*. He is part of a crew of scientists studying former S.S.S. Commander of Esoteric Teachings Division, Nicholas Verlacz, a medium who had been possessed by the spirit of an [Ogdru Hem](/entry/Ogdru_Hem). Lazar and his fellow scientists were unhappy with their treatment by S.S.S. Director [Iosif Nichayko](/entry/Iosif_Nichayko). After Nichayko killed the possessed Verlacz, Lazar and the others began to plan some sort of rebellion against Nichayko and agreed to meet later in an isolated farmhouse somewhere in the Russian countryside.
+Lazar is first seen in the *[B.P.R.D.: Hell on Earth](/entry/BPRD%3F%E4%BA%BA%E9%97%B4%E5%9C%B0%E7%8B%B1))* arc *[Russia](/entry/Russia)*. He is part of a crew of scientists studying former S.S.S. Commander of Esoteric Teachings Division, Nicholas Verlacz, a medium who had been possessed by the spirit of an [Ogdru Hem](/entry/Ogdru_Hem). Lazar and his fellow scientists were unhappy with their treatment by S.S.S. Director [Iosif Nichayko](/entry/Iosif_Nichayko). After Nichayko killed the possessed Verlacz, Lazar and the others began to plan some sort of rebellion against Nichayko and agreed to meet later in an isolated farmhouse somewhere in the Russian countryside.
 
 Fortunately for Lazar, his car broke down on his way to the meeting. He arrived in time to see Nichayko exiting the burning farmhouse after executing Lazar's colleagues. The scientists apparently had some sort of loyalty or tie to the imprisoned demon and former S.S.S. Director [Varvara](/entry/Varvara). They were also revealed to be infected by Ogdru spirits.
 

@@ -14,5 +14,5 @@ The Dwarves aided Hellboy and his allies in seeking out Thyrm and preventing the
 
 ## Appearances
 
-- [Hellboy: The Bones of Giants](/entry/Hellboy%3A_The_Bones_of_Giants_(prose_novel))
+- [Hellboy: The Bones of Giants](/entry/Hellboy__The_Bones_of_Giants_(prose_novel))
 - [The Bones of Giants](/entry/The_Bones_of_Giants_(comic_miniseries))

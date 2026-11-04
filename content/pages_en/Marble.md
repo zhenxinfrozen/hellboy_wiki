@@ -1,4 +1,4 @@
-**Agent Marble** was a field agent for the BPRD who appeared in [Hellboy II: The Golden Army](/entry/Hellboy_II%3A_The_Golden_Army).
+**Agent Marble** was a field agent for the BPRD who appeared in [Hellboy II: The Golden Army](/entry/Hellboy_II__The_Golden_Army).
 
 ## Biography
 

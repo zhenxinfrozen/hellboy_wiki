@@ -1,4 +1,4 @@
-《**死胎**》（Still Born）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #3](/entry/Hellboy%3A_Weird_Tales)》，由 [Matt Hollingsworth](/entry/Matt_Hollingsworth) 和 [Alex Maleev](/entry/Alex_Maleev) 编剧，[Alex Maleev](/entry/Alex_Maleev) 作画。
+《**死胎**》（Still Born）是一个非正史故事，发表于《[地狱男爵：奇闻异事 #3](/entry/Hellboy__Weird_Tales)》，由 [Matt Hollingsworth](/entry/Matt_Hollingsworth) 和 [Alex Maleev](/entry/Alex_Maleev) 编剧，[Alex Maleev](/entry/Alex_Maleev) 作画。
 
 ## 剧情简介
 

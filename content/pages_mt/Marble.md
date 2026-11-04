@@ -1,4 +1,4 @@
-**马布尔探员（Agent Marble）**是超自然调查防御署的一名外勤探员，登场于[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II%3A_The_Golden_Army)。
+**马布尔探员（Agent Marble）**是超自然调查防御署的一名外勤探员，登场于[《地狱男爵 2：黄金军团》（Hellboy II: The Golden Army）](/entry/Hellboy_II__The_Golden_Army)。
 
 ## 生平
 

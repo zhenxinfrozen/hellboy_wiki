@@ -1,4 +1,4 @@
-***Midnight Cowboy*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy%3A%20Weird%20Tales)*, with story and art by [Eric Powell](/entry/Eric%20Powell).
+***Midnight Cowboy*** was a non-canonical story published in *[Hellboy: Weird Tales \#2](/entry/Hellboy__Weird_Tales)*, with story and art by [Eric Powell](/entry/Eric%20Powell).
 
 ## Plot Synopsis
 

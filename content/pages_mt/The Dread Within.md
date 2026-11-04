@@ -1,4 +1,4 @@
-《**内心的恐惧**》（The Dread Within）是一个非正史故事，发表于[《地狱男爵：奇闻异事》#4](/entry/Hellboy%3A_Weird_Tales)。[Jason Pearson](/entry/Jason_Pearson) 同时担任该故事的编剧与作画。
+《**内心的恐惧**》（The Dread Within）是一个非正史故事，发表于[《地狱男爵：奇闻异事》#4](/entry/Hellboy__Weird_Tales)。[Jason Pearson](/entry/Jason_Pearson) 同时担任该故事的编剧与作画。
 
 ## 剧情简介
 
