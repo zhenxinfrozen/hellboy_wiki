@@ -56,6 +56,73 @@ function admin_head(string $title, string $cur = ''): void {
     ]);
 ?>
 <style>
+/* ============ Hellboy Wiki 通用表格与控件补齐 ============ */
+table.grid {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    background: #fff;
+    border: 1px solid var(--border-color, #cdd6e0);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    margin-bottom: 24px;
+}
+table.grid th, table.grid td {
+    border-bottom: 1px solid var(--border-light, #e2e8f0);
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 13.5px;
+    vertical-align: middle;
+}
+table.grid th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #1f2b3a;
+}
+table.grid tr:last-child td { border-bottom: 0; }
+table.grid tbody tr:hover { background: #f8fbff; }
+
+.pill {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 20px;
+    background: #eef2f7;
+    font-size: 12px;
+    color: #6b7480;
+    font-weight: 500;
+    text-decoration: none;
+    line-height: 1.5;
+    transition: all 0.15s ease;
+}
+.pill:hover { background: #e2e8f0; color: #1f2b3a; }
+.pill.ok { background: #e7f6ee; color: #1a7f4b; }
+.pill.warn { background: #fdf1e3; color: #b25e09; }
+.pill.err { background: #fdecea; color: #c0392b; }
+.muted { color: #6b7480 !important; }
+
+.btn.sec { background: #eef2f7; color: #1f2b3a; box-shadow: none; }
+.btn.sec:hover { background: #e2e8f0; }
+.btn.danger { background: #c0392b; color: #fff; }
+.btn.ghost { background: transparent; color: #6b7480; box-shadow: none; }
+.btn.ghost:hover { background: #eef2f7; color: #1f2b3a; }
+
+input[type=text], input[type=password], input[type=search], input[type=url], input[type=date], select, textarea {
+    font: inherit;
+    padding: 8px 12px;
+    border: 1px solid #cdd6e0;
+    border-radius: 8px;
+    width: 100%;
+    background: #fff;
+    color: #1f2b3a;
+    transition: border-color .15s, box-shadow .15s;
+}
+input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: #0073aa;
+    box-shadow: 0 0 0 3px rgba(0, 115, 170, 0.12);
+}
+
 /* ============ Hellboy Wiki 专属：条目编辑器与弹窗样式 ============ */
 .tabs{display:flex;gap:4px;margin:0 0 0}
 .tabs a{padding:8px 16px;border:1px solid var(--border-color);border-bottom:0;border-radius:9px 9px 0 0;background:#f3f6fa;font-size:13.5px}
